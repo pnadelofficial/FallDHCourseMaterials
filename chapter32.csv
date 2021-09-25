@@ -1,0 +1,1054 @@
+Sentence,Entities
+(10),"('10', 'CARDINAL')"
+(15),"('15', 'CARDINAL')"
+(17),"('17', 'CARDINAL')"
+(51),"('51', 'CARDINAL')"
+(75),"('75', 'CARDINAL')"
+"A
+ disgraceful treaty had resigned Armenia to the ambition of
+ Sapor; and the scale of Persia appeared to preponderate.","('Armenia', 'GPE'), ('Sapor', 'PERSON'), ('Persia', 'GPE')"
+"A bishop and a deacon accused the archbishop of
+ Constantinople; but the frivolous or improbable nature of
+ the forty-seven articles which they presented against him
+ may justly be considered as a fair and unexceptionable
+ panegyric.","('Constantinople', 'GPE'), ('forty-seven', 'CARDINAL')"
+"A cruel and unjust law of treason, A.D. 397, September 4.","('A.D. 397', 'DATE'), ('September 4', 'DATE')"
+"A light and active body of barbarian horse, disengaged
+ from their infantry and baggage, might perform in eight or
+ ten days a march of three hundred miles from the Hellespont
+ to the Danube; (38) the garrisons of that important frontier 
+ had been gradually annihilated; the river in the month of
+ December would be deeply frozen; and the unbounded prospect
+ of Scythia was open to the ambition of Gainas.","('eight or\r\n ten days', 'DATE'), ('three hundred miles', 'QUANTITY'), ('Hellespont', 'LOC'), ('Danube', 'LOC'), ('38', 'CARDINAL'), ('the month of\r\n December', 'DATE'), ('Scythia', 'ORG'), ('Gainas', 'PERSON')"
+"A numerous council of the Eastern prelates, who were guided from a distance by the advice of Theophilus, confirmed the validity, without examining the justice, of the former sentence; and a detachment of barbarian troops was introduced into the city, to suppress the emotions of the people.","('Eastern', 'NORP'), ('Theophilus', 'PERSON')"
+"A private order was 
+ despatched to the governor of Syria; and as the people might
+ be unwilling to resign their favourite preacher, he was
+ transported, with speed and secrecy, in a postchariot, from
+ Antioch to Constantinople.","('Syria', 'GPE'), ('Antioch', 'GPE'), ('Constantinople', 'GPE')"
+"A regular course of study and exercise was
+ judiciously instituted; of the military exercises of riding,
+ and shooting with the bow; of the liberal studies of
+ grammar, rhetoric, and philosophy: the most skilful masters
+ of the East ambitiously solicited the attention of their
+ royal pupil, and several noble youths were introduced into
+ the palace to animate his diligence by the emulation of
+ friendship.","('East', 'LOC')"
+"A seasonable 
+ earthquake justified the interposition of Heaven; the
+ torrent of sedition rolled forwards to the gates of the
+ palace; and the empress, agitated by fear or remorse, threw
+ herself at the feet of Arcadius, and confessed that the
+ public safety could be purchased only by the restoration of
+ Chrysostom.","('Arcadius', 'PERSON'), ('Chrysostom', 'PERSON')"
+"A secret hope was
+ entertained that the archbishop might perish in a difficult
+ and dangerous march of seventy days in the heat of summer,
+ through the provinces of Asia Minor, where he was
+ continually threatened by the hostile attacks of the
+ Isaurians, and the more implacable fury of the monks.","('seventy days', 'DATE'), ('summer', 'DATE'), ('Asia Minor', 'LOC'), ('Isaurians', 'NORP')"
+"A truce of one hundred
+ years was solemnly ratified; and although the revolutions of
+ Armenia might threaten the public tranquillity, the
+ essential conditions of this treaty were respected near
+ four-score years by the successors of Constantine and
+ Artaxerxes.","('one hundred\r\n years', 'DATE'), ('Armenia', 'GPE'), ('four-score years', 'DATE'), ('Constantine', 'PERSON'), ('Artaxerxes', 'ORG')"
+"About thirty years afterwards,
+ Artasires, the nephew and successor of Chosroes, fell under
+ the displeasure of the haughty and capricious nobles of
+ Armenia; and they unanimously desired a Persian governor in
+ the room of an unworthy king.","('About thirty years afterwards', 'DATE'), ('Artasires', 'PERSON'), ('Chosroes', 'PERSON'), ('Armenia', 'GPE'), ('Persian', 'NORP')"
+"Abundantius was stripped of his ample fortunes by an Imperial rescript, and banished to Pityus, on the Euxine, the last frontier of the Roman world; where he subsisted by the precarious mercy of the barbarians till he could obtain, after the fall of Eutropius, a milder exile at Sidon in Phoenicia.","('Abundantius', 'PERSON'), ('Imperial', 'NORP'), ('Pityus', 'NORP'), ('Euxine', 'NORP'), ('Roman', 'NORP'), ('Eutropius', 'EVENT'), ('Sidon', 'GPE'), ('Phoenicia', 'GPE')"
+"Administration and character of Eutropius, A.D. 395-399","('A.D. 395-399', 'DATE')"
+"Administration of Anthemius, A.D. 408-415.","('Administration of Anthemius', 'ORG'), ('408-415', 'CARDINAL')"
+"After a full experience of the vicissitudes of human
+ life, the daughter of the philosopher Leontius expired at
+ Jerusalem, in the sixty-seventh year of her age; protesting
+ with her dying breath that she had never transgressed the
+ bounds of innocence and friendship. (79)","('Leontius', 'PERSON'), ('Jerusalem', 'GPE'), ('the sixty-seventh year', 'DATE')"
+"After claiming for 
+ himself the privilege of a veteran soldier, the eunuch
+ intrusted the guard of Thrace and the Hellespont to Gainas
+ the Goth, and the command of the Asiatic army to his
+ favourite Leo; two generals who differently but effectually
+ promoted the cause of the rebels.","('Thrace', 'PERSON'), ('Hellespont', 'NORP'), ('Gainas\r\n the Goth', 'PERSON'), ('Asiatic', 'NORP'), ('Leo', 'PERSON'), ('two', 'CARDINAL')"
+"After the death of Arsaces, the Romans suppressed
+ the regal government, and imposed on their allies the
+ condition of subjects.","('Arsaces', 'PERSON'), ('Romans', 'NORP')"
+"After the destruction of his hopes and
+ the loss of many thousands of his bravest soldiers, Gainas,
+ who could no longer aspire to govern or to subdue the
+ Romans, determined to resume the independence of a savage
+ life.","('many thousands', 'CARDINAL'), ('Gainas', 'PERSON'), ('Romans', 'NORP')"
+"Although he struggled, according to the precepts of the
+ Gospel, to love his private enemies, he indulged himself in
+ the privilege of hating the enemies of God and of the
+ church; and his sentiments were sometimes delivered with too
+ much energy of countenance and expression.","('Gospel', 'WORK_OF_ART')"
+"Among the generals and consuls of the East, Abundantius (12) had reason to dread the first effects  of the resentment of Eutropius.","('East', 'LOC'), ('Abundantius', 'PERSON'), ('12', 'CARDINAL'), ('first', 'ORDINAL'), ('Eutropius', 'ORG')"
+"An order was despatched for the instant removal of Chrysostom to the extreme desert of Pityus: and his guards so faithfully obeyed their cruel instructions, that, before he reached the seacoast of the Euxine,  His death, A.D. 407, September 14.","('Chrysostom', 'PERSON'), ('Pityus', 'PERSON'), ('Euxine', 'PRODUCT'), ('A.D. 407', 'DATE'), ('September 14', 'DATE')"
+Arcadius Emperor of the East.—,"('Arcadius Emperor of the East.', 'PERSON')"
+"Arcadius and Honorius had been assisted by the guardian care
+ of a parent, whose lessons were enforced by his authority
+ and example.","('Arcadius', 'PERSON'), ('Honorius', 'PERSON')"
+"Arcadius considered, with anxious
+ foresight, the helpless condition of his son Theodosius, who
+ was no more than seven years of age, the dangerous factions
+ of a minority, and the aspiring spirit of Jezdegerd, the
+ Persian monarch.","('Arcadius', 'PERSON'), ('Theodosius', 'PERSON'), ('more than seven years of age', 'DATE'), ('Jezdegerd', 'PERSON'), ('Persian', 'NORP')"
+"Armenia divided between the Persians and the Romans, A.D. 431-440.","('Armenia', 'GPE'), ('Persians', 'NORP'), ('Romans', 'NORP'), ('431-440', 'CARDINAL')"
+Arsacius occupied the church of St. Sophia and the archiepiscopal throne.,"('Arsacius', 'PERSON'), ('St. Sophia', 'FAC')"
+"As long as he despoiled the oppressors who 
+ had enriched themselves with the plunder of the people,
+ Eutropius might gratify his covetous disposition without
+ much envy or injustice: but the progress of his rapine soon
+ invaded the wealth which had been acquired by lawful
+ inheritance or laudable industry.","('Eutropius', 'PERSON')"
+"As soon as 
+ the empress perceived that the affection of Theodosius was
+ irretrievably lost, she requested the permission of retiring
+ to the distant solitude of Jerusalem.","('Theodosius', 'PERSON'), ('Jerusalem', 'GPE')"
+"As soon as they had gained the middle
+ of the stream, the Roman galleys, (37) impelled by the full 
+ force of oars, of the current, and of a favourable wind,
+ rushed forwards in compact order and with irresistible
+ weight, and the Hellespont was covered with the fragments of
+ the Gothic shipwreck.","('Roman', 'NORP'), ('37', 'CARDINAL'), ('Hellespont', 'PRODUCT'), ('Gothic', 'NORP')"
+"At length, in
+ the thirty-first year of his age, after a reign (if we may
+ abuse that word) of thirteen years, three months, and
+ fifteen days, Arcadius expired in the palace of
+ Constantinople.","('the thirty-first year', 'DATE'), ('thirteen years', 'DATE'), ('three months', 'DATE'), ('fifteen days', 'DATE'), ('Arcadius', 'PERSON'), ('Constantinople', 'GPE')"
+"At the distance of one hundred and fifty years, this
+ political question might be debated in the court of
+ Justinian; but a prudent historian will refuse to examine
+ the propriety, till he has ascertained the truth, of the
+ testament of Arcadius.","('one hundred and fifty years', 'DATE'), ('Justinian', 'PERSON'), ('Arcadius', 'PERSON')"
+"At the pious solicitation of the clergy and people of Constantinople,  His relics transported to Constantinople, A.D. 438, January 27 his relics, thirty years after his death, were transported from their obscure sepulchre to the royal city.","('Constantinople', 'GPE'), ('Constantinople', 'GPE'), ('A.D. 438', 'DATE'), ('January 27', 'DATE'), ('thirty years', 'DATE')"
+"Athenais, who
+ was easily persuaded to renounce the errors of Paganism,
+ received at her baptism the Christian name of Eudocia but
+ the cautious Pulcheria withheld the title of Augusta till
+ the wife of Theodosius had approved her fruitfulness by the
+ birth of a daughter, who espoused fifteen years afterwards
+ the emperor of the West.","('Athenais', 'PERSON'), ('Paganism', 'NORP'), ('Christian', 'NORP'), ('Eudocia', 'PERSON'), ('Pulcheria', 'PERSON'), ('Augusta', 'PERSON'), ('Theodosius', 'PERSON'), ('fifteen years', 'DATE'), ('West', 'LOC')"
+"Boldly declaring that vases of gold and silver
+ are useless to a God who neither eats nor drinks, the
+ generous prelate sold the plate of the church of Amida;
+ employed the price in the redemption of seven thousand
+ Persian captives; supplied their wants with affectionate
+ liberality; and dismissed them to their native country, to
+ inform their king of the true spirit of the religion which
+ he persecuted.","('Amida', 'GPE'), ('seven thousand', 'CARDINAL'), ('Persian', 'NORP')"
+"Born of a noble and opulent
+ family in the capital of Syria, Chrysostom had been
+ educated, by the care of a tender mother, under the tuition
+ of the most skilful masters.","('Syria', 'GPE'), ('Chrysostom', 'PERSON')"
+"But
+ the desertion of his confederates, who were privately
+ convinced of the justice and liberality of the Imperial
+ ministers, obliged Uldin to repass the Danube: the tribe of
+ the Scyrri, which composed his rearguard, was almost
+ extirpated; and many thousand captives were dispersed, to
+ cultivate, with servile labour, the fields of Asia. (66)","('Imperial', 'NORP'), ('Uldin', 'PERSON'), ('Danube', 'LOC'), ('Scyrri', 'NORP'), ('many thousand', 'CARDINAL'), ('Asia', 'LOC'), ('66', 'CARDINAL')"
+"But
+ the royal race of Arsaces impatiently submitted to the house
+ of Sassan; the turbulent nobles asserted, or betrayed, their
+ hereditary independence; and the nation was still attached
+ to the Christian princes of Constantinople.","('Arsaces', 'PERSON'), ('Sassan', 'PERSON'), ('Christian', 'NORP'), ('Constantinople', 'GPE')"
+"But Fravitta attentively watched the progress
+ of their undertaking.","('Fravitta', 'PERSON')"
+"But Theodosius (72) was never 
+ excited to support the weight and glory of an illustrious
+ name; and, instead of aspiring to imitate his ancestors, he
+ degenerated (if we may presume to measure the degrees of
+ incapacity) below the weakness of his father and his uncle.","('Theodosius', 'PERSON'), ('72', 'DATE')"
+"But a formidable ally appeared in arms to
+ vindicate the majesty of the empire, and to guard the peace
+ and liberty of Scythia. (39)","('Scythia', 'PERSON'), ('39', 'CARDINAL')"
+"But as
+ the pyramid rose towards the summit, it insensibly
+ diminished to a point; and the magistrates, the ministers,
+ the favourite eunuchs, the ladies of the court, (43) the 
+ empress Eudoxia herself, had a much larger share of guilt to
+ divide among a smaller proportion of criminals.","('43', 'DATE'), ('Eudoxia', 'PERSON')"
+"But as this form of trial might be deemed partial and arbitrary, the further inquiry into the crimes of Timasius was delegated to Saturnius and Procopius; the former of consular rank, the latter still respected as the father-in-law of the emperor Valens.","('Timasius', 'PERSON'), ('Saturnius', 'PERSON'), ('Procopius', 'PERSON'), ('Valens', 'PERSON')"
+"But the Romans had so long been accustomed to the authority of a monarch, that the first, even among the females of the Imperial family, who displayed any courage or capacity, was permitted to ascend the vacant throne of Theodosius.","('Romans', 'NORP'), ('first', 'ORDINAL'), ('Imperial', 'NORP'), ('Theodosius', 'PERSON')"
+"But the unfortunate prince who is born in the
+ purple must remain a stranger to the voice of truth; and the
+ son of Arcadius was condemned to pass his perpetual infancy
+ encompassed only by a servile train of women and eunuchs.","('Arcadius', 'PERSON')"
+"But the ungrateful Bargus, instead of being suffered to possess the reward of guilt, was soon afterwards circumvented and destroyed by the more powerful villainy of the minister himself, who retained sense and spirit enough to abhor the instrument of his own crimes.","('Bargus', 'PERSON')"
+"But the weakness of Honorius, and the
+ calamities of his reign, disqualified him from prosecuting
+ this natural claim; and such was the absolute separation of
+ the two monarchies, both in interest and affection, that
+ Constantinople would have obeyed with less reluctance the
+ orders of the Persian, than those of the Italian court.","('Honorius', 'PERSON'), ('two', 'CARDINAL'), ('Constantinople', 'GPE'), ('Persian', 'NORP'), ('Italian', 'NORP')"
+"But the whole body of Imperial dependents claimed a privilege, or rather impunity, which screened them in the loosest moments of their lives from the hasty, perhaps the justifiable, resentment of their fellow-citizens: and, by a strange perversion of the laws, the same degree of guilt and punishment was applied to a private quarrel and to a deliberate conspiracy against the emperor and the empire.","('Imperial', 'ORG')"
+"But their implacable revenge still envied him the last
+ moments of a miserable life, and Eutropius had no sooner
+ touched the shores of Cyprus than he was hastily recalled.","('Eutropius', 'PERSON'), ('Cyprus', 'GPE')"
+"But this pilgrimage was the fatal term of the glories of
+ Eudocia.","('Eudocia', 'PERSON')"
+"By the private 
+ invitation of the empress, Theophilus landed at
+ Constantinople, with a stout body of Egyptian mariners, to
+ encounter the populace; and a train of dependent bishops, to
+ secure by their voices the majority of a synod.","('Theophilus', 'PERSON'), ('Constantinople', 'GPE'), ('Egyptian', 'NORP')"
+"Careless of the dignity of their 
+ sovereign, the new ministers of the palace immediately
+ published an edict, to declare that his late favourite had
+ disgraced the names of consul and patrician, to abolish his
+ statues, to ,confiscate his wealth, and to inflict a
+ perpetual exile in the island of Cyprus. (31)","('Cyprus', 'GPE'), ('31', 'CARDINAL')"
+"Character and adventures of the empress Eudocia, A.D. 421-460.","('Eudocia', 'PERSON'), ('421-460', 'CARDINAL')"
+"Chosroes, the Persian vassal, reigned over the eastern and most extensive portion of the country; while the western province acknowledged the
+ jurisdiction of Arsaces, and the supremacy of the emperor
+ Arcadius.","('Persian', 'NORP'), ('Arsaces', 'GPE'), ('Arcadius', 'PERSON')"
+"Chrysostom is persecuted by the empress Eudocia, A.D. 403.","('Chrysostom', 'PERSON'), ('Eudocia', 'PERSON'), ('403', 'CARDINAL')"
+Chrysostom was naturally of a choleric disposition. (44),"('Chrysostom', 'PERSON')"
+"Cicero might claim some merit if his voluntary banishment
+ preserved the peace of the republic; (53) but the submission 
+ of a Chrysostom was the indispensable duty of a Christian
+ and a subject.","('Cicero', 'PERSON'), ('53', 'CARDINAL'), ('Chrysostom', 'PERSON'), ('Christian', 'NORP')"
+"Conscious of the
+ purity of his intentions, and perhaps of the superiority of
+ his genius, the archbishop of Constantinople extended the
+ jurisdiction of the Imperial city, that he might enlarge the
+ sphere of his pastoral labours; and the conduct which the
+ profane imputed to an ambitious motive, appeared to
+ Chrysostom himself in the light of a sacred and
+ indispensable duty.","('Constantinople', 'GPE'), ('Imperial', 'NORP'), ('Chrysostom', 'PERSON')"
+"Conspiracy and fall of Gainas, A.D. 400","('Gainas', 'GPE'), ('A.D. 400', 'DATE')"
+December 23.,"('December 23', 'DATE')"
+"During the
+ absence of Gainas his troops were surprised and oppressed;
+ seven thousand barbarians perished in this bloody massacre.","('Gainas', 'PERSON'), ('seven thousand', 'CARDINAL')"
+"Ecclesiastical history describes the splendid churches which were built at the expense of Pulcheria in all the provinces of the East, her charitable foundations for the benefit of strangers and the poor, the ample donations which she assigned for the perpetual maintenance of monastic societies, and the active severity with which she laboured to suppress the opposite heresies of Nestorius and Eutyches.","('Pulcheria', 'LOC'), ('East', 'LOC'), ('Nestorius', 'PERSON'), ('Eutyches', 'PERSON')"
+Education and character of Theodosius the younger.,"('Theodosius', 'PERSON')"
+"Election and merit of Chrysostom, A.D. 398, February 26
+ After the death of the indolent Nectarius, the successor of
+ Gregory Nazianzen, the church of Constantinople was
+ distracted by the ambition of rival candidates, who were not
+ ashamed to solicit, with gold or flattery, the suffrage of
+ the people or of the favourite.","('Chrysostom', 'PERSON'), ('A.D. 398', 'DATE'), ('February 26', 'DATE'), ('Nectarius', 'PERSON'), ('Gregory Nazianzen', 'PERSON'), ('Constantinople', 'GPE')"
+"Eleven days
+ after the naval victory of the Hellespont, the head of
+ Gainas, the inestimable gift of the conqueror, was received
+ at Constantinople with the most liberal expressions of
+ gratitude; and the public deliverance was celebrated by
+ festivals and illuminations.","('Eleven days', 'DATE'), ('Hellespont', 'PERSON'), ('Gainas', 'PERSON'), ('Constantinople', 'GPE')"
+"Eudocia composed a poetical paraphrase of the first eight
+ books of the Old Testament and of the prophecies of Daniel
+ and Zechariah; a cento of the verses of Homer, applied to
+ the life and miracles of Christ, the legend of St. Cyprian,
+ and a panegyric on the Persian victories of Theodosius; and
+ her writings, which were applauded by a servile and
+ superstitious age, have not been disdained by the candour of
+ impartial criticism.","('Eudocia', 'PERSON'), ('first', 'ORDINAL'), ('eight', 'CARDINAL'), ('the Old Testament', 'WORK_OF_ART'), ('Daniel', 'PERSON'), ('Zechariah', 'PERSON'), ('Homer', 'PERSON'), ('Christ', 'PERSON'), ('St. Cyprian', 'PERSON'), ('Persian', 'NORP'), ('Theodosius', 'PERSON')"
+"Eudocia instantly revenged them by the assassination of the
+ count: the furious passions which she indulged on this
+ suspicious occasion seemed to justify the severity of
+ Theodosius; and the empress, ignominiously stripped of the
+ honours of her rank, (78) was disgraced, perhaps unjustly, in 
+ the eyes of the world.","('Eudocia', 'PERSON'), ('Theodosius', 'PERSON'), ('78', 'DATE')"
+"Eudoxia was a young and beautiful woman, who
+ indulged her passions and despised her husband: Count John
+ enjoyed, at least, the familiar confidence of the empress;
+ and the public named him as the real father of Theodosius
+ the younger. (59)","('Eudoxia', 'PERSON'), ('John', 'PERSON'), ('Theodosius', 'PERSON')"
+Eutropius was the first of his artificial sex who dared to assume the character of a Roman magistrate and general.,"('Eutropius', 'PERSON'), ('first', 'ORDINAL'), ('Roman', 'NORP')"
+"Every quarter of Constantinople was filled with tumult 
+ and disorder; and the barbarians gazed with such ardour on
+ the rich shops of the jewellers and the tables of the
+ bankers which were covered with gold and silver, that it was
+ judged prudent to remove those dangerous temptations from
+ their sight.","('Constantinople', 'GPE')"
+"Fall of Eutropius, A.D. 399","('A.D. 399', 'DATE')"
+"Four successive summons were signified to
+ Chrysostom; but he still refused to trust either his person
+ or his reputation in the hands of his implacable enemies,
+ who, prudently declining the examination of any particular
+ charges, condemned his contumacious disobedience, and
+ hastily pronounced a sentence of deposition.","('Four', 'CARDINAL'), ('Chrysostom', 'PERSON')"
+"From a motive either of prudence or religion, she embraced a life of celibacy; and notwithstanding some aspersions on the chastity of Pulcheria, (69) this resolution, which she communicated to her sisters Arcadia and Marina, was celebrated by the Christian world as the sublime effort of heroic piety.","('Pulcheria', 'PERSON'), ('69', 'CARDINAL'), ('Arcadia', 'PERSON'), ('Marina', 'PERSON'), ('Christian', 'NORP')"
+"From that solitude the
+ archbishop, whose active mind was invigorated by
+ misfortunes, maintained a strict and frequent correspondence
+  (54) with the most distant provinces; exhorted the separate 
+ congregation of his faithful adherents to persevere in their
+ allegiance; urged the destruction of the temples of
+ Phoenicia, and the extirpation of heresy in the isle of
+ Cyprus; extended his pastoral care to the missions of Persia
+ and Scythia; negotiated, by his ambassadors, with the Roman
+ pontiff and the emperor Honorius; and boldly appealed, from
+ a partial synod, to the supreme tribunal of a free and
+ general council.","('Phoenicia', 'GPE'), ('Cyprus', 'GPE'), ('Persia', 'GPE'), ('Scythia', 'PERSON'), ('Roman', 'NORP'), ('Honorius', 'PERSON')"
+"From these panegyrics the historians (81) of the 
+ age might borrow their extraordinary, and perhaps fabulous,
+ tales of the proud challenge of a Persian hero, who was
+ entangled by the net, and despatched by the sword, of
+ Areobindus the Goth; of the ten thousand Immortals, who
+ were slain in the attack of the Roman camp; and of the
+ hundred thousand Arabs, or Saracens, who were impelled by a
+ panic terror to throw themselves headlong into the
+ Euphrates.","('81', 'CARDINAL'), ('Persian', 'NORP'), ('Areobindus', 'NORP'), ('Goth', 'NORP'), ('ten thousand', 'CARDINAL'), ('Immortals', 'NORP'), ('Roman', 'NORP'), ('the\r\n hundred thousand', 'CARDINAL'), ('Arabs', 'NORP'), ('Saracens', 'NORP'), ('Euphrates', 'LOC')"
+"Gainas bowed with reverence at the feet of the emperor,
+ whilst he required the sacrifice of Aurelian and Saturninus,
+ two ministers of consular rank and their naked necks were
+ exposed by the haughty rebel to the edge of the sword, till
+ he condescended to grant them a precarious and disgraceful
+ respite.","('Gainas', 'PERSON'), ('Aurelian', 'NORP'), ('Saturninus', 'PERSON'), ('two', 'CARDINAL')"
+"Gainas was either
+ innocent of the design or too confident of his success; he
+ was astonished by the intelligence that the flower of his
+ army had been ingloriously destroyed; that he himself was
+ declared a public enemy; and that his countryman Fravitta, a
+ brave and loyal confederate, had assumed the management of
+ the war by sea and land.","('Gainas', 'PERSON'), ('Fravitta', 'PERSON')"
+"He
+ deplored the manifest and inexcusable vices of Artasires;
+ and declared that he should not hesitate to accuse him
+ before the tribunal of a Christian emperor, who would
+ punish, without destroying, the sinner Exasperated by the firmness of Isaac, the factious nobles accused both the king and the archbishop as the secret adherents of the emperor; and absurdly rejoiced in the sentence of condemnation, which, after a partial hearing, was solemnly pronounced by Bahram himself.","('Artasires', 'NORP'), ('Christian', 'NORP'), ('Isaac', 'PERSON'), ('Bahram', 'PERSON')"
+"He had
+ condemned from the pulpit the domestic females of the clergy
+ of Constantinople, who, under the name of servants or
+ sisters, afforded a perpetual occasion either of sin or of
+ scandal.","('Constantinople', 'GPE')"
+He had been guilty of the unpardonable crime of introducing that abject slave to the palace of Constantinople; and some degree of praise must be allowed to a powerful and ungrateful favourite who was satisfied with the disgrace of his benefactor.,"('Constantinople', 'GPE')"
+"He still
+ maintained, from some considerations of health or
+ abstinence, his former habits of taking his repasts alone;
+ and this inhospitable custom, (45) which his enemies imputed 
+ to pride, contributed at least to nourish the infirmity of a
+ morose and unsocial humour.","('45', 'CARDINAL')"
+"He studied the art of rhetoric
+ in the school of Libanius; and that celebrated sophist, who
+ soon discovered the talents of his disciple, ingenuously
+ confessed that John would have deserved to succeed him had
+ he not been stolen away by the Christians.","('Libanius', 'NORP'), ('John', 'PERSON'), ('Christians', 'NORP')"
+"He was destitute of vessels, but the
+ woods of the Chersonesus afforded materials for rafts, and
+ his intrepid barbarians did not refuse to trust themselves
+ to the waves.","('Chersonesus', 'PRODUCT')"
+"He was promoted to the rank of patrician, which began to signify, in a popular and even legal acceptation, the father of the emperor: and the last year of the fourth century was polluted by the consulship of an eunuch and a slave.","('the last year of the fourth century', 'DATE')"
+"Her
+ ostentatious progress through the East may seem inconsistent
+ with the spirit of Christian humility: she pronounced from a
+ throne of gold and gems an eloquent oration to the senate of
+ Antioch, declared her royal intention of enlarging the walls
+ of the city, bestowed a donative of two hundred pounds of
+ gold to restore the public baths, and accepted the statues
+ which were decreed by the gratitude of Antioch.","('East', 'LOC'), ('Christian', 'NORP'), ('Antioch', 'GPE'), ('two hundred pounds', 'QUANTITY'), ('Antioch', 'GPE')"
+His Sister Pulcheria.—,"('Pulcheria', 'PERSON')"
+"His administration and defects, A.D. 398-403.","('398-403', 'CARDINAL')"
+"His character was consecrated by
+ absence and persecution; the faults of his administration
+ were no longer remembered; but every tongue repeated the
+ praises of his genius and virtue: and the respectful
+ attention of the Christian world was fixed on a desert spot
+ among the mountains of Taurus.","('Christian', 'NORP'), ('Taurus', 'LOC')"
+"His former habits of life had not introduced him to the study of the laws or the exercises of the field; his awkward and unsuccessful attempts provoked the secret contempt of the spectators; the Goths expressed their wish that such a general might always command the armies of Rome; and the name of the minister was branded with ridicule, more pernicious, perhaps, than hatred to a public character.","('Goths', 'NORP'), ('Rome', 'GPE')"
+"His immense riches were confiscated in the name of the emperor and for the benefit of the favourite; and he was doomed to perpetual exile at Oasis, a solitary spot in the midst of the sandy deserts of Libya. (14)","('Oasis', 'LOC'), ('Libya', 'GPE'), ('14', 'CARDINAL')"
+"His imprudence tempted his enemies to inflame the haughty Spirit of Eudoxia, by reporting, or perhaps inventing, the famous exordium of a sermon, ""Herodias is again furious; Herodias again dances; she once more requires the head of John:""  an insolent allusion, which, as a woman and a sovereign, it was impossible for her to forgive.","('Spirit of Eudoxia', 'ORG'), ('Herodias', 'PERSON'), ('Herodias', 'PERSON'), ('John', 'PERSON')"
+"His infirmities compelled him to return to the society of
+ mankind; and the authority of Meletius devoted his talents
+ to the service of the church: but in the midst of his
+ family, and afterwards on the archiepiscopal throne,
+ Chrysostom still persevered in the practice of the monastic
+ virtues.","('Meletius', 'PERSON'), ('Chrysostom', 'PERSON')"
+"His national dislike to the rising greatness of
+ a city which degraded him from the second to the third rank
+ in the Christian world was exasperated by some personal
+ disputes with Chrysostom himself. (48)","('second', 'ORDINAL'), ('third', 'ORDINAL'), ('Christian', 'NORP'), ('Chrysostom', 'PERSON')"
+"His piety soon
+ disposed him to receive the sacrament of baptism; to
+ renounce the lucrative and honourable profession of the law;
+ and to bury himself in the adjacent desert, where he subdued
+ the lusts of the flesh by an austere penance of six years.","('six years', 'DATE')"
+"His rapid progress
+ was checked by the resistance of the peasants of Pamphylia;
+ and the Ostrogoths, attacked in a narrow pass between the
+ city of Selgae (24) a deep morass, and the craggy cliffs of 
+ Mount Taurus, were defeated with the loss of their bravest
+ troops.","('Pamphylia', 'GPE'), ('Ostrogoths', 'NORP'), ('Selgae', 'GPE'), ('24', 'CARDINAL'), ('Mount Taurus', 'LOC')"
+"His sister Pulcheria, (68) who was only two years older than himself, received at the age of sixteen the title of
+  Augusta; and though her favour might be sometimes clouded by caprice or intrigue, she continued to govern the Eastern empire near forty years; during the long minority of her brother, and after his death in her own name, and in the name of Marcian, her nominal husband.","('Pulcheria', 'PERSON'), ('68', 'DATE'), ('two years', 'DATE'), ('sixteen', 'CARDINAL'), ('Augusta', 'PERSON'), ('Eastern', 'NORP'), ('forty years', 'DATE'), ('Marcian', 'PERSON')"
+"His zeal and obstinacy were revenged on his 
+ brethren: the Magi excited a cruel persecution; and the
+ intolerant zeal of Jezdegerd was imitated by his son
+ Varahes, or Bahram, who soon afterwards ascended the throne.","('Magi', 'PERSON'), ('Jezdegerd', 'PERSON'), ('Varahes', 'PERSON'), ('Bahram', 'PERSON')"
+"Hunting was the only
+ active pursuit that could tempt him beyond the limits of the
+ palace; but he most assiduously laboured, sometimes by the
+ light of a midnight lamp, in the mechanic occupations of
+ painting and carving; and the elegance with which he
+ transcribed religious books entitled the Roman emperor to
+ the singular epithet of Calligraphes, or a fair writer.","('Roman', 'NORP'), ('Calligraphes', 'PERSON')"
+"If he descended towards the sea, they
+ imputed, and perhaps suggested, to the Gothic chief the more
+ dangerous project of arming a fleet in the harbours of
+ Ionia, and of extending his depredations along the maritime
+ coast, from the mouth of the Nile to the port of
+ Constantinople.","('Gothic', 'NORP'), ('Ionia', 'GPE'), ('Nile', 'LOC'), ('Constantinople', 'GPE')"
+"If they
+ were guilty, the numerous associates of their guilt would
+ soon discover that their own safety depended on the ruin of
+ the archbishop, whom they studied to represent as the tyrant
+ of the Eastern church.","('Eastern', 'NORP')"
+"Ignorant, or careless, of the impending danger, Chrysostom indulged his zeal, or perhaps his resentment; declaimed with peculiar asperity against female vices; and condemned the profane honours which were addressed, almost in the precincts of St. Sophia, to the statue of the empress.","('Chrysostom', 'PERSON'), ('St. Sophia', 'GPE')"
+"In 
+ the midst of the public triumph, Constantinople was
+ protected by a strong enclosure of new and more extensive
+ walls; the same vigilant care was applied to restore the
+ fortifications of the Illyrian cities; and a plan was
+ judiciously conceived, which, in the space of seven years,
+ would have secured the command of the Danube, by
+ establishing on that river a perpetual fleet of two hundred
+ and fifty armed vessels. (67)
+Character and administration of Pulcheria, A.D. 414-453.","('Constantinople', 'GPE'), ('Illyrian', 'NORP'), ('seven years', 'DATE'), ('Danube', 'LOC'), ('two hundred\r\n and fifty', 'CARDINAL'), ('67', 'CARDINAL'), ('Pulcheria', 'PRODUCT'), ('414-453', 'CARDINAL')"
+"In a late journey into the East he had
+ admired the sermons of John, a native and presbyter of
+ Antioch, whose name has been distinguished by the epithet of
+ Chrysostom, or the Golden Mouth. (41)","('East', 'LOC'), ('John', 'PERSON'), ('Antioch', 'GPE'), ('Chrysostom', 'PERSON'), ('the Golden Mouth', 'WORK_OF_ART'), ('41', 'CARDINAL')"
+"In his early youth Gainas had passed
+ the Danube as a suppliant and a fugitive: his elevation had
+ been the work of valour and fortune, and his indiscreet or
+ perfidious conduct was the cause of his rapid downfall.","('Gainas', 'PERSON'), ('Danube', 'LOC')"
+"In his visitation through the Asiatic
+ provinces he deposed thirteen bishops of Lydia and Phrygia;
+ and indiscreetly declared that a deep corruption of simony
+ and licentiousness had infected the whole episcopal order.
+ (46)","('Asiatic', 'NORP'), ('thirteen', 'CARDINAL'), ('Lydia', 'PERSON'), ('Phrygia', 'PERSON')"
+"In less
+ than four years afterwards, Eudoxia, in the bloom of youth,
+ was destroyed by the consequences of a miscarriage; and this
+ untimely death confounded the prophecy of a holy bishop, (60) 
+ who, amidst the universal joy, had ventured to foretell that
+ she should behold the long and auspicious reign of her
+ glorious son.","('less\r\n than four years afterwards', 'DATE'), ('Eudoxia', 'GPE'), ('60', 'DATE')"
+"In the Holy
+ Land her alms and pious foundations exceeded the munificence
+ of the great Helena; and though the public treasure might be
+ impoverished by this excessive liberality, she enjoyed the
+ conscious satisfaction of returning to Constantinople with
+ the chains of St. Peter, the right arm of St. Stephen, and
+ the undoubted picture of the Virgin, painted by St. Luke. (76)","('Helena', 'PERSON'), ('Constantinople', 'GPE'), ('St. Peter', 'ORG'), ('St. Stephen', 'GPE'), ('Virgin', 'PERSON'), ('St. Luke', 'GPE')"
+"In the beginning
+ of the fifth century Armenia was divided by the progress of
+ war and faction; (83) and the unnatural division precipitated the downfall of that ancient monarchy.","('the beginning\r\n of the fifth century', 'DATE'), ('Armenia', 'GPE'), ('83', 'CARDINAL')"
+"In the conference
+ which was held on the limits of the two empires, the Roman
+ ambassadors degraded the personal character of their
+ sovereign, by a vain attempt to magnify the extent of his
+ power, when they seriously advised the Persians to prevent,
+ by a timely accommodation, the wrath of a monarch who was
+ yet ignorant of this distant war.","('two', 'CARDINAL'), ('Roman', 'NORP'), ('Persians', 'NORP')"
+"In the fury of the pursuit the catholics uncovered the roof,
+ and continued to throw down flaming logs of wood till they
+ overwhelmed their adversaries, who had retreated to the
+ church or conventicle of the Arians.","('Arians', 'NORP')"
+"In the last
+ years of his peaceful life Europe was indeed afflicted by
+ the arms of Attila; but the more extensive provinces of Asia
+ still continued to enjoy a profound and permanent repose.","('the last\r\n years', 'DATE'), ('Europe', 'LOC'), ('Attila', 'PERSON'), ('Asia', 'LOC')"
+"In the last year of the reign of Jezdegerd, the
+ supposed guardian of Theodosius, a bishop, who aspired to
+ the crown of martyrdom, destroyed one of the fire-temples of
+ Susa. (80)","('the last year', 'DATE'), ('Jezdegerd', 'PERSON'), ('Theodosius', 'PERSON'), ('one', 'CARDINAL'), ('Susa', 'PERSON'), ('80', 'CARDINAL')"
+"In the presence of the clergy and people the three daughters of Arcadius (70)  dedicated their virginity to God; and the obligation of their solemn vow was inscribed on a tablet of gold and gems, which they publicly offered in the great church of Constantinople.","('three', 'CARDINAL'), ('Arcadius', 'PERSON'), ('70', 'DATE'), ('Constantinople', 'GPE')"
+"In the senate, in the capital, in the provinces, the statues of Eutropius were erected, in brass or marble, decorated with the symbols of his civil and military virtues, and inscribed with the pompous title of the third founder of Constantinople.","('Eutropius', 'NORP'), ('third', 'ORDINAL'), ('Constantinople', 'GPE')"
+"In this hour
+ of distress and despair his only refuge was in the sanctuary
+ of the church, whose privileges he had wisely, or profanely,
+ attempted to circumscribe; and the most eloquent of the
+ saints, John Chrysostom, enjoyed the triumph of protecting a
+ prostrate minister, whose choice had raised him to the
+ ecclesiastical throne of Constantinople.","('this hour', 'TIME'), ('John Chrysostom', 'PERSON'), ('Constantinople', 'GPE')"
+"In this state 
+ of mutual and suspicious hostility, the guards and the
+ people of Constantinople shut the gates, and rose in arms to
+ prevent or to punish the conspiracy of the Goths.","('Constantinople', 'GPE'), ('Goths', 'NORP')"
+"Instead of listening to his humble prayer
+ that he might be permitted to reside at Cyzicus or
+ Nicomedia, the inflexible empress assigned for his exile the
+ remote and desolate town of Cucusus, among the ridges of
+ Mount Taurus, in the Lesser Armenia.","('Cyzicus', 'GPE'), ('Nicomedia', 'GPE'), ('Cucusus', 'GPE'), ('Mount Taurus', 'LOC'), ('the Lesser Armenia', 'LOC')"
+"Instead of tempting the allegiance of an
+ ambitious subject by the participation of supreme power, he
+ boldly appealed to the magnanimity of a king, and placed, by
+ a solemn testament, the sceptre of the East in the hands of
+ Jezdegerd himself.","('East', 'LOC'), ('Jezdegerd', 'PERSON')"
+"It has already been observed that
+ Eutropius, (3) one of the principal eunuchs of the palace of  Constantinople, succeeded the haughty minister whose ruin he had accomplished and whose vices he soon imitated.","('Eutropius', 'WORK_OF_ART'), ('3', 'CARDINAL'), ('one', 'CARDINAL'), ('Constantinople', 'GPE')"
+"It has been asserted with more confidence 
+ that his son Syagrius, after successfully eluding the pursuit of the agents and emissaries of the court, collected a band of African robbers that he rescued Timasius from the place of his exile; and that both the father and the son disappeared from the knowledge of mankind.","('Syagrius', 'PERSON'), ('African', 'NORP'), ('Timasius', 'PERSON')"
+"It is enacted, in the name and by the authority of Arcadius, that all those who shall conspire,either with subjects or with strangers, against the lives of any of the persons whom the emperor considers as the members of his own body, shall be punished with death and confiscation.","('Arcadius', 'PERSON')"
+"It is impossible to delineate his character;
+ since, in a period very copiously furnished with historical
+ materials, it has not been possible to remark one action
+ that properly belongs to the son of the great Theodosius.","('one', 'CARDINAL'), ('Theodosius', 'PERSON')"
+It is insinuated that Eutropius despatched a private order for his secret execution.,"('Eutropius', 'PERSON')"
+"It was reported that in  attempting to escape from Oasis he perished in the desert of thirst and hunger, and that his dead body was found on the sands of Libya. (16)","('Oasis', 'LOC'), ('Libya', 'GPE'), ('16', 'CARDINAL')"
+"Leo, (26) who from the bulk 
+ of his body and the dullness of his mind was surnamed the
+ Ajax of the East, had deserted his original trade of a
+ woolcomber, to exercise with much less skill and success the
+ military profession; and his uncertain operations were
+ capriciously framed and executed with an ignorance of real
+ difficulties and a timorous neglect of every favourable
+ opportunity.","('Leo', 'PERSON'), ('26', 'DATE'), ('Ajax', 'PRODUCT'), ('East', 'LOC')"
+"Notwithstanding the vigorous opposition of the archbishop,
+ he importunately claimed for his Arian sectaries the
+ possession of a peculiar church, and the pride of the
+ catholics was offended by the public toleration of heresy.
+ (35)","('Arian', 'NORP')"
+"On the vigil of Easter the solemn administration of baptism was rudely interrupted by the soldiers, who alarmed the modesty of the naked catechumens, and violated, by their presence, the awful mysteries of the Christian worship.","('Easter', 'DATE'), ('Christian', 'NORP')"
+"On this occasion Eutropius
+ seems to have deviated from his ordinary maxims; and his
+ uncorrupted judgment was determined only by the superior
+ merit of a stranger.","('Eutropius', 'PERSON')"
+Persecution of St. John Chrysostom.—,"('St. John Chrysostom', 'PERSON')"
+Popular tumult at Constantinople.,"('Constantinople', 'GPE')"
+"Pulcheria alone discharged the important task of
+ instructing her brother in the arts of government; but her
+ precepts may countenance some suspicion of the extent of her
+ capacity or of the purity of her intentions.","('Pulcheria', 'PERSON')"
+"Pulcheria, her two sisters, and a chosen train of favourite damsels, formed a religious community: they renounced the vanity of dress, interrupted by frequent fasts their simple and frugal diet, allotted a portion of their time to works of embroidery, and devoted several hours of the day and night to the exercises of prayer and psalmody.","('Pulcheria', 'PERSON'), ('two', 'CARDINAL'), ('several hours', 'TIME')"
+Revolt of Gainas.—,"('Gainas', 'PERSON')"
+"Ruin of Abundantius,","('Abundantius', 'GPE')"
+"Satiated with empty pomp, and unmindful perhaps of
+ her obligations to Pulcheria, she ambitiously aspired to the
+ government of the Eastern empire: the palace was distracted
+ by female discord; but the victory was at last decided by
+ the superior ascendant of the sister of Theodosius.","('Pulcheria', 'PERSON'), ('Eastern', 'NORP'), ('Theodosius', 'PERSON')"
+"Secluded from all  human converse, the master-general of the Roman armies was lost for ever to the world; but the circumstances of his fate have been related in a various and contradictory manner.","('Roman', 'NORP')"
+"Separated from that familiar
+ intercourse which facilitates the knowledge and the despatch
+ of business, he reposed an unsuspecting confidence in his
+ deacon Serapion; and seldom applied his speculative
+ knowledge of human nature to the particular characters
+ either of his dependents or of his equals.","('Serapion', 'PERSON')"
+"Separated from the world by an impenetrable veil, Theodosius
+ trusted the persons whom he loved; he loved those who were
+ accustomed to amuse and flatter his indolence, and as he
+ never perused the papers that were presented for the royal
+ signature, the acts of injustice the most repugnant to his
+ character were frequently perpetrated in his name.","('Theodosius', 'PERSON')"
+"She easily excited the curiosity of her brother by an
+ interesting picture of the charms of Athenais: large eyes, a
+ well-proportioned nose, a fair complexion, golden locks, a
+ slender person, a graceful demeanour, an understanding
+ improved by study, and a virtue tried by distress.","('Athenais', 'PERSON')"
+"She obtained her
+ request, but the jealousy of Theodosius, or the vindictive
+ spirit of Pulcheria, pursued her in her last retreat; and
+ Saturninus, count of the domestics, was directed to punish
+ with death two ecclesiastics, her most favoured servants.","('Theodosius', 'PERSON'), ('Pulcheria', 'PERSON'), ('Saturninus', 'PERSON'), ('two', 'CARDINAL')"
+"She taught him
+ to maintain a grave and majestic deportment; to walk, to
+ hold his robes, to seat himself on his throne in a manner
+ worthy of a great prince; to abstain from laughter, to
+ listen with condescension, to return suitable answers; to
+ assume by turns a serious or a placid countenance; in a
+ word, to represent with grace and dignity the external
+ figure of a Roman emperor.","('Roman', 'NORP')"
+"Since the Roman and Parthian standards first encountered on
+ the banks of the Euphrates, the kingdom of Armenia (82) was 
+ alternately oppressed by its formidable protectors; and in
+ the course of this History, several events which inclined
+ the balance of peace and war, have been already related.","('Roman', 'NORP'), ('Parthian', 'NORP'), ('first', 'ORDINAL'), ('Euphrates', 'LOC'), ('Armenia', 'GPE'), ('82', 'CARDINAL'), ('History', 'EVENT')"
+"Some
+ engagements were fought, some towns were besieged, with
+ various and doubtful success: and if the Romans failed in
+ their attempt to recover the long-lost possession of
+ Nisibis, the Persians were repulsed from the walls of a
+ Mesopotamian city by the valour of a martial bishop, who
+ pointed his thundering engine in the name of St. Thomas the
+ Apostle.","('Romans', 'NORP'), ('Nisibis', 'PERSON'), ('Persians', 'NORP'), ('Mesopotamian', 'NORP'), ('St. Thomas the\r\n Apostle', 'PERSON')"
+"Some Christian fugitives, who escaped to the Roman frontier,
+ were sternly demanded, and generously refused; and the
+ refusal, aggravated by commercial disputes, soon kindled a
+ war between the rival monarchies.","('Christian', 'NORP'), ('Roman', 'NORP')"
+"Some of the noblest regulations of Roman jurisprudence have been suffered to expire; but this edict, a convenient and forcible engine of ministerial tyranny, was carefully inserted in the codes of Theodosius and Justinian; and the same maxims have been revived in modern ages to protect the electors of Germany and the cardinals of the church of Rome. (20)
+Rebellion of Tribigild, A.D. 399","('Roman', 'NORP'), ('Theodosius', 'NORP'), ('Justinian', 'NORP'), ('Germany', 'GPE'), ('Rome', 'GPE'), ('20', 'CARDINAL'), ('Tribigild', 'GPE'), ('399', 'CARDINAL')"
+"Such a domestic
+ misfortune afflicted him more deeply than the public
+ calamities of the East (61)—the licentious excursions, from 
+ Pontus to Palestine, of the Isaurian robbers, whose impunity
+ accused the weakness of the government; and the earthquakes,
+ the conflagrations, the famine, and the flights of locusts,
+  (62) which the popular discontent was equally disposed to 
+ attribute to the incapacity of the monarch.","('East', 'LOC'), ('Pontus', 'GPE'), ('Palestine', 'GPE'), ('Isaurian', 'NORP'), ('62', 'CARDINAL')"
+"Such events may be disbelieved or disregarded;
+ but the charity of a bishop, Acacius of Amida, whose name
+ might have dignified the saintly calendar, shall not be lost
+ in oblivion.","('Acacius', 'PERSON'), ('Amida', 'PERSON')"
+"Such is the singular narrative of
+ Procopius; and his veracity is not disputed by Agathias, (64) 
+ while he presumes to dissent from his judgment, and to
+ arraign the wisdom of a Christian emperor, who so rashly,
+ though so fortunately, committed his son and his dominions
+ to the unknown faith of a stranger, a rival, and a heathen.","('Procopius', 'PERSON'), ('Agathias', 'PERSON'), ('64', 'DATE'), ('Christian', 'NORP')"
+"Such virtues were supposed to deserve the peculiar favour of the Deity: and the relics of martyrs, as well as the knowledge of future events, were communicated in visions and revelations to the Imperial saint. (71)","('Imperial', 'NORP')"
+"That great officer, the master-general of the armies of Theodosius, had signalised his valour by a decisive victory which he obtained over the Goths of Thessaly but he was too prone, after the example of his sovereign, to enjoy the luxury of peace and to abandon his confidence to wicked and designing flatterers.","('Theodosius', 'PERSON'), ('Goths', 'NORP')"
+"That sagacious princess listened to her eloquent
+ complaint, and secretly destined the daughter of the
+ philosopher Leontius for the future wife of the emperor of
+ the East, who had now attained the twentieth year of his
+ age.","('Leontius', 'PERSON'), ('East', 'LOC'), ('the twentieth year of his\r\n age', 'DATE')"
+"The
+ Goths advanced by rapid marches through the plains of
+ Thrace, and they were soon delivered from the fear of
+ pursuit by the vanity of Fravitta, who, instead of
+ extinguishing the war, hastened to enjoy the popular
+ applause, and to assume the peaceful honours of the
+ consulship.","('Goths', 'NORP'), ('Thrace', 'LOC'), ('Fravitta', 'PERSON')"
+"The
+ execution of Paulinus, master of the offices, and the
+ disgrace of Cyrus, Praetorian praefect of the East,
+ convinced the public that the favour of Eudocia was
+ insufficient to protect her most faithful friends, and the
+ uncommon beauty of Paulinus encouraged the secret rumour
+ that his guilt was that of a successful lover. (77)","('Paulinus', 'PERSON'), ('Cyrus', 'PERSON'), ('Praetorian', 'PERSON'), ('East', 'LOC'), ('Eudocia', 'PERSON'), ('Paulinus', 'PERSON')"
+"The
+ secret resentment of the court encouraged the discontent of
+ the clergy and monks of Constantinople, who were too hastily
+ reformed by the fervent zeal of their archbishop.","('Constantinople', 'GPE')"
+"The Bosphorus was covered with innumerable
+ vessels; the shores of Europe and Asia were profusely
+ illuminated; and the acclamations of a victorious people
+ accompanied, from the port to the cathedral, the triumph of
+ the archbishop, who too easily consented to resume the
+ exercise of his functions, before his sentence had been
+ legally reversed by the authority of an ecclesiastical
+ synod.","('Bosphorus', 'LOC'), ('Europe', 'LOC'), ('Asia', 'LOC')"
+"The Catholics retreated to the baths of Constantine, and afterwards to the fields, where they were still pursued and insulted by the guards, the bishops, and the magistrates.","('Catholics', 'NORP'), ('Constantine', 'PERSON')"
+"The Empire of the East, A.D. 395-1453
+Reign of Arcadius , A.D. 395-408
+ THE division of the Roman world between the sons of
+ Theodosius marks the final establishment of the empire of
+ the East, which, from the reign of Arcadius to the taking of
+ Constantinople by the Turks, subsisted one thousand and
+ fifty-eight years in a state of premature and perpetual
+ decay.","('395-1453', 'CARDINAL'), ('Arcadius', 'GPE'), ('A.D. 395-408', 'DATE'), ('Roman', 'NORP'), ('Theodosius', 'GPE'), ('East', 'LOC'), ('Arcadius', 'GPE'), ('Constantinople', 'GPE'), ('Turks', 'NORP'), ('one thousand and\r\n fifty-eight years', 'DATE')"
+"The Goths, according to the terms of the agreement,
+ were immediately transported from Asia into Europe; and the
+ victorious chief, who accepted the title of master-general
+ of the Roman armies, soon filled Constantinople with his
+ troops, and distributed among his dependents the honours and
+ rewards of the empire.","('Goths', 'NORP'), ('Asia', 'LOC'), ('Europe', 'LOC'), ('Roman', 'NORP'), ('Constantinople', 'GPE')"
+"The Persian War, and Division of Armenia.","('The Persian War', 'EVENT'), ('Division of Armenia', 'ORG')"
+"The Persian war, A.D. 422.","('The Persian war', 'EVENT'), ('422', 'CARDINAL')"
+"The Roman world was deeply interested in the education of
+ its master.","('Roman', 'NORP')"
+"The agonies of the pale and affrighted
+ wretch, who lay grovelling under the table of the altar,
+ exhibited a solemn and instructive spectacle; and the
+ orator, who was afterwards accused of insulting the
+ misfortunes of Eutropius, laboured to excite the contempt,
+ that he might assuage the fury, of the people. (29)","('Eutropius', 'PERSON'), ('29', 'CARDINAL')"
+"The answer of the archbishop
+ Isaac, whose sanction they earnestly solicited, is
+ expressive of the character of a superstitious people.","('Isaac', 'PERSON')"
+"The appearances of a fair and legal proceeding were maintained by the blunt honesty of Procopius; and he yielded with reluctance to the obsequious dexterity of his colleague, who pronounced a sentence of condemnation against the unfortunate Timasius.","('Procopius', 'PERSON'), ('Timasius', 'PERSON')"
+"The approach of danger and the obstinacy of
+ Tribigild, who refused all terms of accommodation, compelled
+ Eutropius to summon a council of war. (25)","('Tribigild', 'PERSON'), ('Eutropius', 'PERSON'), ('25', 'CARDINAL')"
+"The archbishop was rudely arrested,
+ and conducted through the city, by one of the Imperial
+ messengers, who landed him, after a short navigation, near
+ the entrance of the Euxine; from whence, before the
+ expiration of two days, he was gloriously recalled.","('one', 'CARDINAL'), ('Imperial', 'NORP'), ('Euxine', 'FAC'), ('two days', 'DATE')"
+"The archbishops of the East, who might blush that their predecessors had been the enemies of Chrysostom, were gradually disposed, by the firmness of the Roman pontiff, to restore the honours of that venerable name. (56)","('East', 'LOC'), ('Chrysostom', 'PERSON'), ('Roman', 'NORP'), ('56', 'CARDINAL')"
+"The birth of a son was accepted, however, by 
+ the pious husband as an event the most fortunate and
+ honourable to himself, to his family, and to the Eastern
+ world: and the royal infant, by an unprecedented favour, was
+ invested with the titles of Caesar and Augustus.","('Eastern', 'NORP'), ('Caesar', 'PERSON'), ('Augustus', 'PERSON')"
+"The bold and vigorous mind of Rufinus seems to have been
+ actuated by a more sanguinary and revengeful spirit; but the
+ avarice of the eunuch was not less insatiate than that of
+ the praefect.","('Rufinus', 'PERSON')"
+"The bold satirist, who has indulged his discontent by the
+ partial and passionate censure of the Christian emperors,
+ violates the dignity rather than the truth of history by
+ comparing the son of Theodosius to one of those harmless and
+ simple animals who scarcely feel that they are the property
+ of their shepherd.","('Christian', 'NORP'), ('Theodosius', 'PERSON'), ('one', 'CARDINAL')"
+"The brothers of Eudocia obeyed,
+ with some anxiety, her Imperial summons; but as she could
+ easily forgive their fortunate unkindness, she indulged the
+ tenderness, or perhaps the vanity, of a sister, by promoting
+ them to the rank of consuls and praefects.","('Eudocia', 'PERSON')"
+"The catholics applauded the justice of Heaven,
+ which avenged the persecution of St. Chrysostom; and perhaps
+ the emperor was the only person who sincerely bewailed the
+ loss of the haughty and rapacious Eudoxia.","('St. Chrysostom', 'PERSON'), ('Eudoxia', 'PERSON')"
+"The celebrated Athenais (74) 
+ was educated by her father Leontius in the religion and
+ sciences of the Greeks; and so advantageous was the opinion
+ which the Athenian philosopher entertained of his
+ contemporaries, that he divided his patrimony between his
+ two sons, bequeathing to his daughter a small legacy of one
+ hundred pieces of gold, in the lively confidence that her
+ beauty and merit would be a sufficient portion.","('Athenais', 'PERSON'), ('74', 'DATE'), ('Leontius', 'PERSON'), ('Greeks', 'NORP'), ('Athenian', 'NORP'), ('two', 'CARDINAL'), ('one\r\n hundred', 'CARDINAL')"
+"The church of the
+ holy martyr Euphemia, situate on a lofty eminence near
+ Chalcedon, (34) was chosen for the place of the interview.","('Chalcedon', 'GPE'), ('34', 'CARDINAL')"
+"The colony of that warlike nation, which had been
+ planted by Theodosius in one of the most fertile districts
+ of Phrygia, (22) impatiently compared the slow returns of 
+ laborious husbandry with the successful rapine and liberal
+ rewards of Alaric and their leader resented, as a personal
+ affront, his own ungracious reception in the palace of
+ Constantinople.","('Theodosius', 'PERSON'), ('one', 'CARDINAL'), ('Phrygia', 'GPE'), ('22', 'CARDINAL'), ('Alaric', 'PERSON'), ('Constantinople', 'GPE')"
+"The conditions
+ of peace were dictated by the haughty rebel, and the
+ peremptory demand of the head of Eutropius revealed the
+ author and the design of this hostile conspiracy.","('Eutropius', 'ORG')"
+"The confederate armies advanced without
+ resistance to the straits of the Hellespont and the
+ Bosphorus, and Arcadius was instructed to prevent the loss
+ of his Asiatic dominions by resigning his authority and his
+ person to the faith of the barbarians.","('Hellespont', 'NORP'), ('Bosphorus', 'LOC'), ('Arcadius', 'PERSON'), ('Asiatic', 'NORP')"
+"The consul Aurelian pronounced
+ the sentence; and the motives of that sentence expose the
+ jurisprudence of a despotic government.","('Aurelian', 'PERSON')"
+"The crimes which
+ Eutropius had committed against the people might have
+ justified his death; but he was found guilty of harnessing
+ to his chariot the sacred animals, who, from their breed
+ or colour, were reserved for the use of the emperor alone.
+  (32)","('Eutropius', 'PERSON')"
+"The death of Arcadius, A.D. 408, May 1.","('Arcadius', 'PERSON'), ('A.D. 408', 'DATE'), ('May 1', 'DATE')"
+"The descendants of Arsaces were degraded from the royal dignity, (86) which they had possessed above five hundred and sixty years; (87) and the dominions of the unfortunate Artasires, under the new and significant appellation of Persarmenia, were reduced into the form of a province.","('Arsaces', 'PERSON'), ('five hundred and sixty years', 'DATE'), ('87', 'CARDINAL'), ('Artasires', 'NORP'), ('Persarmenia', 'GPE')"
+The destruction of Timasius (13) required a more serious and regular mode of attack.,"('Timasius', 'GPE'), ('13', 'CARDINAL')"
+"The discontent of Gainas, who had so boldly
+ contrived and executed the death of Rufinus, was irritated
+ by the fortune of his unworthy successor; he accused his own
+ dishonourable patience under the servile reign of an eunuch;
+ and the ambitious Goth was convicted, at least in the public
+ opinion, of secretly fomenting the revolt of Tribigild, with
+ whom he was connected by a domestic as well as by a national
+ alliance. (27)","('Gainas', 'PERSON'), ('Rufinus', 'PERSON'), ('Goth', 'PERSON'), ('Tribigild', 'PERSON'), ('27', 'CARDINAL')"
+The disregard of custom and decency always betrays a weak and ill-regulated mind; nor does Eutropius seem to have compensated for the folly of the design by any superior merit or ability in the execution.,"('Eutropius', 'PERSON')"
+"The edict of Arcadius most positively and most absurdly declares that in such cases of treason, thoughts and actions ought to be punished with equal severity; that the knowledge of a mischievous intention, unless it be instantly revealed, becomes equally criminal with the intention itself; (19) and that those rash men who shall presume to solicit the pardon of traitors shall themselves be branded with public and perpetual infamy.","('Arcadius', 'PERSON'), ('19', 'CARDINAL')"
+"The effeminate consul was rejected by the West as an indelible stain to the annals of the republic; and without invoking the shades of Brutus and Camillus, the colleague of Eutropius, a learned and respectable magistrate, (9) sufficiently represented the  different maxims of the two administrations.","('West', 'LOC'), ('Brutus', 'PERSON'), ('Camillus', 'PERSON'), ('Eutropius', 'PERSON'), ('9', 'CARDINAL'), ('two', 'CARDINAL')"
+"The elegant and familiar
+ use which she had acquired both of the Greek and Latin
+ languages was readily applied to the various occasions of
+ speaking or writing on public business: her deliberations
+ were maturely weighed; her actions were prompt and decisive;
+ and while she moved without noise or ostentation the wheel
+ of government, she discreetly attributed to the genius of
+ the emperor the long tranquillity of his reign.","('Greek', 'LANGUAGE'), ('Latin', 'LANGUAGE')"
+"The emperor Theodosius advanced to receive them as  far as Chalcedon; and, falling prostrate on the coffin, implored, in the name of his guilty parents, Arcadius and Eudoxia, the forgiveness of the injured saint. (58)","('Theodosius', 'PERSON'), ('Chalcedon', 'LOC'), ('Arcadius', 'PERSON'), ('Eudoxia', 'PERSON')"
+"The emperor's hand was directed to sign the 
+ condemnation of Eutropius; the magic spell, which during
+ four years had bound the prince and the people, was
+ instantly dissolved; and the acclamations that so lately
+ hailed the merit and fortune of the favourite were converted
+ into the clamours of the soldiers and people, who reproached
+ his crimes and pressed his immediate execution.","('Eutropius', 'PERSON'), ('four years', 'DATE')"
+"The empress Eudoxia was restrained, by her own prejudices or
+ by those of her subjects, from violating the sanctuary of
+ the church; and Eutropius was tempted to capitulate, by the
+ milder arts of persuasion, and by an oath that his life
+ should be spared. (30)","('Eudoxia', 'PERSON'), ('Eutropius', 'PERSON'), ('30', 'CARDINAL')"
+"The enterprises of the rebel
+ against the cities of Thrace were encountered by a firm and
+ well-ordered defence: his hungry soldiers were soon reduced
+ to the grass that grew on the margin of the fortifications;
+ and Gainas, who vainly regretted the wealth and luxury of
+ Asia, embraced a desperate resolution of forcing the passage
+ of the Hellespont.","('Thrace', 'GPE'), ('Gainas', 'PERSON'), ('Asia', 'LOC'), ('Hellespont', 'PERSON')"
+"The fatal day of the second and final exile of Chrysostom was marked by the conflagration of the cathedral, of the senate-house, and of the adjacent buildings; and this calamity was imputed, without proof, but not without probability, to the despair of a persecuted faction. (52)
+Exile of Chrysostom, A.D. 404, June 20.","('second', 'ORDINAL'), ('Chrysostom', 'PERSON'), ('Exile of Chrysostom', 'LAW'), ('404', 'CARDINAL'), ('June 20', 'DATE')"
+"The first astonishment of his faithful people had been mute
+ and passive: they suddenly rose with unanimous and
+ irresistible fury.","('first', 'ORDINAL')"
+"The first events of the reign of Arcadius and Honorius are
+ so intimately connected, that the rebellion of the Goths and
+ the fall of Rufinus have already claimed a place in the
+ history of the West.","('first', 'ORDINAL'), ('Arcadius', 'GPE'), ('Honorius', 'GPE'), ('Goths', 'NORP'), ('Rufinus', 'GPE'), ('West', 'LOC')"
+"The fondness of the emperor was not 
+ abated by time and possession; and Eudocia, after the
+ marriage of her daughter, was permitted to discharge her
+ grateful vows by a solemn pilgrimage to Jerusalem.","('Eudocia', 'PERSON'), ('Jerusalem', 'GPE')"
+"The form of government was a
+ pure and simple monarchy; the name of the ROMAN REPUBLIC,
+ which so long preserved a faint tradition of freedom, was
+ confined to the Latin provinces; and the princes of
+ Constantinople measured their greatness by the servile
+ obedience of their people.","('Latin', 'NORP'), ('Constantinople', 'GPE')"
+The general was arraigned before the tribunal of Arcadius himself; and the principal eunuch stood by the side of the throne to suggest the questions and answers of his sovereign.,"('Arcadius', 'PERSON')"
+"The gentle mind of Theodosius was never inflamed by the
+ ambition of conquest or military renown; and the slight
+ alarm of a Persian war scarcely interrupted the tranquillity
+ of the East.","('Theodosius', 'PERSON'), ('a Persian war', 'EVENT'), ('East', 'LOC')"
+"The great officers of the state and army, who had
+ been appointed before the death of Arcadius, formed an
+ aristocracy which might have inspired them with the idea of
+ a free republic; and the government of the Eastern empire
+ was fortunately assumed by the praefect Anthemius, (65) who 
+ obtained, by his superior abilities, a lasting ascendant
+ over the minds of his equals.","('Arcadius', 'PERSON'), ('Eastern', 'NORP'), ('Anthemius', 'PERSON'), ('65', 'DATE')"
+"The historian Procopius (63) has indeed illuminated the mind 
+ of the dying emperor with a ray of human prudence, or
+ celestial wisdom.","('Procopius', 'PERSON'), ('63', 'DATE')"
+"The jealousy
+ and avarice of her brothers soon compelled Athenais to seek
+ a refuge at Constantinople, and with some hopes, either of
+ justice or favour, to throw herself at the feet of
+ Pulcheria.","('Athenais', 'PERSON'), ('Constantinople', 'GPE'), ('Pulcheria', 'PERSON')"
+"The less fortunate nobles, who
+ lamented the loss of their king, and envied the honours of
+ their equals, were provoked to negotiate their peace and
+ pardon at the Persian court; and, returning with their
+ followers to the palace of Artaxata, acknowledged Chosroes
+ for their lawful sovereign.","('Persian', 'NORP'), ('Artaxata', 'GPE'), ('Chosroes', 'PERSON')"
+"The maxims of Roman jurisprudence, if they could fairly be
+ transferred from private property to public dominion, would
+ have adjudged to the emperor Honorius the guardianship of
+ his nephew, till he had attained, at least, the fourteenth
+ year of his age.","('Roman', 'NORP'), ('Honorius', 'PERSON'), ('the fourteenth\r\n year of his age', 'DATE')"
+"The military command was delegated to
+ the count of the Armenian frontier; the city of
+ Theodosiopolis (84) was built and fortified in a strong situation, on a fertile and lofty ground, near the sources of the Euphrates; and the dependent territories were ruled
+ by five satraps, whose dignity was marked by a peculiar
+ habit of gold and purple.","('Armenian', 'NORP'), ('Theodosiopolis', 'GPE'), ('84', 'CARDINAL'), ('Euphrates', 'LOC'), ('five', 'CARDINAL')"
+"The mind of the illustrious exile was still
+ independent; but his captive body was exposed to the revenge
+ of the oppressors, who continued to abuse the name and
+ authority of Arcadius. (55)","('Arcadius', 'PERSON'), ('55', 'CARDINAL')"
+"The monuments of that eloquence,
+ which was admired near twenty years at Antioch and
+ Constantinople, have been carefully preserved; and the
+ possession of near one thousand sermons or homilies has
+ authorised the critics (42) of succeeding times to appreciate 
+ the genuine merit of Chrysostom.","('twenty years', 'DATE'), ('Antioch', 'GPE'), ('Constantinople', 'GPE'), ('near one thousand', 'CARDINAL'), ('42', 'CARDINAL'), ('Chrysostom', 'PERSON')"
+"The mountains of Armenia,
+ and the plains of Mesopotamia, were filled with hostile
+ armies; but the operations of two successive campaigns were
+ not productive of any decisive or memorable events.","('Armenia', 'GPE'), ('Mesopotamia', 'GPE'), ('two', 'CARDINAL')"
+"The palace of Constantinople rivalled, and perhaps excelled, the magnificence of Persia;
+ and the eloquent sermons of St Chrysostom (1) celebrate, while they condemn, the pompous luxury of the reign of Arcadius","('Constantinople', 'GPE'), ('Persia', 'LOC'), ('St Chrysostom', 'PERSON'), ('1', 'CARDINAL'), ('Arcadius', 'PERSON')"
+"The pastoral labours of the archbishop of Constantinople
+ provoked and gradually united against him two sorts of
+ enemies; the aspiring clergy, who envied his success, and
+ the obstinate sinners, who were offended by his reproofs.","('Constantinople', 'GPE'), ('two', 'CARDINAL')"
+The piety of a Christian virgin was adorned by the zeal and liberality of an empress.,"('Christian', 'NORP')"
+"The populous countries of
+ that empire were the seat of art and learning, of luxury and
+ wealth; and the inhabitants, who had assumed the language
+ and manners of Greeks, styled themselves, with some
+ appearance of truth, the most enlightened and civilised
+ portion of the human species.","('Greeks', 'NORP')"
+"The practice of benevolence in the midst of
+ war must always tend to assuage the animosity of contending
+ nations; and I wish to persuade myself that Acacius
+ contributed to the restoration of peace.","('Acacius', 'PERSON')"
+"The public hatred and the despair of individuals continually threatened, or seemed to threaten, the personal safety of Eutropius, as well as of the numerous adherents who were attached to his fortune and had been promoted by his venal favour.","('Eutropius', 'ORG')"
+"The rashness of the Ostrogoths had drawn them
+ into a disadvantageous position between the rivers Melas and
+ Eurymedon, where they were almost besieged by the peasants
+ of Pamphylia; but the arrival of an Imperial army, instead
+ of completing their destruction, afforded the means of
+ safety and victory.","('Ostrogoths', 'NORP'), ('Melas', 'LOC'), ('Eurymedon', 'LOC'), ('Pamphylia', 'NORP'), ('Imperial', 'NORP')"
+"The remainder of the life of Eudocia,
+ about sixteen years, was spent in exile and devotion; and
+ the approach of age, the death of Theodosius, the
+ misfortunes of her only daughter, who was led a captive from
+ Rome to Carthage, and the society of the Holy Monks of
+ Palestine, insensibly confirmed the religious temper of her
+ mind.","('Eudocia', 'PERSON'), ('about sixteen years', 'DATE'), ('Theodosius', 'PERSON'), ('Rome', 'GPE'), ('Carthage', 'GPE'), ('the Holy Monks of\r\n Palestine', 'ORG')"
+"The royal guardian accepted and
+ discharged this honourable trust with unexampled fidelity;
+ and the infancy of Theodosius was protected by the arms and
+ councils of Persia.","('Theodosius', 'PERSON'), ('Persia', 'GPE')"
+"The rumours of the success of Tribigild
+ might for some time be suppressed by fear, or disguised by
+ flattery; yet they gradually alarmed both the court and the
+ capital.","('Tribigild', 'ORG')"
+"The safety of the young
+ emperor proved the merit and integrity of Anthemius; and his
+ prudent firmness sustained the force and reputation of an
+ infant reign.","('Anthemius', 'PERSON')"
+"The silent and solitary ascetics, who had secluded
+ themselves from the world, were entitled to the warmest
+ approbation of Chrysostom; but he despised and stigmatised,
+ as the disgrace of their holy profession, the crowd of
+ degenerate monks, who, from some unworthy motives of
+ pleasure or profit, so frequently infested the streets of
+ the capital.","('Chrysostom', 'PERSON')"
+"The sovereign of that empire assumed and obstinately
+ retained the vain, and at length fictitious, title of
+ Emperor of the ROMANS; and the hereditary appellations of
+ CAESAR and AUGUSTUS continued to declare that he was the legitimate successor of the first of men, who had reigned over the first of nations.","('Emperor of the ROMANS', 'PERSON'), ('CAESAR', 'ORG'), ('AUGUSTUS', 'ORG'), ('first', 'ORDINAL'), ('first', 'ORDINAL')"
+"The story of a fair and virtuous maiden, exalted from a
+ private condition to the Imperial throne, might be deemed an
+ incredible romance, if such a romance had not been verified
+ in the marriage of Theodosius.","('Imperial', 'NORP'), ('Theodosius', 'PERSON')"
+"The subjects of Arcadius were exasperated by the recollection that this deformed and decrepit eunuch, (6) who so perversely mimicked  the actions of a man, was born in the most abject conditions of servitude; that before he entered the Imperial palace he had been successively sold and purchased by an hundred masters, who had exhausted his youthful strength in every mean and infamous office, and at length dismissed him in his old age to freedom and poverty.","('Arcadius', 'PERSON'), ('Imperial', 'NORP'), ('hundred', 'CARDINAL')"
+"The successors of Constantine established their perpetual residence in the
+ royal city which he had erected on the verge of Europe and
+ Asia.","('Constantine', 'PERSON'), ('Europe', 'LOC'), ('Asia', 'LOC')"
+"The superior forces of Uldin, 
+ king of the Huns, opposed the progress of Gainas; an hostile
+ and ruined country prohibited his retreat; he disdained to
+ capitulate; and after repeatedly attempting to cut his way
+ through the ranks of the enemy, A.D. 401, January 3. he was slain, with his desperate followers, in the field of battle.","('Uldin', 'PERSON'), ('Huns', 'NORP'), ('Gainas', 'PERSON'), ('401', 'CARDINAL'), ('January 3', 'DATE')"
+"The synod (49) 
+ was convened in the suburb of Chalcedon, surnamed the oak,
+ where Rufinus had erected a stately church and monastery;
+ and their proceedings were continued during fourteen days or
+ sessions.","('49', 'DATE'), ('Chalcedon', 'GPE'), ('Rufinus', 'GPE'), ('fourteen days', 'DATE')"
+"The synod of
+ the oak immediately addressed the emperor to ratify and
+ execute their judgment, and charitably insinuated that the
+ penalties of treason might be inflicted on the audacious
+ preacher, who had reviled, under the name of Jezebel, the
+ empress Eudoxia herself.","('Jezebel', 'PERSON'), ('Eudoxia', 'PERSON')"
+"The triumphs of Arcadius became
+ the subject of epic poems; (40) and the monarch, no longer 
+ oppressed by any hostile terrors, resigned himself to the
+ mild and absolute dominion of his wife, the fair and artful
+ Eudoxia, who has sullied her fame by the persecution of St.
+ John Chrysostom.","('Arcadius', 'PERSON'), ('40', 'CARDINAL'), ('Eudoxia', 'PERSON'), ('St.\r\n John Chrysostom', 'PERSON')"
+"The usual methods of
+ extortion were practised and improved; and Claudian has
+ sketched a lively and original picture of the public auction
+ of the state.","('Claudian', 'PERSON')"
+"The vain hope of eluding, by a change of place, the
+ obligation of an oath, engaged the empress to transfer the
+ scene of his trial and execution from Constantinople to the
+ adjacent suburb of Chalcedon.","('Constantinople', 'GPE'), ('Chalcedon', 'GPE')"
+"The vineyards and fruitful fields between
+ the rapid Marsyas and the winding Maeander (23) were consumed 
+ with fire; the decayed walls of the cities crumbled into
+ dust at the first stroke of an enemy; the trembling
+ inhabitants escaped from a bloody massacre to the shores of
+ the Hellespont; and a considerable part of Asia Minor was
+ desolated by the rebellion of Tribigild.","('Marsyas', 'PRODUCT'), ('Maeander', 'PRODUCT'), ('23', 'CARDINAL'), ('first', 'ORDINAL'), ('Hellespont', 'GPE'), ('Asia Minor', 'LOC'), ('Tribigild', 'GPE')"
+"Their dominions were bounded by the Hadriatic and the
+ Tigris; and the whole interval of twenty-five days'
+ navigation, which separated the extreme cold of Scythia from
+ the torrid zone of Aethiopia, (2) was comprehended within the 
+ limits of the empire of the East.","('Hadriatic', 'NORP'), ('Tigris', 'LOC'), (""twenty-five days'"", 'DATE'), ('Scythia', 'GPE'), ('Aethiopia', 'GPE'), ('2', 'CARDINAL'), ('East', 'LOC')"
+Theodosius II.,"('Theodosius II', 'PERSON')"
+"Theodosius devoutly
+ worshipped the dead and living saints of the catholic
+ church; and he once refused to eat till an insolent monk,
+ who had cast an excommunication on his sovereign,
+ condescended to heal the spiritual wound which he had
+ inflicted.","('Theodosius', 'PERSON')"
+"Theodosius the younger was never reduced to the disgraceful
+ necessity of encountering and punishing a rebellious
+ subject: and since we cannot applaud the vigour, some praise
+ may be due to the mildness and prosperity, of the
+ administration of Pulcheria.","('Theodosius', 'PERSON'), ('Pulcheria', 'ORG')"
+"Theodosius, concealed behind a curtain in the apartment of
+ his sister, was permitted to behold the Athenian virgin: the
+ modest youth immediately declared his pure and honourable
+ love, and the royal nuptials were celebrated amidst the
+ acclamations of the capital and the provinces.","('Theodosius', 'PERSON'), ('Athenian', 'NORP')"
+"Theophilus escaped, but the promiscuous
+ crowd of monks and Egyptian mariners was slaughtered without
+ pity in the streets of Constantinople. (50)","('Theophilus', 'PERSON'), ('Egyptian', 'NORP'), ('Constantinople', 'GPE'), ('50', 'CARDINAL')"
+"They insinuated themselves into
+ the confidence of the prince but their ostensible functions
+ were confined to the menial service of the wardrobe and
+ Imperial bedchamber.","('Imperial', 'ORG')"
+"They might direct in a whisper the
+ public counsels, and blast by their malicious suggestions
+ the fame and fortunes of the most illustrious citizens; but
+ they never presumed to stand forward in the front of empire,  (4) or to profane the public honours of the state.","('4', 'CARDINAL')"
+"They resented the injurious precaution; and
+ some alarming attempts were made during the night July 20 to attack
+ and destroy with fire the Imperial palace. (36)","('the night July 20', 'DATE'), ('Imperial', 'NORP')"
+"They unanimously attribute
+ to the Christian orator the free command of an elegant and
+ copious language; the judgment to conceal the advantages
+ which he derived from the knowledge of rhetoric and
+ philosophy; an inexhaustible fund of metaphors and
+ similitudes, of ideas and images, to vary and illustrate the
+ most familiar topics; the happy art of engaging the passions
+ in the service of virtue, and of exposing the folly as well
+ as the turpitude of vice almost with the truth and spirit of
+ a dramatic representation.","('Christian', 'NORP')"
+"This ecclesiastical conspiracy was managed by Theophilus, (47) 
+ archbishop of Alexandria, an active and ambitious prelate,
+ who displayed the fruits of rapine in monuments of
+ ostentation.","('Theophilus', 'PERSON'), ('47', 'DATE'), ('Alexandria', 'GPE')"
+"This species of fictitious and metaphorical treason is extended to protect not only the illustrious officers of the state and army who are admitted into the sacred consistory, but likewise the principal domestics of the palace, the senators of Constantinople, the military commanders, and the civil magistrates of the provinces: a vague and indefinite list, which, under the successors of Constantine, included an obscure and numerous train of subordinate ministers.","('Constantinople', 'GPE'), ('Constantine', 'PERSON')"
+"This strange and inexpiable prodigy (8) awakened, however, the prejudices of the Romans.","('Romans', 'NORP')"
+"This usurpation excited the jealousy of the Roman government; but the rising disputes were soon terminated by an amicable, though unequal, partition of the ancient kingdom of Armenia; and a territorial acquisition, which Augustus might have despised, reflected some lustre on the declining empire of the younger Theodosius.","('Roman', 'NORP'), ('Armenia', 'GPE'), ('Augustus', 'PERSON'), ('Theodosius', 'PERSON')"
+This venal prostitution of public honours secured the impunity of future crimes; but the riches which Eutropius derived from confiscation were already stained with injustice; since it was decent to accuse and to condemn the proprietors of the wealth which he was impatient to confiscate.,"('Eutropius', 'PERSON')"
+"Timasius had despised the public clamour by promoting an infamous dependent to the command of a cohort; and he deserved to feel the ingratitude of Bargus, who was secretly instigated by the favourite to accuse his patron of a treasonable conspiracy.","('Timasius', 'PERSON'), ('Bargus', 'PERSON')"
+"To the Imperial
+ court he repeatedly magnified the valour, the genius, the
+ inexhaustible resources of Tribigild, confessed his own
+ inability to prosecute the war, and extorted the permission
+ of negotiating with his invincible adversary.","('the Imperial\r\n court', 'ORG'), ('Tribigild', 'PERSON')"
+"Tribigild surprised the unguarded camp
+ of the Romans in the darkness of the night, seduced the
+ faith of the greater part of the barbarian auxiliaries, and
+ dissipated without much effort the troops which had been
+ corrupted by the relaxation of discipline and the luxury of
+ the capital.","('Tribigild', 'PERSON'), ('Romans', 'NORP')"
+"Two passions, however—fear and conjugal
+ affection—awakened the languid soul of Arcadius: he was
+ terrified by the threats of a victorious barbarian, and he
+ yielded to the tender eloquence of his wife Eudoxia, who,
+ with a flood of artificial tears, presenting her infant
+ children to their father, implored his justice for some real
+ or imaginary insult which she imputed to the audacious
+ eunuch. (28)","('Two', 'CARDINAL'), ('Arcadius', 'PERSON'), ('Eudoxia', 'PERSON')"
+"Uldin, with a formidable host of barbarians,
+ was encamped in the heart of Thrace; he proudly rejected all
+ terms of accommodation; and, pointing to the rising sun,
+ declared to the Roman ambassadors that the course of that
+ planet should alone terminate the conquests of the Huns.","('Uldin', 'PERSON'), ('Thrace', 'LOC'), ('Roman', 'NORP'), ('Huns', 'NORP')"
+"Under the weakest of the
+ predecessors of Arcadius the reign of the eunuchs had been
+ secret and almost invisible.","('Arcadius', 'PERSON')"
+"When Chrysostom thundered from the pulpit of St. Sophia
+ against the degeneracy of the Christians, his shafts were
+ spent among the crowd, without wounding or even marking the
+ character of any individual.","('Chrysostom', 'PERSON'), ('St. Sophia', 'GPE'), ('Christians', 'NORP')"
+"When Gainas passed the Hellespont, to unite 
+ under his standard the remains of the Asiatic troops, he
+ skilfully adapted his motions to the wishes of the
+ Ostrogoths, abandoning by his retreat the country which they
+ desired to invade, or facilitating by his approach the
+ desertion of the barbarian auxiliaries.","('Gainas', 'PERSON'), ('Hellespont', 'PERSON'), ('Asiatic', 'NORP'), ('Ostrogoths', 'NORP')"
+"Whenever Tribigild
+ advanced into the inland country, the Romans were inclined
+ to suppose that he meditated the passage of Mount Taurus and
+ the invasion of Syria.","('Tribigild', 'PERSON'), ('Romans', 'NORP'), ('Mount Taurus', 'LOC'), ('Syria', 'GPE')"
+"While this domestic revolution was transacted, Gainas (33) 
+ openly revolted from his allegiance, united his forces at
+ Thyatira in Lydia with those of Tribigild, and still
+ maintained his superior ascendant over the rebellious leader
+ of the Ostrogoths.","('Gainas', 'PERSON'), ('33', 'DATE'), ('Thyatira', 'GPE'), ('Lydia', 'PERSON'), ('Tribigild', 'PERSON'), ('Ostrogoths', 'NORP')"
+"Yet
+ Chrysostom arrived in safety at the place of his
+ confinement; and the three years which he spent at Cucusus,
+ and the neighbouring town of Arabissus, were the last and
+ most glorious of his life.","('Chrysostom', 'PERSON'), ('the three years', 'DATE'), ('Cucusus', 'GPE'), ('Arabissus', 'GPE')"
+"Yet a reasonable doubt may be entertained whether any stain
+ of hereditary guilt could be derived from Arcadius to his
+ successor.","('Arcadius', 'PERSON')"
+"Yet the devotion of  Pulcheria never diverted her indefatigable attention from temporal affairs; and she alone, among all the descendants of the great Theodosius, appears to have inherited any share of his manly spirit and abilities.","('Pulcheria', 'PERSON'), ('Theodosius', 'PERSON')"
+"Yet the splendid victories which the incredible
+ speed of the messenger Palladius repeatedly announced to the
+ palace of Constantinople were celebrated with festivals and
+ panegyrics.","('Palladius', 'PERSON'), ('Constantinople', 'GPE')"
+"Yet these sanguinary laws, which spread terror among a
+ disarmed and dispirited people, were of too weak a texture
+ to restrain the bold enterprise of Tribigild  (21) the 
+ Ostrogoth.","('Tribigild', 'ORG'), ('21', 'CARDINAL')"
+"he expired at Comana, in Pontus, in the sixtieth year of his age.","('Comana', 'ORG'), ('Pontus', 'GPE'), ('the sixtieth year', 'DATE')"

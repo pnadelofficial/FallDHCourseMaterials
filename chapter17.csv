@@ -1,0 +1,1691 @@
+Sentence,Entities
+(11),"('11', 'CARDINAL')"
+(110),"('110', 'CARDINAL')"
+(111),"('111', 'CARDINAL')"
+(113),"('113', 'CARDINAL')"
+(115),"('115', 'CARDINAL')"
+(118),"('118', 'CARDINAL')"
+(124),"('124', 'CARDINAL')"
+(13),"('13', 'CARDINAL')"
+(131),"('131', 'CARDINAL')"
+(135),"('135', 'CARDINAL')"
+(137),"('137', 'CARDINAL')"
+(14),"('14', 'CARDINAL')"
+(141),"('141', 'CARDINAL')"
+(15),"('15', 'CARDINAL')"
+(151),"('151', 'CARDINAL')"
+(16),"('16', 'CARDINAL')"
+(164),"('164', 'CARDINAL')"
+(165),"('165', 'CARDINAL')"
+(170),"('170', 'CARDINAL')"
+(173),"('173', 'CARDINAL')"
+(176),"('176', 'CARDINAL')"
+(179),"('179', 'CARDINAL')"
+(2),"('2', 'CARDINAL')"
+"(3) A crowd of temples and of votive altars, 
+ profusely scattered along its steep and woody banks,
+ attested the unskilfulness, the terrors, and the devotion of
+ the Grecian navigators who, after the example of the
+ Argonauts, explored the dangers of the inhospitable Euxine.","('3', 'CARDINAL'), ('Grecian', 'NORP'), ('Argonauts', 'LOC'), ('Euxine', 'NORP')"
+(41),"('41', 'CARDINAL')"
+(45),"('45', 'CARDINAL')"
+(51),"('51', 'CARDINAL')"
+(54),"('54', 'CARDINAL')"
+(6),"('6', 'CARDINAL')"
+"1. For the preservation of peace and order, the governors of the provinces were armed with the sword of
+ justice.","('1', 'CARDINAL')"
+"1. The
+ praefect of the East stretched his ample jurisdiction into
+ the three parts of the globe which were subject to the
+ Romans, from the cataracts of the Nile to the banks of the
+ Phasis, and from the mountains of Thrace to the frontiers of
+ Persia.","('1', 'CARDINAL'), ('East', 'LOC'), ('three', 'CARDINAL'), ('Romans', 'NORP'), ('Nile', 'LOC'), ('Phasis', 'LOC'), ('Thrace', 'LOC'), ('Persia', 'LOC')"
+"2. As it was reasonably apprehended that the integrity of the judge might be biased, if his interest was concerned or his affections were engaged, the strictest regulations were established to exclude any person, without the special dispensation of the emperor, from the government of the province where he was born, (116) and to prohibit the governor or his son from  contracting marriage with a native or an inhabitant, (117) or 
+ from purchasing slaves, lands, or houses within the extent of his jurisdiction.","('2', 'CARDINAL'), ('116', 'CARDINAL'), ('117', 'CARDINAL')"
+"2. The important provinces of Pannonia, Dacia,
+ Macedonia, and Greece once acknowledged the authority of the
+ praefect of Illyricum.","('2', 'CARDINAL'), ('Pannonia', 'GPE'), ('Dacia', 'GPE'), ('Macedonia', 'GPE'), ('Greece', 'GPE'), ('Illyricum', 'ORG')"
+2. The principal administration of public affairs was committed to the diligence and abilities of the master of the 0ffices. (145),"('2', 'CARDINAL'), ('145', 'CARDINAL')"
+"3. The power of the praefect of
+ Italy was not confined to the country from whence he derived
+ his title; it extended over the additional territory of
+ Rhaetia as far as the banks of the Danube, over the
+ dependent islands of the Mediterranean, and over that part
+ of the continent of Africa which lies between the confines
+ of Cyrene and those of Tingitania.","('3', 'CARDINAL'), ('Italy', 'GPE'), ('Rhaetia', 'GPE'), ('Danube', 'LOC'), ('Mediterranean', 'LOC'), ('Africa', 'LOC'), ('Cyrene', 'LOC'), ('Tingitania', 'GPE')"
+"4. The praefect of the
+ Gauls comprehended under that plural denomination the
+ kindred provinces of Britain and Spain, and his authority
+ was obeyed from the wall of Antoninus to the foot of Mount
+ Atlas. (99)","('4', 'CARDINAL'), ('Gauls', 'NORP'), ('Britain', 'GPE'), ('Spain', 'GPE'), ('Antoninus', 'GPE'), ('Mount\r\n Atlas', 'LOC'), ('99', 'CARDINAL')"
+5.,"('5', 'CARDINAL')"
+"6, 7. The chosen bands of cavalry and infantry, which guarded the person of the emperor, were under the immediate command of the two counts of the domestics.","('6', 'CARDINAL'), ('7', 'CARDINAL'), ('two', 'CARDINAL')"
+"A faithful subject, of Syria
+ perhaps, or of Britain, was exposed to the danger, or at
+ least to the dread, of being dragged in chains to the court
+ of Milan or Constantinople, to defend his life and fortune
+ against the malicious charge of these privileged informers.","('Syria', 'GPE'), ('Britain', 'GPE'), ('Milan', 'GPE'), ('Constantinople', 'GPE')"
+"A few years afterwards these gigantic bodies were
+ shrunk to a very diminutive size; and when seven legions,
+ with some auxiliaries, defended the city of Amida against
+ the Persians, the total garrison, with the inhabitants of
+ both sexes, and the peasants of the deserted country, did
+ not exceed the number of twenty thousand persons. (132)","('A few years afterwards', 'DATE'), ('seven', 'CARDINAL'), ('Amida', 'GPE'), ('Persians', 'NORP'), ('twenty thousand', 'CARDINAL'), ('132', 'CARDINAL')"
+"A gold belt was the
+ ensign which distinguished the office of the counts and
+ dukes; and, besides their pay, they received a liberal
+ allowance sufficient to maintain one hundred and ninety
+ servants and one hundred and fifty-eight horses.","('one hundred and ninety', 'CARDINAL'), ('one hundred and fifty-eight', 'CARDINAL')"
+"A just 
+ analogy would seem to countenance the opinion of an
+ ingenious historian,  (188) that the free and tributary 
+ citizens did not surpass the number of half a million; and
+ if, in the ordinary administration of government, their
+ annual payments may be computed at about four millions and a
+ half of our money, it would appear that, although the share
+ of each individual was four times as considerable, a fourth
+ part only of the modern taxes of France was levied on the
+ Imperial province of Gaul.","('188', 'CARDINAL'), ('half a million', 'CARDINAL'), ('annual', 'DATE'), ('about four millions and a\r\n half', 'CARDINAL'), ('four', 'CARDINAL'), ('fourth', 'ORDINAL'), ('France', 'GPE'), ('Imperial', 'NORP'), ('Gaul', 'PERSON')"
+"A moderate proportion between these 
+ opposite extremes of extraordinary oppression and of
+ transient indulgence may therefore be fixed at sixteen
+ pieces of gold, or about nine pounds sterling, the common
+ standard, perhaps, of the impositions of Gaul. (181)","('sixteen', 'CARDINAL'), ('about nine pounds', 'QUANTITY'), ('181', 'CARDINAL')"
+"A more particular 
+ enumeration, drawn from the Notitia, might exercise the
+ diligence of an antiquary; but the historian will content
+ himself with observing that the number of permanent stations
+ or garrisons established on the frontiers of the empire
+ amounted to five hundred and eighty-three; and that, under
+ the successors of Constantine, the complete force of
+ military establishment was computed at six hundred and
+ forty-five thousand soldiers.","('Notitia', 'PERSON'), ('five hundred and eighty-three', 'CARDINAL'), ('Constantine', 'PERSON'), ('six hundred and\r\n forty-five thousand', 'CARDINAL')"
+"A multitude 
+ of labourers and artificers urged the conclusion of the work
+ with incessant toil; but the impatience of Constantine soon
+ discovered that, in the decline of the arts, the skill as
+ well as numbers of his architects bore a very unequal
+ proportion to the greatness of his designs.","('Constantine', 'PERSON')"
+"A nation of
+ legislators and conquerors might assert their claim to the
+ harvests of Africa, which had been purchased with their
+ blood; and it was artfully contrived by Augustus, that, in
+ the enjoyment of plenty, the Romans should lose the memory
+ of freedom.","('Africa', 'LOC'), ('Augustus', 'PERSON'), ('Romans', 'NORP')"
+"A particular description composed about a century after its foundation, enumerates a capitol or school
+ of learning, a circus, two theatres, eight public and one
+ hundred and fifty-three private baths, fifty-two porticoes,
+ five granaries, eight aqueducts or reservoirs of water, four
+ spacious halls for the meetings of the senate or courts of
+ justice, fourteen churches, fourteen palaces, and four
+ thousand three hundred and eighty-eight houses which, for
+ their size or beauty, deserved to be distinguished from the
+ multitude of plebeian habitations. (52)
+Population","('about a century', 'DATE'), ('two', 'CARDINAL'), ('eight', 'CARDINAL'), ('one\r\n hundred and fifty-three', 'CARDINAL'), ('fifty-two', 'CARDINAL'), ('five', 'CARDINAL'), ('eight', 'CARDINAL'), ('four', 'CARDINAL'), ('fourteen', 'CARDINAL'), ('fourteen', 'CARDINAL'), ('four\r\n thousand three hundred and eighty-eight', 'CARDINAL')"
+"A perfect
+ equality was established between the dignity of the two
+ municipal and that of the four Praetorian praefects. (109)","('two', 'CARDINAL'), ('four', 'CARDINAL'), ('Praetorian', 'NORP'), ('109', 'CARDINAL')"
+"A sea contracted 
+ within such narrow limit may seem but ill to deserve the
+ singular epithet of broad, which Homer, as well as Orpheus,
+ has frequently bestowed on the Hellespont.","('Homer', 'PERSON'), ('Orpheus', 'PERSON'), ('Hellespont', 'PRODUCT')"
+"A third and more numerous class of
+ inhabitants will insensibly be formed, of servants, of
+ artificers, and of merchants, who derive their subsistence
+ from their own labour, and from the wants or luxury of the
+ superior ranks.","('third', 'ORDINAL')"
+A.D. 324,"('A.D. 324', 'DATE')"
+A.D. 330 or 334.,"('330', 'CARDINAL'), ('334', 'CARDINAL')"
+"About
+ thirty years after the foundation of Constantinople a
+ similar magistrate was created in that rising metropolis,
+ for the same uses and with the same powers.","('About\r\n thirty years', 'DATE'), ('Constantinople', 'GPE')"
+"About 
+ a century after the death of the founder, the new buildings,
+ extending on one side up the harbour, and on the other along
+ the Propontis, already covered the narrow ridge of the sixth
+ and the broad summit of the seventh hill.","('About \r\n a century', 'DATE'), ('one', 'CARDINAL'), ('Propontis', 'FAC'), ('sixth', 'ORDINAL'), ('seventh', 'ORDINAL')"
+"About the same time that Constantine gave a
+ legal sanction to the ecclesiastical order, he instituted in
+ the Roman empire the nice balance of the civil and the
+ military powers.","('Constantine', 'PERSON'), ('Roman', 'NORP')"
+"According to the different nature of
+ lands, their real produce in the various articles of wine or
+ oil, corn or barley, wood or iron, was transported by the
+ labour or at the expense of the provincials to the Imperial
+ magazines, from whence they were occasionally distributed,
+ for the use of the court, of the army, and of the two
+ capitals, Rome and Constantinople.","('Imperial', 'ORG'), ('two', 'CARDINAL'), ('Rome', 'GPE'), ('Constantinople', 'GPE')"
+"According to the new division of Italy, the fertile
+ and happy province of Campania, the scene of the early
+ victories and of the delicious retirements of the citizens
+ of Rome, extended between the sea and the Apennine from the
+ Tiber to the Silarus.","('Italy', 'GPE'), ('Campania', 'GPE'), ('Rome', 'GPE'), ('Apennine', 'LOC'), ('Tiber', 'LOC'), ('Silarus', 'LOC')"
+"According to the plan of government instituted by
+ Diocletian, the four princes had each their Praetorian
+ praefect; and after the monarchy was once more united in the
+ person of Constantine, he still continued to create the same
+ number of FOUR PRAEFECTS, and intrusted to their care the
+ same provinces which they already administered.","('Diocletian', 'PERSON'), ('four', 'CARDINAL'), ('Praetorian', 'NORP'), ('Constantine', 'PERSON'), ('FOUR', 'CARDINAL')"
+"After Ajax had fallen a sacrifice to his
+ disappointed pride and to the ingratitude of the Greeks, his
+ sepulchre was created on the ground where he had defended
+ the navy against the rage of Jove and Hector; and the
+ citizens of the rising town of Rhoeteum celebrated his
+ memory with divine honours. (20)","('Ajax', 'PERSON'), ('Greeks', 'NORP'), ('Jove', 'PERSON'), ('Hector', 'PERSON'), ('Rhoeteum', 'GPE'), ('20', 'CARDINAL')"
+"After a
+ regular course of education, which lasted five years, the
+ students dispersed themselves through the provinces in
+ search of fortune and honours; nor could they want an
+ inexhaustible supply of business in a great empire already
+ corrupted by the multiplicity of laws, of arts, and of
+ vices.","('five years', 'DATE')"
+"After a tranquil and prosperous reign the conqueror bequeathed to his family the inheritance of the Roman empire; a new capital, a new policy, and a new religion; and the innovations which he established have been embraced and consecrated by succeeding generations.","('Roman', 'NORP')"
+"After the Praetorian praefects had been dismissed from all
+ military command, the civil functions which they were
+ ordained to exercise over so many subject nations were
+ adequate to the ambition and abilities of the most
+ consummate ministers.","('Praetorian', 'NORP')"
+"After the defeat and abdication of Licinius his victorious
+ rival proceeded to lay the foundations of a city destined to
+ reign in future times the mistress of the East, and to
+ survive the empire and religion of Constantine.","('Licinius', 'PERSON'), ('East', 'LOC'), ('Constantine', 'PERSON')"
+"After the office of Roman consuls
+ had been changed into a vain pageant, which was rarely
+ displayed in the capital, the praefects assumed their vacant
+ place in the senate, and were soon acknowledged as the
+ ordinary presidents of that venerable assembly.","('Roman', 'NORP')"
+"After the use of these internal garrisons had
+ ceased with the civil war, the conqueror wanted either
+ wisdom or firmness to revive the severe discipline of
+ Diocletian, and to suppress a fatal indulgence which habit
+ had endeared and almost confirmed to the military order.","('Diocletian', 'PERSON')"
+"All the magistrates of sufficient importance to find a place
+ in the general state of the empire were accurately divided
+ into three classes - 1, The Illustrious; 2, The
+ Spectabiles, or Respectable; and, 3, The Clarissimi,
+ whom we may translate by the word Honourable.","('three', 'CARDINAL'), ('1', 'CARDINAL'), ('Illustrious', 'WORK_OF_ART'), ('2', 'CARDINAL'), ('Spectabiles', 'WORK_OF_ART'), ('3', 'CARDINAL'), ('Clarissimi', 'PERSON')"
+"All these provincial generals
+ were therefore dukes; but no more than ten among them were
+ dignified with the rank of counts or companions, a title
+ of honour, or rather of favour, which had been recently
+ invented in the court of Constantine.","('more than ten', 'CARDINAL'), ('Constantine', 'PERSON')"
+"An accurate census,
+  (174) or survey, was the only equitable mode of ascertaining 
+ the proportion which every citizen should be obliged to
+ contribute for the public service; and from the well-known
+ period of the indictions, there is reason to believe that
+ this difficult and expensive operation was repeated at the
+ regular distance of fifteen years.","('174', 'CARDINAL'), ('fifteen years', 'DATE')"
+"And not a vestige was left of that severe
+ simplicity which, in the ages of freedom and victory, had
+ distinguished the line of battle of a Roman army from the
+ confused host of an Asiatic monarch. (134)","('Roman', 'NORP'), ('Asiatic', 'NORP'), ('134', 'CARDINAL')"
+"As
+ the safety of the emperor was avowedly preferred to every
+ consideration of justice or humanity, the dignity of age and
+ the tenderness of youth were alike exposed to the most cruel
+ tortures; and the terrors of a malicious information, which
+ might select them as the accomplices, or even as the
+ witnesses, perhaps, of an imaginary crime, perpetually hung
+ over the heads of the principal citizens of the Roman world.
+  (168)
+Finances","('Roman', 'NORP'), ('168', 'CARDINAL')"
+"As Constantine urged the progress of the work with the
+ impatience of a lover, the walls, the porticoes, and the
+ principal edifices were completed in a few years, or,
+ according to another account, in a few months: (64) but this 
+ extraordinary diligence should excite the less admiration,
+ since many of the buildings were finished in so hasty and
+ imperfect a manner, that, under the succeeding reign, they
+ were preserved with difficulty from impending ruin. (65)","('Constantine', 'PERSON'), ('a few years', 'DATE'), ('a few months', 'DATE'), ('64', 'CARDINAL')"
+"As long as the Roman consuls were the first magistrates
+ of a free state, they derived their right to power from the
+ choice of the people.","('Roman', 'NORP'), ('first', 'ORDINAL')"
+"As long as they maintained their ancient
+ establishment of six thousand men, they subsisted, under the
+ reign of Diocletian, each of them singly, a visible and
+ important object in the military history of the Roman
+ empire.","('six thousand', 'CARDINAL'), ('Diocletian', 'PERSON'), ('Roman', 'NORP')"
+"As often as the
+ birthday of the city returned, the statue of Constantine,
+ framed by his order, of gilt wood, and bearing in its right
+ hand a small image of the genius of the place, was erected
+ on a triumphal car.","('Constantine', 'PERSON')"
+"As soon as the consuls had discharged 
+ these customary duties, they were at liberty to retire into
+ the shade of private life, and to enjoy during the remainder
+ of the year the undisturbed contemplation of their own
+ greatness.","('the year', 'DATE')"
+"As the
+ vicissitudes of tides are scarcely felt in those seas, the
+ constant depth of the harbour allows goods to be landed on
+ the quays without the assistance of boats; and it has been
+ observed that, in many places, the largest vessels may rest
+ their prows against the houses while their sterns are
+ floating in the water. (12)","('12', 'CARDINAL')"
+"As the footsteps of the barbarians had not yet
+ been seen in Italy, the cause of this amazing desolation,
+ which is recorded in the laws, can be ascribed only to the
+ administration of the Roman emperors. (178)","('Italy', 'GPE'), ('Roman', 'NORP'), ('178', 'CARDINAL')"
+"As the immediate representatives of the Imperial majesty,
+ they were empowered to explain, to enforce, and on some
+ occasions to modify, the general edicts by their
+ discretionary proclamations.","('Imperial', 'ORG')"
+"As the orations which he composed in the name of the emperor (150) acquired the force, and at length the form, of absolute edicts, he was considered as the representative of the legislative power, the oracle of the council, and the original source of the civil jurisprudence.","('150', 'CARDINAL')"
+"As the sense of 
+ liberty became less exquisite, the advantages of order were
+ more clearly understood; and the praefect, who seemed to
+ have been designed as a terror only to slaves and vagrants,
+ was permitted to extend his civil and criminal jurisdiction
+ over the equestrian and noble families of Rome.","('Rome', 'GPE')"
+"As this general tax upon industry was collected
+ every fourth year, it was styled the Lustral Contribution:
+ and the historian Zosimus (190) laments that the approach of 
+ the fatal period was announced by the tears and terrors of
+ the citizens, who were often compelled by the impending
+ scourge to embrace the most abhorred and unnatural methods
+ of procuring the sum at which their poverty had been
+ assessed.","('every fourth year', 'DATE'), ('the Lustral Contribution', 'WORK_OF_ART'), ('Zosimus', 'PERSON'), ('190', 'CARDINAL')"
+"At a small distance 
+ from the old castles we discover the little town of
+ Chrysopolis, or Scutari, which may almost be considered as
+ the Asiatic suburb of Constantinople.","('Chrysopolis', 'GPE'), ('Scutari', 'GPE'), ('Asiatic', 'NORP'), ('Constantinople', 'GPE')"
+"At the festival of the dedication, an 
+ edict, engraved on a column of marble, bestowed the title of
+ SECOND or NEW ROME on the city of Constantine. (68)","('Constantine', 'PERSON'), ('68', 'CARDINAL')"
+"Barbarians are urged by their love
+ of war; the citizens of a free republic may be prompted by a
+ principle of duty; the subjects, or at least the nobles, of
+ a monarchy are animated by a sentiment of honour; but the
+ timid and luxurious inhabitants of a declining empire must
+ be allured into the service by the hopes of profit, or
+ compelled by the dread of punishment.","('Barbarians', 'NORP')"
+"Before Constantine gave a 
+ just preference to the situation of Byzantium, he had
+ conceived the design of erecting the seat of empire on this
+ celebrated spot, from whence the Romans derived their
+ fabulous origin.","('Constantine', 'PERSON'), ('Byzantium', 'GPE'), ('Romans', 'NORP')"
+"Besides the magistrates and generals, who at a distance
+ from the court diffused their delegated authority over the
+ provinces and armies, the emperor conferred the rank of
+ Illustrious on seven of his more immediate servants, to
+ whose fidelity he intrusted his safety, or his counsels, or
+ his treasures.","('seven', 'CARDINAL')"
+"But 
+ these were not the valuable inhabitants: the plains that
+ stretch from the foot of Mount Argaeus to the banks of the
+ Sarus bred a generous race of horses, renowned above all
+ others in the ancient world for their majestic shape and
+ incomparable swiftness.","('Mount Argaeus', 'LOC'), ('Sarus', 'LOC')"
+"But 
+ when the passages of the straits were thrown open for trade,
+ they alternately admitted the natural and artificial riches
+ of the north and south, of the Euxine and of the
+ Mediterranean.","('Euxine', 'LOC'), ('Mediterranean', 'LOC')"
+"But a fatal maxim was introduced into the new 
+ jurisprudence of the empire, that in the case of treason,
+ which included every offence that the subtlety of lawyers
+ could derive from an hostile intention towards the prince or
+ republic, (167) all privileges were suspended, and all 
+ conditions were reduced to the same ignominious level.","('167', 'CARDINAL')"
+"But as some decent mixture of prodigy and fable
+ has, in every age, been supposed to reflect a becoming
+ majesty on the origin of great cities, (25) the emperor was 
+ desirous of ascribing his resolution not so much to the
+ uncertain counsels of human policy as to the infallible and
+ eternal decrees of divine wisdom.","('25', 'CARDINAL')"
+"But as the account between the monarch and the subject was
+ perpetually open, and as the renewal of the demand
+ anticipated the perfect discharge of the preceding
+ obligation, the weighty machine of the finances was moved by
+ the same hands round the circle of its yearly revolution.","('yearly', 'DATE')"
+"But it is
+ not in the city of Constantine, nor in the declining period
+ of an empire, when the human mind was depressed by civil and
+ religious slavery, that we should seek for the souls of
+ Homer and of Demosthenes.","('Constantine', 'GPE'), ('Homer', 'PERSON'), ('Demosthenes', 'PERSON')"
+"But it should be
+ recollected that the second of those appellations is only a
+ corruption of the Latin word which was indiscriminately
+ applied to any military chief.","('second', 'ORDINAL'), ('Latin', 'LANGUAGE')"
+"But our ideas of
+ greatness are of a relative nature: the traveller, and
+ especially the poet, who sailed along the Hellespont, who
+ pursued the windings of the stream, and contemplated the
+ rural scenery, which appeared on every side to terminate the
+ prospect, insensibly lost the remembrance of the sea; and
+ his fancy painted those celebrated straits with all the
+ attributes of a mighty river, flowing with a swift current,
+ in the midst of a woody and inland country, and at length,
+ through a wide mouth, discharging itself into the Aegean or
+ Archipelago. (18) Ancient Troy, (19) seated on an eminence at 
+ the foot of Mount Ida, overlooked the mouth of the
+ Hellespont, which scarcely received an accession of waters
+ from the tribute of those immortal rivulets the Simois and
+ Scamander.","('Hellespont', 'NORP'), ('Aegean', 'LOC'), ('Archipelago', 'LOC'), ('18', 'CARDINAL'), ('Troy', 'PERSON'), ('19', 'CARDINAL'), ('Mount Ida', 'LOC'), ('Hellespont', 'GPE'), ('Simois', 'PERSON'), ('Scamander', 'PERSON')"
+"But the civil 
+ government of the empire was distributed into thirteen great
+ DIOCESES, each of which equalled the just measure of a
+ powerful kingdom.","('thirteen', 'CARDINAL')"
+"But the far greater part
+ of the lands of ancient Gaul, as well as of the other
+ provinces of the Roman world, were cultivated by slaves, or
+ by peasants, whose dependent condition was a less rigid
+ servitude. (184)","('Gaul', 'LOC'), ('Roman', 'NORP')"
+"But the name of Constantinople (69) has prevailed over that honourable epithet, and after the revolution of fourteen centuries
+ still perpetuates the fame of its author. (70)","('Constantinople', 'GPE'), ('69', 'CARDINAL'), ('fourteen centuries', 'DATE'), ('70', 'CARDINAL')"
+"But the narrowest part of the channel is found to the
+ northward of the old Turkish castles, between the cities of
+ Sestus and Abydus.","('Turkish', 'NORP'), ('Sestus', 'GPE'), ('Abydus', 'GPE')"
+"But the prodigality of Constantine could not be
+ excused by any consideration either of public or private
+ interest; and the annual tribute of corn imposed upon Egypt
+ for the benefit of his new capital was applied to feed a
+ lazy and insolent populace, at the expense of the husbandmen
+ of an industrious province. (59)","('Constantine', 'PERSON'), ('Egypt', 'GPE'), ('59', 'CARDINAL')"
+"But the suburbs of Pera and Galata, though situate 
+ beyond the harbour, may deserve to be considered as a part
+ of the city; (35) and this addition may perhaps authorise the 
+ measure of a Byzantine historian, who assigns sixteen Greek
+ (about fourteen Roman) miles for the circumference of his
+ native city. (36)","('Pera', 'GPE'), ('Galata', 'GPE'), ('Byzantine', 'NORP'), ('sixteen', 'CARDINAL'), ('Greek', 'NORP'), ('fourteen Roman) miles', 'QUANTITY'), ('36', 'CARDINAL')"
+"But their spirit was
+ degraded by the humiliating reflection that they, who were
+ exposed to the hardships and dangers of a perpetual warfare,
+ were rewarded only with about two-thirds of the pay and
+ emoluments which were lavished on the troops of the court.","('about two-thirds', 'CARDINAL')"
+"But these 
+ artificial supplies (in which the reigning house was always
+ included) were rapidly swept away by the rage of tyrants, by
+ frequent revolutions, by the change of manners, and by the
+ intermixture of nations. (97)","('97', 'CARDINAL')"
+"But these distinctions, so incompatible
+ with the spirit of a free people, were removed, after a long
+ struggle, by the persevering efforts of the Tribunes.","('Tribunes', 'ORG')"
+"But this
+ reflection, which would tend to alleviate the miseries of
+ despotism, is contradicted at least by the history of the
+ Roman empire; which accuses the same princes of despoiling
+ the senate of its authority, and the provinces of their
+ wealth.","('Roman', 'NORP')"
+"But this 
+ calculation, or rather indeed the facts from whence it is
+ deduced, cannot fail of suggesting two difficulties to a
+ thinking mind, who will be at once surprised by the equality
+ and by the enormity of the capitation.","('two', 'CARDINAL')"
+"But when they lost 
+ even the semblance of those virtues which were derived from
+ their ancient freedom, the simplicity of Roman manners was
+ insensibly corrupted by the stately affectation of the
+ courts of Asia.","('Roman', 'NORP'), ('Asia', 'LOC')"
+"By a philosophic observer the system of the Roman government might have been mistaken for a splendid theatre, filled with players of every character and degree, who repeated the language, and imitated the passions, of their original model. (76)","('Roman', 'NORP')"
+"By his commands the cities of
+ Greece and Asia were despoiled of their most valuable
+ ornaments. (42)","('Greece', 'GPE'), ('Asia', 'LOC')"
+"Careless of fame and of justice, they
+ are described for the most part as ignorant and rapacious
+ guides, who conducted their clients through a maze of
+ expense, of delay, and of disappointment from whence, after
+ a tedious series of years, they were at length dismissed,
+ when their patience and fortune were almost exhausted.","('years', 'DATE')"
+"During the late operations of the war against Licinius he
+ had sufficient opportunity to contemplate, both as a soldier
+ and as a statesman, Situation of Byzantium the incomparable position of Byzantium;
+ and to observe how strongly it was guarded by nature against
+ an hostile attack, whilst it was accessible on every side to
+ the benefits of commercial intercourse.","('Licinius', 'PERSON'), ('Byzantium', 'GPE'), ('Byzantium', 'GPE')"
+"During the siege of Byzantium the conqueror had pitched his
+ tent on the commanding eminence of the second hill.","('Byzantium', 'GPE'), ('second', 'ORDINAL')"
+"During the vigour
+ of his age Constantine, according to the various exigencies
+ of peace and war, moved with slow dignity or with active
+ diligence along the frontiers of his extensive dominions;
+ and was always prepared to take the field either against a
+ foreign or a domestic enemy.","('Constantine', 'PERSON')"
+"Each of these was directed by an inferior master of  respectable dignity, and the whole business was despatched by an hundred and forty-eight secretaries, chosen for the most part from the profession of the law, on account of the variety of abstracts of reports and references which frequently occurred in the exercise of their several functions.","('an hundred and forty-eight', 'CARDINAL')"
+"Foundation of Constantinople — 
+Political System of Constantine and His Successors —Military Discipline —The Palace —Finances","('Constantinople', 'GPE')"
+"From a condescension which in former ages would have been deemed unworthy of the Roman majesty, a particular secretary was allowed for the Greek language; and
+ interpreters were appointed to receive the ambassadors of the barbarians; but the department of foreign affairs, which constitutes so essential a part of modern policy, seldom diverted the attention of the master of the offices.","('Roman', 'NORP'), ('Greek', 'LANGUAGE')"
+"From all the inferior
+ jurisdictions an appeal in every matter of importance,
+ either civil or criminal, might be brought before the
+ tribunal of the praefect: but his sentence was final and
+ absolute; and the emperors themselves refused to admit any
+ complaints against the judgment or the integrity of a
+ magistrate whom they honoured with such unbounded
+ confidence. (100)","('100', 'CARDINAL')"
+"From the Cyanean rocks to the point and harbour of 
+ Byzantium the winding length of the Bosphorus extends about
+ sixteen miles, (7) and its most ordinary breadth may be 
+ computed at about one mile and a half.","('Cyanean', 'NORP'), ('Byzantium', 'GPE'), ('Bosphorus', 'LOC'), ('about\r\n sixteen miles', 'QUANTITY'), ('7)', 'QUANTITY'), ('about one mile and a half', 'QUANTITY')"
+"From the eastern promontory to the golden gate, the 
+ extreme length of Constantinople was about three Roman
+ miles, (33) the circumference measured between ten and eleven, 
+ and the surface might be computed as equal to about two
+ thousand English acres.","('Constantinople', 'GPE'), ('three Roman\r\n miles', 'QUANTITY'), ('33', 'CARDINAL'), ('ten and eleven', 'CARDINAL'), ('about two\r\n thousand English acres', 'QUANTITY')"
+"From the mouth of the Lycus to 
+ that of the harbour this arm of the Bosphorus is more than
+ seven miles in length.","('Lycus', 'LOC'), ('Bosphorus', 'LOC'), ('more than\r\n seven miles', 'QUANTITY')"
+"From the reign of Constantine a popular and even legal
+ distinction was admitted between the Palatines (129) and the Borderers; the troops of the court, as they were
+ improperly styled, and the troops of the frontier.","('Constantine', 'PERSON'), ('Palatines', 'PERSON'), ('129', 'CARDINAL'), ('Borderers', 'ORG')"
+"From the reign of Diocletian even these vestiges of
+ liberty were abolished, and the successful candidates, who
+ were invested with the annual honours of the consulship,
+ affected to deplore the humiliating condition of their
+ predecessors.","('Diocletian', 'PERSON')"
+"From the reign of Severus
+ to that of Diocletian, the guards and the palace, the laws
+ and the finances, the armies and the provinces, were
+ intrusted to their superintending care; and, like the vizirs
+ of the East, they held with one hand the seal, and with the
+ other the standard, of the empire.","('Severus', 'PERSON'), ('Diocletian', 'PERSON'), ('East', 'LOC'), ('one', 'CARDINAL')"
+"From the seven schools 
+ two companies of horse and foot were selected, of the protectors, whose advantageous station was the hope and reward of the most deserving soldiers.","('seven', 'CARDINAL'), ('two', 'CARDINAL')"
+"From the throne, whence the emperor viewed the Circensian games a winding staircase (49) descended to the palace, a magnificent edifice, which scarcely yielded to the residence of Rome itself, and which, together with the dependent courts, gardens, and porticoes, covered a considerable extent of ground upon the banks of the Propontis, between the Hippodrome and the church of St. Sophia. (50)","('Circensian', 'NORP'), ('49', 'CARDINAL'), ('Rome', 'GPE'), ('Propontis', 'ORG'), ('Hippodrome', 'FAC'), ('St. Sophia', 'GPE'), ('50', 'CARDINAL')"
+"From the time of Commodus to
+ the reign of Constantine near one hundred governors might be
+ enumerated, who, with various success, erected the standard
+ of revolt; and though the innocent were too often
+ sacrificed, the guilty might be sometimes prevented, by the
+ suspicious cruelty of their master. (126)","('Commodus', 'EVENT'), ('Constantine', 'PERSON'), ('one hundred', 'CARDINAL')"
+"From their superior importance and dignity, 
+ Rome and Constantinople were alone excepted from the
+ jurisdiction of the Praetorian praefects.","('Rome', 'GPE'), ('Constantinople', 'GPE'), ('Praetorian', 'NORP')"
+"From this fact, and from similar examples, there is reason to
+ believe that the constitution of the legionary troops, to
+ which they partly owed their valour and discipline, was
+ dissolved by Constantine; and that the bands of Roman
+ infantry, which still assumed the same names and the same
+ honours, consisted only of one thousand or fifteen hundred
+ men. (133)","('Constantine', 'PERSON'), ('Roman', 'NORP'), ('one thousand or fifteen hundred', 'CARDINAL'), ('133', 'CARDINAL')"
+"He bestowed
+ on his favourites the palaces which he had built in the
+ several quarters of the city, assigned them lands and
+ pensions for the support of their dignity, (55) and alienated 
+ the demesnes of Pontus and Asia to grant hereditary estates
+ by the easy tenure of maintaining a house in the capital. (56)","('the\r\n several quarters', 'DATE'), ('Pontus', 'LOC'), ('Asia', 'LOC')"
+"He divided Constantinople into fourteen
+ regions or quarters, (60) dignified the public council with 
+ the appellation of senate, (61) communicated to the citizens 
+ the privileges of Italy, (62) and bestowed on the rising city 
+ the title of Colony, the first and most favoured daughter of
+ ancient Rome.","('Constantinople', 'GPE'), ('fourteen', 'CARDINAL'), ('Italy', 'GPE'), ('Colony', 'EVENT'), ('first', 'ORDINAL'), ('Rome', 'GPE')"
+"He was sometimes invited to take his seat in the supreme judicature of the Imperial consistory, with the Praetorian praefects and the master of the offices; and he was frequently requested to resolve the doubts of inferior judges: but as he was not oppressed with a variety of subordinate business, his leisure and talents were employed to cultivate that dignified style of eloquence which, in the corruption of taste and language, still preserves the majesty of the Roman laws.","('Imperial', 'NORP'), ('Praetorian', 'NORP'), ('Roman', 'NORP')"
+"He will adopt the division unknown to the ancients of civil and ecclesiastical affairs: the victory of  the Christians and their intestine discord, will supply copious and distinct materials both for edification and for scandal.","('Christians', 'NORP')"
+"His appointments were suitable to his 
+ dignity; (101) and, if avarice was his ruling passion, he 
+ enjoyed frequent opportunities of collecting a rich harvest
+ of fees, of presents, and of perquisites.","('101', 'CARDINAL')"
+"His duty was to attend the emperor in his hours
+ of state or in those of amusement, and to perform about his
+ person all those menial services which can only derive their
+ splendour from the influence of royalty.","('hours', 'TIME')"
+"If we survey Byzantium in the extent which it acquired with
+ the august name of Constantinople, the figure of the
+ Imperial city may be represented under that of an unequal
+ triangle.","('Byzantium', 'GPE'), ('Constantinople', 'GPE'), ('Imperial city', 'GPE')"
+"In a poetical request, addressed to
+ one of the last and most deserving of the Roman princes who
+ reigned in Gaul, Sidonius Apollinaris personifies his
+ tribute under the figure of a triple monster, the Geryon of
+ the Grecian fables, and entreats the new Hercules that he
+ would most graciously be pleased to save his life by cutting
+ off three of his heads. (182)","('one', 'CARDINAL'), ('Roman', 'NORP'), ('Gaul', 'PERSON'), ('Sidonius Apollinaris', 'PERSON'), ('Geryon', 'PERSON'), ('Grecian', 'NORP'), ('Hercules', 'PRODUCT'), ('three', 'CARDINAL'), ('182', 'CARDINAL')"
+"In less than a century Constantinople
+ disputed with Rome itself the pre-eminence of riches and
+ numbers.","('less than a century', 'DATE'), ('Constantinople', 'GPE'), ('Rome', 'GPE')"
+"In one of his laws he has
+ been careful to instruct posterity that, in obedience to the
+ commands of God, he laid the everlasting foundations of
+ Constantinople; (26) and though he has not condescended to 
+ relate in what manner the celestial inspiration was
+ communicated to his mind, the defect of his modest silence
+ has been liberally supplied by the ingenuity of succeeding
+ writers, who describe the nocturnal vision which appeared to
+ the fancy of Constantine as he slept within the walls of
+ Byzantium.","('one', 'CARDINAL'), ('Constantinople', 'GPE'), ('26', 'CARDINAL'), ('Constantine', 'PERSON'), ('Byzantium', 'LOC')"
+"In some respects the office of the Imperial quaestor may be compared with that of a modern chancellor; but the use of a great seal, which seems to have been adopted by the illiterate barbarians, was never introduced to attest the public acts of the emperors.","('Imperial', 'ORG')"
+"In the 
+ course of this history such exaggerations will be reduced to
+ their just value; yet since the growth of Constantinople
+ cannot be ascribed to the general increase of mankind and of
+ industry, it must be admitted that this artificial colony
+ was raised at the expense of the ancient cities of the
+ empire.","('Constantinople', 'GPE')"
+"In the 
+ discharge of his laborious employment the governor of Rome
+ was assisted by fifteen officers, some of whom had been
+ originally his equals, or even his superiors.","('Rome', 'GPE'), ('fifteen', 'CARDINAL')"
+"In the actual state of the city, the palace and gardens of
+ the Seraglio occupy the eastern promontory, the first of the
+ seven hills, and cover about one hundred and fifty acres of
+ our own measure.","('Seraglio', 'LOC'), ('first', 'ORDINAL'), ('seven', 'CARDINAL'), ('about one hundred and fifty acres', 'QUANTITY')"
+"In the choice
+ of an advantageous situation he preferred the confines of
+ Europe and Asia; to curb with a powerful arm the barbarians
+ who dwelt between the Danube and the Tanais; to watch with
+ an eye of jealousy the conduct of the Persian monarch, who
+ indignantly supported the yoke of an ignominious treaty.","('Europe', 'LOC'), ('Asia', 'LOC'), ('Danube', 'LOC'), ('Tanais', 'NORP'), ('Persian', 'NORP')"
+In the course of nine centuries the office of quaestor had experienced a very singular revolution.,"('nine centuries', 'DATE')"
+"In the dark
+ ages which succeeded the translation of the empire, the
+ remote and the immediate consequences of that memorable
+ event were strangely confounded by the vanity of the Greeks
+ and the credulity of the Latins.  (53)","('Greeks', 'NORP'), ('Latins', 'NORP'), ('53', 'CARDINAL')"
+"In the epistles which the 
+ emperor addressed to the two consuls elect, it was declared
+ that they were created by his sole authority. (82)","('two', 'CARDINAL')"
+"In the infancy of Rome, two inferior magistrates were annually elected by the people, to relieve the consuls from the invidious management of the public treasure; (146) a similar assistant was granted to every proconsul and to every praetor who exercised a military or provincial command; with the extent of conquest, the two quaestors were gradually multiplied to the number of four, of eight, of twenty, and
+ for a short time, perhaps, of forty; (147) and the noblest citizens ambitiously solicited an office which gave them a seat in the senate, and a just hope of obtaining the honours of the republic.","('Rome', 'GPE'), ('two', 'CARDINAL'), ('146', 'CARDINAL'), ('two', 'CARDINAL'), ('four', 'CARDINAL'), ('eight', 'CARDINAL'), ('twenty', 'CARDINAL'), ('forty', 'CARDINAL'), ('147', 'CARDINAL')"
+"In the primitive
+ simplicity of small communities this method may be well
+ adapted to collect the almost voluntary offerings of the
+ people; but it is at once susceptible of the utmost latitude
+ and of the utmost strictness, which in a corrupt and
+ absolute monarchy must introduce a perpetual contest between
+ the power of oppression and the arts of fraud. (177)","('177', 'CARDINAL')"
+"In the pursuit of any remarkable
+ institution, we may be frequently led into the more early or
+ the more recent times of the Roman history; but the proper
+ limits of this inquiry will be included within a period of
+ about one hundred and thirty years, from the accession of
+ Constantine to the publication of the Theodosian code; (71) 
+ from which, as well as from the Notitia of the East and
+ West, (72) we derive the most copious and authentic 
+ information of the state of the empire.","('Roman', 'NORP'), ('a period of\r\n about one hundred and thirty years', 'DATE'), ('Constantine', 'PERSON'), ('Theodosian', 'NORP'), ('71', 'CARDINAL'), ('East', 'LOC'), ('West', 'LOC'), ('72', 'CARDINAL')"
+"In the system of policy introduced by Augustus, the
+ governors, those at least of the Imperial provinces, were
+ invested with the full powers of the sovereign himself.","('Augustus', 'PERSON'), ('Imperial', 'ORG')"
+"In the time of Constantine the territory of the Aedui
+ afforded no more than twenty-five thousand heads of
+ capitation, of whom seven thousand were discharged by that
+ prince from the intolerable weight of tribute. (187)","('Constantine', 'GPE'), ('Aedui', 'GPE'), ('no more than twenty-five thousand', 'CARDINAL'), ('seven thousand', 'CARDINAL'), ('187', 'CARDINAL')"
+"In the times
+ of Roman simplicity, the last-mentioned epithet was used
+ only as a vague expression of deference, till it became at
+ length the peculiar and appropriated title of all who were
+ members of the senate, (77) and consequently of all who, from that venerable body, were selected to govern the provinces.","('Roman', 'NORP'), ('77', 'DATE')"
+"In the two capitals of the empire 
+ the annual games of the theatre, the circus, and the
+ amphitheatre (90) cost four thousand pounds of gold, (about) 
+ one hundred and sixty thousand pounds sterling; and if so
+ heavy an expense surpassed the faculties or the inclination
+ of the magistrates themselves, the sum was supplied from the
+ Imperial treasury.","('two', 'CARDINAL'), ('90', 'CARDINAL'), ('four thousand pounds', 'QUANTITY'), ('one hundred and sixty thousand pounds', 'QUANTITY'), ('Imperial', 'ORG')"
+"In this class the proconsuls
+ of Asia, Achaia, and Africa claimed a pre-eminence, which
+ was yielded to the remembrance of their ancient dignity; and
+ the appeal from their tribunal to that of the praefects was
+ almost the only mark of their dependence.","('Asia', 'LOC'), ('Achaia', 'LOC'), ('Africa', 'LOC')"
+Increase of Barbarian auxillaries,"('Barbarian', 'NORP')"
+"It is impossible to justify the vain
+ and credulous exaggerations of modern travellers, who have
+ sometimes stretched the limits of Constantinople over the
+ adjacent villages of the European and even of the Asiatic
+ coast. (34)","('Constantinople', 'GPE'), ('European', 'NORP'), ('Asiatic', 'NORP'), ('34', 'CARDINAL')"
+"It may be
+ sufficient for the historian to select two singular and
+ salutary provisions, intended to restrain the abuse of
+ authority.","('two', 'CARDINAL')"
+"It may be added that the lieutenant-generals of the
+ Roman armies, the military counts and dukes, who will be
+ hereafter mentioned, were allowed the rank and title of
+ Respectable.","('Roman', 'NORP')"
+"It may be sufficient to observe that whatever could adorn the dignity of a great capital, or contribute to the benefit or pleasure of its numerous inhabitants, was contained within the walls of Constantinople.","('Constantinople', 'GPE')"
+"It may likewise be considered that exile, considerable fines, or the choice of an easy death, relate more particularly to the rich and the
+ noble; and the persons the most exposed to the avarice or resentment of a provincial magistrate were thus removed from his obscure persecution to the more august and impartial tribunal of the Praetorian praefect.","('Praetorian', 'PERSON')"
+"It was
+ communicated only, Four divisions of office","('Four', 'CARDINAL')"
+"It was an ancient custom that the allies of
+ the republic, who ascribed their safety or deliverance to
+ the success of the Roman arms, and even the cities of Italy,
+ who admired the virtues of their victorious general, adorned
+ the pomp of his triumph by their voluntary gifts of crowns
+ of gold, which, after the ceremony, were consecrated in the
+ temple of Jupiter, to remain a lasting monument of his glory
+ to future ages.","('Roman', 'NORP'), ('Italy', 'GPE'), ('Jupiter', 'LOC')"
+"It was asserted and 
+ believed that all the noble families of Rome, the senate,
+ and the equestrian order, with their innumerable attendants,
+ had followed their emperor to the banks of the Propontis;
+ that a spurious race of strangers and plebeians was left to
+ possess the solitude of the ancient capital; and that the
+ lands of Italy, long since converted into gardens, were at
+ once deprived of cultivation and inhabitants.","('Rome', 'GPE'), ('Propontis', 'NORP'), ('Italy', 'GPE')"
+"It was here likewise, in a place where the 
+ distance between the opposite banks cannot exceed five
+ hundred paces, that Xerxes imposed a stupendous bridge of
+ boats, for the purpose of transporting into Europe a hundred
+ and seventy myriads of barbarians. (17)","('five\r\n hundred paces', 'QUANTITY'), ('Xerxes', 'PERSON'), ('Europe', 'LOC'), ('a hundred\r\n and seventy', 'CARDINAL'), ('17', 'CARDINAL')"
+"It was here that the adventurous Leander
+ braved the passage of the flood for the possession of his
+ mistress.","('Leander', 'PERSON')"
+"It was in vain that Constantine repeated the most
+ dreadful menaces of fire and sword against the Borderers who
+ should dare to desert their colours, to connive at the
+ inroads of the barbarians, or to participate in the spoil.","('Constantine', 'PERSON'), ('Borderers', 'NORP')"
+"It was of bronze, had been transported
+ either from Athens or from a town of Phrygia, and was
+ supposed to be the work of Phidias.","('Athens', 'GPE'), ('Phrygia', 'GPE'), ('Phidias', 'GPE')"
+"Little more was left when 
+ Constantine ascended the throne than a vague and imperfect
+ tradition that the Patricians had once been the first of the
+ Romans.","('Constantine', 'PERSON'), ('Patricians', 'NORP'), ('first', 'ORDINAL'), ('Romans', 'NORP')"
+"Many ages before
+ Constantine, one of the most judicious historians of
+ antiquity (1) had described the advantages of a situation from 
+ whence a feeble colony of Greeks derived the command of the
+ sea, and the honours of a flourishing and independent
+ republic.","('Constantine', 'PERSON'), ('one', 'CARDINAL'), ('1', 'CARDINAL'), ('Greeks', 'NORP')"
+"Many opulent senators of Rome and of the eastern
+ provinces were probably invited by Constantine to adopt for
+ their country the fortunate spot which he had chosen for his
+ own residence.","('Rome', 'GPE'), ('Constantine', 'PERSON')"
+"Ministers of peace and war, the distribution of rewards and
+ punishments depended on them alone, and they successively
+ appeared on their tribunal in the robes of civil magistracy,
+ and in complete armour at the head of the Roman legions. (125)","('Roman', 'NORP'), ('125', 'CARDINAL')"
+"Notwithstanding these rigorous  precautions, the emperor Constantine, after a reign of
+ twenty-five years still deplores the venal and oppressive administration of justice, and expresses the warmest indignation that the audience of the judge, his despatch of business, his seasonable delays, and his final sentence, were publicly sold, either by himself or by the officers of his court.","('Constantine', 'PERSON'), ('twenty-five years', 'DATE')"
+"Of these, three were governed by
+ proconsuls, thirty-seven by consulars, five by
+ correctors, and seventy-one by presidents.","('three', 'CARDINAL'), ('thirty-seven', 'CARDINAL'), ('five', 'CARDINAL'), ('seventy-one', 'CARDINAL')"
+"On the morning of the first of 
+ January the consuls assumed the ensigns of their dignity.","('the morning of the first of \r\n January', 'DATE')"
+"On the summit of the pillar, above one 
+ hundred and twenty feet from the ground, stood the colossal
+ statue of Apollo.","('one \r\n hundred and twenty feet', 'QUANTITY'), ('Apollo', 'PRODUCT')"
+"On these banks tradition long preserved the memory of the
+ palace of Phineus, infested by the obscene harpies; (4) and of 
+ the sylvan reign of Amycus, who defied the son of Leda to
+ the combat of the Cestus. (5)","('Phineus', 'GPE'), ('4', 'CARDINAL'), ('Amycus', 'PERSON'), ('Leda', 'PERSON'), ('Cestus', 'PERSON'), ('5', 'CARDINAL')"
+"On this 
+ solemn occasion they were attended by the most eminent
+ officers of the state and army in the habit of senators; and
+ the useless fasces, armed with the once formidable axes,
+ were borne before them by the lictors. (86)","('86', 'CARDINAL')"
+"Rome was
+ insensibly confounded with the dependent kingdoms which had
+ once acknowledged her supremacy; and the country of the
+ Caesars was viewed with cold indifference by a martial
+ prince, born in the neighbourhood of the Danube, educated in
+ the courts and armies of Asia, and invested with the purple
+ by the legions of Britain.","('Rome', 'GPE'), ('Caesars', 'PERSON'), ('Danube', 'LOC'), ('Asia', 'LOC'), ('Britain', 'GPE')"
+"Seven millions of these, in the capacity 
+ of fathers, or brothers, or husbands, may discharge the
+ obligations of the remaining multitude of women and
+ children; yet the equal proportion of each tributary subject
+ will scarcely rise above fifty shillings of our money,
+ instead of a proportion almost four times as considerable,
+ which was regularly imposed on their Gallic ancestors.","('Seven millions', 'CARDINAL'), ('fifty shillings', 'MONEY'), ('almost four', 'CARDINAL'), ('Gallic', 'NORP')"
+Seven ministers of the palace.,"('Seven', 'CARDINAL')"
+"Situated in the forty-first degree of latitude,
+ the Imperial city commanded, from her seven hills, (22) the 
+ opposite shores of Europe and Asia; the climate was healthy
+ and temperate, the soil fertile, the harbour secure and
+ capacious, and the approach on the side of the continent was
+ of small extent and easy defence.","('forty-first', 'DATE'), ('Imperial city', 'GPE'), ('seven', 'CARDINAL'), ('22', 'CARDINAL'), ('Europe', 'LOC'), ('Asia', 'LOC')"
+"Some estimate may be formed of the expense
+ bestowed with Imperial liberality on the foundation of
+ Constantinople by the allowance of about two millions five
+ hundred thousand pounds for the construction of the walls,
+ the porticoes, and the aqueducts. (39)","('Imperial', 'NORP'), ('Constantinople', 'GPE'), ('about two millions five\r\n hundred thousand pounds', 'QUANTITY'), ('39', 'CARDINAL')"
+"Such an extent may seem not unworthy of an 
+ Imperial residence.","('Imperial', 'ORG')"
+"Such was the horror for the profession of a 
+ soldier which had affected the minds of the degenerate
+ Romans that many of the youth of Italy and the provinces
+ chose to cut off the fingers of their right hand to escape
+ from being pressed into the service; and this strange
+ expedient was so commonly practised as to deserve the severe
+ animadversion of the laws, (139) and a peculiar name in the 
+ Latin language. (140)","('Romans', 'NORP'), ('Italy', 'GPE'), ('Latin', 'LANGUAGE'), ('140', 'CARDINAL')"
+"Such, indeed, might be the theory of the Roman
+ capitation; but, in the practice, this unjust equality was
+ no longer felt, as the tribute was collected on the
+ principle of a real, not of a personal imposition.","('Roman', 'NORP')"
+"THE unfortunate Licinius was the last rival who opposed the greatness, and the last captive who adorned the triumph, of Constantine.","('Licinius', 'PERSON'), ('Constantine', 'PERSON')"
+"The
+ cruel treatment of the insolvent debtors of the state is
+ attested, and was perhaps mitigated, by a very humane edict
+ of Constantine, who, disclaiming the use of racks and of
+ scourges, allots a spacious and airy prison for the place of
+ their confinement. (191)","('Constantine', 'PERSON')"
+"The
+ execution of these laws (which it would be tedious to pursue
+ in their minute and intricate detail) consisted of two
+ distinct operations: the resolving the general imposition
+ into its constituent parts, which were assessed on the
+ provinces, the cities, and the individuals of the Roman
+ world; and the collecting the separate contributions of the
+ individuals, the cities, and the provinces, till the
+ accumulated sums were poured into the Imperial treasuries.","('minute', 'TIME'), ('two', 'CARDINAL'), ('Roman', 'NORP'), ('Imperial', 'ORG')"
+"The
+ humane policy of his successor reduced the capitation to
+ seven pieces. (180)","('seven', 'CARDINAL'), ('180', 'CARDINAL')"
+"The
+ most active and successful of the Plebeians accumulated
+ wealth, aspired to honours, deserved triumphs, contracted
+ alliances, and, after some generations, assumed the pride of
+ ancient nobility.","('Plebeians', 'NORP')"
+"The
+ numbers of slaves and cattle constituted an essential part
+ of the report; an oath was administered to the proprietors
+ which bound them to disclose the true state of the affairs;
+ and their attempts to prevaricate, or elude the intention of
+ the legislator, were severely watched, and punished as a
+ capital crime, which included the double guilt of treason
+ and sacrilege. (175)","('175', 'CARDINAL')"
+"The
+ praetors, annually created as the judges of law and equity,
+ could not long dispute the possession of the Forum with a
+ vigorous and permanent magistrate who was usually admitted
+ into the confidence of the prince.","('Forum', 'ORG')"
+"The
+ reason of this difference may be found, not so much in the
+ relative scarcity or plenty of gold and silver, as in the
+ different state of society in ancient Gaul and in modern
+ France.","('Gaul', 'LOC'), ('France', 'GPE')"
+"The
+ seacoasts of Thrace and Bithynia, which languish under the
+ weight of Turkish oppression, still exhibit a rich prospect
+ of vineyards, of gardens, and of plentiful harvests; and the
+ Propontis has ever been renowned for an inexhaustible store
+ of the most exquisite fish, that are taken in their stated
+ seasons, without skill, and almost without labour. (23)","('Thrace', 'LOC'), ('Bithynia', 'LOC'), ('Turkish', 'NORP')"
+"The
+ splendid and popular class was composed of the advocates,
+ who filled the Forum with the sound of their turgid and
+ loquacious rhetoric.","('Forum', 'ORG')"
+"The
+ taxes of France cannot be magnified, either by fear or by
+ flattery, beyond the annual amount of eighteen millions
+ sterling, which ought, perhaps to be shared among four-and-twenty millions
+ of inhabitants. (183)","('France', 'GPE'), ('eighteen millions\r\n sterling', 'MONEY'), ('four-and-twenty millions', 'CARDINAL'), ('183', 'CARDINAL')"
+"The 
+ agriculture of the Roman provinces was insensibly ruined,
+ and, in the progress of despotism, which tends to disappoint
+ its own purpose, the emperors were obliged to derive some
+ merit from the forgiveness of debts, or the remission of
+ tributes, which their subjects were utterly incapable of
+ paying.","('Roman', 'NORP')"
+"The 
+ buildings of the new city were executed by such artificers
+ as the reign of Constantine could afford; but they were
+ decorated by the hands of the most celebrated masters of the
+ age of Pericles and Alexander.","('Constantine', 'PERSON'), ('Pericles', 'PERSON'), ('Alexander', 'PERSON')"
+"The 
+ emperor subscribed with his own hand, and in purple ink, the
+ solemn edict, or indiction, which was fixed up in the
+ principal city of each diocese during two months previous to
+ the first day of September.","('two months', 'DATE'), ('the first day of September', 'DATE')"
+"The 
+ epithet of golden was expressive of the riches which every
+ wind wafted from the most distant countries into the secure
+ and capacious port of Constantinople.","('Constantinople', 'GPE')"
+"The 
+ place of Augustal praefect of Egypt was no longer filled
+ by a Roman knight, but the name was retained; and the
+ extraordinary powers which the situation of the country and
+ the temper of the inhabitants had once made indispensable
+ were still continued to the governor.","('Augustal', 'NORP'), ('Egypt', 'GPE'), ('Roman', 'NORP')"
+"The Aedui, one of the most powerful and civilised tribes or
+ cities of Gaul, occupied an extent of territory which now
+ contains above five hundred thousand inhabitants, in the two
+ ecclesiastical dioceses of Autun and Nevers; (185) and with 
+ the probable accession of those of Chalons and Macon, (186) 
+ the population would amount to eight hundred thousand souls.","('Aedui', 'NORP'), ('one', 'CARDINAL'), ('Gaul', 'LOC'), ('five hundred thousand', 'CARDINAL'), ('two', 'CARDINAL'), ('Autun', 'GPE'), ('Nevers', 'GPE'), ('185', 'CARDINAL'), ('Chalons', 'GPE'), ('Macon', 'GPE'), ('186', 'CARDINAL'), ('eight hundred thousand', 'CARDINAL')"
+The Bosphorus,"('Bosphorus', 'LOC')"
+"The Bosphorus and the
+ Hellespont may be considered as the two gates of
+ Constantinople, and the prince who possessed those important
+ passages could always shut them against a naval enemy and
+ open them to the fleets of commerce.","('Bosphorus', 'LOC'), ('Hellespont', 'PRODUCT'), ('two', 'CARDINAL'), ('Constantinople', 'GPE')"
+"The Bosphorus, as it
+ begins to open into the Propontis, passes between Byzantium
+ and Chalcedon.","('Bosphorus', 'LOC'), ('Propontis', 'PRODUCT'), ('Byzantium', 'GPE'), ('Chalcedon', 'GPE')"
+"The Circus, or Hippodrome, was a stately building about four hundred paces in length, and one hundred in breadth. (47)","('Circus', 'FAC'), ('Hippodrome', 'FAC'), ('about four hundred paces', 'QUANTITY'), ('one hundred', 'CARDINAL')"
+"The Grecian camp had stretched twelve miles along
+ the shore, from the Sigean to the Rhoetean promontory; and
+ the flanks of the army were guarded by the bravest chiefs
+ who fought under the banners of Agamemnon.","('Grecian', 'NORP'), ('twelve miles', 'QUANTITY'), ('Sigean', 'LOC'), ('the Rhoetean promontory', 'LOC'), ('Agamemnon', 'PERSON')"
+The Hellespont,"('Hellespont', 'PERSON')"
+"The Imperial
+ estates were scattered through the provinces from Mauritania
+ to Britain; but the rich and fertile soil of Cappadocia
+ tempted the monarch to acquire in that country his fairest
+ possessions, (154) and either Constantine or his successors 
+ embraced the occasion of justifying avarice by religious
+ zeal.","('Imperial', 'NORP'), ('Mauritania', 'GPE'), ('Britain', 'GPE'), ('Cappadocia', 'GPE'), ('154', 'CARDINAL'), ('Constantine', 'PERSON')"
+"The Italians, who had received
+ Constantine as their deliverer, submissively obeyed the
+ edicts which he sometimes condescended to address to the
+ senate and people of Rome; but they were seldom honoured
+ with the presence of their new sovereign.","('Italians', 'NORP'), ('Constantine', 'PERSON'), ('Rome', 'GPE')"
+"The Patrician families, on the other 
+ hand, whose original number was never recruited till the end
+ of the commonwealth, either failed in the ordinary course of
+ nature, or were extinguished in so many foreign and domestic
+ wars, or, through a want of merit or fortune, insensibly
+ mingled with the mass of the people. (95)","('Patrician', 'NORP'), ('95', 'CARDINAL')"
+"The Propontis 
+Between the Bosphorus and the Hellespont, the shores of
+ Europe and Asia receding on either side inclose the Sea of
+ Marmora, which was known to the ancients by the denomination
+ of Propontis.","('Bosphorus', 'LOC'), ('Hellespont', 'LOC'), ('Europe', 'LOC'), ('Asia', 'LOC'), ('the Sea of\r\n Marmora', 'LOC'), ('Propontis', 'ORG')"
+"The Scipios and the Catos had been reduced to
+ solicit the votes of plebians, to pass through the tedious
+ and expensive forms of a popular election, and to expose
+ their dignity to the shame of a public refusal; while their
+ own happier fate had reserved them for an age and government
+ in which the rewards of virtue were assigned by the unerring
+ wisdom of a gracious sovereign.","('Scipios', 'PERSON'), ('Catos', 'PERSON')"
+"The accomplished citizens of the Greek and
+ Roman republics, whose characters could adapt themselves to
+ the bar, the senate, to the camp, or the schools, had
+ learned to write, to speak, and to act with the same spirit,
+ and with equal abilities.","('Greek', 'NORP'), ('Roman', 'NORP')"
+"The acquiescence of the 
+ provincials encouraged their governors to acquire, or
+ perhaps to usurp, a discretionary power of employing the
+ rack, to extort from vagrants or plebeian criminals the
+ confession of their guilt, till they insensibly proceeded to
+ confound the distinctions of rank, and to disregard the
+ privileges of Roman citizens.","('Roman', 'NORP')"
+"The actual
+ account employed several hundred persons, distributed into eleven different offices, which were artfully contrived to examine and control their respective operations.","('several hundred', 'CARDINAL'), ('eleven', 'CARDINAL')"
+"The age of the great Constantine and his sons is filled with important events; but the historian must be oppressed by their number and variety, unless he diligently separates from each other the scenes which are connected only by the order of time.","('Constantine', 'PERSON')"
+"The ambition of the
+ praefects, always formidable, and sometimes fatal to the
+ masters whom they served, was supported by the strength of
+ the Praetorian bands; but, after those haughty troops had
+ been weakened by Diocletian and finally suppressed by
+ Constantine, the praefects, who survived their fall, were
+ reduced without difficulty to the station of useful and
+ obedient ministers.","('Praetorian', 'NORP'), ('Diocletian', 'PERSON'), ('Constantine', 'PERSON')"
+"The annals of tyranny, from the 
+ reign of Tiberius to that of Domitian, circumstantially
+ relate the executions of many innocent victims; but, as long
+ as the faintest remembrance was kept alive of the national
+ freedom and honour, the last hours of a Roman were secure
+ from the danger of ignominious torture.","('Tiberius', 'PERSON'), ('Domitian', 'PERSON'), ('the last hours', 'TIME'), ('Roman', 'NORP')"
+"The artist had represented the god of day, or, as it was afterwards interpreted, the emperor Constantine himself, with a sceptre in his right hand, the globe of the world in his left, and a crown of rays glittering on his head. (46)","('Constantine', 'PERSON')"
+"The basis of the triangle is opposed to
+ the west, and terminates the continent of Europe.","('Europe', 'LOC')"
+"The beauty of the Hippodrome has been long since  defaced by the rude hands of the Turkish conquerors, but, under the similar appellation of Atmeidan, it still serves as a place of exercise for their horses.","('Hippodrome', 'FAC'), ('Turkish', 'NORP'), ('Atmeidan', 'GPE')"
+"The camps and the palace of the son of Constantine
+ were governed by the powerful faction of the Franks, who
+ preserved the strictest connection with each other and with
+ their country, and who resented every personal affront as a
+ national indignity.","('Constantine', 'PERSON'), ('Franks', 'PERSON')"
+"The celebrated Institutes of Justinian are
+ addressed to the youth of his dominions who had devoted
+ themselves to the study of Roman jurisprudence; and the
+ sovereign condescends to animate their diligence by the
+ assurance that their skill and ability would in time be
+ rewarded by an adequate share in the government of the
+ republic. (120)","('Institutes of Justinian', 'ORG'), ('Roman', 'NORP'), ('120', 'CARDINAL')"
+"The chain of fortifications which Diocletian and his colleagues had extended along the banks of the great rivers
+ was no longer maintained with the same care, or defended
+ with the same vigilance.","('Diocletian', 'PERSON')"
+The chamberlain 1.,"('1', 'CARDINAL')"
+"The codicils or patents of their office were  curiously emblazoned with such emblems as were best adapted to explain its nature and high dignity — the image or portrait of the reigning emperors; a triumphal car; the book of mandates placed on a table, covered with a rich carpet, and illuminated by four tapers; the allegorical figures of the provinces which they governed; or the appellations and standards of the troops whom they commanded.","('four', 'CARDINAL')"
+"The coin, the highways, the posts, the granaries, the
+ manufactures, whatever could interest the public prosperity,
+ was moderated by the authority of the Praetorian praefects.","('Praetorian', 'NORP')"
+"The conspiracy of so many separate detachments, 
+ each of which was awed by the sense of its own weakness,
+ could easily be checked; and the successors of Constantine
+ might indulge their love of ostentation, by issuing their
+ orders to one hundred and thirty-two legions, inscribed on
+ the muster-roll of their numerous armies.","('Constantine', 'PERSON'), ('one hundred and thirty-two', 'CARDINAL')"
+"The continuance, and perhaps the impunity, of these crimes is attested by the repetition of impotent laws and ineffectual menaces. (119)","('119', 'CARDINAL')"
+"The correspondence between the prince and his subjects was managed by the four scrinia, or offices of
+ this minister of state.","('four', 'CARDINAL')"
+"The counts of the domestics had succeeded to the office of the Praetorian praefects; like the praefects, they aspired from the service of the palace to the command of armies.","('Praetorian', 'NORP')"
+"The court of the Praetorian praefect of the East
+ could alone furnish employment for one hundred and fifty
+ advocates, sixty-four of whom were distinguished by peculiar
+ privileges, and two were annually chosen with a salary of
+ sixty pounds of gold to defend the causes of the treasury.","('Praetorian', 'PERSON'), ('East', 'LOC'), ('one hundred and fifty', 'CARDINAL'), ('sixty-four', 'CARDINAL'), ('two', 'CARDINAL'), ('sixty pounds', 'QUANTITY')"
+"The day
+ which gave birth to a city or colony was celebrated by the
+ Romans with such ceremonies as had been ordained by a
+ generous superstition; (28) and though Constantine might omit 
+ some rites which savoured too strongly of their Pagan
+ origin, yet he was anxious to leave a deep impression of
+ hope and respect on the minds of the spectators.","('The day', 'DATE'), ('Romans', 'NORP'), ('28', 'CARDINAL'), ('Constantine', 'PERSON'), ('Pagan', 'NORP')"
+"The deceitful and dangerous experiment of the criminal
+ question, as it is emphatically styled, was admitted,
+ rather than approved, in the jurisprudence of the Romans.","('Romans', 'NORP')"
+"The degenerate grandsons of Theodosius, who
+ were invisible to their subjects, and contemptible to their
+ enemies, exalted the praefects of their bed-chamber above
+ the heads of all the ministers of the palace; (143) and even 
+ his deputy, the first of the splendid train of slaves who
+ waited in the presence, was thought worthy to rank before the respectable proconsuls of Greece or Asia.","('Theodosius', 'PERSON'), ('143', 'CARDINAL'), ('first', 'ORDINAL'), ('Greece', 'GPE'), ('Asia', 'LOC')"
+"The demesnes of Cappadocia were important enough 
+ to require the inspection of a count, (157) officers of an inferior rank were stationed in the other parts of the empire; and the deputies of the private, as well as those of the public treasurer, were maintained in the exercise of
+ their independent functions, and encouraged to control the authority of the provincial magistrates. (158)","('Cappadocia', 'GPE'), ('157', 'CARDINAL'), ('158', 'CARDINAL')"
+"The difficulty of
+ allowing an annual sum of about nine pounds sterling, even
+ for the average of the capitation of Gaul, may be rendered
+ more evident by the comparison of the present state of the
+ same country, as it is now governed by the absolute monarch
+ of an industrious, wealthy, and affectionate people.","('about nine pounds', 'MONEY'), ('Gaul', 'PERSON')"
+"The distinct view of the complicated system
+ of policy introduced by Diocletian, improved by Constantine,
+ and completed by his immediate successors, may not only
+ amuse the fancy by the singular picture of a great empire,
+ but will tend to illustrate the secret and internal causes
+ of its rapid decay.","('Diocletian', 'PERSON'), ('Constantine', 'PERSON')"
+"The divided administration, which had been
+ formed by Constantine, relaxed the vigour of the state,
+ while it secured the tranquillity of the monarch.","('Constantine', 'PERSON')"
+"The eleven remaining
+ dioceses - of Asiana, Pontica, and Thrace; of Macedonia,
+ Dacia, and Pannonia, or Western Illyricum; of Italy and
+ Africa; of Gaul, Spain, and Britain - were governed by
+ twelve vicars or vice-praefects, (112) whose name sufficiently explains the nature and dependence of their
+ office.","('eleven', 'CARDINAL'), ('Asiana', 'GPE'), ('Pontica', 'GPE'), ('Thrace', 'GPE'), ('Macedonia', 'GPE'), ('Dacia', 'GPE'), ('Pannonia', 'GPE'), ('Western Illyricum', 'LOC'), ('Italy', 'GPE'), ('Africa', 'LOC'), ('Gaul', 'GPE'), ('Spain', 'GPE'), ('Britain', 'GPE'), ('twelve', 'CARDINAL'), ('112', 'CARDINAL')"
+"The emperors themselves who
+ disdained the faint shadow of the republic, were conscious
+ that they acquired an additional splendour and majesty as
+ often as they assumed the annual honours of the consular
+ dignity. (92)","('92', 'CARDINAL')"
+"The emulation, and sometimes the discord,
+ which reigned between two professions of opposite interests
+ and incompatible manners, was productive of beneficial and
+ of pernicious consequences.","('two', 'CARDINAL')"
+"The entrance is about five hundred
+ yards broad, and a strong chain could be occasionally drawn
+ across it to guard the port and city from the attack of an
+ hostile navy.","('about five hundred\r\n yards', 'QUANTITY')"
+"The exactions of Constantius may
+ be calculated at seven millions sterling, which were reduced
+ to two millions by the humanity or the wisdom of Julian.","('Constantius', 'ORG'), ('seven millions sterling', 'MONEY'), ('two millions', 'CARDINAL'), ('Julian', 'PERSON')"
+"The extensive plain which lies below
+ ancient Troy, towards the Rhoetean promontory and the tomb
+ of Ajax, was first chosen for his new capital; and, though
+ the undertaking was soon relinquished, the stately remains
+ of unfinished walls and towers attracted the notice of all
+ who sailed through the straits of the Hellespont. (21)
+Advantages of Constantinople","('Troy', 'LOC'), ('the Rhoetean promontory', 'LOC'), ('Ajax', 'GPE'), ('first', 'ORDINAL'), ('Hellespont', 'GPE'), ('21', 'CARDINAL'), ('Constantinople', 'GPE')"
+"The first experiment was made of their judicial talents by
+ appointing them to act occasionally as assessors to the
+ magistrates; from thence they were often raised to preside
+ in the tribunals before which they had pleaded.","('first', 'ORDINAL')"
+"The first of
+ those promontories was occupied by Achilles with his
+ invincible myrmidons, and the dauntless Ajax pitched his
+ tents on the other.","('first', 'ORDINAL'), ('Achilles', 'PERSON'), ('Ajax', 'PRODUCT')"
+"The first of these dioceses was subject to
+ the jurisdiction of the court of the East; and we may convey
+ some idea of the importance and variety of his functions by
+ observing that six hundred apparitors, who would be styled
+ at present either secretaries, or clerks, or ushers, or
+ messengers, were employed in his immediate office.","('first', 'ORDINAL'), ('East', 'LOC'), ('six hundred', 'CARDINAL')"
+"The first was appropriated to memorials, the second to epistles, the third to petitions, and the fourth to papers and orders of a miscellaneous kind.","('first', 'ORDINAL'), ('second', 'ORDINAL'), ('third', 'ORDINAL'), ('fourth', 'ORDINAL')"
+"The forests that 
+ overshadowed the shores of the Euxine, and the celebrated
+ quarries of white marble in the little island of
+ Proconnesus, supplied an inexhaustible stock of materials,
+ ready to be conveyed, by the convenience of a short
+ water-carriage, to the harbour of Byzantium. (40)","('Euxine', 'LOC'), ('Proconnesus', 'LOC'), ('Byzantium', 'GPE'), ('40', 'CARDINAL')"
+"The former, rising by degrees from the most
+ humble condition, were invested with the civil and military
+ administration of the Roman world.","('Roman', 'NORP')"
+"The forms, the pomp, and the expense of the civil administration contributed to restrain the irregular licence of the soldiers; and although the laws were violated by power, or perverted by subtlety, the sage principles of the Roman jurisprudence preserved a sense of order and equity unknown to the despotic governments of the East.","('Roman', 'NORP'), ('East', 'LOC')"
+"The fortune of Sidonius far 
+ exceeded the customary wealth of a poet; but if he had
+ pursued the allusion, he must have painted many of the
+ Gallic nobles with the hundred heads of the deadly Hydra,
+ spreading over the face of the country, and devouring the
+ substance of an hundred families.","('Sidonius', 'PERSON'), ('Gallic', 'NORP'), ('hundred', 'CARDINAL'), ('Hydra', 'PRODUCT'), ('hundred', 'CARDINAL')"
+"The fortunes of the Praetorian praefects were
+ essentially different from those of the consuls and
+ Patricians.","('Praetorian', 'NORP'), ('Patricians', 'NORP')"
+"The frequent and regular distributions of wine and oil, of
+ corn or bread, of money or provisions, had almost exempted
+ the poorer citizens of Rome from the necessity of labour.","('Rome', 'GPE')"
+"The games and largesses which crowned the pomp of this
+ memorable festival may easily be supposed; but there is one
+ circumstance of a more singular and permanent nature, which
+ ought not entirely to be overlooked.","('one', 'CARDINAL')"
+"The geographers who, with the most skilful accuracy, have
+ surveyed the form and extent of the Hellespont, assign about
+ sixty miles for the winding course, and about three miles
+ for the ordinary breadth, of those celebrated straits.","('Hellespont', 'GPE'), ('about\r\n sixty miles', 'QUANTITY'), ('about three miles', 'QUANTITY')"
+"The guards, carrying white tapers, and
+ clothed in their richest apparel, accompanied the solemn
+ procession as it moved through the Hippodrome.","('Hippodrome', 'FAC')"
+"The harbour of Constantinople, which may be considered as an
+ arm of the Bosphorus, obtained, in a very remote period, the
+ denomination of the  Golden Horn.","('Constantinople', 'GPE'), ('Bosphorus', 'LOC'), ('the  Golden Horn', 'ORG')"
+"The honour of a liberal profession has indeed been
+ vindicated by ancient and modern advocates, who have filled
+ the most important stations with pure integrity and
+ consummate wisdom; but in the decline of Roman jurisprudence
+ the ordinary promotion of lawyers was pregnant with mischief
+ and disgrace.","('Roman', 'NORP')"
+"The honourable merchant of Alexandria, who imported the
+ gems and spices of India for the use of the western world;
+ the usurer, who derived from the interest of money a silent
+ and ignominious profit, the ingenious manufacturer, the
+ diligent mechanic, and even the most obscure retailer of a
+ sequestered village, were obliged to admit the officers of
+ the revenue into the partnership of their gain; and the
+ sovereign of the Roman empire, who tolerated the profession,
+ consented to share the infamous salary of public
+ prostitutes.","('Alexandria', 'GPE'), ('India', 'GPE'), ('Roman', 'NORP')"
+"The immense size
+ of the city, and the experience of the tardy, ineffectual
+ operation of the laws, had furnished the policy of Augustus
+ with a specious pretence for introducing a new magistrate,
+ who alone could restrain a servile and turbulent populace by
+ the strong arm of arbitrary power. (103) Valerius Messalla was 
+ appointed the first praefect of Rome, that his reputation
+ might countenance so invidious a measure; but at the end of
+ a few days that accomplished citizen (104) resigned his 
+ office, declaring, with a spirit worthy of the friend of
+ Brutus, that he found himself incapable of exercising a
+ power incompatible with public freedom. (105)","('Augustus', 'PERSON'), ('Valerius Messalla', 'PERSON'), ('first', 'ORDINAL'), ('Rome', 'GPE'), ('the end of\r\n a few days', 'DATE'), ('104', 'CARDINAL'), ('Brutus', 'PERSON'), ('105', 'CARDINAL')"
+"The introduction of barbarians into the 
+ Roman armies became every day more universal, more
+ necessary, and more fatal.","('Roman', 'NORP')"
+"The jurisdiction of the chamberlain was acknowledged by the counts, or superintendents, who regulated the two important provinces of the magnificence of the wardrobe, and of the luxury of the Imperial table. (144)","('two', 'CARDINAL'), ('Imperial', 'ORG'), ('144', 'CARDINAL')"
+"The laborious offices, which could be productive
+ only of envy and reproach, of expense and danger, were
+ imposed on the Decurions, who formed the corporations of
+ the cities, and whom the severity of the Imperial laws had
+ condemned to sustain the burdens of civil society.","('Decurions', 'ORG'), ('Imperial', 'ORG')"
+"The lands bestowed on the veterans, as the
+ free reward of their valour, were henceforward granted under
+ a condition which contains the first rudiments of the feudal
+ tenures - that their sons, who succeeded to the inheritance,
+ should devote themselves to the profession of arms as soon
+ as they attained the age of manhood; and their cowardly
+ refusal was punished by the loss of honour, of fortune, or
+ even of life.","('first', 'ORDINAL')"
+"The lands were measured
+ by surveyors, who were sent into the provinces; their
+ nature, whether arable or pasture, or vineyards or woods,
+ was distinctly reported; and an estimate was made of their
+ common value from the average produce of five years.","('five years', 'DATE')"
+"The latter of those cities was built by the
+ Greeks a few years before the former; and the blindness of
+ its founders, who overlooked the superior advantages of the
+ opposite coast, has been stigmatised by a proverbial
+ expression of contempt. (10)","('Greeks', 'NORP')"
+"The magnificence of the first Caesars was in some measure
+ imitated by the founder of Constantinople: (58) but his 
+ liberality, however it might excite the applause of the
+ people, has incurred the censure of posterity.","('first', 'ORDINAL'), ('Caesars', 'ORG'), ('Constantinople', 'ORG'), ('58', 'CARDINAL')"
+"The manly pride of the Romans, content with substantial
+ power, had left to the vanity of the East the forms and
+ ceremonies of ostentatious greatness.","('Romans', 'NORP'), ('East', 'LOC')"
+"The master of the Roman world, who aspired to erect an
+ eternal monument of the glories of his reign, could employ
+ in the prosecution of that great work the wealth, the
+ labour, and all that yet remained of the genius, of obedient
+ millions.","('Roman', 'NORP'), ('millions', 'CARDINAL')"
+"The memory of Constantine has been deservedly censured for
+ another innovation which corrupted military discipline, and
+ prepared the ruin of the empire.","('Constantine', 'PERSON')"
+"The mischiefs which flow from injudicious counsels are
+ seldom removed by the application of partial severities; and
+ though succeeding princes laboured to restore the strength
+ and numbers of the frontier garrisons he empire, till the
+ last moment of its dissolution, continued to languish under
+ the mortal wound which had been so rashly or so weakly
+ incited by the hand of Constantine.","('Constantine', 'PERSON')"
+"The most daring of the Scythians,
+ of the Goths, and of the Germans, who delighted in war, and
+ who found it more profitable to defend than to ravage the
+ provinces, were enrolled not only in the auxiliaries of
+ their respective nations, but in the legions themselves, and
+ among the most distinguished of the Palatine troops.","('Scythians', 'NORP'), ('Goths', 'NORP'), ('Germans', 'NORP'), ('Palatine', 'NORP')"
+"The motives,
+ whether of pride or of policy, which first induced
+ Diocletian to withdraw himself from the ancient seat of
+ government, had acquired additional weight by the example of
+ his successors and the habits of forty years.","('first', 'ORDINAL'), ('Diocletian', 'PERSON'), ('forty years', 'DATE')"
+"The multitude of these agents had a natural tendency to increase; and it was more than once thought expedient to dismiss to their native homes the useless supernumeraries, who, deserting their honest labours, had pressed with too
+ much eagerness into the lucrative profession of the
+ finances. (152)","('152', 'CARDINAL')"
+"The name and use of the indictions, (171) which serve to ascertain the chronology of the middle ages, was derived
+ from the regular practice of the Roman tributes. (172)","('171', 'CARDINAL'), ('Roman', 'NORP'), ('172', 'CARDINAL')"
+"The navigation from the issue of the Bosphorus
+ to the entrance of the Hellespont is about one hundred and
+ twenty miles.","('Bosphorus', 'LOC'), ('Hellespont', 'GPE'), ('one hundred and\r\n twenty miles', 'QUANTITY')"
+"The necessity of
+ protecting those suburbs from the incessant inroads of the
+ barbarians engaged the younger Theodosius to surround his
+ capital with an adequate and permanent enclosure of walls.
+ (32)","('Theodosius', 'GPE')"
+"The new
+ wall of Constantine stretched from the port to the Propontis
+ across the enlarged breadth of the triangle, at the distance
+ of fifteen stadia from the ancient fortification, and with
+ the city of Byzantium they enclosed five of the seven hills
+ which, to the eyes of those who approach Constantinople,
+ appear to rise above each other in beautiful order. (31)","('Constantine', 'GPE'), ('Propontis', 'FAC'), ('fifteen', 'CARDINAL'), ('Byzantium', 'GPE'), ('five', 'CARDINAL'), ('seven', 'CARDINAL'), ('Constantinople', 'GPE')"
+"The new castles of
+ Europe and Asia are constructed, on either continent, upon
+ the foundations of two celebrated temples, of Serapis and of
+ Jupiter Urius.","('Europe', 'LOC'), ('Asia', 'LOC'), ('two', 'CARDINAL'), ('Serapis', 'PRODUCT'), ('Jupiter Urius', 'LOC')"
+"The nineteen years which
+ preceded his final victory over Licinius had been a period
+ of licence and intestine war.","('The nineteen years', 'DATE'), ('Licinius', 'PERSON')"
+"The noble art, which had once been preserved
+ as the sacred inheritance of the patricians, was fallen into
+ the hands of freedmen and plebeians, (123) who, with cunning 
+ rather than with skill, exercised a sordid and pernicious
+ trade.","('123', 'CARDINAL')"
+"The northern side of the city is bounded
+ by the harbour, and the southern is washed by the Propontis
+ or Sea of Marmora.","('the Propontis\r\n or Sea of Marmora', 'LOC')"
+"The obscure
+ millions of a great empire have much less to dread from the
+ cruelty than from the avarice of their masters; and their
+ humble happiness is principally affected by the grievance of
+ excessive taxes, which, gently pressing on the wealthy,
+ descend with accelerated weight on the meaner and more
+ indigent classes of society.","('millions', 'CARDINAL')"
+"The obtuse point, which advances towards the east
+ and the shores of Asia, meets and repels the waves of the
+ Thracian Bosphorus.","('Asia', 'LOC'), ('the\r\n Thracian Bosphorus', 'LOC')"
+"The old castles, a work of the Greek emperors
+ command the narrowest part of the channel, in a place where
+ the opposite banks advance within five hundred paces of each
+ other.","('Greek', 'NORP'), ('five hundred', 'CARDINAL')"
+"The ordinary administration was conducted by those methods
+ which extreme necessity can alone palliate; and the defects
+ of evidence were diligently supplied by the use of torture.
+  (162)","('162', 'CARDINAL')"
+"The peculiar
+ free gift of the senate of Rome was fixed by custom at
+ sixteen hundred pounds of gold, or about sixty-four thousand
+ pounds sterling.","('Rome', 'GPE'), ('sixteen hundred pounds', 'QUANTITY'), ('about sixty-four thousand\r\n pounds', 'QUANTITY')"
+"The ponderous
+ volumes of the Codes and Pandects (114) would furnish ample 
+ materials for a minute inquiry into the system of provincial
+ government, as in the space of six centuries it was improved
+ by the wisdom of the Roman statesmen and lawyers.","('Codes', 'PRODUCT'), ('114', 'CARDINAL'), ('six centuries', 'DATE'), ('Roman', 'NORP')"
+"The practice of Augustus was imitated by succeeding princes; the occasional commission was established as a permanent office; and the favoured quaestor, assuming a new and more illustrious character, alone survived the suppression of his ancient and useless colleagues. (149)","('Augustus', 'PERSON'), ('149', 'CARDINAL')"
+The praefects of Rome and Constantinople.,"('Rome', 'GPE'), ('Constantinople', 'GPE')"
+"The preservation of the
+ eastern provinces may, in some degree, be ascribed to the
+ policy of Constantine, as the barbarians of the Euxine, who
+ in the preceding age had poured their armaments into the
+ heart of the Mediterranean, soon desisted from the exercise
+ of piracy, and despaired of forcing this insurmountable
+ barrier.","('Constantine', 'PERSON'), ('Euxine', 'NORP'), ('Mediterranean', 'LOC')"
+"The principal
+ departments were relative to the command of a numerous
+ watch, established as a safeguard against fires, robberies,
+ and nocturnal disorders; the custody and distribution of the
+ public allowance of corn and provisions; the care of the
+ port, of the aqueducts, of the common sewers, and of the
+ navigation and bed of the Tiber; the inspection of the
+ markets, the theatres, and of the private as well as public
+ works.","('Tiber', 'LOC')"
+"The principal officers of the empire were saluted, even by the sovereign himself, with the deceitful titles of your Sincerity, your Gravity, your Excellency, your Eminence, your sublime and wonderful Magnitude, your illustrious and magnificent Highness. (75)","('Sincerity', 'WORK_OF_ART'), ('Highness', 'WORK_OF_ART')"
+"The procession 
+ moved from the palace (87) to the Forum or principal square of 
+ the city; where the consuls ascended their tribunal, and
+ seated themselves in the curule chairs, which were framed
+ after the fashion of ancient times.","('87', 'CARDINAL')"
+"The proconsuls, vice-praefects, etc
+ Those who in the Imperial hierarchy were distinguished by
+ the title of Respectable formed an intermediate class
+ between the illustrious praefects and the honourable
+ magistrates of the provinces.","('Imperial', 'NORP'), ('Respectable', 'WORK_OF_ART')"
+"The progress of zeal and flattery soon
+ multiplied the number, and increased the size, of these
+ popular donations; and the triumph of Caesar was enriched
+ with two thousand eight hundred and twenty-two massy crowns,
+ whose weight amounted to twenty thousand four hundred and
+ fourteen pounds of gold.","('Caesar', 'PERSON'), ('two thousand eight hundred and twenty-two', 'CARDINAL'), ('twenty thousand four hundred and\r\n fourteen pounds', 'QUANTITY')"
+"The prospect of beauty, of safety, and of wealth, united in
+ a single spot, was sufficient to justify the choice of
+ Constantine.","('Constantine', 'PERSON')"
+"The proudest and most perfect separation which can be found
+ in any age or country between the nobles and the people is
+ perhaps that of the Patricians and the Plebeians, as it was
+ established in the first age of the Roman republic.","('Patricians', 'NORP'), ('Plebeians', 'NORP'), ('first', 'ORDINAL'), ('Roman', 'NORP')"
+"The public festival was continued during 
+ several days in all the principal cities; in Rome, from
+ custom; in Constantinople, from imitation; in Carthage,
+ Antioch, and Alexandria, from the love of pleasure and the
+ superfluity of wealth. (89)","('several days', 'DATE'), ('Rome', 'GPE'), ('Constantinople', 'GPE'), ('Carthage', 'GPE'), ('Antioch', 'GPE'), ('Alexandria', 'GPE')"
+The public treasurer4.,"('4', 'CARDINAL')"
+"The purity of  the Latin language was debased, by adopting, in the intercourse of pride and flattery, a profusion of epithets which Tully would scarcely have understood, and which Augustus would have rejected with indignation.","('Latin', 'LANGUAGE'), ('Tully', 'PERSON'), ('Augustus', 'PERSON')"
+"The rapacious ministers of Constantius
+ had exhausted the wealth of Gaul, by exacting twenty-five
+ pieces of gold for the annual tribute of every head.","('Constantius', 'ORG'), ('Gaul', 'PERSON'), ('twenty-five', 'CARDINAL'), ('annual', 'DATE')"
+"The remainder of
+ their troops was distributed into several hundred cohorts of
+ infantry, and squadrons of cavalry.","('several hundred', 'CARDINAL')"
+"The remainder of the taxes, 
+ according to the proportions determined by the annual
+ indiction, was furnished in a manner still more direct, and
+ still more oppressive.","('annual', 'DATE')"
+"The resources of the
+ Roman treasury were exhausted by the increase of pay, by the
+ repetition of donatives, and by the invention of new
+ emoluments and indulgences, which, in the opinion of the
+ provincial youth, might compensate the hardships and dangers
+ of a military life.","('Roman', 'NORP')"
+"The revolution of
+ three centuries had produced so remarkable a change in the
+ prejudices of the people, that, with the public approbation,
+ Constantine showed his successors the example of bestowing
+ the honours of the consulship on the barbarians who, by
+ their merit and services, had deserved to be ranked among
+ the first of the Romans. (142)","('three centuries', 'DATE'), ('Constantine', 'PERSON'), ('first', 'ORDINAL'), ('Romans', 'NORP'), ('142', 'CARDINAL')"
+"The rights of mankind might derive some protection
+ from religion and philosophy; and the name of freedom, which could no longer alarm, might sometimes admonish, the successors of Augustus, that they did not reign over a nation of Slaves or Barbarians. (194)","('Augustus', 'PERSON'), ('Slaves', 'NORP'), ('Barbarians', 'NORP'), ('194', 'CARDINAL')"
+"The rivals who contended for
+ the possession of the Roman world had withdrawn the greatest
+ part of their forces from the guard of the general frontier;
+ and the principal cities which formed the boundary of their
+ respective dominions were filled with soldiers, who
+ considered their countrymen as their most implacable
+ enemies.","('Roman', 'NORP')"
+"The river Lycus,
+ formed by the conflux of two little streams, pours into the
+ harbour a perpetual supply of fresh water, which serves to
+ cleanse the bottom and to invite the periodical shoals of
+ fish to seek their retreat in that convenient recess.","('two', 'CARDINAL')"
+"The rudiments of this lucrative science were 
+ taught in all the considerable cities of the East and West;
+ but the most famous school was that of Berytus, (121) on the 
+ coast of Phoenicia, which flourished above three centuries
+ from the time of Alexander Severus, the author perhaps of an
+ Institution so advantageous to his native country.","('East', 'LOC'), ('West', 'LOC'), ('Berytus', 'GPE'), ('121', 'CARDINAL'), ('Phoenicia', 'GPE'), ('three centuries', 'DATE'), ('Alexander Severus', 'PERSON')"
+"The same timid policy, of dividing whatever is united, of
+ reducing whatever is eminent, of dreading every active
+ power, and of expecting that the most feeble will prove the
+ most obedient, seems to pervade the institutions of several
+ princes, and particularly those of Constantine.","('Constantine', 'PERSON')"
+"The seat of Turkish jealousy and despotism
+ is erected on the foundations of a Grecian republic; but it
+ may be supposed that the Byzantines were tempted by the
+ conveniency of the harbour to extend their habitations on
+ that side beyond the modern limits of the Seraglio.","('Turkish', 'NORP'), ('Grecian', 'NORP'), ('Byzantines', 'NORP'), ('Seraglio', 'NORP')"
+"The space between the two metæ or goals was filled with statues and obelisks; and we may still remark a very singular fragment of antiquity, the bodies of three serpents twisted into one pillar of brass.","('two', 'CARDINAL'), ('three', 'CARDINAL'), ('one', 'CARDINAL')"
+"The spontaneous offering was at length 
+ exacted as the debt of duty, and, instead of being confined
+ to the occasion of a triumph, it was supposed to be granted
+ by the several cities and provinces of the monarchy as often
+ as the emperor condescended to announce his accession, his
+ consulship, the birth of a son, the creation of a Caesar, a
+ victory over the barbarians, or any other real or imaginary
+ event which graced the annals of his reign.","('Caesar', 'PERSON')"
+"The straits of the Bosphorus are 
+ terminated by the Cyanean rocks, which, according to the
+ description of the poets, had once floated on the face of
+ the waters, and were destined by the gods to protect the
+ entrance of the Euxine against the eye of profane curiosity.","('Bosphorus', 'LOC'), ('Cyanean', 'NORP'), ('Euxine', 'NORP')"
+"The subjects of Constantine were incapable of discerning the decline of genius and manly virtue, which so far degraded them below the dignity of their ancestors; but they could feel and lament the rage of tyranny, the relaxation of discipline, and the increase of taxes.","('Constantine', 'PERSON')"
+"The sum of
+ forty-two pieces of gold, to which it was reduced,
+ ascertains the exorbitant price of volunteers, and the
+ reluctance with which the government admitted of this
+ alternative. (138)","('forty-two', 'CARDINAL'), ('138', 'CARDINAL')"
+"The supreme jurisdiction
+ exercised by the Praetorian praefects over the armies of the
+ empire was transferred to the two masters general whom he
+ instituted, the one for the cavalry, the other for the
+ infantry; and though each of these illustrious officers was
+ more peculiarly responsible for the discipline of those
+ troops which were under his immediate inspection, they both
+ indifferently commanded in the field the several bodies,
+ whether of horse or foot, which were united in the same
+ army. (127)","('Praetorian', 'PERSON'), ('two', 'CARDINAL'), ('127', 'CARDINAL')"
+"The testimony of Zosimus cannot indeed be
+ justified from the charge of passion and prejudice; but,
+ from the nature of this tribute, it seems reasonable to
+ conclude that it was arbitrary in the distribution, and
+ extremely rigorous in the mode of collecting.","('Zosimus', 'PERSON')"
+"The threatening tempest of barbarians, which so soon subverted the foundations of Roman greatness, was still repelled, or suspended, on the frontiers.","('Roman', 'NORP')"
+"The trophies of memorable wars, the objects of 
+ religious veneration, the most finished statues of the gods
+ and heroes, of the sages and poets of ancient times,
+ contributed to the splendid triumph of Constantinople; and
+ gave occasion to the remark of the historian Cedrenus, (43) 
+ who observes, with some enthusiasm, that nothing seemed
+ wanting except the souls of the illustrious men whom these
+ admirable monuments were intended to represent.","('Constantinople', 'GPE'), ('Cedrenus', 'PERSON'), ('43', 'DATE')"
+"The tutelar genius of the city, a venerable
+ matron sinking under the weight of years and infirmities,
+ was suddenly transformed into a blooming maid, whom his own
+ hands adorned with all the symbols of Imperial greatness. (27)","('Imperial', 'NORP'), ('27', 'CARDINAL')"
+"The two opposite entrances formed triumphal arches;
+ the porticoes, which enclosed it on every side, were filled
+ with statues, and the centre of the Forum was occupied by a
+ lofty column, of which a mutilated fragment is now degraded
+ by the appellation of the burnt pillar.","('two', 'CARDINAL'), ('Forum', 'ORG')"
+"The value of a tributary head
+ must have varied, according to many accidental, or at least
+ fluctuating circumstances: but some knowledge has been
+ preserved of a very curious fact, the more important since
+ it relates to one of the richest provinces of the Roman
+ empire, and which now flourishes as the most splendid of the
+ European kingdoms.","('one', 'CARDINAL'), ('Roman', 'NORP'), ('European', 'NORP')"
+"The vanity of those who, from their rank and office, might
+ claim a superior distinction above the rest of the
+ senatorial order, was long afterwards indulged with the new
+ appellation of Respectable: but the title of Illustrious
+ was always reserved to some eminent personages who were
+ obeyed or reverenced by the two subordinate classes.","('Illustrious', 'PERSON'), ('two', 'CARDINAL')"
+"The vast countries which the Roman conquerors had
+ united under the same simple form of administration were
+ imperceptibly crumbled into minute fragments, till at length
+ the whole empire was distributed into one hundred and
+ sixteen provinces, each of which supported an expensive and
+ splendid establishment.","('Roman', 'NORP'), ('one hundred and\r\n sixteen', 'CARDINAL')"
+"The venerable parent still maintained the
+ legal and acknowledged supremacy, which was due to her age,
+ to her dignity, and to the remembrance of her former
+ greatness. (63)
+Dedication.","('63', 'CARDINAL')"
+"The whole number consisted of three thousand and five hundred men, divided into seven schools, or troops, of five hundred each; and in the East this honourable service was almost entirely appropriated to the Armenians.","('three thousand and five hundred', 'CARDINAL'), ('seven', 'CARDINAL'), ('five hundred each', 'CARDINAL'), ('East', 'LOC'), ('Armenians', 'NORP')"
+"The winding channel through which the waters of the Euxine
+ flow with a rapid and incessant course towards the
+ Mediterranean received the appellation of Bosphorus, a name
+ not less celebrated in the history than in the fables of
+ antiquity.","('Euxine', 'LOC'), ('Mediterranean', 'LOC'), ('Bosphorus', 'LOC')"
+"Their 
+ solemn inauguration was performed at the place of the
+ Imperial residence; and during a period of one hundred and
+ twenty years Rome was constantly deprived of the presence of
+ her ancient magistrates. (84)","('Imperial', 'NORP'), ('one hundred and\r\n twenty years', 'DATE'), ('Rome', 'GPE')"
+"Their abilities (unless they were employed in more effective
+ offices) were of little moment; and their names served only
+ as the legal date of the year in which they had filled the
+ chair of Marius and of Cicero.","('the year', 'DATE'), ('Marius', 'PERSON'), ('Cicero', 'PERSON')"
+"Their arms, and titles,
+ and ensigns were calculated to inspire terror, and to
+ display the variety of nations who marched under the
+ Imperial standard.","('Imperial', 'ORG')"
+"Their courts were
+ deserted; their number, which had once fluctuated between
+ twelve and eighteen, (106) was gradually reduced to two or 
+ three; and their important functions were confined to the
+ expensive obligation (107) of exhibiting games for the 
+ amusement of the people.","('between\r\n twelve and eighteen', 'CARDINAL'), ('106', 'CARDINAL'), ('two', 'CARDINAL'), ('three', 'CARDINAL'), ('107', 'CARDINAL')"
+"Their number was soon doubled by the division of 
+ the East and West; and as separate generals of the same rank
+ and title were appointed on the four important frontiers of
+ the Rhine, of the Upper and the Lower Danube, and of the
+ Euphrates, the defence of the Roman empire was at length
+ committed to eight masters general of the cavalry and
+ infantry.","('East', 'LOC'), ('West', 'LOC'), ('four', 'CARDINAL'), ('Rhine', 'LOC'), ('Upper', 'LOC'), ('the Lower Danube', 'LOC'), ('Euphrates', 'LOC'), ('Roman', 'NORP'), ('eight', 'CARDINAL')"
+"Their triple heads had once supported the golden tripod which, after the defeat of Xerxes, was consecrated in the temple of Delphi by the victorious Greeks. (48)","('Xerxes', 'PERSON'), ('Delphi', 'ORG'), ('Greeks', 'NORP'), ('48', 'CARDINAL')"
+"Their vigilance ensured the three principal objects
+ of a regular police - safety, plenty, and cleanliness; and,
+ as a proof of the attention of government to preserve the
+ splendour and ornaments of the capital, a particular
+ inspector was appointed for the statues; the guardian, as it
+ were, of that inanimate people, which, according to the
+ extravagant computation of an old writer, was scarcely
+ inferior in number to the living inhabitants of Rome.","('three', 'CARDINAL'), ('Rome', 'GPE')"
+"There were thirty-four cities, fifteen in the East and nineteen in the West, in which regular companies of workmen were perpetually employed in fabricating defensive armour, offensive weapons of all sorts, and military engines, which were deposited in the arsenals, and occasionally delivered for the service of the troops.","('thirty-four', 'CARDINAL'), ('fifteen', 'CARDINAL'), ('East', 'LOC'), ('nineteen', 'CARDINAL'), ('West', 'LOC')"
+"These evils, however terrible they may appear, were confined
+ to the smaller number of Roman subjects whose dangerous
+ situation was in some degree compensated by the enjoyment of
+ those advantages, either of nature or of fortune, which
+ exposed them to the jealousy of the monarch.","('Roman', 'NORP')"
+"These fortresses were restored and strengthened by
+ Mahomet the Second when he meditated the siege of
+ Constantinople: (8) but the Turkish conqueror was most 
+ probably ignorant that, near two thousand years before his
+ reign, Darius had chosen the same situation to connect the
+ two continents by a bridge of boats.","('Mahomet', 'PERSON'), ('Second', 'ORDINAL'), ('Constantinople', 'GPE'), ('8', 'CARDINAL'), ('Turkish', 'NORP'), ('two thousand years', 'DATE'), ('Darius', 'PERSON'), ('two', 'CARDINAL')"
+"These prerogatives were reserved to the praefects, who alone could impose the heavy fine of fifty pounds of gold: their vicegerents were confined to the trifling weight of a few ounces.","('fifty pounds', 'QUANTITY'), ('a few ounces', 'QUANTITY')"
+"These sacred animals, destined for
+ the service of the palace and the Imperial games, were
+ protected by the laws from the profanation of a vulgar
+ master. (156)","('Imperial', 'NORP'), ('156', 'CARDINAL')"
+"They
+ insensibly assumed the licence of reporting whatever they
+ could observe of the conduct either of magistrates or of
+ private citizens; and were soon considered as the eyes of
+ the monarch (161) and the scourge of the people.","('161', 'CARDINAL')"
+"They
+ obtained the government of a province; and, by the aid of
+ merit, of reputation, or of favour, they ascended, by
+ successive steps, to the illustrious dignities of the
+ state. (122)","('122', 'CARDINAL')"
+"They
+ received appeals from the distance of one hundred miles; and
+ it was allowed as a principle of jurisprudence that all
+ municipal authority was derived from them alone. (108)","('one hundred miles', 'QUANTITY'), ('108', 'CARDINAL')"
+"They abjured the implicit reverence which the pride of
+ Rome had exacted from their ignorance, while they acquired
+ the knowledge and possession of those advantages by which
+ alone she supported her declining greatness.","('Rome', 'GPE')"
+"They applied this sanguinary mode of examination only to
+ servile bodies, whose sufferings were seldom weighed by
+ those haughty republicans in the scale of justice or
+ humanity; but they would never consent to violate the sacred
+ person of a citizen till they possessed the clearest
+ evidence of his guilt. (163)","('republicans', 'NORP')"
+"They found the use of torture established not
+ only among the slaves of oriental despotism, but among the
+ Macedonians, who obeyed a limited monarch; among the
+ Rhodians, who flourished by the liberty of commerce; and
+ even among the sage Athenians, who had asserted and adorned
+ the dignity of human kind.","('Macedonians', 'NORP'), ('Rhodians', 'NORP'), ('Athenians', 'NORP')"
+"They immediately
+ exercised an act of jurisdiction, by the manumission of a
+ slave who was brought before them for that purpose; and the
+ ceremony was intended to represent the celebrated action of
+ the elder Brutus, the author of liberty and of the
+ consulship, when he admitted among his fellow-citizens the
+ faithful Vindex, who had revealed the conspiracy of the
+ Tarquins. (88)","('Brutus', 'PERSON'), ('Vindex', 'PERSON'), ('Tarquins', 'PERSON'), ('88', 'CARDINAL')"
+"They leave on the left a deep gulf, at the bottom of 
+ which Nicomedia was seated, the Imperial residence of
+ Diocletian; and they pass the small islands of Cyzicus and
+ Proconnesus before they cast anchor at Gallipoli, where the
+ sea, which separates Asia from Europe, is again contracted
+ into a narrow channel.","('Nicomedia', 'GPE'), ('Diocletian', 'PERSON'), ('Cyzicus', 'LOC'), ('Proconnesus', 'LOC'), ('Gallipoli', 'GPE'), ('Asia', 'LOC'), ('Europe', 'LOC')"
+"They mounted guard in the interior apartments, and were occasionally despatched into the provinces, to execute with celerity and vigour the
+ orders of their master. (160)","('160', 'CARDINAL')"
+"They protected all persons of
+ illustrious or honourable rank bishops and their
+ presbyters, professors of the liberal arts, soldiers and
+ their families, municipal officers, and their posterity to
+ the third generation, and all children under the age of
+ puberty. (166)","('third', 'ORDINAL'), ('166', 'CARDINAL')"
+"They soon became careless of their martial exercises,
+ curious in their diet and apparel, and, while they inspired
+ terror to the subjects of the empire, they trembled at the
+ hostile approach of the barbarians. (130)","('130', 'CARDINAL')"
+"They suppressed the rich temple of Comana, where the
+ high-priest of the goddess of war supported the dignity of a
+ sovereign prince; and they applied to their private use the
+ consecrated lands, which were inhabited by six thousand
+ subjects or slaves of the deity and her ministers. (155)","('Comana', 'GPE'), ('six thousand', 'CARDINAL'), ('155', 'CARDINAL')"
+"They were deprived
+ by Constantine of all military command as soon as they had
+ ceased to lead into the field, under their immediate orders,
+ the flower of the Roman troops; and, at length, by a
+ singular revolution, the captains of the guards were
+ transformed into the civil magistrates of the provinces.","('Constantine', 'PERSON'), ('Roman', 'NORP')"
+"This column was
+ erected on a pedestal of white marble twenty feet high, and
+ was composed of ten pieces of porphyry, each of which
+ measured about ten feet in height, and about thirty-three in
+ circumference.","('twenty feet', 'QUANTITY'), ('ten', 'CARDINAL'), ('about ten feet', 'QUANTITY'), ('about thirty-three', 'CARDINAL')"
+"This general estimate of the
+ supplies was proportioned to the real and imaginary wants of
+ the state; but as often as the expense exceeded the revenue,
+ or the revenue fell short of the computation, an additional
+ tax, under the name of superindiction, was imposed on the
+ people, and the most valuable attribute of sovereignty was
+ communicated to the Praetorian praefects, who, on some
+ occasions, were permitted to provide for the unforeseen and
+ extraordinary exigencies of the public service.","('Praetorian', 'NORP')"
+"This honourable rank was bestowed on them for life;
+ and, as they were usually favourites and ministers who had
+ grown old in the Imperial court, the true etymology of the
+ word was perverted by ignorance and flattery; and the
+ Patricians of Constantine were reverenced as the adopted
+ 'Fathers' of the emperor and the republic. (98)","('Imperial', 'NORP'), ('Patricians', 'NORP'), ('Constantine', 'PERSON'), ('98', 'CARDINAL')"
+"This treasure was immediately
+ melted down by the prudent dictator, who was satisfied that
+ it would be more serviceable to his soldiers than to the
+ gods: his example was imitated by his successors, and the
+ custom was introduced of exchanging these splendid ornaments
+ for the more acceptable present of the current gold coin of
+ the empire. (192)","('192', 'CARDINAL')"
+"Those who steer their westward course through
+ the middle of the Propontis may at once descry the high
+ lands of Thrace and Bithynia, and never lose sight of the
+ lofty summit of Mount Olympus, covered with eternal snows.","('Propontis', 'LOC'), ('Thrace', 'LOC'), ('Bithynia', 'LOC'), ('Mount Olympus', 'LOC')"
+"Though the
+ emperors no longer dreaded the ambition of their praefects,
+ they were attentive to counterbalance the power of this
+ great office by the uncertainty and shortness of its
+ duration. (102)","('102', 'CARDINAL')"
+Three ranks of honour.,"('Three', 'CARDINAL')"
+"To
+ perpetuate the memory of his success, he chose the same
+ advantageous position for the principal Forum, (44) which 
+ appears to have been of a circular or rather elliptical
+ form.","('Forum', 'ORG'), ('44', 'CARDINAL')"
+"To
+ the Praetorian praefects, with the praefects of Rome and
+ Constantinople; III.","('Praetorian', 'NORP'), ('Rome', 'GPE'), ('Constantinople', 'GPE')"
+"To form a body of nobles, whose influence may
+ restrain while it secures the authority of the monarch,
+ would have been very inconsistent with the character and
+ policy of Constantine; but, had he seriously entertained
+ such a design, it might have exceeded the measure of his
+ power to ratify by an arbitrary edict an institution which
+ must expect the sanction of time and of opinion.","('Constantine', 'PERSON')"
+"To revive the genius of
+ Phidias and Lysippus surpassed indeed the power of a Roman
+ emperor; but the immortal productions which they had
+ bequeathed to posterity were exposed without defence to the
+ rapacious vanity of a despot.","('Phidias', 'NORP'), ('Lysippus', 'PERSON'), ('Roman', 'NORP')"
+"To secure his throne 
+ and the public tranquillity from these formidable servants,
+ Constantine resolved to divide the military from the civil
+ administration, and to establish, as a permanent and
+ professional distinction, a practice which had been adopted
+ only as an occasional expedient.","('Constantine', 'PERSON')"
+"To the seven ministers of the
+ palace, who exercised their 'sacred' functions about the
+ person of the emperor. (78)","('seven', 'CARDINAL')"
+"To their wisdom was committed the
+ supreme administration of justice and of the finances, the
+ two objects which, in a state of peace, comprehend almost
+ all the respective duties of the sovereign and of the
+ people; of the former, to protect the citizens who are
+ obedient to the laws; of the latter, to contribute the share
+ of their property which is required for the expenses of the
+ state.","('two', 'CARDINAL')"
+"Twenty-nine provincial receivers, of whom 
+ eighteen were honoured with the title of count, corresponded
+ with the treasurer, and he extended his jurisdiction over
+ the mines from whence the precious metals were extracted,
+ over the mints in which they were converted into the current
+ coin, and over the public treasuries of the most important
+ cities, where they were deposited for the service of the
+ state.","('Twenty-nine', 'CARDINAL'), ('eighteen', 'CARDINAL')"
+"Twenty-six of these institutions are enumerated in the
+ West, where the arts had been more recently introduced, and
+ a still larger proportion may be allowed for the industrious
+ provinces of the East. (153)","('Twenty-six', 'CARDINAL'), ('West', 'LOC'), ('153', 'CARDINAL')"
+"Two or three hundred agents or messengers were employed, under the jurisdiction of the master of the offices, to announce the names of the annual consuls, and the edicts or victories of the emperors.","('Two or three hundred', 'CARDINAL')"
+"Under the 
+ warm influence of a feeble reign they multiplied to the
+ incredible number of ten thousand, disdained the mild though
+ frequent admonitions of the laws, and exercised in the
+ profitable management of the posts a rapacious and insolent
+ oppression.","('ten thousand', 'CARDINAL')"
+"Under their orders, thirty-five military
+ commanders were stationed in the provinces: three in
+ Britain, six in Gaul, one in Spain, one in Italy, five on
+ the Upper and four on the Lower Danube, in Asia eight, three
+ in Egypt, and four in Africa.","('thirty-five', 'CARDINAL'), ('three', 'CARDINAL'), ('Britain', 'GPE'), ('six', 'CARDINAL'), ('Gaul', 'GPE'), ('one', 'CARDINAL'), ('Spain', 'GPE'), ('one', 'CARDINAL'), ('Italy', 'GPE'), ('five', 'CARDINAL'), ('four', 'CARDINAL'), ('the Lower Danube', 'LOC'), ('Asia', 'LOC'), ('eight', 'CARDINAL'), ('three', 'CARDINAL'), ('Egypt', 'GPE'), ('four', 'CARDINAL'), ('Africa', 'LOC')"
+"Very few remained 
+ who could derive their pure and genuine origin from the
+ infancy of the city, or even from that of the republic, when
+ Caesar and Augustus, Claudius and Vespasian, created from
+ the body of the senate a competent number of new Patrician
+ families, in the hope of perpetuating an order which was
+ still considered as honourable and sacred. (96)","('Caesar', 'PERSON'), ('Augustus', 'PERSON'), ('Claudius', 'PERSON'), ('Vespasian', 'PERSON'), ('Patrician', 'NORP')"
+"We are at present qualified to view the advantageous
+ position of Constantinople, which appears to have been
+ formed by nature for the centre and capital of a great
+ monarchy.","('Constantinople', 'GPE')"
+"We might likewise celebrate the baths, which still retained the name of Zeuxippus, after they had been enriched by the munificence of Constantine, with lofty columns, various marbles, and above three-score statues of bronze.","('Zeuxippus', 'PRODUCT'), ('Constantine', 'PERSON'), ('three', 'CARDINAL')"
+"Wealth
+ and honours, the offices of the state, and the ceremonies of
+ religion, were almost exclusively possessed by the former
+ who, preserving the purity of their blood with the most
+ insulting jealousy, (93) held their clients in a condition of 
+ specious vassalage.","('93', 'CARDINAL')"
+"Whatever rude commodities were collected in
+ the forests of Germany and Scythia, as far as the sources of
+ the Tanais and the Borysthenes; whatsoever was manufactured
+ by the skill of Europe or Asia; the corn of Egypt, and the
+ gems and spices of the farthest India, were brought by the
+ varying winds into the port of Constantinople, which, for
+ many ages, attracted the commerce of the ancient world. (24)","('Germany', 'GPE'), ('Scythia', 'GPE'), ('Tanais', 'NORP'), ('Borysthenes', 'NORP'), ('Europe', 'LOC'), ('Asia', 'LOC'), ('Egypt', 'GPE'), ('India', 'GPE'), ('Constantinople', 'GPE'), ('24', 'CARDINAL')"
+"When the gates of the Hellespont and Bosphorus were
+ shut, the capital still enjoyed within their spacious
+ enclosure every production which could supply the wants or
+ gratify the luxury of its numerous inhabitants.","('Hellespont', 'FAC'), ('Bosphorus', 'LOC')"
+"When the tyrant Caligula was 
+ suspected of an intention to invest a very extraordinary
+ candidate with the consular robes, the sacrilegious
+ profanation would have scarcely excited less astonishment
+ if, instead of a horse, the noblest chieftain of Germany or
+ Britain had been the object of his choice.","('Caligula', 'PERSON'), ('Germany', 'GPE'), ('Britain', 'GPE')"
+"Whenever, on public ceremonies, they were drawn up in the courts and porticos of the palace, their lofty stature, silent order, and splendid arms of silver and gold, displayed a martial pomp not unworthy of the Roman majesty. (159)","('Roman', 'NORP'), ('159', 'CARDINAL')"
+"Whilst Augustus affected to maintain the freedom of election, he consented to accept the annual privilege of recommending, or rather indeed of nominating, a certain proportion of candidates; and it was his custom to select one of these distinguished youths to read his orations or epistles in the assemblies of the senate. (148)","('Augustus', 'PERSON'), ('one', 'CARDINAL'), ('148', 'CARDINAL')"
+"With the view of sharing that species of wealth
+ which is derived from art or labour, and which exists in
+ money or in merchandise, the emperors imposed a distinct and
+ personal tribute on the trading part of their subjects. (189)","('189', 'CARDINAL')"
+"With these views Diocletian had selected and embellished the
+ residence of Nicomedia: but the memory of Diocletian was
+ justly abhorred by the protector of the church; and
+ Constantine was not insensible to the ambition of founding a
+ city which might perpetuate the glory of his own name.","('Diocletian', 'PERSON'), ('Nicomedia', 'PERSON'), ('Diocletian', 'PERSON'), ('Constantine', 'PERSON')"
+"Within sixty years after the death of
+ Constantine, and on the evidence of an actual survey, an
+ exemption was granted in favour of three hundred and thirty
+ thousand English acres of desert and uncultivated land,
+ which amounted to one-eighth of the whole surface of the
+ province.","('sixty years', 'DATE'), ('Constantine', 'PERSON'), ('three hundred and thirty\r\n thousand English acres', 'QUANTITY'), ('one-eighth', 'CARDINAL')"
+"Without abolishing all the various customs and
+ duties on merchandises, which are imperceptibly discharged
+ by the apparent choice of the purchaser, the policy of
+ Constantine and his successors preferred a simple and direct
+ mode of taxation, more congenial to the spirit of an
+ arbitrary government.","('Constantine', 'PERSON')"
+"Without presuming to investigate the nature or  motives of this extraordinary conductor, we shall content ourselves with the more humble task of describing the extent and limits of Constantinople. (30)","('Constantinople', 'GPE'), ('30', 'CARDINAL')"
+"Yet Constantinople must yield to Babylon
+ and Thebes, (37) to ancient Rome, to London, and even to 
+ Paris. (38)","('Constantinople', 'GPE'), ('Babylon', 'GPE'), ('Thebes', 'GPE'), ('37', 'CARDINAL'), ('Rome', 'GPE'), ('London', 'GPE'), ('Paris', 'GPE'), ('38', 'CARDINAL')"
+"Yet it was still felt and
+ acknowledged, in the last period of Roman servitude, that
+ this empty name might be compared, and even preferred, to
+ the possession of substantial power.","('Roman', 'NORP')"
+"Yet, although the stature was lowered,
+  (136) although slaves, at least by a tacit connivance, were 
+ indiscriminately received into the ranks, the insurmountable
+ difficulty of procuring a regular and adequate supply of
+ volunteers obliged the emperors to adopt more effectual and
+ coercive methods.","('136', 'CARDINAL')"

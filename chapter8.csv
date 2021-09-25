@@ -1,0 +1,597 @@
+Sentence,Entities
+(14),"('14', 'CARDINAL')"
+(3),"('3', 'CARDINAL')"
+(34),"('34', 'CARDINAL')"
+(4),"('4', 'CARDINAL')"
+(41),"('41', 'CARDINAL')"
+(5),"('5', 'CARDINAL')"
+"(9) A short
+ delineation of that celebrated system will be found useful,
+ not only to display the character of the Persian nation, but
+ to illustrate many of their most important transactions,
+ both in peace and war, with the Roman empire. (10)
+Persian theology; two principles","('Persian', 'NORP'), ('Roman', 'NORP'), ('10', 'CARDINAL'), ('Persian', 'NORP'), ('two', 'CARDINAL')"
+"A
+ cheerful submission was rewarded with honours and riches;
+ but the prudent Artaxerxes, suffering no person except
+ himself to assume the title of king, abolished every
+ intermediate power between the throne and the people.","('Artaxerxes', 'PERSON')"
+"A
+ regular hierarchy was diffused through all the provinces of
+ Persia; and the Archimagus, who resided at Balch, was
+ respected as the visible head of the church, and the lawful
+ successor of Zoroaster. (17)","('Persia', 'LOC'), ('Archimagus', 'NORP'), ('Balch', 'PERSON'), ('Zoroaster', 'PERSON'), ('17', 'CARDINAL')"
+"A forty years' tranquillity, the fruit
+ of valour and moderation, had succeeded the victories of
+ Trajan.","(""forty years'"", 'DATE'), ('Trajan', 'PERSON')"
+"A third, more mindful of ancient
+ grandeur than of present necessity, attempted to retire,
+ with a numerous train of vassals, towards their kinsman, the
+ king of Armenia; but this little army of deserters was
+ intercepted, and cut off, by the vigilance of the conqueror,
+  (6) who boldly assumed the double diadem, and the title of
+ King of Kings, which had been enjoyed by his predecessor.","('third', 'ORDINAL'), ('Armenia', 'GPE'), ('6', 'CARDINAL'), ('King of Kings', 'PERSON')"
+"Abgarus, the last king of
+ Edessa, was (A.D. 216) sent in chains to Rome, his dominions
+ reduced into a province, and his capital dignified with the
+ rank of colony and thus the Romans, about ten years before
+ the fall of the Parthian monarchy, obtained a firm and
+ permanent establishment beyond the Euphrates. (46)","('Abgarus', 'PERSON'), ('Edessa', 'PERSON'), ('A.D. 216', 'DATE'), ('Rome', 'GPE'), ('Romans', 'NORP'), ('about ten years', 'DATE'), ('Parthian', 'NORP'), ('Euphrates', 'LOC')"
+"About the
+ same time that, by an ignominious treaty, they resigned to
+ the Romans the country on this side Mount Taurus, they were
+ driven by the Parthians, an obscure horde of Scythian
+ origin, from all the provinces of Upper Asia.","('Romans', 'NORP'), ('Mount Taurus', 'LOC'), ('Parthians', 'NORP'), ('Scythian', 'NORP'), ('Upper Asia', 'LOC')"
+"After the conclusion of the Parthian war under Marcus, it
+ was judged prudent to secure some substantial pledges of
+ their doubtful fidelity.","('the Parthian war', 'EVENT'), ('Marcus', 'PERSON')"
+"Ahriman and his followers,
+ disarmed and subdued, will sink into their native darkness;
+ and virtue will maintain the eternal peace and harmony of
+ the universe. (11)
+Religious Worship","('Ahriman', 'PERSON')"
+"Among their exploits, the imperfect relation of which would
+ have unseasonably interrupted the more important series of
+ domestic revolutions, we shall only mention the repeated
+ calamities of the two great cities of Seleucia and
+ Ctesiphon.","('two', 'CARDINAL'), ('Seleucia', 'GPE'), ('Ctesiphon', 'GPE')"
+"Artaxerxes bequeathed his new empire, and his ambitious designs against the Romans, to Sapor, a son not unworthy of his great father; but those designs were too extensive for the power of Persia, and served only to involve both nations in a long series of destructive wars and reciprocal calamities.","('Artaxerxes', 'PERSON'), ('Romans', 'NORP'), ('Sapor', 'PERSON'), ('Persia', 'GPE')"
+"Artaxerxes claims the provinces of Asia, and declares war against the Romans
+ Prudence as well as glory might have justified a war on the
+ side of Artaxerxes, had his views been confined to the
+ defence or the acquisition of a useful frontier.","('Artaxerxes', 'PERSON'), ('Asia', 'LOC'), ('Romans', 'NORP'), ('Artaxerxes', 'ORG')"
+"Artaxerxes, by his valour and conduct, had wrested the
+ sceptre of the East from the ancient royal family of
+ Parthia.","('East', 'LOC'), ('Parthia', 'PERSON')"
+"As soon as the ambitious mind of Artaxerxes had triumphed
+ over the resistance of his vassals, he began to threaten the
+ neighbouring states, who, during the long slumber of his
+ predecessors, had insulted Persia with impunity.","('Artaxerxes', 'ORG'), ('Persia', 'GPE')"
+"As the lineal heir of the
+ monarchy, he asserted his right to the throne, and
+ challenged the noble task of delivering the Persians from
+ the oppression under which they groaned above five centuries
+ since the death of Darius.","('Persians', 'NORP'), ('five centuries', 'DATE'), ('Darius', 'PERSON')"
+"At that decisive period, the enlightened wisdom of
+ goodness will render the power of Ormusd superior to the
+ furious malice of his rival.","('Ormusd', 'PERSON')"
+"At the age of puberty, the
+ faithful Persian was invested with a mysterious girdle, the
+ badge of the divine protection, and from that moment all the
+ actions of his life, even the most indifferent, or the most
+ necessary, were sanctified by their peculiar prayers,
+ ejaculations, or genuflections; the omission of which, under
+ any circumstances, was a grievous sin, not inferior in guilt
+ to the violation of the moral duties.","('Persian', 'NORP')"
+"Besides the less invidious possession of a
+ large tract of the most fertile lands of Media, (18) they
+ levied a general tax on the fortunes and the industry of the
+ Persians. (19)","('18', 'CARDINAL'), ('Persians', 'NORP'), ('19', 'CARDINAL')"
+"Both Alexander Severus and Artaxerxes,
+ collecting the military force of the Roman and Persian
+ monarchies, resolved in this important contest to lead their
+ armies in person.","('Alexander Severus', 'PERSON'), ('Artaxerxes', 'PERSON'), ('Roman', 'NORP'), ('Persian', 'NORP')"
+"But as the debates of so tumultuous
+ an assembly could not have been directed by the authority of
+ reason, or influenced by the art of policy, the Persian
+ synod was reduced, by successive operations, to forty
+ thousand, to four thousand, to four hundred, to forty, and
+ at last to seven Magi, the most respected for their learning
+ and piety.","('Persian', 'NORP'), ('forty\r\n thousand', 'CARDINAL'), ('four thousand', 'CARDINAL'), ('four hundred, to forty', 'CARDINAL'), ('seven', 'CARDINAL')"
+"But in several obstinate engagements
+ against the veteran legions of Rome, the Persian monarch had
+ lost the flower of his troops.","('Rome', 'GPE'), ('Persian', 'NORP')"
+"But it must likewise be
+ confessed, that in every age the want of harbours on the
+ sea-coast, and the scarcity of fresh water in the inland
+ provinces, have been very unfavourable to the commerce and
+ agriculture of the Persians; who, in the calculation of
+ their numbers, seem to have indulged one of the meanest,
+ though most common, articles of national vanity.","('Persians', 'NORP')"
+"But the
+ ambitious Persian openly avowed a far more extensive design
+ of conquest; and (A.D. 230) he thought himself able to
+ support his lofty pretensions by the arms of reason as well
+ as by those of power.","('Persian', 'NORP'), ('A.D. 230', 'DATE')"
+"But the
+ malice of Ahriman has long since pierced Ormusd's egg; or,
+ in other words, has violated the harmony of his works.","('Ahriman', 'GPE'), ('Ormusd', 'PERSON')"
+"But the Persians of every age have denied the charge, and explained the equivocal
+ conduct, which might appear to give a colour to it.","('Persians', 'NORP')"
+"But the active victor, at the head of a numerous and
+ disciplined army, visited in person every province of
+ Persia.","('Persia', 'GPE')"
+"But the inexperienced youth, influenced by
+ his mother's counsels, and perhaps by his own fears,
+ deserted the bravest troops and the fairest prospect of
+ victory; and after consuming in Mesopotamia in inactive and
+ inglorious summer, he led back to Antioch an army diminished
+ by sickness, and provoked by disappointment.","('Mesopotamia', 'LOC'), ('Antioch', 'GPE')"
+"But the nobles of Persia, in the bosom of luxury and
+ despotism, preserved a strong sense of personal gallantry
+ and national honour.","('Persia', 'GPE')"
+"But there are some remarkable instances, in which Zoroaster
+ lays aside the prophet, assumes the legislator, and
+ discovers a liberal concern for private and public
+ happiness, seldom to be found among the grovelling or
+ visionary schemes of superstition.","('Zoroaster', 'PERSON')"
+"But these pompous titles, instead of gratifying the vanity
+ of the Persian, served only to admonish him of his duty, and
+ to inflame in his soul the ambition of restoring, in their
+ full splendour, the religion and empire of Cyrus.","('Persian', 'NORP'), ('Cyrus', 'PERSON')"
+"By an edict of
+ Artaxerxes, the exercise of every worship, except that of
+ Zoroaster, was severely prohibited.","('Artaxerxes', 'PRODUCT'), ('Zoroaster', 'GPE')"
+"Cities of Seleucia and Ctesiphon
+ Seleucia, on the western bank of the Tigris, about
+ forty-five miles to the north of ancient Babylon, was the
+ capital of the Macedonian conquests in Upper Asia. (38)","('Seleucia', 'GPE'), ('Ctesiphon\r\n Seleucia', 'GPE'), ('Tigris', 'FAC'), ('about\r\n forty-five miles', 'QUANTITY'), ('Babylon', 'GPE'), ('Macedonian', 'NORP'), ('Upper Asia', 'LOC'), ('38', 'CARDINAL')"
+"Conquest of Osrhoene by the Romans
+ From these successful inroads, the Romans derived no real or
+ lasting benefit; nor did they attempt to preserve such
+ distant conquests, separated from the provinces of the
+ empire by a large tract of intermediate desert.","('Osrhoene', 'PERSON'), ('Romans', 'NORP'), ('Romans', 'NORP')"
+"Cyrus, he alleged, had first subdued,
+ and his successors had for a long time possessed, the whole
+ extent of Asia, as far as the Propontis and the AEgean sea;
+ the provinces of Caria and Ionia, under their empire, had
+ been governed by Persian satraps, and all Egypt, to the
+ confines of Ethiopia, had acknowledged their sovereignty. (47)","('Cyrus', 'PERSON'), ('first', 'ORDINAL'), ('Asia', 'LOC'), ('Propontis', 'LOC'), ('the AEgean sea', 'LOC'), ('Caria', 'LOC'), ('Ionia', 'GPE'), ('Persian', 'NORP'), ('Egypt', 'GPE'), ('Ethiopia', 'GPE')"
+"During the period that elapsed from the accession of
+ Marcus to the reign of Alexander, the Roman and the Parthian
+ empires were twice engaged in war; and although the whole
+ strength of the Arsacides contended with a part only of the
+ forces of Rome, the event was most commonly in favour of the
+ latter.","('Marcus', 'PERSON'), ('Alexander', 'PERSON'), ('Roman', 'NORP'), ('Parthian', 'NORP'), ('Arsacides', 'NORP'), ('Rome', 'GPE')"
+"During the troubles that followed
+ the death of Commodus, the princes of Osrhoene attempted to
+ shake off the yoke; but the stern policy of Severus
+ confirmed their dependence,  (45) and the perfidy of Caracalla
+ completed the easy conquest.","('Commodus', 'EVENT'), ('Osrhoene', 'PERSON'), ('Severus', 'PERSON'), ('Caracalla', 'PERSON')"
+"Edessa, its capital, was situated about twenty miles beyond
+ the former of those rivers, and the inhabitants, since the
+ time of Alexander, were a mixed race of Greeks, Arabs,
+ Syrians, and Armenians.  (44)","('Edessa', 'GPE'), ('about twenty miles', 'QUANTITY'), ('Alexander', 'PERSON'), ('Greeks', 'NORP'), ('Arabs', 'NORP'), ('Syrians', 'NORP'), ('Armenians', 'NORP')"
+"Even tribes of barbarians in their mountains, and the
+ Greek cities of Upper Asia, (31) within their walls scarcely
+ acknowledged, or seldom obeyed, any superior; and the
+ Parthian empire exhibited, under other names, a lively image
+ of the feudal system (32) which has since prevailed in Europe.","('Greek', 'NORP'), ('Upper Asia', 'LOC'), ('31', 'CARDINAL'), ('Parthian', 'NORP'), ('32', 'CARDINAL'), ('Europe', 'LOC')"
+"Every doubt was silenced by this supernatural
+ evidence; and the articles of the faith of Zoroaster were
+ fixed with equal authority and precision.","('Zoroaster', 'PERSON')"
+Extent and population of Persia,"('Persia', 'GPE')"
+"Far from being inclined to believe that the arms of
+ Alexander obtained any memorable advantage over the
+ Persians, we are induced to suspect that all this blaze of
+ imaginary glory was designed to conceal some real disgrace.","('Alexander', 'PERSON'), ('Persians', 'NORP')"
+"Fasting and celibacy, the
+ common means of purchasing the Divine favour, he condemns
+ with abhorrence, as a criminal rejection of the best gifts
+ of Providence.","('Providence', 'GPE')"
+"Flying with rapidity
+ from the hills of Media to the marshes of the Euphrates, he
+ had everywhere opposed the invaders in person; and in either
+ fortune had united with the ablest conduct the most
+ undaunted resolution.","('Euphrates', 'LOC')"
+"Followed, as it is said, by two
+ millions of men, Xerxes, the descendant of Cyrus, invaded
+ Greece.","('two\r\n millions', 'CARDINAL'), ('Xerxes', 'PERSON'), ('Cyrus', 'PERSON'), ('Greece', 'GPE')"
+"Forts were constructed in several
+ parts of the country, and a Roman garrison was fixed in the
+ strong town of Nisibis.","('Roman', 'NORP'), ('Nisibis', 'GPE')"
+"From either the blind or the
+ intelligent operation of this infinite Time, which bears but
+ too near an affinity with the chaos of the Greeks, the two
+ secondary but active principles of the universe were from
+ all eternity produced, Ormusd and Ahriman, each of them
+ possessed of the powers of creation, but each disposed by
+ his invariable nature, to exercise them with different
+ designs.","('Time', 'EVENT'), ('Greeks', 'NORP'), ('two', 'CARDINAL'), ('Ormusd', 'PERSON'), ('Ahriman', 'PERSON')"
+"From the age of seven years they were
+ taught to speak truth, to shoot with the bow, and to ride;
+ and it was universally confessed, that in the two last of
+ these arts they had made a more than common proficiency. (57)","('the age of seven years', 'DATE'), ('two', 'CARDINAL')"
+"From the reign of Augustus to the time of Alexander Severus, the enemies of Rome were in her bosom; the tyrants, and the soldiers; and her prosperity had a very distant and feeble interest in the revolutions that might happen beyond the Rhine and the Euphrates.","('Augustus', 'PERSON'), ('Alexander Severus', 'PERSON'), ('Rome', 'GPE'), ('Rhine', 'LOC'), ('Euphrates', 'LOC')"
+"He obtained
+ some easy victories over the wild Scythians and the
+ effeminate Indians; but the Romans were an enemy who, by
+ their past injuries and present power, deserved the utmost
+ efforts of his arms.","('Scythians', 'NORP'), ('Indians', 'NORP'), ('Romans', 'NORP')"
+"His kingdom, nearly equal in extent to modern Persia, was, on
+ every side, bounded by the sea, or by great rivers, by the
+ Euphrates, the Tigris, the Araxes, the Oxus, and the Indus,
+ by the Caspian Sea, and the Gulf of Persian. (35)","('Persia', 'LOC'), ('Euphrates', 'LOC'), ('Tigris', 'LOC'), ('Araxes', 'LOC'), ('Oxus', 'LOC'), ('Indus', 'LOC'), ('the Caspian Sea', 'LOC'), ('the Gulf of Persian', 'LOC'), ('35', 'CARDINAL')"
+"If we compare the administration
+ of the house of Sassan with that of the house of Sefi, the
+ political influence of the Magian with that of the Mahometan
+ religion, we shall probably infer, that the kingdom of
+ Artaxerxes contained at least as great a number of cities,
+ villages, and inhabitants.","('Sassan', 'GPE'), ('Sefi', 'PERSON'), ('Magian', 'NORP'), ('Mahometan', 'NORP'), ('Artaxerxes', 'GPE')"
+"If we credit the scandal of the former, Artaxerxes sprang
+ from the illegitimate commerce of a tanner's wife with a
+ common soldier.","('Artaxerxes', 'PERSON')"
+"If we credit what should seem the most authentic of all
+ records, an oration, still extant, and delivered by the
+ emperor himself to the senate, we must allow that the
+ victory of Alexander Severus was not inferior to any of
+ those formerly obtained over the Persians by the son of
+ Philip.","('Alexander Severus', 'PERSON'), ('Persians', 'NORP'), ('Philip', 'PERSON')"
+"In repassing the
+ mountains great numbers of soldiers perished by the badness
+ of the roads, and the severity of the winter season.","('the winter season', 'DATE')"
+"In summer, the monarch of
+ Persia enjoyed at Ecbatana the cool breezes of the mountains
+ of Media; but the mildness of the climate engaged him to
+ prefer Ctesiphon for his winter residence.","('summer', 'DATE'), ('Persia', 'GPE'), ('Ecbatana', 'GPE'), ('Ctesiphon', 'PERSON'), ('winter', 'DATE')"
+"In the last of these their king Artaban
+ was slain, and the spirit of the nation was for ever broken.","('Artaban', 'PERSON')"
+"In the more early ages of the world, whilst the forest that covered Europe afforded a retreat to a few wandering savages, the inhabitants of Asia were already collected into populous cities, and reduced under extensive empires, the seat of the arts, of luxury, and of despotism.","('Europe', 'LOC'), ('Asia', 'LOC')"
+"In the spring of every year a festival was celebrated, destined to represent the primitive equality, and the present connection, of mankind.","('the spring of every year', 'DATE')"
+"Instead of expelling the Romans, as he pretended,
+ from the continent of Asia, he found himself unable to wrest
+ from their hands the little province of Mesopotamia. (53)","('Romans', 'NORP'), ('Asia', 'LOC'), ('Mesopotamia', 'GPE'), ('53', 'CARDINAL')"
+"It had
+ been resolved, that whilst these two great detachments
+ penetrated into the opposite extremes of the Persian
+ dominions, the main body, under the command of Alexander
+ himself, should support their attack by invading the centre
+ of the kingdom.","('two', 'CARDINAL'), ('Persian', 'NORP'), ('Alexander', 'PERSON')"
+"Macrinus, indeed, prompted by his precarious
+ situation and pusillanimous temper, purchased a peace at the
+ expense of near two millions of our money;  (37) but the
+ generals of Marcus, the emperor Severus, and his son,
+ erected many trophies in Armenia, Mesopotamia, and Assyria.","('Macrinus', 'PERSON'), ('near two millions', 'CARDINAL'), ('37', 'CARDINAL'), ('Marcus', 'PERSON'), ('Severus', 'PERSON'), ('Armenia', 'GPE'), ('Mesopotamia', 'GPE'), ('Assyria', 'GPE')"
+"Many
+ ages after the fall of their empire, Seleucia retained the
+ genuine characters of a Grecian colony, arts, military
+ virtue, and the love of freedom.","('Seleucia', 'PERSON'), ('Grecian', 'NORP')"
+Military power of the Persians.,"('Persians', 'NORP')"
+"Notwithstanding these misfortunes,
+ Ctesiphon succeeded to Babylon and to Seleucia, as one of
+ the great capitals of the East.","('Ctesiphon', 'PERSON'), ('Babylon', 'GPE'), ('Seleucia', 'PERSON'), ('one', 'CARDINAL'), ('East', 'LOC')"
+Of the state of Persia after the restoration of the monarchy by Artaxerxes,"('Persia', 'LOC'), ('Artaxerxes', 'PERSON')"
+"On that day the husbandmen were admitted, without distinction, to the table
+ of the king, and his satraps.","('that day', 'DATE')"
+One of them in particular discovers a deep insight into the constitution of government.,"('One', 'CARDINAL')"
+"One of these, Erdaviraph, a young but holy
+ prelate, received from the hands of his brethren three cups
+ of soporiferous wine.","('One', 'CARDINAL'), ('Erdaviraph', 'PERSON'), ('three', 'CARDINAL')"
+"Our suspicions are confirmed by the authority of a
+ contemporary historian, who mentions the virtues of
+ Alexander with respect, and his faults with candour.","('Alexander', 'PERSON')"
+"Power of the Magi
+ Had Zoroaster, in all his institutions, invariably supported
+ this exalted character, his name would deserve a place with
+ those of Numa and Confucius, and his system would be justly
+ entitled to all the applause which it has pleased some of
+ our divines, and even some of our philosophers, to bestow on
+ it.","('Power of the Magi\r\n Had Zoroaster', 'PERSON'), ('Numa', 'NORP'), ('Confucius', 'PERSON')"
+Pretended victory of Alexander Severus,"('Alexander Severus', 'PERSON')"
+Recapitulation of the war between the Parthian and Roman empire,"('Parthian', 'NORP'), ('Roman', 'NORP')"
+"Reformation of the Magian religion
+ I. During the long servitude of Persia under the Macedonian
+ and the Parthian yoke, the nations of Europe and Asia had
+ mutually adopted and corrupted each other's superstitions.","('Magian', 'NORP'), ('Persia', 'GPE'), ('Macedonian', 'NORP'), ('Parthian', 'NORP'), ('Europe', 'LOC'), ('Asia', 'LOC')"
+Revolutions of Asia,"('Asia', 'LOC')"
+"That country
+ was computed to contain, in the last century, five hundred
+ and fifty-four cities, sixty thousand villages, and about
+ forty millions of souls. (36)","('the last century', 'DATE'), ('five hundred\r\n and fifty-four', 'CARDINAL'), ('sixty thousand', 'CARDINAL'), ('about\r\n forty millions', 'CARDINAL')"
+"That little state occupied the northern and most fertile
+ part of Mesopotamia, between the Euphrates and the Tigris.","('Mesopotamia', 'LOC'), ('Euphrates', 'LOC'), ('Tigris', 'LOC')"
+"The
+ Parthian monarchs, like the Mogul sovereigns of Hindostan,
+ delighted in the pastoral life of their Scythian ancestor;
+ and the Imperial camp was frequently pitched in the plain of
+ Ctesiphon, on the eastern bank of the Tigris, at the
+ distance of only three miles from Seleucia.  (40)","('Parthian', 'NORP'), ('Mogul', 'PERSON'), ('Hindostan', 'NORP'), ('Scythian', 'NORP'), ('Imperial', 'NORP'), ('Ctesiphon', 'GPE'), ('Tigris', 'LOC'), ('only three miles', 'QUANTITY'), ('Seleucia', 'GPE'), ('40', 'CARDINAL')"
+"The
+ innumerable attendants on luxury and despotism resorted to
+ the court, and the little village of Ctesiphon insensibly
+ swelled into a great city.","('Ctesiphon', 'GPE')"
+"The
+ reduction of the kingdom of Osrhoene was an acquisition of
+ less splendour indeed, but of a far more solid advantage.","('Osrhoene', 'GPE')"
+"The
+ science of war, that constituted the more rational force of Greece and Rome, as it now does of Europe, never made any considerable progress in the East.","('Greece', 'GPE'), ('Rome', 'GPE'), ('Europe', 'LOC'), ('East', 'LOC')"
+"The
+ vitaxae, or eighteen most powerful satraps, were permitted
+ to assume the regal title and the vain pride of the monarch
+ was delighted with a nominal dominion over so many vassal
+ kings.","('eighteen', 'CARDINAL')"
+"The Arsacides, indeed, practised the worship of the Magi;
+ but they disgraced and polluted it with a various mixture of
+ foreign idolatry.","('Arsacides', 'NORP'), ('Magi', 'PERSON')"
+"The Assyrians reigned over the East, (1) till the sceptre of Ninus and Semiramis dropt from the hands of their enervated successors.","('Assyrians', 'NORP'), ('East', 'LOC'), ('1', 'CARDINAL'), ('Ninus', 'PERSON'), ('Semiramis', 'PERSON')"
+"The Great
+ King fled before his valour; an immense booty, and the
+ conquest of Mesopotamia, were the immediate fruits of this
+ signal victory.","('The Great\r\n King', 'PERSON'), ('Mesopotamia', 'LOC')"
+"The Great King, therefore (such was the haughty
+ style of his embassies to the emperor Alexander), commanded
+ the Romans instantly to depart from all the provinces of his
+ ancestors, and, yielding to the Persians the empire of Asia,
+ to content themselves with the undisturbed possession of
+ Europe.","('The Great King', 'PERSON'), ('Alexander', 'PERSON'), ('Romans', 'NORP'), ('Persians', 'NORP'), ('Asia', 'LOC'), ('Europe', 'LOC')"
+"The Magi, or sacerdotal
+ order, were extremely numerous, since, as we have already
+ seen, four-score thousand of them were convened in a general
+ council.","('Magi', 'PERSON'), ('four-score thousand', 'CARDINAL')"
+"The Medes and the Babylonians divided their power, and were themselves swallowed up in the monarchy of the Persians, whose arms could not be confined within the
+ narrow limits of Asia.","('Medes', 'PERSON'), ('Babylonians', 'NORP'), ('Persians', 'NORP'), ('Asia', 'LOC')"
+"The Parthians were defeated in
+ three great battles.","('Parthians', 'PERSON'), ('three', 'CARDINAL')"
+"The Persian monarchy restored by Artaxerxes
+ Artaxerxes had served with great reputation in the armies of
+ Artaban, the last king of the Parthians, and it appears that
+ he was driven into exile and rebellion by royal ingratitude,
+ the customary reward for superior merit.","('Persian', 'NORP'), ('Artaxerxes\r\n Artaxerxes', 'PERSON'), ('Artaban', 'PERSON'), ('Parthians', 'NORP')"
+"The Persian nobles (so natural is
+ the idea of feudal tenures) received from the king's bounty
+ lands and houses, on the condition of their service in war.","('Persian', 'NORP')"
+"The Persian priests, who were of a speculative genius, preserved and investigated the secrets of Oriental philosophy and acquired, either by superior knowledge or
+ superior art, the reputation of being well versed in some
+ occult sciences, which have derived their appellation from
+ the Magi. (22)","('Persian', 'NORP'), ('Oriental', 'NORP'), ('Magi.', 'PERSON')"
+"The Persians, long since civilised and corrupted, were very
+ far from possessing the martial independence and the
+ intrepid hardness, both of mind and body, which have
+ rendered the northern barbarians masters of the world.","('Persians', 'NORP')"
+"The alliance of
+ Chosroes, king of Armenia,  (52) and the long tract of
+ mountainous country, in which the Persian cavalry was of
+ little service, opened a secure entrance into the heart of
+ Media to the second of the Roman armies.","('Chosroes', 'NORP'), ('Armenia', 'GPE'), ('52', 'CARDINAL'), ('Persian', 'NORP'), ('second', 'ORDINAL'), ('Roman', 'NORP')"
+"The army of the Great King consisted of one hundred
+ and twenty thousand horse, clothed in complete armour of
+ steel; of seven hundred elephants, with towers filled with
+ archers on their backs; and of eighteen hundred chariots,
+ armed with scythes.","('the Great King', 'ORG'), ('one hundred\r\n and twenty thousand', 'CARDINAL'), ('seven hundred', 'CARDINAL'), ('eighteen hundred', 'CARDINAL')"
+"The authority of Artaxerxes was solemnly acknowledged in a
+ great assembly held at Balch in Khorasan.","('Artaxerxes', 'ORG'), ('Balch', 'ORG'), ('Khorasan', 'GPE')"
+"The barbarians of the East and of the North
+WHENEVER Tacitus indulges himself in those beautiful episodes, in which he relates some domestic transaction of the Germans or of the Parthians, his principal object is to relieve the attention of the reader from a uniform scene of vice and misery.","('East', 'LOC'), ('North', 'LOC'), ('Tacitus', 'PERSON'), ('Germans', 'NORP'), ('Parthians', 'NORP')"
+"The behaviour
+ of Artaxerxes had been very different.","('Artaxerxes', 'ORG')"
+"The city was;
+ however, taken by assault; the king, who defended it in
+ person, escaped with precipitation; an hundred thousand
+ captives, and a rich booty, rewarded the fatigues of the
+ Roman soldiers.  (43)","('an hundred thousand', 'CARDINAL'), ('Roman', 'NORP'), ('43', 'CARDINAL')"
+"The defeat of the boldest rebels, and the reduction
+ of the strongest fortifications,  (33) diffused the terror of
+ his arms, and prepared the way for the peaceful reception of
+ his authority.","('33', 'CARDINAL')"
+"The elements, and more particularly Fire, Light, and the Sun, whom they called Mithra, were the objects of their religious reverence, because they considered them as the purest symbols, the noblest productions, and the most powerful agents of the Divine Power and Nature. (13)","('Fire, Light', 'WORK_OF_ART'), ('Sun', 'PERSON'), ('Mithra', 'PERSON'), ('the Divine Power and Nature', 'ORG'), ('13', 'CARDINAL')"
+"The favourable opportunities of the
+ absence of Alexander, and of the confusions that followed
+ that emperor's death, presented themselves in vain to his
+ ambition.","('Alexander', 'PERSON')"
+"The feeble sovereigns of
+ Osrhoene, placed on the dangerous verge of two contending
+ empires, were attached from inclination to the Parthian
+ cause; but the superior power of Rome exacted from them a
+ reluctant homage, which is still attested by their medals.","('Osrhoene', 'GPE'), ('two', 'CARDINAL'), ('Parthian', 'NORP'), ('Rome', 'GPE')"
+"The first
+ and original Being, in whom, or by whom, the universe
+ exists, is denominated in the writings of Zoroaster, Time
+ without bounds; but it must be confessed that this infinite
+ substance seems rather a metaphysical abstraction of the
+ mind, than a real object endowed with self-consciousness, or
+ possessed of moral perfections.","('first', 'ORDINAL'), ('Zoroaster, Time\r\n without bounds', 'WORK_OF_ART')"
+"The first
+ of these Armies, as soon as it had entered the marshy plains
+ of Babylon, towards the artificial conflux of the Euphrates
+ and the Tigris,  (51) was encompassed by the superior numbers,
+ and destroyed by the arrows, of the enemy.","('first', 'ORDINAL'), ('Armies', 'ORG'), ('Babylon', 'GPE'), ('Euphrates', 'LOC'), ('Tigris', 'LOC'), ('51', 'CARDINAL')"
+"The first counsel of the Magi was agreeable to the
+ unsociable genius of their faith,  (24) to the practice of
+ ancient kings,  (25) and even to the example of their
+ legislator, who had fallen a victim to a religious war,
+ excited by his own intolerant zeal.  (26)","('first', 'ORDINAL'), ('Magi', 'PERSON'), ('24', 'CARDINAL'), ('25', 'CARDINAL'), ('26', 'CARDINAL')"
+"The formidable
+ power of the Parthians, which spread from India to the
+ frontiers of Syrian was in its turn subverted by Ardshir, or
+ Artaxerxes; the founder of a new dynasty, which, under the
+ name of Sassanides, governed Persia till the invasion of the
+ Arabs.","('Parthians', 'NORP'), ('India', 'GPE'), ('Syrian', 'NORP'), ('Ardshir', 'PERSON'), ('Artaxerxes', 'NORP'), ('Sassanides', 'NORP'), ('Persia', 'GPE'), ('Arabs', 'NORP')"
+"The great and fundamental article of the system was the
+ celebrated doctrine of the two principles; a bold and
+ injudicious attempt of Eastern philosophy to reconcile the
+ existence of moral and physical evil with the attributes of
+ a beneficent Creator and Governor of the world.","('two', 'CARDINAL'), ('Eastern', 'NORP')"
+"The independent republic
+ was governed by a senate of three hundred nobles; the people
+ consisted of six hundred thousand citizens the walls were
+ strong, and as long as concord prevailed among the several
+ orders of the state, they viewed with contempt the power of
+ the Parthian: but the madness of faction was sometimes
+ provoked to implore the dangerous aid of the common enemy,
+ who was posted almost at the gates of the colony. (39)","('three hundred', 'CARDINAL'), ('six hundred thousand', 'CARDINAL'), ('Parthian', 'NORP')"
+"The infantry was a half-armed spiritless crowd of peasants, levied in haste by the allurements of plunder, and as easily dispersed by a victory as by a defeat.","('half', 'CARDINAL')"
+"The latter represent him as descended from
+ a branch of the ancient kings of Persia, though time and
+ misfortune had gradually reduced his ancestors to the humble
+ station of private citizens.","('Persia', 'LOC')"
+"The majesty of Ormusd, who was jealous
+ of a rival, was seconded by the despotism of Artaxerxes, who
+ could not suffer a rebel; and the schismatics within his
+ vast empire were soon reduced to the inconsiderable number
+ of eighty thousand.  (30)","('Ormusd', 'PERSON'), ('Artaxerxes', 'PERSON'), ('eighty thousand', 'CARDINAL'), ('30', 'CARDINAL')"
+"The memory of Zoroaster, the ancient
+ prophet and philosopher of the Persians, (7) was still revered
+ in the East; but the obsolete and mysterious language in
+ which the Zendavesta was composed  (8) opened a field of
+ dispute to seventy sects, who variously explained the
+ fundamental doctrines of their religion, and were all
+ indifferently derided by a crowd of infidels, who rejected
+ the divine mission and miracles of the Prophet.","('Zoroaster', 'PERSON'), ('Persians', 'NORP'), ('7', 'CARDINAL'), ('East', 'LOC'), ('Zendavesta', 'PERSON'), ('8', 'CARDINAL'), ('seventy', 'CARDINAL'), ('Prophet', 'PERSON')"
+"The moral duties,
+ however, of justice, mercy, liberality, etc.; were in their
+ turn required of the disciple of Zoroaster, who wished to
+ escape the persecution of Ahriman, and to live with Ormusd
+ in a blissful eternity, where the degree of felicity will be
+ exactly proportioned to the degree of virtue and piety.","('Zoroaster', 'PERSON'), ('Ahriman', 'NORP'), ('Ormusd', 'PERSON')"
+"The princes of the house of Seleucus usurped
+ and lost the Macedonian command over the East.","('Seleucus', 'GPE'), ('Macedonian', 'NORP'), ('East', 'LOC')"
+"The property of the Magi was very
+ considerable.","('Magi', 'PERSON')"
+"The reign of Artaxerxes, which from the last defeat of the
+ Parthians (A.D. 240) lasted only fourteen years, forms a
+ memorable era in the history of the East, and even in that
+ of Rome.","('Artaxerxes', 'PRODUCT'), ('Parthians', 'ORG'), ('A.D. 240', 'DATE'), ('only fourteen years', 'DATE'), ('East', 'LOC'), ('Rome', 'GPE')"
+"The religion of Zoroaster was
+ abundantly provided with the former, and possessed a
+ sufficient portion of the latter.","('Zoroaster', 'PERSON')"
+"The sack and
+ conflagration of Seleucia, with the massacre of three
+ hundred thousand of the inhabitants, tarnished the glory of
+ the Roman triumph.  (42) Seleucia, already exhausted by the
+ neighbourhood of a too powerful rival, sunk under the fatal
+ blow; but Ctesiphon (A.D. 198), in about thirty-three years,
+ had sufficiently recovered its strength to maintain an
+ obstinate siege against the emperor Severus.","('Seleucia', 'GPE'), ('three\r\n hundred thousand', 'CARDINAL'), ('Roman', 'NORP'), ('Seleucia', 'PERSON'), ('Ctesiphon', 'PERSON'), ('198', 'DATE'), ('about thirty-three years', 'DATE'), ('Severus', 'PERSON')"
+"The saint, in the Magian religion, is obliged
+ to beget children, to plant useful trees, to destroy noxious
+ animals, to convey water to the dry lands of Persia, and to
+ work out his salvation by pursuing all the labours of
+ agriculture.","('Magian', 'NORP'), ('Persia', 'GPE')"
+"The stately kings of Persia, exchanging their vain pomp for more genuine greatness, freely mingled with the humblest but most useful of their subjects.","('Persia', 'LOC')"
+"The sword of Aristotle (such
+ was the name given by the Orientals to the polytheism and
+ philosophy of the Greeks) was easily broken ; (28) the flames
+ of persecution soon reached the more stubborn Jews and
+ Christians; (29) nor did they spare the heretics of their own
+ nation and religion.","('Aristotle', 'PERSON'), ('Orientals', 'NORP'), ('Greeks', 'NORP'), ('28', 'CARDINAL'), ('Jews', 'NORP'), ('Christians', 'NORP'), ('29', 'CARDINAL')"
+"The temples of the
+ Parthians, and the statues of their deified monarchs, were
+ thrown down with ignominy.  (27)","('Parthians', 'NORP')"
+"The theology of Zoroaster was darkly comprehended by
+ foreigners, and even by the far greater number of his
+ disciples; but the most careless observers were struck with
+ the philosophic simplicity of the Persian worship.","('Zoroaster', 'PERSON'), ('Persian', 'NORP')"
+"The weak indulgence of
+ the Arsacides had resigned to their sons and brothers the
+ principal provinces, and the greatest offices of the
+ kingdom, in the nature of hereditary possessions.","('Arsacides', 'PERSON')"
+"The wise benevolence of Ormusd formed man capable of virtue,
+ and abundantly provided his fair habitation with the
+ materials of happiness.","('Ormusd', 'PERSON')"
+"Their rights had been suspended, but not destroyed, by a
+ long usurpation; and as soon as he received the Persian
+ diadem, which birth and successful valour had placed upon
+ his head, the first great duty of his station called upon
+ him to restore the ancient limits and splendour of the
+ monarchy.","('Persian', 'NORP'), ('first', 'ORDINAL')"
+"Their vexatious inroads were changed into formidable irruptions, and, after a long vicissitude of mutual calamities, many tribes of the victorious invaders established themselves in the provinces  of the Roman empire.","('Roman', 'NORP')"
+"Their: military operations were impeded by a useless train of women, eunuchs, horses, and camels, and in the midst of a successful campaign the Persian host was often separated or destroyed by an unexpected famine. (56)","('Persian', 'NORP'), ('56', 'CARDINAL')"
+"There still remained the more difficult task of
+ establishing, throughout the vast extent of Persia, a
+ uniform and vigorous administration.","('Persia', 'GPE')"
+"These armies, both of light and of
+ heavy cavalry, equally formidable by the impetuosity of
+ their charge, and the rapidity of their motions, threatened,
+ as an impending cloud, the eastern provinces of the
+ declining empire of Rome. (58)","('Rome', 'GPE'), ('58', 'CARDINAL')"
+"These brave troops
+ laid waste the adjacent provinces, and by several successful
+ actions against Artaxerxes, gave a faint colour to the
+ emperor's vanity.","('Artaxerxes', 'NORP')"
+"These convenient maxims of reverence and implicit faith were
+ doubtless imprinted with care on the tender minds of youth;
+ since the Magi were the masters of education in Persia, and
+ to their hands the children even of the royal family were
+ intrusted. (21)","('Magi', 'PERSON'), ('Persia', 'GPE')"
+"These priests, who had so long
+ sighed in contempt and obscurity, obeyed the welcome
+ summons; and on the appointed day appeared, to the number of
+ about eighty thousand.","('the appointed day', 'DATE'), ('about eighty thousand', 'CARDINAL')"
+"They were ready on the first summons to mount on horseback,
+ with a martial and splendid train of followers, and to join
+ the numerous bodies of guards, who were carefully selected
+ from amongst the most robust slaves, and the bravest
+ adventurers of Asia.","('first', 'ORDINAL'), ('Asia', 'LOC')"
+"They were received as friends by the Greek colony;
+ they attacked as enemies the seat of the Parthian kings; yet
+ both cities experienced the same treatment.","('Greek', 'NORP'), ('Parthian', 'NORP')"
+"Thirty thousand soldiers, under the command of
+ Alexander, the son of Philip, who was intrusted by the
+ Greeks with their glory and revenge, were sufficient to
+ subdue Persia.","('Thirty thousand', 'CARDINAL'), ('Alexander', 'PERSON'), ('Philip', 'PERSON'), ('Greeks', 'NORP'), ('Persia', 'GPE')"
+"This formidable host, the like of which
+ is not to be found in eastern history, and has scarcely been
+ imagined in eastern romance,  (49) was (A.D. 233) discomfited
+ in a great battle, in which the Roman Alexander approved
+ himself an intrepid soldier and a skilful general.","('49', 'CARDINAL'), ('A.D. 233', 'DATE'), ('the Roman Alexander', 'PERSON')"
+"This great revolution, whose fatal influence was soon
+ experienced by the Romans, happened in the fourth year of
+ Alexander Severus, two hundred and twenty-six years after
+ the Christian era. (2)","('Romans', 'NORP'), ('the fourth year', 'DATE'), ('Alexander Severus', 'PERSON'), ('two hundred and twenty-six years', 'DATE'), ('Christian', 'NORP'), ('2', 'CARDINAL')"
+"This haughty mandate was delivered by four hundred
+ of the tallest and most beautiful of the Persians; who, by
+ their fine horses, splendid arms, and rich apparel,
+ displayed the pride and greatness of their master. (48)","('four hundred', 'CARDINAL'), ('Persians', 'NORP')"
+"This spirit of persecution reflects
+ dishonour on the religion of Zoroaster; but as it was not
+ productive of any civil commotion, it served to strengthen
+ the new monarchy, by uniting all the various inhabitants of
+ Persia in the bands of religious zeal.","('Zoroaster', 'NORP'), ('Persia', 'LOC')"
+"Those disciplined evolutions which harmonise and animate a confused multitude
+ were unknown to the Persians.","('Persians', 'NORP')"
+"Those of more active dispositions mixed with the world in courts and cities; and it is observed, that the administration of Artaxerxes was in a great measure directed
+ by the counsels of the sacerdotal order, whose dignity,
+ either from policy or devotion, that prince restored to its
+ ancient splendour. (23)","('Artaxerxes', 'GPE'), ('23', 'CARDINAL')"
+"Three Roman armies were destined to
+ invade Persia at the same time, and by different roads.","('Three', 'CARDINAL'), ('Roman', 'NORP'), ('Persia', 'GPE')"
+"Till the last period of the Persian monarchy his code of
+ laws was respected as the groundwork of their civil and
+ religious policy. (54)","('Persian', 'NORP')"
+"To obtain a clearer knowledge of these great events, we shall endeavour to form a previous idea of the character, forces, and designs of those nations who avenged the cause of Hannibal and Mithridates.","('Hannibal', 'PERSON'), ('Mithridates', 'PERSON')"
+"To suppress
+ the idolaters, re-unite the schismatics, and confute the
+ unbelievers, by the infallible decision of a general
+ council, the pious Artaxerxes summoned the Magi from all
+ parts of his dominions.","('Artaxerxes', 'PERSON'), ('Magi', 'PERSON')"
+"Two younger
+ branches of the royal house of Arsaces were confounded among
+ the prostrate satraps.","('Two', 'CARDINAL'), ('Arsaces', 'PERSON')"
+"Under the reign of Marcus, the
+ Roman generals (A.D. 165) penetrated as far as Ctesiphon and
+ Seleucia.","('Marcus', 'PERSON'), ('Roman', 'NORP'), ('A.D. 165', 'LAW'), ('Ctesiphon', 'PERSON'), ('Seleucia', 'PERSON')"
+"We may quote from the Zendavesta a wise and
+ benevolent maxim, which compensates for many an absurdity.","('Zendavesta', 'GPE')"
+"Whilst the rest
+ of human kind are led away captives in the chains of their
+ infernal enemy, the faithful Persian alone reserves his
+ religious adoration for his friend and protector Ormusd, and
+ fights under his banner of light, in the full confidence
+ that he shall, in the last day, share the glory of his
+ triumph.","('Persian', 'NORP'), ('Ormusd', 'PERSON'), ('the last day', 'DATE')"
+"Yet, at the same time, in the true spirit of a polytheist, he accuses them of adoring Earth, Water, Fire, the Winds, and the Sun and Moon.","('Earth', 'LOC'), ('Winds', 'LOC'), ('Sun', 'PERSON'), ('Moon', 'PERSON')"
+"this
+ ostentatious and improbable relation, dictated, as it too
+ plainly appears, by the vanity of the monarch, adorned by
+ the unblushing servility of his flatterers, and received
+ without contradiction by a distant and obsequious senate. (50)","('50', 'CARDINAL')"

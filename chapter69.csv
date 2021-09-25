@@ -1,0 +1,961 @@
+Sentence,Entities
+(107),"('107', 'CARDINAL')"
+(15),"('15', 'CARDINAL')"
+"(18)
+Political heresy of Arnold of Brescia, A.D. 1140.","('Arnold', 'PERSON'), ('Brescia', 'GPE'), ('A.D. 1140', 'DATE')"
+(19),"('19', 'CARDINAL')"
+(31),"('31', 'CARDINAL')"
+(41),"('41', 'CARDINAL')"
+(53),"('53', 'CARDINAL')"
+"A credulous
+ devotion for the fables and oracles of the priesthood most
+ powerfully acts on the mind of a Barbarian; yet such a mind
+ is the least capable of preferring imagination to sense, of
+ sacrificing to a distant motive, to an invisible, perhaps an
+ ideal, object, the appetites and interests of the present
+ world.","('Barbarian', 'NORP')"
+A flight of a hundred steps led to the summit of the Tarpeian rock; and far steeper was the ascent before the declivities had been smoothed and the precipices filled by the ruins of fallen edifices.,"('hundred', 'CARDINAL'), ('Tarpeian', 'NORP')"
+"A just anxiety for his
+ reputation, a clear foresight of the difficulties of the
+ task, had engaged him to refuse the honour of their choice:
+ the statutes of Rome were suspended, and his office
+ prolonged to the term of three years.","('Rome', 'GPE'), ('three years', 'DATE')"
+"A majority of the clergy and people
+ supported his cause: he reigned several years in the
+ Vatican; and it is only the eloquence of St. Bernard, and
+ the final triumph of Innocence the Second, that has branded
+ Anacletus with the epithet of antipope.","('several years', 'DATE'), ('Vatican', 'FAC'), ('St. Bernard', 'GPE'), ('Innocence the Second', 'WORK_OF_ART'), ('Anacletus', 'PERSON')"
+"A new channel
+ was opened by the diligence of Boniface the Eighth, who
+ reconciled the vices of ambition and avarice; and the pope
+ had sufficient learning to recollect and revive the secular
+ games which were celebrated in Rome at the conclusion of
+ every century.","('Boniface the Eighth', 'PERSON'), ('Rome', 'GPE')"
+"A new constitution was hastily framed by private
+ ambition or popular enthusiasm; nor could Rome, in the
+ twelfth century, produce an antiquary to explain, or a
+ legislator to restore, the harmony and proportions of the
+ ancient model.","('Rome', 'GPE'), ('the\r\n twelfth century', 'DATE')"
+"A new jurisprudence had established in the Latin church the right and practice of appeals; (7) and from the North and West the bishops and
+ abbots were invited or summoned to solicit, to complain, to
+ accuse, or to justify, before the threshold of the apostles.","('Latin', 'NORP'), ('North', 'LOC'), ('West', 'LOC')"
+"A peaceful and perpetual succession was
+ ascertained by Alexander the Third, (68) who finally abolished the tumultuary votes of the clergy and people, and defined the right of election in the sole college of cardinals. (69)","('Alexander the Third', 'PERSON'), ('68', 'DATE'), ('69', 'CARDINAL')"
+"A rare prodigy is once recorded, that two horses, belonging
+ to the archbishops of Mentz and Cologne, repassed the Alps,
+ yet laden with gold and silver: (8) but it was soon
+ understood, that the success, both of the pilgrims and
+ clients, depended much less on the justice of their cause
+ than on the value of their offering.","('two', 'CARDINAL'), ('Mentz', 'ORG'), ('Cologne', 'GPE'), ('Alps', 'LOC'), ('8', 'CARDINAL')"
+"A repetition (13) of such capricious brutality, without
+ connection or design, would be tedious and disgusting; and I
+ shall content myself with some events of the twelfth
+ century, which represent the state of the popes and the
+ city.","('13', 'CARDINAL'), ('the twelfth\r\n century', 'DATE')"
+"A servant, in whom they possessed but a third share, was
+ dismissed by the independent Romans: in his place they
+ elected a patrician; but this title, which Charlemagne had
+ not disdained, was too lofty for a citizen or a subject; A.D. 1198-1216. and, after the first fervour of rebellion, they consented without reluctance to the restoration of the praefect.","('third', 'ORDINAL'), ('Romans', 'NORP'), ('Charlemagne', 'PERSON'), ('1198-1216', 'CARDINAL'), ('first', 'ORDINAL')"
+"A specious offer was made and accepted, that, in the term of
+ forty days, they would elect one of the three candidates who
+ should be named by their opponents.","('forty days', 'DATE'), ('one', 'CARDINAL'), ('three', 'CARDINAL')"
+"A trifling
+ oblation from each individual would accumulate a royal
+ treasure; and two priests stood night and day, with rakes in
+ their hands, to collect, without counting, the heaps of gold
+ and silver that were poured on the altar of St. Paul. (86)","('two', 'CARDINAL'), ('St. Paul', 'GPE'), ('86', 'CARDINAL')"
+"A vacancy of almost three years had preceded the elevation of George the Tenth, who resolved to prevent the future abuse;
+ and his bull, after some opposition, has been consecrated in the code of the canon law. (70)","('almost three years', 'DATE'), ('George the Tenth', 'PERSON')"
+A.D. 1086-1305.,"('A.D. 1086-1305', 'DATE')"
+A.D. 1130-1143.,"('1130-1143', 'CARDINAL')"
+"A.D. 1144,1145.","('A.D. 1144,1145', 'DATE')"
+A.D. 1144-1154.,"('A.D. 1144-1154', 'DATE')"
+A.D. 1144.,"('A.D. 1144', 'DATE')"
+A.D. 1179.,"('A.D. 1179', 'DATE')"
+A.D. 1281.,"('A.D. 1281', 'DATE')"
+A.D. 1294-1303.,"('A.D. 1294-1303', 'DATE')"
+A.D. 1328.,"('A.D. 1328', 'DATE')"
+"About
+ twelve years afterwards, he besieged Rome, to seat an
+ antipope in the chair of St. Peter; and twelve Pisan galleys
+ were introduced into the Tyber: but the senate and people
+ were saved by the arts of negotiation and the progress of
+ disease; nor did Frederic or his successors reiterate the
+ hostile attempt.","('About\r\n twelve years afterwards', 'DATE'), ('Rome', 'GPE'), ('St. Peter', 'GPE'), ('twelve', 'CARDINAL'), ('Pisan', 'NORP'), ('Tyber', 'NORP'), ('Frederic', 'PERSON')"
+"About fifty years after this event, Innocent the Third, the
+ most ambitious, or at least the most fortunate, of the
+ Pontiffs, delivered the Romans and himself from this badge
+ of foreign dominion: he invested the praefect with a banner
+ instead of a sword, and absolved him from all dependence of
+ oaths or service to the German emperors. (42)","('About fifty years', 'DATE'), ('Third', 'ORDINAL'), ('Pontiffs', 'NORP'), ('Romans', 'NORP'), ('German', 'NORP'), ('42', 'CARDINAL')"
+"About fifty years afterwards, the same title was granted to the emperor Lewis of Bavaria; and the liberty of Rome was acknowledged by her two sovereigns, who accepted a municipal office in the government of their own metropolis.","('About fifty years afterwards', 'DATE'), ('Lewis', 'PERSON'), ('Bavaria', 'GPE'), ('Rome', 'GPE'), ('two', 'CARDINAL')"
+"About the end of the thirteenth century, the
+ most powerful branch was composed of an uncle and six
+ bothers, all conspicuous in arms, or in the honours of the
+ church.","('About the end of the thirteenth century', 'DATE'), ('six', 'CARDINAL')"
+Absence of the popes from Rome.,"('Rome', 'GPE')"
+"According to their own and
+ the public opinion, the primitive and remote source was
+ derived from the banks of the Rhine; (99) and the sovereigns
+ of Germany were not ashamed of a real or fabulous affinity
+ with a noble race, which in the revolutions of seven hundred
+ years has been often illustrated by merit and always by
+ fortune. (100)","('Rhine', 'ORG'), ('99', 'CARDINAL'), ('Germany', 'GPE'), ('seven hundred\r\n years', 'DATE')"
+Addresses of Rome to the emperors.,"('Rome', 'GPE')"
+"Adrian
+ the Fourth, (28) the only Englishman who has ascended the throne of St. Peter; and whose merit emerged from the mean condition of a monk, and almost a beggar, in the monastery
+ of St. Albans.","('Adrian\r\n the Fourth', 'PERSON'), ('28', 'DATE'), ('Englishman', 'NORP'), ('St. Peter', 'GPE'), ('St. Albans', 'GPE')"
+"After a
+ dark series of revolutions, all records of pedigree were
+ lost; the distinction of surnames was abolished; the blood
+ of the nations was mingled in a thousand channels; and the
+ Goths and Lombards, the Greeks and Franks, the Germans and
+ Normans, had obtained the fairest possessions by royal
+ bounty, or the prerogative of valour.","('a thousand', 'CARDINAL'), ('Goths', 'NORP'), ('Lombards', 'NORP'), ('Greeks', 'NORP'), ('Franks', 'PERSON'), ('Germans', 'NORP'), ('Normans', 'NORP')"
+"After an abdication of eight hundred years, the Roman senate asserted this honourable and lucrative privilege; which was tacitly renounced by the popes, from Paschal the Second to the establishment of their residence beyond the Alps.","('eight hundred years', 'DATE'), ('Roman', 'NORP'), ('Paschal', 'PERSON'), ('Second', 'ORDINAL'), ('Alps', 'LOC')"
+"After his decease, the tedious and equal suspense of the
+ conclave was fixed by the dexterity of the French faction.","('French', 'NORP')"
+"After his defeat
+ and death, the posterity of Leo is no longer conspicuous;
+ and none will be found of the modern nobles ambitious of
+ descending from a Jewish stock.","('Leo', 'PERSON'), ('Jewish', 'NORP')"
+"After his retreat from Rome,
+ Arnold had been protected by the viscounts of Campania, from whom he was extorted by the power of Caesar: the praefect of the city pronounced his sentence:","('Rome', 'GPE'), ('Arnold', 'PERSON'), ('Campania', 'GPE'), ('Caesar', 'PERSON')"
+"After so long an interruption, it may not be
+ useless to repeat that the successors of Charlemagne and the
+ Othos were chosen beyond the Rhine in a national diet; but
+ that these princes were content with the humble names of
+ kings of Germany and Italy, till they had passed the Alps
+ and the Apennine, to seek their Imperial crown on the banks
+ of the Tyber. (3)","('Charlemagne', 'PERSON'), ('Othos', 'PERSON'), ('Rhine', 'LOC'), ('Germany', 'GPE'), ('Italy', 'GPE'), ('Alps', 'LOC'), ('Apennine', 'ORG'), ('Imperial', 'ORG'), ('Tyber', 'PRODUCT'), ('3', 'CARDINAL')"
+"After some complaint of his silence and neglect, they exhort the former of these princes to pass the Alps, and assume from their hands the Imperial crown.","('Alps', 'LOC'), ('Imperial', 'ORG')"
+"After some negotiation with the magistrates, the Roman people were assembled (73) in the square before St. Peter's: the pope of Avignon, John the Twenty-second, was deposed: the choice of his successor was ratified by their consent and applause.","('Roman', 'NORP'), (""St. Peter's"", 'FAC'), ('Avignon', 'GPE'), ('John', 'PERSON'), ('Twenty-second', 'DATE')"
+"After the extinction of
+ the house of Swabia, they were banished beyond the Alps: and
+ their last coronations betrayed the impotence and poverty of
+ the Teutonic Caesars. (61)","('Swabia', 'GPE'), ('Alps', 'LOC'), ('Teutonic', 'NORP'), ('61', 'CARDINAL')"
+After the retreat of the popes to Avignon they disputed in arms the vacant republic; and the mischiefs of discord were perpetuated by the wretched compromise of electing each year two rival senators.,"('Avignon', 'GPE'), ('two', 'CARDINAL')"
+"After the revival of the senate, (43) the
+ conscript fathers (if I may use the expression) were
+ invested with the legislative and executive power; but their
+ views seldom reached beyond the present day; and that day
+ was most frequently disturbed by violence and tumult.","('43', 'CARDINAL'), ('the present day', 'DATE'), ('that day', 'DATE')"
+"All that has been observed of the greatness of the Colonna will likewise redeemed to the glory of the Ursini, their constant and equal antagonists in the long hereditary feud, which distracted above two hundred and fifty years the ecclesiastical state.","('Colonna', 'PERSON'), ('Ursini', 'NORP'), ('two hundred and fifty years', 'DATE')"
+"All the
+ spiritual censures and disqualifications were abolished (103)
+ by his prudent successors; and the fortune of the house was
+ more firmly established by this transient hurricane.","('103', 'CARDINAL')"
+"Among the nations who revered the apostolic throne, the tumults of Rome provoked a general indignation; Innocent II.","('Rome', 'GPE'), ('Innocent II', 'PERSON')"
+"An insurrection of the people delivered their bishop: the rival families opposed the violence of the Frangipani; and Cencio, who sued for pardon, repented of the failure, rather than of the guilt, of his enterprise.","('Frangipani', 'PERSON'), ('Cencio', 'PERSON')"
+"Anarchy, no longer
+ tempered by the pastoral care of their bishop, admonished
+ the Romans that they were incapable of governing themselves;
+ and they sought abroad those blessings which they were
+ hopeless of finding at home.","('Romans', 'NORP')"
+"And
+ sometimes, thundering from the Vatican, they created, judged, and deposed the kings of the world; nor could the proudest Roman be disgraced by submitting to a priest, whose feet were kissed, and whose stirrup was held, by the
+ successors of Charlemagne. (6)","('Vatican', 'FAC'), ('Roman', 'NORP'), ('Charlemagne', 'PERSON'), ('6', 'CARDINAL')"
+"And it was
+ thus, that the shrine of St. Peter was profaned by the
+ thoughtless Romans; who pillaged the offerings, and wounded
+ the pilgrims, without computing the number and value of
+ similar visits, which they prevented by their inhospitable
+ sacrilege.","('St. Peter', 'FAC'), ('Romans', 'NORP')"
+"And the muse of
+ Petrarch inspired a wish, a hope, a prediction, that the generous youth, the son of his venerable hero, would restore Rome and Italy to their pristine glory; that his justice would extirpate the wolves and lions, the serpents and
+ bears, who labored to subvert the eternal basis of the
+ marble COLUMN. (109)","('Petrarch', 'PERSON'), ('Rome', 'GPE'), ('Italy', 'GPE'), ('109', 'CARDINAL')"
+"Arnold of Brescia enjoyed, or
+ deplored, the effects of his mission: his reign continued
+ above ten years, while two popes, Innocent the Second and
+ Anastasius the Fourth, either trembled in the Vatican, or
+ wandered as exiles in the adjacent cities.","('Arnold', 'PERSON'), ('Brescia', 'GPE'), ('ten years', 'DATE'), ('two', 'CARDINAL'), ('Second', 'ORDINAL'), ('Anastasius', 'NORP'), ('Fourth', 'ORDINAL'), ('Vatican', 'FAC')"
+"As he passed
+ through the city, in his road to victory, he received their
+ oath of allegiance, lodged in the Lateran palace, and
+ smoothed in a short visit the harsh features of his despotic
+ character.","('Lateran', 'NORP')"
+"As the pope resided at Anagni, without the suspicion of danger, his palace and
+ person were assaulted by three hundred horse, who had been secretly levied by William of Nogaret, a French minister, and Sciarra Colonna, of a noble but hostile family of Rome.","('Anagni', 'GPE'), ('three hundred', 'CARDINAL'), ('William of Nogaret', 'PERSON'), ('French', 'NORP'), ('Sciarra Colonna', 'PERSON'), ('Rome', 'GPE')"
+"At his choice, four
+ or six knights and civilians, his assessors in arms and
+ justice, attended the Podesta, (47) who maintained at his own
+ expense a decent retinue of servants and horses: his wife,
+ his son, his brother, who might bias the affections of the
+ judge, were left behind: during the exercise of his office
+ he was not permitted to purchase land, to contract an
+ alliance, or even to accept an invitation in the house of a
+ citizen; nor could he honourably depart till he had satisfied
+ the complaints that might be urged against his government.","('four', 'CARDINAL'), ('six', 'CARDINAL'), ('Podesta', 'PERSON'), ('47', 'DATE')"
+"Authority of the popes in Rome,","('Rome', 'GPE')"
+"Battle of Viterbo, A.D. 1234.","('Viterbo', 'GPE'), ('1234', 'CARDINAL')"
+"Before
+ his departure, the prudent senator had required the exchange of thirty hostages of the noblest families of Rome: on the news of his danger, and at the prayer of his wife, they were more strictly guarded; and Bologna, in the cause of honour, sustained the thunders of a papal interdict.","('thirty', 'CARDINAL'), ('Rome', 'GPE'), ('Bologna', 'PERSON')"
+"Blending in the same
+ discourse the texts of Livy and St. Paul, uniting the
+ motives of gospel, and of classic, enthusiasm, he admonished
+ the Romans, how strangely their patience and the vices of
+ the clergy had degenerated from the primitive times of the
+ church and the city.","('Livy', 'PERSON'), ('St. Paul', 'GPE'), ('Romans', 'NORP')"
+"Both the father and the son were the parents of a
+ numerous progeny: their riches, the fruits of usury, were
+ shared with the noblest families of the city; and so
+ extensive was their alliance, that the grandson of the
+ proselyte was exalted by the weight of his kindred to the
+ throne of St. Peter.","('St. Peter', 'PERSON')"
+"Brancaleone, A.D. 1252-1258.","('Brancaleone', 'GPE'), ('A.D. 1252-1258', 'DATE')"
+"But
+ in arms, the modern Romans were not above, and in arts, they were far below, the common level of the neighbouring republics.","('Romans', 'NORP')"
+"But
+ the feeble and disorderly government of Rome was unequal to
+ the task of curbing her rebellious sons, who scorned the
+ authority of the magistrate within and without the walls.","('Rome', 'GPE')"
+"But
+ the position of Rome was less favourable, the territory less
+ fruitful: the character of the inhabitants was debased by
+ indolence and elated by pride; and they fondly conceived
+ that the tribute of subjects must forever nourish the
+ metropolis of the church and empire.","('Rome', 'GPE')"
+"But Lewis forgot his own debility and the prejudices of the times: beyond the precincts of a German camp, his useless phantom was rejected; the Romans despised their own workmanship; the antipope implored the mercy of his lawful sovereign; (75) and the exclusive right of the
+ cardinals was more firmly established by this unseasonable attack.","('Lewis', 'PERSON'), ('German', 'NORP'), ('Romans', 'NORP'), ('75', 'CARDINAL')"
+"But after the emperors had been divested of their
+ prerogatives, after a maxim had been established that the
+ vicar of Christ is amenable to no earthly tribunal, each
+ vacancy of the holy see might involve Christendom in
+ controversy and war.","('Christ', 'PERSON'), ('Christendom', 'NORP')"
+"But among, perhaps above, the peers and princes of the city,
+ I distinguish the rival houses of COLONNA and URSINI, whose
+ private story is an essential part of the annals of modern Rome.","('COLONNA', 'ORG'), ('URSINI', 'ORG'), ('Rome', 'GPE')"
+"But as the concurrence of two thirds of the votes had been made necessary, the election was often delayed by the private interest and passions of the cardinals; and while they prolonged their independent reign, the Christian world was left destitute of a head.","('two thirds', 'CARDINAL'), ('Christian', 'NORP')"
+"But every Roman prejudice was awakened by the
+ name, the language, and the manners, of a Barbarian lord.","('Roman', 'NORP'), ('Barbarian', 'NORP')"
+"But in this transient reign,
+ the senators of Rome indulged their avarice and ambition:
+ their justice was perverted by the interest of their family
+ and faction; and as they punished only their enemies, they
+ were obeyed only by their adherents.","('Rome', 'GPE')"
+"But none of either family had fallen by the sword, till the most renowned champion of the Ursini was surprised and slain by the younger Stephen Colonna. (108)","('Ursini', 'PERSON'), ('Stephen Colonna', 'PERSON'), ('108', 'CARDINAL')"
+"But the
+ first of the family in fame and merit was the elder Stephen, whom Petrarch loved and esteemed as a hero superior to his own times, and not unworthy of ancient Rome.","('first', 'ORDINAL'), ('Stephen', 'PERSON'), ('Petrarch', 'PERSON'), ('Rome', 'GPE')"
+"But the
+ regular distribution of the thirty-five tribes, the nice
+ balance of the wealth and numbers of the centuries, the
+ debates of the adverse orators, and the slow operations of
+ votes and ballots, could not easily be adapted by a blind
+ multitude, ignorant of the arts, and insensible of the
+ benefits, of legal government.","('thirty-five', 'CARDINAL'), ('the centuries', 'DATE')"
+"But the Romans forgot, and were forgotten.","('Romans', 'NORP')"
+"But the Vatican and Capitol were nourished by the incessant and increasing swarms of pilgrims and suppliants: the pale of Christianity was enlarged, and the
+ pope and cardinals were overwhelmed by the judgment of ecclesiastical and secular causes.","('Vatican', 'FAC'), ('Capitol', 'ORG'), ('Christianity', 'NORP')"
+"But the favour of the people is less
+ permanent than the resentment of the priest; and after the
+ heresy of Arnold had been condemned by Innocent the Second,
+ (22) in the general council of the Lateran, the magistrates
+ themselves were urged by prejudice and fear to execute the
+ sentence of the church.","('Arnold', 'PERSON'), ('Second', 'ORDINAL'), ('22', 'DATE'), ('the general council of the Lateran', 'ORG')"
+"But the revenge of Adrian was yet
+ unsatisfied, and the approaching coronation of Frederic
+ Barbarossa was fatal to the bold reformer, who had offended,
+ though not in an equal degree, the heads of the church and
+ state.","('Adrian', 'PERSON'), ('Frederic\r\n Barbarossa', 'PERSON')"
+But the root of mischief was deep and perennial; and a momentary calm was preceded and followed by such tempests as had almost sunk the bark of St. Peter.,"('St. Peter', 'GPE')"
+"But the scandals of the tenth century were obliterated by the austere and more dangerous virtues of Gregory the Seventh and his successors; and in the ambitious contests which they maintained for the rights of the church, their
+ sufferings or their success must equally tend to increase the popular veneration.","('the tenth century', 'DATE'), ('Gregory the Seventh', 'PERSON')"
+"But these splendid and fallacious wishes were not cherished by Conrad the Franconian, whose eyes were fixed on the Holy Land, and who died without visiting Rome soon after his return from the Holy Land.","('Conrad the Franconian', 'PERSON'), ('the Holy Land', 'GPE'), ('Rome', 'GPE'), ('the Holy Land', 'GPE')"
+"But they encountered the triple scourge
+ of war, pestilence, and famine: many wives and virgins were
+ violated in the castles of Italy; and many strangers were
+ pillaged or murdered by the savage Romans, no longer
+ moderated by the presence of their bishops. (89)","('Italy', 'GPE'), ('Romans', 'NORP'), ('89', 'CARDINAL')"
+"But they preached to the winds, and the same principle that weakened the effect, must temper the abuse, of the thunders of the Vatican.","('Vatican', 'FAC')"
+"But they were soon distinguished among the nobles of Rome, by the number and bravery of their kinsmen, the strength of their towers, the honours of the senate and sacred college, and the elevation of two popes, Celestin the Third and Nicholas the Third, of their name and lineage. (105)","('Rome', 'GPE'), ('two', 'CARDINAL'), ('Celestin', 'PERSON'), ('Third', 'ORDINAL'), ('Nicholas', 'PERSON'), ('Third', 'ORDINAL'), ('105', 'CARDINAL')"
+"By his sentence two nobles of the Annibaldi family
+ were executed on a gibbet; and he inexorably demolished, in
+ the city and neighbourhood, one hundred and forty towers, the
+ strong shelters of rapine and mischief.","('two', 'CARDINAL'), ('Annibaldi', 'PERSON'), ('one hundred and forty', 'CARDINAL')"
+"By land,
+ by sea, by the Rhone, the position of Avignon was on all
+ sides accessible; the southern provinces of France do not
+ yield to Italy itself; new palaces arose for the
+ accommodation of the pope and cardinals; and the arts of
+ luxury were soon attracted by the treasures of the church.","('Rhone', 'LOC'), ('Avignon', 'GPE'), ('France', 'GPE'), ('Italy', 'GPE')"
+"By the
+ usurpation of Cavae, the Colonna provoked the arms of
+ Paschal the Second; but they lawfully held in the Campagna
+ of Rome the hereditary fiefs of Zagarola and Colonna; and
+ the latter of these towns was probably adorned with some
+ lofty pillar, the relic of a villa or temple.","('Cavae', 'GPE'), ('Colonna', 'PERSON'), ('Second', 'ORDINAL'), ('Campagna', 'LOC'), ('Rome', 'GPE'), ('Zagarola', 'GPE'), ('Colonna', 'PERSON')"
+"By the conquest of Justinian, we have been recalled to the banks of the Tyber, to the deliverance of the ancient metropolis; but that deliverance was a change, or perhaps an aggravation, of servitude.","('Justinian', 'GPE'), ('Tyber', 'NORP')"
+"By the public robbers, whom he had provoked for
+ their sake, the Romans were excited to depose and imprison
+ their benefactor; nor would his life have been spared, if
+ Bologna had not possessed a pledge for his safety.","('Romans', 'NORP'), ('Bologna', 'GPE')"
+"By these institutions the Romans were excluded from the election of their prince
+ and bishop; and in the fever of wild and precarious liberty, they seemed insensible of the loss of this inestimable privilege.","('Romans', 'NORP')"
+"By this wise regulation, all doubt and scandal were removed, and the root of schism was so effectually destroyed, that in a period of six hundred years a double choice has only once divided the unity of the sacred college.","('a period of six hundred years', 'DATE')"
+"Cencio Frangipani, (14) a potent and factious baron, burst into the assembly furious and in arms: the cardinals were stripped, beaten, and trampled under foot; and he seized, without pity or respect, the vicar of Christ by the throat.","('Cencio Frangipani', 'PERSON'), ('14', 'DATE'), ('Christ', 'PERSON')"
+Character of the Romans by St. Bernard.,"('Character of the Romans', 'PERSON'), ('St. Bernard', 'GPE')"
+"Charles of Anjou and Provence, the most
+ ambitious and warlike monarch of the age, accepted at the
+ same time the kingdom of Naples from the pope, and the
+ office of senator from the Roman people. (50)","('Charles', 'PERSON'), ('Anjou', 'GPE'), ('Provence', 'GPE'), ('Naples', 'GPE'), ('Roman', 'NORP'), ('50', 'CARDINAL')"
+Conrad III.,"('Conrad III', 'PERSON')"
+"Degraded, banished, proscribed, the six brothers, in
+ disguise and danger, wandered over Europe without renouncing
+ the hope of deliverance and revenge.","('six', 'CARDINAL'), ('Europe', 'LOC')"
+"During a short time, the preacher was
+ revered as a patriot; and the discontent, or revolt, of
+ Brescia against her bishop, was the first fruits of his
+ dangerous lessons.","('Brescia', 'GPE'), ('first', 'ORDINAL')"
+"During the festival of Easter, while the bishop and the clergy, barefooted and in procession, visited the tombs of the martyrs, they were twice assaulted, at the bridge of St. Angelo, and before the Capitol, with volleys of stones and darts.","('Easter', 'EVENT'), ('St. Angelo', 'GPE'), ('Capitol', 'FAC')"
+"During the vacancy of the holy see, the cardinals are prohibited from touching the revenues, or assuming, unless
+ in some rare emergency, the government of the church: all  agreements and promises among the electors are formally annulled; and their integrity is fortified by their solemn oath and the prayers of the Catholics.","('Catholics', 'NORP')"
+Family of Leo the jew.,"('Family of Leo the jew', 'PERSON')"
+Feud of the Colonna and Ursini.,"('Colonna', 'PERSON'), ('Ursini', 'PERSON')"
+Frederic I. A.D. 1155.,"('Frederic I. A.D. 1155', 'PERSON')"
+"Frederic was convinced by these arguments, or tempted by the desire of the Imperial crown: in the balance of ambition, the innocence or life of an individual is of small account; and their common enemy was sacrificed to a moment of political concord.","('Frederic', 'PERSON'), ('Imperial', 'NORP')"
+"From a Roman station, (23) a
+ royal villa, a chapter of noble virgins, Zurich had
+ gradually increased to a free and flourishing city; where
+ the appeals of the Milanese were sometimes tried by the
+ Imperial commissaries. (24)","('Roman', 'NORP'), ('23', 'CARDINAL'), ('Zurich', 'GPE'), ('Milanese', 'NORP'), ('Imperial', 'ORG'), ('24', 'CARDINAL')"
+"From a city without trade or
+ industry, all casual riches will speedily evaporate: but the
+ avarice and envy of the next generation solicited Clement
+ the Sixth (87) to anticipate the distant period of the
+ century.","('Clement', 'PERSON'), ('the Sixth (87', 'DATE'), ('the distant period of the\r\n century', 'DATE')"
+"From his school they had probably derived a new article of faith, that the metropolis of the Catholic church is exempt from the penalties of excommunication and interdict.","('Catholic', 'NORP')"
+"From the earliest ages, the Capitol had been used as a temple in peace, a fortress in war: after the loss of the city, it maintained a siege against the victorious Gauls, and the sanctuary of the empire was occupied, assaulted, and burnt, in the civil wars of Vitellius and Vespasian. (37)","('Capitol', 'FAC'), ('Gauls', 'NORP'), ('Vitellius', 'GPE'), ('Vespasian', 'NORP'), ('37', 'CARDINAL')"
+"From the persecution of the emperors, and the wars of Italy,
+ they escaped beyond the Alps into the hospitable bosom of
+ France; from the tumults of Rome they prudently withdrew to
+ live and die in the more tranquil stations of Anagni,
+ Perugia, Viterbo, and the adjacent cities.","('Italy', 'GPE'), ('Alps', 'LOC'), ('France', 'GPE'), ('Rome', 'GPE'), ('Anagni', 'GPE'), ('Perugia', 'GPE'), ('Viterbo', 'GPE')"
+"From this master, Arnold most probably imbibed some
+ metaphysical definitions of the Trinity, repugnant to the
+ taste of the times: his ideas of baptism and the eucharist
+ are loosely censured; but a political heresy was the source
+ of his fame and misfortunes.","('Arnold', 'PERSON'), ('Trinity', 'LOC')"
+"Gelasius was dragged by the hair along the ground, buffeted with blows, wounded with spurs, and bound with an iron chain in the house of his brutal tyrant.","('Gelasius', 'PERSON')"
+"Gregory the Seventh, who may be adored or
+ detested as the founder of the papal monarchy, was driven
+ from Rome, and died in exile at Salerno.","('Gregory', 'PERSON'), ('Seventh', 'ORDINAL'), ('Rome', 'GPE'), ('Salerno', 'GPE')"
+"Had the election been always held in the Vatican, the rights
+ of the senate and people would not have been violated with
+ impunity.","('Vatican', 'FAC')"
+"Had the policy of the senate and the discipline of the legions been restored with the Capitol, the divided condition of Italy would have offered the fairest opportunity of a second conquest.","('Capitol', 'ORG'), ('Italy', 'GPE'), ('second', 'ORDINAL')"
+"He
+ proclaimed a crusade against his personal enemies; their
+ estates were confiscated; their fortresses on either side of
+ the Tyber were besieged by the troops of St. Peter and those
+ of the rival nobles; and after the ruin of Palestrina or
+ Praeneste, their principal seat, the ground was marked with
+ a ploughshare, the emblem of perpetual desolation.","('Tyber', 'PERSON'), ('St. Peter', 'GPE'), ('Palestrina', 'GPE'), ('Praeneste', 'GPE')"
+"He exhorted them to assert the
+ inalienable rights of men and Christians; to restore the
+ laws and magistrates of the republic; to respect the name of
+ the emperor; but to confine their shepherd to the spiritual
+ government of his flock. (26)","('Christians', 'NORP'), ('26', 'CARDINAL')"
+"He presumed to quote the
+ declaration of Christ, that his kingdom is not of this
+ world: he boldly maintained, that the sword and the sceptre
+ were intrusted to the civil magistrate; that temporal honours
+ and possessions were lawfully vested in secular persons;
+ that the abbots, the bishops, and the pope himself, must
+ renounce either their state or their salvation; and that
+ after the loss of their revenues, the voluntary tithes and
+ oblations of the faithful would suffice, not indeed for
+ luxury and avarice, but for a frugal life in the exercise of
+ spiritual labours.","('Christ', 'PERSON')"
+"He supported with the same virtue the return of prosperity; and, till the ruin of his declining age, the ancestors, the character, and the children of Stephen Colonna, exalted his dignity in the Roman republic, and at the court of Avignon. and Ursini.","('Stephen Colonna', 'PERSON'), ('Roman', 'NORP'), ('Avignon', 'GPE'), ('Ursini', 'PERSON')"
+"He was
+ engaged, by promise and affection, to prefer the residence
+ of France; and, after dragging his court through Poitou and
+ Gascony, and devouring, by his expense, the cities and
+ convents on the road, he finally reposed at Avignon, (80)
+ which flourished above seventy years (81) the seat of the
+ Roman pontiff and the metropolis of Christendom.","('France', 'GPE'), ('Poitou', 'PERSON'), ('Gascony', 'PERSON'), ('Avignon', 'GPE'), ('80', 'CARDINAL'), ('seventy years (81', 'DATE'), ('Roman', 'NORP'), ('Christendom', 'GPE')"
+"He was succeeded by Benedict the Eleventh, the mildest of mankind.","('Benedict', 'PERSON'), ('Eleventh', 'DATE')"
+"Her
+ repentance was tardy and fruitless: after the death of the
+ old members, the sacred college was filled with French
+ cardinals, (84) who beheld Rome and Italy with abhorrence and
+ contempt, and perpetuated a series of national, and even
+ provincial, popes, attached by the most indissoluble ties to
+ their native country.","('French', 'NORP'), ('84', 'DATE'), ('Rome', 'GPE'), ('Italy', 'GPE')"
+"His civil acts were annulled by the
+ Roman people, who restored the honours and possessions of the
+ Colonna; and some estimate may be formed of their wealth by
+ their losses, of their losses by the damages of one hundred
+ thousand gold florins which were granted them against the
+ accomplices and heirs of the deceased pope.","('Roman', 'NORP'), ('Colonna', 'ORG'), ('one hundred\r\n thousand', 'CARDINAL')"
+"His execution, A.D. 1155.","('A.D. 1155', 'DATE')"
+"His nephew and successor, Frederic Barbarossa, was more ambitious of the Imperial crown; nor had any of the successors of Otho acquired such absolute sway over the kingdom of Italy.","('Frederic Barbarossa', 'PERSON'), ('Imperial', 'ORG'), ('Otho', 'PERSON'), ('Italy', 'GPE')"
+"His triumph is stained with the reproach of violating the truce; their defeat was basely
+ avenged by the assassination, before the church door, of an innocent boy and his two servants.","('two', 'CARDINAL')"
+"Hope or fear, lassitude or remorse, the characters of the men, and the circumstances of the times, might sometimes obtain an interval of peace and obedience; and the pope was restored with joyful acclamations to the Lateran or Vatican, from whence he had been driven with threats and violence.","('Lateran', 'NORP'), ('Vatican', 'FAC')"
+"I have described the peaceful
+ order of his entry and coronation; but that order was
+ commonly disturbed by the clamour and sedition of the Romans,
+ who encountered their sovereign as a foreign invader: his
+ departure was always speedy, and often shameful; and, in the
+ absence of a long reign, his authority was insulted, and his
+ name was forgotten.","('Romans', 'NORP')"
+"I. The Capitoline hill, one of her seven eminences, (36) is about four hundred yards in length, and two hundred in breadth.","('one', 'CARDINAL'), ('seven', 'CARDINAL'), ('36', 'CARDINAL'), ('about four hundred yards', 'QUANTITY'), ('two hundred', 'CARDINAL')"
+"I. The name and arms of Colonna (97) have been the
+ theme of much doubtful etymology; nor have the orators and
+ antiquarians overlooked either Trajan's pillar, or the
+ columns of Hercules, or the pillar of Christ's flagellation,
+ or the luminous column that guided the Israelites in the
+ desert.","('Colonna', 'PERSON'), ('97', 'CARDINAL'), ('Trajan', 'PERSON'), ('Hercules', 'WORK_OF_ART'), ('Christ', 'PERSON'), ('Israelites', 'NORP')"
+"If the election be not consummated in three days, the luxury of their table is contracted to a single
+ dish at dinner and supper; and after the eighth day, they are reduced to a scanty allowance of bread, water, and wine.","('three days', 'DATE'), ('the eighth day', 'DATE')"
+"In
+ its utmost plenitude, the order or assembly consisted of
+ fifty-six senators, (44) the most eminent of whom were distinguished by the title of counsellors: they were nominated, perhaps annually, by the people; and a previous
+ choice of their electors, ten persons in each region, or
+ parish, might afford a basis for a free and permanent
+ constitution.","('fifty-six', 'CARDINAL'), ('44', 'CARDINAL'), ('ten', 'CARDINAL')"
+"In a civil commotion, several of his priests had been made prisoners; and the inhuman Romans, reserving one as a guide for his brethren, put out their eyes, crowned them with ludicrous mitres, mounted them on asses with their faces towards the tail, and extorted an oath, that, in this wretched condition, they should offer themselves as a lesson to the head of the church.","('Romans', 'NORP'), ('one', 'CARDINAL')"
+"In an age less ripe for
+ reformation, the precursor of Zuinglius was heard with
+ applause: a brave and simple people imbibed, and long
+ retained, the colour of his opinions; and his art, or merit,
+ seduced the bishop of Constance, and even the pope's legate,
+ who forgot, for his sake, the interest of their master and
+ their order.","('Zuinglius', 'PERSON'), ('Constance', 'PERSON')"
+"In an age of superstition, it should seem that the union of the royal and sacerdotal characters would mutually fortify each other; and that the keys of Paradise would be the surest pledge of earthly obedience.","('Paradise', 'LOC')"
+"In his bull, a perpetual
+ law, the imperious pontiff asserts the truth, validity, and use of the donation of Constantine, not less essential to the peace of the city than to the independence of the church; establishes the annual election of the senator; and formally disqualifies all emperors, kings, princes, and persons of an eminent and conspicuous rank. (51) Pope Martin IV.","('Constantine', 'PERSON'), ('51', 'CARDINAL'), ('Martin IV', 'PERSON')"
+"In his place an
+ ecclesiastic, a present or future cardinal, was named by the
+ pope to the civil government of Rome; but his jurisdiction
+ has been reduced to a narrow compass; and in the days of
+ freedom, the right or exercise was derived from the senate
+ and people.","('Rome', 'GPE')"
+"In his theological
+ studies, he had been the disciple of the famous and
+ unfortunate Abelard, (21) who was likewise involved in the
+ suspicion of heresy: but the lover of Eloisa was of a soft
+ and flexible nature; and his ecclesiastic judges were
+ edified and disarmed by the humility of his repentance.","('Abelard', 'PERSON'), ('21', 'DATE'), ('Eloisa', 'PERSON')"
+"In origin and affection, they were
+ aliens to their country: (92) and a genuine Roman, could such
+ have been produced, might have renounced these haughty
+ strangers, who disdained the appellation of citizens, and
+ proudly styled themselves the princes, of Rome. (93)","('92', 'CARDINAL'), ('Roman', 'NORP'), ('Rome', 'GPE'), ('93', 'CARDINAL')"
+"In the beginning of the eleventh century, Italy was exposed
+ to the feudal tyranny, alike oppressive to the sovereign and
+ the people.","('the beginning of the eleventh century', 'DATE'), ('Italy', 'GPE')"
+"In the beginning of the twelfth century, (2) the aera of the
+ first crusade, Rome was revered by the Latins, as the
+ metropolis of the world, as the throne of the pope and the
+ emperor, who, from the eternal city, derived their title,
+ their honours, and the right or exercise of temporal
+ dominion.","('the beginning of the twelfth century', 'DATE'), ('2', 'CARDINAL'), ('first', 'ORDINAL'), ('Rome', 'GPE'), ('Latins', 'NORP')"
+"In the busy age of the crusades, some
+ sparks of curiosity and reason were rekindled in the Western
+ world: the heresy of Bulgaria, the Paulician sect, was
+ successfully transplanted into the soil of Italy and France;
+ the Gnostic visions were mingled with the simplicity of the
+ gospel; and the enemies of the clergy reconciled their
+ passions with their conscience, the desire of freedom with
+ the profession of piety.","('Western', 'NORP'), ('Bulgaria', 'GPE'), ('Paulician', 'NORP'), ('Italy', 'GPE'), ('France', 'GPE'), ('Gnostic', 'NORP')"
+"In the church of St. Peter, the
+ coronation was performed by his successor: the voice of God
+ was confounded with that of the people; and the public
+ consent was declared in the acclamations of The names of Caesar and Augustus, the
+ laws of Constantine and Justinian, the example of
+ Charlemagne and Otho, established the supreme dominion of
+ the emperors: their title and image was engraved on the
+ papal coins; (5) and their jurisdiction was marked by the
+ sword of justice, which they delivered to the praefect of
+ the city.","('St. Peter', 'GPE'), ('Caesar', 'PERSON'), ('Augustus', 'PERSON'), ('Constantine', 'PERSON'), ('Justinian', 'PERSON'), ('Charlemagne', 'PERSON'), ('Otho', 'PERSON'), ('5', 'CARDINAL')"
+"In the eighth century of the Christian aera, a religious quarrel, the worship of images, provoked the Romans to assert their independence: their bishop became the temporal, as well as the spiritual, father of a free people; and of the Western empire, which was restored by Charlemagne, the title and image still decorate the singular constitution of modern Germany.","('the eighth century', 'DATE'), ('the Christian aera', 'EVENT'), ('Romans', 'NORP'), ('Western', 'NORP'), ('Charlemagne', 'PERSON'), ('Germany', 'GPE')"
+"In the feudal system of Europe, arms were the title of
+ distinction and the measure of allegiance; and amidst their
+ tumult, the still voice of law and reason was seldom heard
+ or obeyed.","('Europe', 'LOC')"
+"In the first ages of the decline and fall of the Roman empire, our eye is invariably fixed on the royal city, which had given laws to the fairest portion of the globe.","('first', 'ORDINAL'), ('Roman', 'NORP')"
+"In the first moments of rebellion, when Arnold of Brescia had inflamed their minds against the church, the Romans artfully labored to conciliate the favour of the empire, and to recommend their merit and services in the cause of Caesar.","('first', 'ORDINAL'), ('Arnold', 'PERSON'), ('Brescia', 'GPE'), ('Romans', 'NORP'), ('Caesar', 'PERSON')"
+"In the first of these petty wars, thirty thousand Romans were overthrown by a thousand German horse, whom Frederic Barbarossa had detached to the relief of Tusculum: and if we number the slain at three, the prisoners at two, thousand, we shall embrace the most authentic and moderate account.","('first', 'ORDINAL'), ('thirty thousand', 'CARDINAL'), ('Romans', 'NORP'), ('thousand', 'CARDINAL'), ('German', 'NORP'), ('Frederic Barbarossa', 'PERSON'), ('Tusculum', 'PERSON'), ('three', 'CARDINAL'), ('two, thousand', 'CARDINAL')"
+"In the presence, and by the authority, of the people, two electors conferred, not on the pope, but on the noble and faithful Martin, the dignity of senator, and the supreme administration of the republic, (52) to hold during his natural life, and to exercise at pleasure by himself or his deputies.","('two', 'CARDINAL'), ('Martin', 'PERSON'), ('52', 'CARDINAL')"
+"In the revolution of the twelfth century, which gave a new existence and aera to Rome, we may observe the real and important events that marked or confirmed her political independence.","('the twelfth century', 'DATE'), ('Rome', 'GPE')"
+"In the same age, and from the
+ same motives, most of the Italian republics were prompted to
+ embrace a measure, which, however strange it may seem, was
+ adapted to their situation, and productive of the most
+ salutary effects. (46)","('Italian', 'NORP'), ('46', 'CARDINAL')"
+"In the time of Leo the Ninth, a wealthy and learned Jew
+ was converted to Christianity, and honoured at his baptism
+ with the name of his godfather, the reigning Pope.","('the time of Leo the Ninth', 'DATE'), ('Jew', 'NORP'), ('Christianity', 'NORP'), ('Pope', 'PERSON')"
+"In the twelfth and thirteenth centuries the
+ Romans incessantly laboured to reduce or destroy the
+ contumacious vassals of the church and senate; and if their
+ headstrong and selfish ambition was moderated by the pope,
+ he often encouraged their zeal by the alliance of his
+ spiritual arms.","('the twelfth and thirteenth centuries', 'DATE'), ('Romans', 'NORP')"
+"In the work of destruction, the ambition of the Romans was often checked and repulsed by the neighbouring cities and their allies: in the first siege of Tibur, they were driven from their camp; Battle of Tusculum, A.D. 1167.","('Romans', 'NORP'), ('first', 'ORDINAL'), ('Tibur', 'GPE'), ('Battle of Tusculum', 'FAC'), ('A.D. 1167', 'DATE')"
+"In their interview at Viterbo, the pope represented
+ to the emperor the furious, ungovernable spirit of the
+ Romans; the insults, the injuries, the fears, to which his
+ person and his clergy were continually exposed; and the
+ pernicious tendency of the heresy of Arnold, which must
+ subvert the principles of civil, as well as ecclesiastical,
+ subordination.","('Viterbo', 'GPE'), ('Romans', 'NORP'), ('Arnold', 'PERSON')"
+"In these occasional retreats, the
+ exiles and fugitives of the Vatican were seldom long, or
+ far, distant from the metropolis; but in the beginning of
+ the fourteenth century, the apostolic throne was
+ transported, as it might seem forever, from the Tyber to the
+ Rhône Boniface VIII.","('Vatican', 'FAC'), ('the beginning of\r\n the fourteenth century', 'DATE')"
+"In this double hope,
+ the French court was their surest asylum; they prompted and
+ directed the enterprise of Philip; and I should praise their
+ magnanimity, had they respected the misfortune and courage
+ of the captive tyrant.","('French', 'NORP'), ('Philip', 'PERSON')"
+"In this unworthy flight, which excited the compassion of the Roman matrons, his attendants were
+ scattered or unhorsed; and, in the fields behind the church of St. Peter, his successor was found alone and half dead with fear and fatigue.","('Roman', 'NORP'), ('St. Peter', 'GPE'), ('half', 'CARDINAL')"
+"Instead of the arbitrary or venal nomination of a German court, the vicar of Christ was freely chosen by the college of cardinals, most of whom were either natives or inhabitants of the city.","('German', 'NORP'), ('Christ', 'PERSON')"
+Institution of the conclave established by Gregory X. A.D. 1274.,"('Gregory X. A.D. 1274', 'PERSON')"
+"Institution of the jubilee, or holy year, A.D. 1300.","('A.D. 1300', 'DATE')"
+"It
+ was fortunately a season of peace and plenty; and if forage
+ was scarce, if inns and lodgings were extravagantly dear, an
+ inexhaustible supply of bread and wine, of meat and fish,
+ was provided by the policy of Boniface and the venal
+ hospitality of the Romans.","('Boniface', 'PERSON'), ('Romans', 'NORP')"
+"It is not my design to
+ enumerate the Roman families which have failed at different
+ periods, or those which are continued in different degrees
+ of splendour to the present time.","('Roman', 'NORP')"
+"It was proposed by Arnold to
+ revive and discriminate the equestrian order; but what could
+ be the motive or measure of such distinction? (34)","('Arnold', 'PERSON')"
+"It was the first act of the Romans, an act of freedom, to restore the strength, though not the beauty, of the Capitol; to fortify the seat of their arms and counsels; and as often as they ascended the hill, the coldest minds must have glowed with the remembrance of their ancestors.","('first', 'ORDINAL'), ('Romans', 'NORP'), ('Capitol', 'ORG')"
+"It was thus that the
+ seats of the cardinal bishops, Porto, Ostia, Albanum,
+ Tusculum, Praeneste, and Tibur or Tivoli, were successively
+ overthrown by the ferocious hostility of the Romans. (63)","('Porto', 'GPE'), ('Ostia', 'GPE'), ('Albanum', 'GPE'), ('Tusculum', 'FAC'), ('Praeneste', 'ORG'), ('Tibur', 'ORG'), ('Tivoli', 'ORG'), ('Romans', 'NORP'), ('63', 'CARDINAL')"
+"It was thus, about the middle of the thirteenth century,
+ that the Romans called from Bologna the senator Brancaleone,
+ (48) whose fame and merit have been rescued from oblivion by
+ the pen of an English historian.","('about the middle of the thirteenth century', 'DATE'), ('Romans', 'NORP'), ('Bologna', 'GPE'), ('Brancaleone', 'PERSON'), ('48', 'DATE'), ('English', 'LANGUAGE')"
+"It was universally believed, that Constantine had invested the popes with the temporal dominion of Rome; and the boldest civilians, the most profane skeptics, were satisfied with disputing the right of the emperor and the validity of his gift.","('Constantine', 'PERSON'), ('Rome', 'GPE')"
+"Italy could no longer afford a
+ refuge; and the disciple of Abelard escaped beyond the Alps,
+ till he found a safe and hospitable shelter in Zurich, now
+ the first of the Swiss cantons.","('Italy', 'GPE'), ('Abelard', 'PERSON'), ('Alps', 'LOC'), ('Zurich', 'GPE'), ('first', 'ORDINAL'), ('Swiss', 'NORP')"
+Lucius II.,"('Lucius II', 'PERSON')"
+Lucius III.,"('Lucius III', 'PERSON')"
+"Nine days are allowed for the obsequies of the deceased pope, and the arrival of the  absent cardinals; on the tenth, they are imprisoned, each with one domestic, in a common apartment or conclave, without any separation of walls or curtains: a small window is reserved for the introduction of necessaries; but the door is locked on both sides and guarded by the magistrates of the city, to seclude them from all correspondence with the world.","('Nine days', 'DATE'), ('the tenth', 'DATE'), ('one', 'CARDINAL')"
+Noble Families of Rome.,"('Rome', 'GPE')"
+"Nogaret, a foreign adversary, was content to
+ execute the orders of his master: by the domestic enmity of Colonna, he was insulted with words and blows; and during a confinement of three days his life was threatened by the hardships which they inflicted on the obstinacy which they
+ provoked.","('Nogaret', 'PERSON'), ('Colonna', 'PERSON'), ('three days', 'DATE')"
+"Nor could his spiritual government escape the censure and control of the reformer; and the inferior clergy were taught by his lessons to resist
+ the cardinals, who had usurped a despotic command over the
+ twenty-eight regions or parishes of Rome. (27)","('twenty-eight', 'CARDINAL'), ('Rome', 'GPE'), ('27', 'CARDINAL')"
+"Nor shall I dismiss the present work till I have reviewed the state and revolutions of the Roman City, which acquiesced under the absolute dominion of the popes, about the same time that Constantinople was enslaved by the Turkish arms.","('the Roman City', 'GPE'), ('Constantinople', 'GPE'), ('Turkish', 'NORP')"
+"Of
+ these, (64) Porto and Ostia, the two keys of the Tyber, are still vacant and desolate: the marshy and unwholesome banks are peopled with herds of buffaloes, and the river is lost to every purpose of navigation and trade.","('64', 'CARDINAL'), ('Porto', 'GPE'), ('Ostia', 'GPE'), ('two', 'CARDINAL'), ('Tyber', 'FAC')"
+"Of her two sovereigns, the emperor had precariously reigned by the right of conquest; but the authority of the pope was founded on the soft, though more solid, basis of opinion and habit.","('two', 'CARDINAL')"
+"Of these, Peter was elected senator of Rome,
+ introduced to the Capitol in a triumphal car, and hailed in
+ some vain acclamations with the title of Caesar; while John
+ and Stephen were declared marquis of Ancona and count of
+ Romagna, by Nicholas the Fourth, a patron so partial to
+ their family, that he has been delineated in satirical
+ portraits, imprisoned as it were in a hollow pillar. (101)","('Peter', 'PERSON'), ('Rome', 'GPE'), ('Capitol', 'FAC'), ('Caesar', 'PERSON'), ('John', 'PERSON'), ('Stephen', 'PERSON'), ('Ancona', 'PERSON'), ('Romagna', 'PERSON'), ('Nicholas the Fourth', 'PERSON'), ('101', 'CARDINAL')"
+"On Holy Thursday, while Paschal officiated before the altar, he was interrupted by the clamours of the multitude, who imperiously demanded the confirmation of a favourite magistrate.","('Holy Thursday', 'DATE'), ('Paschal', 'PERSON')"
+"On one of these, a gold medal, Christ is depictured holding in his left hand a book with this inscription: ""THE VOW OF THE ROMAN SENATE AND PEOPLE: ROME THE CAPITAL OF THE WORLD;"" on the reverse, St. Peter
+ delivering a banner to a kneeling senator in his cap and
+ gown, with the name and arms of his family impressed on a
+ shield.","('one', 'CARDINAL'), ('Christ', 'PERSON'), ('THE VOW OF THE ROMAN SENATE AND PEOPLE: ROME THE CAPITAL OF THE WORLD', 'WORK_OF_ART'), ('St. Peter', 'GPE')"
+"On the decease of a pope, two factions proceeded in
+ different churches to a double election: the number and
+ weight of votes, the priority of time, the merit of the
+ candidates, might balance each other: the most respectable
+ of the clergy were divided; and the distant princes, who
+ bowed before the spiritual throne, could not distinguish the
+ spurious, from the legitimate, idol.","('two', 'CARDINAL')"
+"On the first provocation, of a cardinal
+ killed or wounded in the streets, he cast an interdict on
+ the guilty people; and from Christmas to Easter, Rome was
+ deprived of the real or imaginary comforts of religious
+ worship.","('first', 'ORDINAL'), ('Christmas to Easter', 'DATE'), ('Rome', 'GPE')"
+"Once, and once only,
+ in his life, each emperor, with an army of Teutonic vassals,
+ descended from the Alps.","('Teutonic', 'NORP'), ('Alps', 'LOC')"
+Political Heresy of Arnold of Brescia.,"('Arnold', 'PERSON'), ('Brescia', 'GPE')"
+Pride of the Romans.,"('Romans', 'NORP')"
+Restoration of the Republic.,"('the Republic', 'GPE')"
+"Restoration of the senate, A.D. 1144.","('A.D. 1144', 'DATE')"
+Right of the cardinals established by Alexander III.,"('Alexander III', 'PERSON')"
+"Rome continually presented the aspect of war and discord: the churches and palaces were fortified and assaulted by the factions and families; Calistus II. A.D. 1119-1124.  and, after giving peace to Europe, Calistus the Second alone had resolution and power to prohibit the use of private arms in the metropolis.","('Rome', 'GPE'), ('A.D. 1119', 'DATE'), ('Europe', 'LOC'), ('Calistus', 'PERSON'), ('Second', 'ORDINAL')"
+"Rome had been already stripped of her trophies, her gods, and her Caesars; nor was the Gothic dominion more inglorious and oppressive than the tyranny of the Greeks.","('Rome', 'GPE'), ('Caesars', 'PERSON'), ('Gothic', 'NORP'), ('Greeks', 'NORP')"
+"Shaking the dust from his feet, the apostle withdrew from a city in which his dignity was
+ insulted and his person was endangered; and the vanity of sacerdotal ambition is revealed in the involuntary confession, that one emperor was more tolerable than twenty.","('one', 'CARDINAL'), ('twenty', 'CARDINAL')"
+"Since the loss
+ of Palestine, the gift of plenary indulgences, which had
+ been applied to the crusades, remained without an object;
+ and the most valuable treasure of the church was sequestered
+ above eight years from public circulation.","('Palestine', 'GPE'), ('eight years', 'DATE')"
+"Six- and-thirty of
+ his successors, (12) till their retreat to Avignon,
+ maintained an unequal contest with the Romans: their age and
+ dignity were often violated; and the churches, in the solemn
+ rites of religion, were polluted with sedition and murder.","('Six- and-thirty', 'CARDINAL'), ('12', 'DATE'), ('Avignon', 'GPE'), ('Romans', 'NORP')"
+"Sixty-eight years afterwards they marched against Viterbo in the ecclesiastical state with the whole force of the city; by a rare coalition the Teutonic eagle was blended, in the adverse banners, with the keys of St. Peter;  and the pope's auxiliaries were commanded by a count of
+ Thoulouse and a bishop of Winchester.","('Sixty-eight years', 'DATE'), ('Viterbo', 'GPE'), ('Teutonic', 'NORP'), ('St. Peter', 'PERSON'), ('Thoulouse', 'ORG'), ('Winchester', 'GPE')"
+"Some articles of inconvenient or superfluous rigour have been gradually relaxed, but the principle of confinement is vigorous and entire: they are still urged, by the personal motives of health and freedom, to accelerate the moment of their
+ deliverance; and the improvement of ballot or secret votes has wrapped the struggles of the conclave (71) in the silky veil of charity and politeness. (72)","('72', 'CARDINAL')"
+Some of these republican coins of the twelfth and thirteenth centuries are shown in the cabinets of the curious.,"('republican', 'NORP'), ('the twelfth and thirteenth centuries', 'DATE')"
+"State and revolutions of Rome, A.D. 1100-1500","('Rome', 'GPE'), ('1100-1500', 'CARDINAL')"
+State of Rome from the Twelfth Century.,"('Rome', 'GPE'), ('the Twelfth Century', 'DATE')"
+"Such powerful motives should have firmly attached the
+ voluntary and pious obedience of the Roman people to their
+ spiritual and temporal father.","('Roman', 'NORP')"
+"Surely this dark portrait is not coloured by the pencil of Christian charity; (17) yet the features, however harsh or ugly, express a lively resemblance of the Roman of the twelfth century.","('Christian', 'NORP'), ('17', 'CARDINAL'), ('Roman', 'NORP'), ('the twelfth century', 'DATE')"
+"Surrounded by his ecclesiastical and secular princes, he gave audience in his camp at Sutri to the ambassadors of Rome, who thus addressed him in a free and florid oration:","('Sutri', 'GPE'), ('Rome', 'GPE')"
+Temporal Dominion of the Popes.,"('Temporal Dominion of the Popes', 'PERSON')"
+"The
+ assembled in arms at the foot of the Capitol; sallied from
+ the gates, plundered or burnt the harvests of their
+ neighbours, engaged in tumultuary conflict, and returned home
+ after an expedition of fifteen or twenty days.","('Capitol', 'FAC'), ('fifteen or twenty days', 'DATE')"
+"The
+ boldness of Sciarra Colonna was signalized in the captivity
+ of Boniface, and long afterwards in the coronation of Lewis
+ of Bavaria; and by the gratitude of the emperor, the pillar
+ in their arms was encircled with a royal crown.","('Sciarra Colonna', 'PERSON'), ('Boniface', 'PERSON'), ('Lewis', 'PERSON'), ('Bavaria', 'GPE')"
+"The
+ calculation of their numbers could not be easy nor accurate;
+ and they have probably been magnified by a dexterous clergy,
+ well apprised of the contagion of example: yet we are
+ assured by a judicious historian, who assisted at the
+ ceremony, that Rome was never replenished with less than two
+ hundred thousand strangers; and another spectator has fixed
+ at two millions the total concourse of the year.","('Rome', 'GPE'), ('less than two\r\n hundred thousand', 'CARDINAL'), ('two millions', 'CARDINAL'), ('the year', 'DATE')"
+"The
+ pontiff, who watched and irritated their devout impatience,
+ was soon persuaded by ancient testimony of the justice of
+ their claim; and he proclaimed a plenary absolution to all
+ Catholics who, in the course of that year, and at every
+ similar period, should respectfully visit the apostolic
+ churches of St. Peter and St. Paul.","('Catholics', 'NORP'), ('that year', 'DATE'), ('St. Peter', 'GPE'), ('St. Paul', 'GPE')"
+"The Caesars of Saxony or Franconia were the chiefs of a
+ feudal aristocracy; nor could they exercise the discipline
+ of civil and military power, which alone secures the
+ obedience of a distant people, impatient of servitude,
+ though perhaps incapable of freedom.","('The Caesars of Saxony', 'ORG'), ('Franconia', 'GPE')"
+The Capitol.,"('Capitol', 'FAC')"
+The Colonna.,"('Colonna', 'PERSON')"
+"The French and German emperors of Rome, A.D. 800-1100","('French', 'NORP'), ('German', 'NORP'), ('Rome', 'GPE'), ('800-1100', 'CARDINAL')"
+"The Indian who fells the tree, that he
+ may gather the fruit, (9) and the Arab who plunders the
+ caravans of commerce, are actuated by the same impulse of
+ savage nature, which overlooks the future in the present,
+ and relinquishes for momentary rapine the long and secure
+ possession of the most important blessings.","('Indian', 'NORP'), ('Arab', 'NORP')"
+"The Jews had rejected the Christ when he appeared among them
+ in a plebeian character; and the Romans might plead their
+ ignorance of his vicar when he assumed the pomp and pride of
+ a temporal sovereign.","('Jews', 'NORP'), ('Christ', 'PERSON'), ('Romans', 'NORP')"
+"The Romans had despised their temporal prince:
+ they submitted with grief and terror to the censures of
+ their spiritual father: their guilt was expiated by penance,
+ and the banishment of the seditious preacher was the price
+ of their absolution.","('Romans', 'NORP')"
+"The Romans were discomfited with shame and slaughter: but the English prelate must have indulged the vanity of a pilgrim, if he multiplied their numbers to one hundred, and their loss in
+ the field to thirty, thousand men.","('Romans', 'NORP'), ('English', 'NORP'), ('one hundred', 'CARDINAL'), ('thirty, thousand', 'CARDINAL')"
+"The Ursini migrated from Spoleto; (104) the sons of Ursus, as they are styled in the twelfth century, from some eminent person, who is only known as the  father of their race.","('Ursini', 'PERSON'), ('Spoleto', 'GPE'), ('104', 'CARDINAL'), ('Ursus', 'NORP'), ('the twelfth century', 'DATE')"
+"The absolute term of his
+ life was superseded by a renewal every third year; and the
+ enmity of Nicholas the Third obliged the Sicilian king to
+ abdicate the government of Rome.","('every third year', 'DATE'), ('Nicholas', 'PERSON'), ('Third', 'ORDINAL'), ('Sicilian', 'NORP'), ('Rome', 'GPE')"
+"The adjacent territory on either side of the Tiber was always claimed, and sometimes possessed, as the patrimony of St. Peter; but the barons assumed a lawless independence, and the cities too faithfully copied the revolt and discord of
+ the metropolis.","('Tiber', 'LOC'), ('St. Peter', 'GPE')"
+"The applause of the magistrates and people confirmed his election, and the ecclesiastical power that was obeyed in  Sweden and Britain had been ultimately derived from the suffrage of the Romans.","('Sweden', 'GPE'), ('Britain', 'GPE'), ('Romans', 'NORP')"
+"The archbishop of
+ Bourdeaux, a furious enemy of his king and country, was the
+ first on the list; but his ambition was known; and his
+ conscience obeyed the calls of fortune and the commands of a
+ benefactor, who had been informed by a swift messenger that
+ the choice of a pope was now in his hands.","('Bourdeaux', 'PERSON'), ('first', 'ORDINAL')"
+"The bishop, as a
+ simple bishop, was compelled to reside in his diocese; and
+ the standard of Brancaleone was displayed in the field with
+ terror and effect.","('Brancaleone', 'PERSON')"
+"The cardinals fled; the inhabitants of Anagni were seduced from their allegiance and gratitude; but the dauntless Boniface, unarmed and alone, seated himself in his chair, and awaited, like the conscript fathers of old, the swords of the Gauls.","('Anagni', 'GPE'), ('Boniface', 'PERSON'), ('Gauls', 'NORP')"
+"The cardinals of both parties were soon astonished by a
+ summons to attend him beyond the Alps; from whence, as they
+ soon discovered, they must never hope to return.","('Alps', 'LOC')"
+"The clergy triumphed in his death: with his  ashes, his sect was dispersed; his memory still lived in the minds of the Romans.","('Romans', 'NORP')"
+"The deadly factions of the Guelphs and
+ Ghibelines, so fatal to Italy, could never be embraced with
+ truth or constancy by the Romans, the subjects and
+ adversaries both of the bishop and emperor; but their
+ support was solicited by both parties, and they alternately
+ displayed in their banners the keys of St. Peter and the
+ German eagle.","('Guelphs', 'NORP'), ('Ghibelines', 'NORP'), ('Italy', 'GPE'), ('Romans', 'NORP'), ('St. Peter', 'PERSON'), ('German', 'NORP')"
+"The dignity was confined to the noble families of Rome: the choice of the people was ratified by the pope; but a triple oath of fidelity must have often
+ embarrassed the praefect in the conflict of adverse duties.","('Rome', 'GPE')"
+The eagle and the keys were displayed in their adverse banners; and the two factions of Italy most furiously raged when the origin and nature of the dispute were long since forgotten.,"('two', 'CARDINAL'), ('Italy', 'GPE')"
+The emperor Lewis of Bavaria revived the example of the great Otho.,"('Lewis', 'PERSON'), ('Bavaria', 'GPE'), ('Otho', 'PERSON')"
+"The emperor Lewis of Bavaria, A.D. 1328.","('Lewis', 'PERSON'), ('Bavaria', 'GPE'), ('A.D. 1328', 'DATE')"
+The first Caesars had been invested with the exclusive coinage of the gold and silver; to the senate they abandoned the baser metal of bronze or copper: (38) the emblems and legends were inscribed on a more ample field by the genius of flattery; and the prince was relieved from the care of celebrating his own virtues.,"('first', 'ORDINAL'), ('Caesars', 'ORG'), ('38', 'CARDINAL')"
+"The fixed revenue of the popes was probably impaired; many of the old patrimonial estates, both in Italy and the provinces, had been invaded by sacrilegious hands; nor could the loss be compensated by the claim, rather than the possession, of the more ample gifts of Pepin and his descendants.","('Italy', 'GPE'), ('Pepin', 'PERSON')"
+"The flowers of Latin rhetoric were not yet exhausted; but Frederic, impatient of their vanity, interrupted the orators in the high tone of royalty and conquest.","('Latin', 'NORP'), ('Frederic', 'PERSON')"
+"The former, as he ascended in battle array to assault the Capitol, was struck on the temple by a stone, and expired in a few days.","('Capitol', 'FAC'), ('a few days', 'DATE')"
+"The foundation of a second Rome, on the shores of the Bosphorus, has compelled the historian to follow the successors of Constantine; and our curiosity has been tempted to visit the most remote countries of Europe and Asia, to explore the causes and the authors of the long decay of the Byzantine monarchy.","('second', 'ORDINAL'), ('Rome', 'GPE'), ('Bosphorus', 'LOC'), ('Constantine', 'PERSON'), ('Europe', 'LOC'), ('Asia', 'LOC'), ('Byzantine', 'NORP')"
+"The gracious pontiff complied with their wishes;
+ afforded Rome this poor consolation for his loss;","('Rome', 'GPE')"
+"The hills, which afford a shady retirement from the autumnal heats, have again smiled with the blessings of peace; Frescati has arisen near the ruins of Tusculum; Tibur or Tivoli has resumed the honours of a city, (65) and the meaner towns of Albano and Palestrina are decorated with the villas of the cardinals and princes of Rome.","('Frescati', 'GPE'), ('Tusculum', 'GPE'), ('Tibur', 'GPE'), ('Tivoli', 'GPE'), ('65', 'CARDINAL'), ('Albano', 'GPE'), ('Palestrina', 'GPE'), ('Rome', 'GPE')"
+The houses of his adherents were levelled with the ground: Paschal escaped with difficulty and danger; he levied an army in the patrimony of St. Peter; and his last days were embittered by suffering and inflicting the calamities of civil war.,"('Paschal', 'PERSON'), ('St. Peter', 'GPE'), ('last days', 'DATE')"
+"The impotence of reason and virtue recommended in Italy a
+ more effectual choice: instead of a private citizen, to whom
+ they yielded a voluntary and precarious obedience, the
+ Romans elected for their senator some prince of independent
+ power, who could defend them from their enemies and
+ themselves.","('Italy', 'GPE'), ('Romans', 'NORP')"
+"The jealously of pre-eminence and power was the true ground of their quarrel; but as a specious badge of distinction, the Colonna embraced the name of Ghibelines and the party of the empire; the Ursini espoused the title of Guelphs and the cause of the church.","('Colonna', 'PERSON'), ('Ghibelines', 'PERSON'), ('Ursini', 'PERSON'), ('Guelphs', 'PERSON')"
+"The jurisprudence of the republic was
+ useless and unknown: the nations and families of Italy who
+ lived under the Roman and Barbaric laws were insensibly
+ mingled in a common mass; and some faint tradition, some
+ imperfect fragments, preserved the memory of the Code and
+ Pandects of Justinian.","('Italy', 'GPE'), ('Roman', 'NORP'), ('Barbaric', 'NORP'), ('Code', 'LAW'), ('Pandects of Justinian', 'PERSON')"
+"The love of ancient freedom has encouraged a belief that as early as the tenth century, in their first struggles against the Saxon Othos, the commonwealth was vindicated and restored by the senate and people of Rome; that two consuls were annually elected among the nobles, and that ten or
+ twelve plebeian magistrates revived the name and office of the tribunes of the commons. (30)","('the tenth century', 'DATE'), ('first', 'ORDINAL'), ('Saxon', 'NORP'), ('Rome', 'GPE'), ('two', 'CARDINAL'), ('ten', 'CARDINAL'), ('twelve', 'CARDINAL'), ('30', 'CARDINAL')"
+"The motives of public and private interest might sometimes draw from the Romans an occasional and temporary sacrifice of their claims; and they renewed their oath of allegiance to the successor of St. Peter and Constantine, the lawful head of the church and the republic. (45)","('Romans', 'NORP'), ('St. Peter', 'PERSON'), ('Constantine', 'PERSON'), ('45', 'CARDINAL')"
+"The name of Dominus or Lord was inscribed on the coin of the bishops: right;  their title was acknowledged by acclamations and oaths of allegiance, and with the free, or reluctant, consent of the German Caesars, they had long exercised a supreme or subordinate jurisdiction over the city and patrimony of St. Peter.","('Dominus', 'PERSON'), ('German', 'NORP'), ('Caesars', 'ORG'), ('St. Peter', 'GPE')"
+"The name of Rome must yet command our involuntary respect: the climate (whatsoever may be its influence) was no longer the same: (1) the purity of blood had been contaminated through a thousand channels; but the venerable aspect of her ruins, and the memory of past greatness, rekindled a spark of the national character.","('Rome', 'GPE'), ('1', 'CARDINAL'), ('a thousand', 'CARDINAL')"
+"The nobles, or barons of Rome.","('Rome', 'GPE')"
+"The old consular line
+ of the Frangipani discover their name in the generous act of
+ breaking or dividing bread in a time of famine; and such
+ benevolence is more truly glorious than to have enclosed,
+ with their allies the Corsi, a spacious quarter of the city
+ in the chains of their fortifications; the Savelli, as it
+ should seem a Sabine race, have maintained their original
+ dignity; the obsolete surname of the Capizucchi is inscribed
+ on the coins of the first senators; the Conti preserve the
+ honour, without the estate, of the counts of Signia; and the
+ Annibaldi must have been very ignorant, or very modest, if
+ they had not descended from the Carthaginian hero. (96)","('Frangipani', 'NORP'), ('quarter', 'CARDINAL'), ('Savelli', 'NORP'), ('Sabine', 'NORP'), ('Capizucchi', 'PERSON'), ('first', 'ORDINAL'), ('Conti', 'PERSON'), ('Signia', 'PERSON'), ('Annibaldi', 'PERSON'), ('Carthaginian', 'NORP'), ('96', 'CARDINAL')"
+"The old patricians were the subjects,
+ the modern barons the tyrants, of the state; nor would the
+ enemies of peace and order, who insulted the vicar of
+ Christ, have long respected the unarmed sanctity of a
+ plebeian magistrate. (35)","('Christ', 'PERSON')"
+"The pride of his contemporaries was gratified by the contrast of the past and the present: they would have been humbled by the prospect of futurity; by the prediction, that after a thousand years, Rome, despoiled of empire, and contracted to her primaeval limits, would renew the same hostilities, on the same ground which was then decorated with her villas and gardens.","('a thousand years', 'DATE'), ('Rome', 'GPE')"
+"The profusion of indulgences, the revolt of
+ the Protestants, and the decline of superstition, have much
+ diminished the value of the jubilee; yet even the nineteenth
+ and last festival was a year of pleasure and profit to the
+ Romans; and a philosophic smile will not disturb the triumph
+ of the priest or the happiness of the people. (90)","('Protestants', 'NORP'), ('nineteenth', 'ORDINAL'), ('Romans', 'NORP'), ('90', 'CARDINAL')"
+"The progress of independence in Germany
+ and Italy undermined the foundations of the Imperial
+ sovereignty, and the triumph of the popes was the
+ deliverance of Rome.","('Germany', 'GPE'), ('Italy', 'GPE'), ('Imperial', 'NORP'), ('Rome', 'GPE')"
+"The progress of industry had produced and enriched the
+ Italian republics: the aera of their liberty is the most
+ flourishing period of population and agriculture, of
+ manufactures and commerce; and their mechanic labours were
+ gradually refined into the arts of elegance and genius.","('Italian', 'NORP')"
+"The reign of the popes, which gratified the prejudices, was not incompatible with the liberties, of Rome; and a more critical inquiry would have revealed a still nobler source of their power; the gratitude of a nation, whom they had rescued from the heresy and oppression of the Greek tyrant.","('Rome', 'GPE'), ('Greek', 'NORP')"
+"The remainder of his government was firm and fortunate; and as soon as envy was appeased by death, his head, enclosed in a precious vase, was deposited on a lofty column of marble. (49)
+Charles of Anjou, A.D. 1265-1278.","('Charles', 'PERSON'), ('1265-1278', 'DATE')"
+"The royal path to maintain the
+ liberties of Rome was thrice reiterated, at the bridge, the
+ gate, and on the stairs of the Vatican; and the distribution
+ of a customary donative feebly imitated the magnificence of
+ the first Caesars.","('Rome', 'GPE'), ('Vatican', 'FAC'), ('first', 'ORDINAL')"
+The scenes that followed the election of his successor Gelasius the Second were still more scandalous to the church and city.,"('Gelasius', 'PERSON'), ('Second', 'ORDINAL')"
+"The second jubilee, A.D. 1350.","('second', 'ORDINAL'), ('A.D. 1350', 'DATE')"
+"The senators of the Catholic church, the coadjutors and legates of the supreme pontiff, were robed in purple, the symbol of martyrdom or royalty; they claimed a proud equality with kings; and their dignity was enhanced by the smallness of their number, which, till the reign of Leo the Tenth, seldom exceeded twenty or twenty-five persons.","('Catholic', 'NORP'), ('Leo the Tenth', 'PERSON'), ('twenty or twenty-five', 'CARDINAL')"
+"The spiritual arms of excommunication and interdict were repulsed by the union of the three
+ estates, and the privileges of the Gallican church; but the pope was not prepared against the carnal weapons which Philip the Fair had courage to employ.","('three', 'CARDINAL'), ('Gallican', 'NORP'), ('Philip the Fair', 'ORG')"
+"The style of their ambassadors to Conrad the Third  and Frederic the First is a mixture of flattery and pride, the tradition and the ignorance of their own history.","('Conrad', 'PERSON'), ('Third', 'ORDINAL'), ('Frederic', 'PERSON'), ('First', 'ORDINAL')"
+"The successors of Diocletian despised even the flattery of the senate: their royal officers at Rome, and in the provinces, assumed the sole direction of the mint; and the same prerogative was inherited by the Gothic kings of Italy, and the long series of the Greek, the French, and the German dynasties.","('Diocletian', 'PERSON'), ('Rome', 'GPE'), ('Gothic', 'NORP'), ('Italy', 'GPE'), ('Greek', 'NORP'), ('French', 'NORP'), ('German', 'NORP')"
+"The sword
+ of the nobles was broken; their slaves were enfranchised;
+ their castles were demolished; they assumed the habits of
+ society and obedience; their ambition was confined to
+ municipal honours, and in the proudest aristocracy of Venice
+ on Genoa, each patrician was subject to the laws.","('Venice', 'GPE'), ('Genoa', 'GPE')"
+"The temples of Jupiter and his kindred deities had crumbled into dust; their place was supplied by monasteries and houses; and the solid walls, the long and shelving porticos, were decayed or ruined by the lapse of time.","('Jupiter', 'LOC')"
+"The terms were
+ regulated in a private interview; and with such speed and
+ secrecy was the business transacted, that the unanimous
+ conclave applauded the elevation of Clement the Fifth. (79)","('Clement', 'PERSON'), ('Fifth', 'ORDINAL')"
+"The three orders of bishops, priests, and  deacons, were assimilated to each other by this important privilege; the parochial clergy of Rome obtained the first rank in the hierarchy: they were indifferently chosen among the nations of Christendom; and the possession of the richest benefices, of the most important bishoprics, was not incompatible with their title and office.","('three', 'CARDINAL'), ('Rome', 'GPE'), ('first', 'ORDINAL'), ('Christendom', 'NORP')"
+"The trumpet of Roman liberty
+ was first sounded by Arnold of Brescia, (20) whose promotion
+ in the church was confined to the lowest rank, and who wore
+ the monastic habit rather as a garb of poverty than as a
+ uniform of obedience.","('Roman', 'NORP'), ('first', 'ORDINAL'), ('Arnold', 'PERSON'), ('Brescia', 'GPE'), ('20', 'CARDINAL')"
+"The truth of the fact, the authenticity of his donation, was deeply rooted in the ignorance and tradition of four centuries; and the fabulous origin was lost in the real and permanent effects.","('four centuries', 'DATE')"
+"The turbulent Romans disdained the yoke, and insulted the impotence, of their bishop:(10) nor would his education or character allow him to exercise, with decency
+ or effect, the power of the sword.","('Romans', 'NORP'), ('10', 'CARDINAL')"
+"The two
+ cardinals, the uncle and the nephew, denied the election of
+ Boniface the Eighth; and the Colonna were oppressed for a
+ moment by his temporal and spiritual arms. (102)","('two', 'CARDINAL'), ('Boniface the Eighth', 'PERSON'), ('Colonna', 'PERSON'), ('102', 'CARDINAL')"
+"The union and vigour of a public council was dissolved in a
+ lawless city; and the Romans soon adopted a more strong and
+ simple mode of administration.","('Romans', 'NORP')"
+"The wealth and piety
+ of these strangers were ostentatiously displayed; and their
+ expenses, sacred or profane, circulated in various channels
+ for the emolument of the Romans.","('Romans', 'NORP')"
+"The welcome sound was
+ propagated through Christendom; and at first from the
+ nearest provinces of Italy, and at length from the remote
+ kingdoms of Hungary and Britain, the highways were thronged
+ with a swarm of pilgrims who sought to expiate their sins in
+ a journey, however costly or laborious, which was exempt
+ from the perils of military service.","('Christendom', 'NORP'), ('first', 'ORDINAL'), ('Italy', 'GPE'), ('Hungary', 'GPE'), ('Britain', 'GPE')"
+"The zeal and courage of Peter the son of Leo were signalized in the  cause of Gregory the Seventh, who entrusted his faithful
+ adherent with the government of Adrian's mole, the tower of
+ Crescentius, or, as it is now called, the castle of St.
+ Angelo.","('Peter', 'PERSON'), ('Leo', 'PERSON'), ('Gregory the Seventh', 'PERSON'), ('Adrian', 'PERSON'), ('Crescentius', 'FAC'), ('St.\r\n Angelo', 'GPE')"
+"Their first historical appearance in the year
+ eleven hundred and four attests the power and antiquity,
+ while it explains the simple meaning, of the name.","('first', 'ORDINAL'), ('the year\r\n eleven hundred and four', 'DATE')"
+"Their laborious reigns were exercised by
+ the popes, the crusades, and the independence of Lombardy
+ and Germany: they courted the alliance of the Romans; and
+ Frederic the Second offered in the Capitol the great
+ standard, the Caroccio of Milan. (60)","('Lombardy', 'GPE'), ('Germany', 'GPE'), ('Romans', 'NORP'), ('Frederic', 'PERSON'), ('Second', 'ORDINAL'), ('Capitol', 'ORG'), ('Caroccio', 'PERSON'), ('Milan', 'GPE'), ('60', 'CARDINAL')"
+"Their riches may be accused as an early abuse of nepotism: the estates of St. Peter were alienated in their favour by the liberal Celestin; (106) and Nicholas was ambitious for their sake to solicit the alliance of monarchs; to found new kingdoms in Lombardy and Tuscany; and to invest them with the perpetual office of senators of
+ Rome.","('St. Peter', 'GPE'), ('Celestin', 'ORG'), ('106', 'CARDINAL'), ('Nicholas', 'PERSON'), ('Lombardy', 'GPE'), ('Tuscany', 'GPE'), ('Rome', 'GPE')"
+"Their strange delay gave time and courage to the adherents of the church, who rescued him from sacrilegious violence; but his imperious soul was wounded in the vital part; and Boniface expired at Rome in a frenzy of rage and
+ revenge.","('Boniface', 'PERSON'), ('Rome', 'GPE')"
+"Their tardy zeal was quickened by the fierce
+ exhortations of St. Bernard; (25) and the enemy of the church
+ was driven by persecution to the desperate measures of
+ erecting his standard in Rome itself, in the face of the
+ successor of St. Peter.","('St. Bernard', 'GPE'), ('25', 'DATE'), ('Rome', 'GPE'), ('St. Peter', 'GPE')"
+"Their warfare was that of the first consuls
+ and dictators, who were taken from the plough.","('first', 'ORDINAL')"
+"These examples might
+ be readily presumed; but the elevation of a Hebrew race to
+ the rank of senators and consuls is an event without a
+ parallel in the long captivity of these miserable exiles.
+ (94)","('Hebrew', 'NORP'), ('94', 'CARDINAL')"
+"These examples might suffice; but I cannot forget the sufferings of two pontiffs of the same age, the second and third of the name of Lucius.","('two', 'CARDINAL'), ('second', 'ORDINAL'), ('third', 'ORDINAL'), ('Lucius', 'PERSON')"
+"They
+ likewise possessed one moiety of the neighbouring city of
+ Tusculum, a strong presumption of their descent from the
+ counts of Tusculum, who in the tenth century were the
+ tyrants of the apostolic see.","('one', 'CARDINAL'), ('Tusculum', 'GPE'), ('Tusculum', 'NORP'), ('the tenth century', 'DATE')"
+"They Are Deprived of the Election and Presence of the Popes, Who Retire to Avignon.","('Avignon', 'GPE')"
+"They condensed the name and
+ authority of the senate in a single magistrate, or two
+ colleagues; and as they were changed at the end of a year,
+ or of six months, the greatness of the trust was compensated
+ by the shortness of the term.","('two', 'CARDINAL'), ('the end of a year', 'DATE'), ('six months', 'DATE')"
+"They freely voted for a new law, that their bishop should never be absent more than three months in the year, and two days' journey from the city; and that if he neglected to return on the third summons, the public servant should be degraded and  dismissed.","('more than three months', 'DATE'), ('the year', 'DATE'), (""two days'"", 'DATE'), ('third', 'ORDINAL')"
+"They sometimes wandered in poverty and exile, the victims of persecution; and the apostolic zeal with which they offered themselves to martyrdom must engage the favour and sympathy of every Catholic breast.","('Catholic', 'NORP')"
+"They were already possessed of the adjacent territory, the
+ Venaissin county, (82) a populous and fertile spot; and the
+ sovereignty of Avignon was afterwards purchased from the
+ youth and distress of Jane, the first queen of Naples and
+ countess of Provence, for the inadequate price of fourscore
+ thousand florins. (83)","('the\r\n Venaissin county', 'GPE'), ('82', 'CARDINAL'), ('Avignon', 'GPE'), ('Jane', 'PERSON'), ('first', 'ORDINAL'), ('Naples', 'GPE'), ('Provence', 'GPE'), ('thousand', 'CARDINAL')"
+"They were bestowed by the emperors, or
+ assumed by the most powerful citizens, to denote their rank,
+ their honours, (32) and perhaps the claim of a pure and
+ patrician descent: but they float on the surface, without a
+ series or a substance, the titles of men, not the orders of
+ government; (33) and it is only from the year of Christ one
+ thousand one hundred and forty-four that the establishment
+ of the senate is dated, as a glorious aera, in the acts of
+ the city.","('33', 'CARDINAL'), ('the year of Christ one\r\n thousand one hundred and forty-four', 'DATE')"
+"This difference has not escaped the notice
+ of our philosophic historian: Successors of Gregory VII.","('Gregory VII', 'PERSON')"
+This generous resistance allowed the Romans to compare the present with the past; and Brancaleone was conducted from the prison to the Capitol amidst the acclamations of a repentant people.,"('Romans', 'NORP'), ('Brancaleone', 'PERSON'), ('Capitol', 'FAC')"
+"This prejudice was
+ encouraged in some degree by the resort of pilgrims to the
+ shrines of the apostles; and the last legacy of the popes,
+ the institution of the HOLY YEAR, (85) was not less
+ beneficial to the people than to the clergy.","('the HOLY YEAR', 'DATE'), ('85', 'CARDINAL')"
+"This prohibitory clause was repealed in his own behalf by Martin the Fourth, who humbly solicited the suffrage of the Romans.","('Martin the Fourth', 'PERSON'), ('Romans', 'NORP')"
+"To sound without danger the depth of popular
+ credulity, a sermon was seasonably pronounced, a report was
+ artfully scattered, some aged witnesses were produced; and
+ on the first of January of the year thirteen hundred, the
+ church of St. Peter was crowded with the faithful, who
+ demanded the customary indulgence of the holy time.","('the first of January of the year thirteen hundred', 'DATE'), ('St. Peter', 'GPE')"
+"To the
+ impatience of the popes we may ascribe the successive
+ reduction to fifty, thirty-three, and twenty-five years;
+ although the second of these terms is commensurate with the
+ life of Christ.","('fifty', 'CARDINAL'), ('thirty-three', 'CARDINAL'), ('twenty-five years', 'DATE'), ('second', 'ORDINAL'), ('Christ', 'PERSON')"
+"Translation of the holy see to Avignon, A.D. 1309.","('Avignon', 'GPE'), ('1309', 'CARDINAL')"
+"Under the first Christian princes, the
+ chair of St. Peter was disputed by the votes, the venality,
+ the violence, of a popular election: the sanctuaries of Rome
+ were polluted with blood; and, from the third to the twelfth
+ century, the church was distracted by the mischief of
+ frequent schisms.","('first', 'ORDINAL'), ('Christian', 'NORP'), ('St. Peter', 'GPE'), ('Rome', 'GPE'), ('the third to the twelfth\r\n century', 'DATE')"
+"Under the reign of Adrian, when the empire extended from the
+ Euphrates to the ocean, from Mount Atlas to the Grampian
+ hills, a fanciful historian (62) amused the Romans with the picture of their ancient wars.","('Adrian', 'PERSON'), ('Euphrates', 'LOC'), ('Mount Atlas', 'LOC'), ('the Grampian\r\n hills', 'LOC'), ('62', 'CARDINAL'), ('Romans', 'NORP')"
+"Under the shadow of a French monarchy,
+ amidst an obedient people, the popes enjoyed an honourable
+ and tranquil state, to which they long had been strangers:
+ but Italy deplored their absence; and Rome, in solitude and
+ poverty, might repent of the ungovernable freedom which had
+ driven from the Vatican the successor of St. Peter.","('French', 'NORP'), ('Italy', 'GPE'), ('Rome', 'GPE'), ('Vatican', 'FAC'), ('St. Peter', 'GPE')"
+"United with the pope, and suspicious
+ of the Romans, Frederic continued his march to the Vatican;
+ his coronation was disturbed by a sally from the Capitol;
+ and if the numbers and valour of the Germans prevailed in the
+ bloody conflict, he could not safely encamp in the presence
+ of a city of which he styled himself the sovereign.","('Romans', 'NORP'), ('Frederic', 'PERSON'), ('Vatican', 'FAC'), ('Capitol', 'FAC'), ('Germans', 'NORP')"
+Wars of the Romans against the neighbouring cities.,"('Romans', 'NORP')"
+"We contemplate her fortunes, at first with admiration, at length with pity, always with attention, and when that attention is diverted from the capital to the provinces, they are considered as so many branches which have been successively severed from the Imperial trunk.","('first', 'ORDINAL'), ('Imperial', 'ORG')"
+"When the flock
+ was offended or impoverished by the absence of the shepherd,
+ they were recalled by a stern admonition, that St. Peter had
+ fixed his chair, not in an obscure village, but in the
+ capital of the world; by a ferocious menace, that the Romans
+ would march in arms to destroy the place and people that
+ should dare to afford them a retreat.","('St. Peter', 'GPE'), ('Romans', 'NORP')"
+"With the empire, the praefect of the city
+ had declined to a municipal officer; yet he still exercised
+ in the last appeal the civil and criminal jurisdiction; and
+ a drawn sword, which he received from the successors of
+ Otho, was the mode of his investiture and the emblem of his
+ functions. (40)","('Otho', 'PERSON'), ('40', 'CARDINAL')"
+"With their liberty the Romans might
+ doubtless have restored the appellation and office of
+ consuls; had they not disdained a title so promiscuously
+ adopted in the Italian cities, that it has finally settled
+ on the humble station of the agents of commerce in a foreign
+ land.","('Romans', 'NORP'), ('Italian', 'NORP')"
+"Yet even Charles was exposed to the inconstancy
+ of the people, who saluted with the same acclamations the
+ passage of his rival, the unfortunate Conradin; and a
+ powerful avenger, who reigned in the Capitol, alarmed the
+ fears and jealousy of the popes.","('Charles', 'PERSON'), ('Conradin', 'PERSON'), ('Capitol', 'ORG')"
+"Yet he excommunicated the impious emissaries of Philip, and devoted the city and people of Anagni by a tremendous curse, whose effects are still visible to the eyes of superstition. (78)","('Philip', 'PERSON'), ('Anagni', 'GPE')"
+"Yet the courage of Arnold was not devoid of discretion: he
+ was protected, and had perhaps been invited, by the nobles
+ and people; and in the service of freedom, his eloquence
+ thundered over the seven hills.","('Arnold', 'PERSON'), ('seven', 'CARDINAL')"
+"Yet the victorious Colonna, with an annual colleague, was declared senator of Rome during the term of five years.","('Colonna', 'PERSON'), ('Rome', 'GPE'), ('five years', 'DATE')"
+"and in a letter to his disciple Eugenius the Third, St. Bernard, with the sharpness of his wit and zeal, has stigmatized the vices of the rebellious people. (16)","('Eugenius', 'PERSON'), ('Third', 'ORDINAL'), ('St. Bernard', 'GPE'), ('16', 'CARDINAL')"
+"and justified the change by the name and practice of the Mosaic
+ Jubilee. (88)","('the Mosaic\r\n Jubilee', 'ORG'), ('88', 'CARDINAL')"
+and the battles of Tusculum (66) and Viterbo (67) might be compared in their relative state to the memorable fields of Thrasymene and Cannae.,"('Tusculum', 'ORG'), ('66', 'CARDINAL'), ('Viterbo', 'PERSON'), ('67', 'CARDINAL'), ('Thrasymene', 'GPE'), ('Cannae', 'GPE')"
+and the cause of the transmigration may be deduced from the furious contest between Boniface the Eighth and the king of France. (77),"('Boniface the Eighth', 'PERSON'), ('France', 'GPE'), ('77', 'CARDINAL')"
+"in the
+ absence of the successors of Gregory the Seventh, who did
+ not keep as a divine precept their ordinary residence in the
+ city and diocese.","('Gregory the Seventh', 'PERSON')"
+"the martyr of freedom was burned alive in the presence of a careless and ungrateful  people; and his ashes were cast into the Tyber, lest the heretics should collect and worship the relics of their master. (29)","('Tyber', 'NORP')"

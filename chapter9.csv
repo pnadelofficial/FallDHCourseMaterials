@@ -1,0 +1,642 @@
+Sentence,Entities
+(17),"('17', 'CARDINAL')"
+(19),"('19', 'CARDINAL')"
+(31),"('31', 'CARDINAL')"
+(37),"('37', 'CARDINAL')"
+"(50)
+more absolute over the property than over the person of the Germans","('Germans', 'NORP')"
+(51),"('51', 'CARDINAL')"
+(54),"('54', 'CARDINAL')"
+"1. The great rivers which covered the Roman provinces, the Rhine and the Danube, were frequently frozen over, and capable of supporting the most enormous weights.","('1', 'CARDINAL'), ('Roman', 'NORP'), ('Rhine', 'LOC'), ('Danube', 'LOC')"
+"2. The reindeer, that useful animal, from whom the savage of the North derives the best comforts of his dreary life, is of a constitution that supports, and even requires, the most intense cold.","('2', 'CARDINAL'), ('North', 'LOC')"
+"A
+ clime so profusely favoured by Nature could not long remain
+ desert after the flood.","('Nature', 'ORG')"
+"A multitude of darts, scattered  (72) 
+ with incredible force, were an additional resource of the
+ infantry.","('72', 'CARDINAL')"
+"A ridge of hills, rising from the Danube, and
+ called the Carpathian mountains, covered Germany on the side
+ of Dacia or Hungary.","('Danube', 'LOC'), ('the Carpathian mountains', 'LOC'), ('Germany', 'GPE'), ('Dacia', 'GPE'), ('Hungary', 'GPE')"
+"A small quantity of corn was the only produce
+ exacted from the earth: the use of orchards or artificial
+ meadows was unknown to the Germans; nor can we expect any
+ improvements in agriculture from a people whose property
+ every year experienced a general change by a new division of
+ the arable lands, and who, in that strange operation,
+ avoided disputes by suffering a great part of their
+ territory to lie waste and without tillage.  (27)
+and of the use of metals.","('Germans', 'NORP'), ('every year', 'DATE'), ('27', 'CARDINAL')"
+"A solemn
+ procession was occasionally celebrated in the present
+ countries of Mecklenburgh and Pomerania.","('Mecklenburgh', 'GPE'), ('Pomerania', 'LOC')"
+"Almost the whole of modern Germany, Denmark, Norway, Sweden,
+ Finland, Livonia, Prussia, and the greater part of Poland,
+ were peopled by the various tribes of one great nation,
+ whose complexion, manners, and language denoted a common
+ origin and preserved a striking resemblance.","('Germany', 'GPE'), ('Denmark', 'GPE'), ('Norway', 'GPE'), ('Sweden', 'GPE'), ('Finland', 'GPE'), ('Livonia', 'GPE'), ('Prussia', 'GPE'), ('Poland', 'GPE'), ('one', 'CARDINAL')"
+"Although situated in the same
+ parallel with the finest provinces of France and England,
+ that country experiences the most rigorous cold.","('France', 'GPE'), ('England', 'GPE')"
+"Although they were admitted in small numbers and with the
+ strictest precaution, the example of Civilis was proper to
+ convince the Romans that the danger was not imaginary, and
+ that their precautions were not always sufficient.  (74)","('Civilis', 'PERSON'), ('Romans', 'NORP')"
+"Among the nations who have adopted the
+ Mosaic history of the world, the ark of Noah has been of the
+ same use as was formerly to the Greeks and Romans the siege
+ of Troy.","('Mosaic', 'NORP'), ('Noah', 'PERSON'), ('Greeks', 'NORP'), ('Romans', 'NORP'), ('Troy', 'PERSON')"
+"And from
+ facts thus exaggerated, an opinion was gradually
+ established, and has been supported by writers of
+ distinguished reputation, that, in the age of Caesar and
+ Tacitus, the inhabitants of the North were far more numerous
+ than they are in our days.  (38)","('Caesar', 'PERSON'), ('Tacitus', 'PERSON'), ('North', 'LOC'), ('our days', 'DATE'), ('38', 'DATE')"
+"And in the same manner
+ the German auxiliaries, invited into France during the civil
+ wars of the sixteenth century, were allured by the promise
+ of plenteous quarters in the provinces of Champagne and
+ Burgundy.  (35)","('German', 'NORP'), ('France', 'GPE'), ('the sixteenth century', 'DATE'), ('Champagne', 'GPE'), ('Burgundy', 'GPE'), ('35', 'CARDINAL')"
+"And yet we find that, during more
+ than two hundred and fifty years that elapsed from the
+ defeat of Varus to the reign of Decius, these formidable
+ barbarians made few considerable attempts, and not any
+ material impression on the luxurious and enslaved provinces
+ of the empire.","('more\r\n than two hundred and fifty years', 'DATE'), ('Varus', 'PERSON'), ('Decius', 'PERSON')"
+"And yet, when in
+ calm retirement we peruse the combats described by Homer or
+ Tasso, we are insensibly seduced by the fiction, and feel a
+ momentary glow of martial ardour.","('Homer', 'PERSON'), ('Tasso', 'PERSON')"
+"Assemblies of the people
+ Civil governments, in their first institutions, are
+ voluntary associations for mutual defence.","('first', 'ORDINAL')"
+"Barbarians
+ accustomed to place their freedom in gratifying the present
+ passion, and their courage in overlooking all future
+ consequences, turned away with indignant contempt from the
+ remonstrance of justice and policy, and it was the practice
+ to signify by a hollow murmur their dislike of such timid
+ counsels.","('Barbarians', 'NORP')"
+"But
+ Tacitus asserts, as a well-known fact, that the Germans, in
+ his time, had no Cities;   (20) and that they affected to
+ despise the works of Roman industry as places of confinement
+ rather than of security.   (21)","('Tacitus', 'PERSON'), ('Germans', 'NORP'), ('20', 'CARDINAL'), ('Roman', 'NORP'), ('21', 'CARDINAL')"
+But I shall select two remarkable circumstances of a less equivocal nature.,"('two', 'CARDINAL')"
+"But a state of freedom and barbarism, the season of civil
+ commotions, or the situation of petty republics,  (87) raises
+ almost every member of the community into action, and
+ consequently into notice.","('87', 'CARDINAL')"
+"But all this well-laboured system of German antiquities is
+ annihilated by a single fact, too well attested to admit of
+ any doubt, and of too decisive a nature to leave room for
+ any reply.","('German', 'NORP')"
+"But as the barbarians
+ poured forth their whole souls on the first onset, they knew
+ not how to rally or to retire.","('first', 'ORDINAL')"
+"But the Germans, who carried with them what they
+ most valued, their arms, their cattle, and their women,
+ cheerfully abandoned the vast silence of their woods for the
+ unbounded hopes of plunder and conquest.","('Germans', 'NORP')"
+"But the rude tribes of Germany, alike
+ destitute of both those valuable metals, were reduced slowly
+ to acquire, by their unassisted strength, the possession of
+ the one as well as the other.","('Germany', 'GPE')"
+"But the warlike Germans, who first
+ resisted, then invaded, and at length overturned, the
+ western monarchy of Rome, will occupy a much more important
+ place in this history, and possess a stronger, and, if we
+ may use the expression, a more domestic, claim to our
+ attention and regard.","('Germans', 'NORP'), ('first', 'ORDINAL'), ('Rome', 'GPE')"
+"But those who
+ had tasted the rich wines of Italy, and afterwards of Gaul,
+ sighed for that more delicious species of intoxication.","('Italy', 'GPE'), ('Gaul', 'PERSON')"
+"Canada, at this day, is an exact
+ picture of ancient Germany.","('Canada', 'GPE'), ('this day', 'DATE'), ('Germany', 'GPE')"
+"Causes which checked the progress of the Germans
+ Such was the situation, and such were the manners, of the
+ ancient Germans.","('Germans', 'NORP'), ('Germans', 'NORP')"
+"Civil dissentions of Germany
+ II.","('Germany', 'GPE')"
+"Conscious pride
+ taught the German females to suppress every tender emotion
+ that stood in competition with honour, and the first honour
+ of the sex has ever been that of chastity.","('German', 'NORP'), ('first', 'ORDINAL')"
+Distinction of the German tribes,"('German', 'NORP')"
+"During
+ the civil wars that followed the death of Nero, that artful
+ and intrepid Batavian, whom his enemies condescended to
+ compare with Hannibal and Sertorius,   (75) formed a great
+ design of freedom and ambition.","('Nero', 'PERSON'), ('Batavian', 'PERSON'), ('Hannibal', 'PERSON'), ('Sertorius', 'PERSON'), ('75', 'DATE')"
+"During her
+ progress the sound of war was hushed, quarrels were
+ suspended, arms laid aside, and the restless Germans had an
+ opportunity of tasting the blessings of peace and harmony.
+   (65)","('Germans', 'NORP'), ('65', 'CARDINAL')"
+"Eight Batavian cohorts,
+ renowned in the wars of Britain and Italy, repaired to his
+ standard.","('Eight', 'CARDINAL'), ('Batavian', 'NORP'), ('Britain', 'GPE'), ('Italy', 'GPE')"
+"Every quarrel among the
+ Germans was fomented by the intrigues of Rome; and every
+ plan of union and public good was defeated by the stronger
+ bias of private jealousy and interest.  (81)","('Germans', 'NORP'), ('Rome', 'GPE')"
+"Extent of Germany
+ Ancient Germany, excluding from its independent limits the
+ province westward of the Rhine, which had submitted to the
+ Roman yoke, extended itself over a third part of Europe.","('Germany', 'GPE'), ('Germany', 'GPE'), ('Rhine', 'LOC'), ('Roman', 'NORP'), ('third', 'ORDINAL'), ('Europe', 'LOC')"
+"Fainting armies of Germans have
+ more than once been driven back upon the enemy by the
+ generous despair of the women who dreaded death much less
+ than servitude.","('Germans', 'NORP')"
+"For the Germans always met in arms, and it
+ was constantly to be dreaded lest an irregular multitude,
+ inflamed with faction and strong liquors, should use those
+ arms to enforce, as well as to declare, their furious
+ resolves.","('Germans', 'NORP')"
+"From Sweden (which formed
+ so considerable a part of ancient Germany) the Greeks
+ themselves derived their alphabetical characters, their
+ astronomy, and their religion.","('Sweden', 'GPE'), ('Germany', 'GPE'), ('Greeks', 'NORP')"
+"Germany was divided into more than
+ forty independent states; and even in each state the union
+ of the several tribes was extremely loose and precarious.","('Germany', 'GPE'), ('more than\r\n forty', 'CARDINAL')"
+"Gold, silver, and iron were extremely scarce in Germany.","('Germany', 'GPE')"
+"He fixed generals of ability in the several
+ stations of attack, and assumed in person the conduct of the most important province on the Upper Danube.","('the Upper Danube', 'LOC')"
+"He introduced an army of Germans into Gaul,
+ prevailed on the powerful cities of Treves and Langres to
+ embrace his cause, defeated the legions, destroyed their
+ fortified camps, and employed against the Romans the
+ military knowledge which he had acquired in their service.","('Germans', 'NORP'), ('Gaul', 'PERSON'), ('Treves', 'LOC'), ('Langres', 'GPE'), ('Romans', 'NORP')"
+"He is found on the rock of Spitzberg, within ten degrees of the Pole; he seems to delight in the snows of Lapland and Siberia; but at present he cannot subsist, much less multiply, in any country to the south of the Baltic.  (4)","('Spitzberg', 'LOC'), ('ten degrees', 'QUANTITY'), ('Pole', 'LOC'), ('Lapland', 'LOC'), ('Siberia', 'LOC'), ('Baltic', 'LOC'), ('4', 'CARDINAL')"
+"If the day was irrecoverably lost, they well
+ knew how to deliver themselves and their children, with
+ their own hands, from an insulting victor  (61) .","('the day', 'DATE'), ('61', 'CARDINAL')"
+"In
+ their primitive state of simplicity and independence the
+ Germans were surveyed by the discerning eye, and delineated
+ by the masterly pencil, of Tacitus, the first of historians
+ who applied the science of philosophy to the study of facts.","('Germans', 'NORP'), ('Tacitus', 'PERSON'), ('first', 'ORDINAL')"
+"In a much wider extent of country, the geographer
+ Ptolemy could discover no more than ninety places, which he
+ decorates with the name of cities;  (18) though according to
+ our ideas, they would but ill deserve that splendid title.","('Ptolemy', 'PERSON'), ('no more than ninety', 'CARDINAL'), ('18', 'CARDINAL')"
+"In great monarchies
+ millions of obedient subjects pursue their useful
+ occupations in peace and obscurity.","('millions', 'CARDINAL')"
+"In the course of this introductory chapter, we have confined
+ ourselves to the general outlines of the manners of Germany,
+ without attempting to describe or to distinguish the various
+ tribes which filled the great country in the time of Caesar,
+ of Tacitus or of Ptolemy.","('Germany', 'GPE'), ('Caesar', 'PERSON'), ('Tacitus', 'PERSON'), ('Ptolemy', 'PERSON')"
+"In the faith of soldiers (and
+ such were the Germans) cowardice is the most unpardonable of
+ sins.","('Germans', 'NORP')"
+"In the most
+ inclement winter, the hardy German was satisfied with a
+ scanty garment made of the skin of some animal .","('the most\r\n inclement winter', 'DATE'), ('German', 'NORP')"
+"In the remote
+ darkness of the north, the ancients imperfectly described a frozen ocean that lay beyond the Baltic Sea, and beyond the Peninsula, or islands,  (1) of Scandinavia.","('the Baltic Sea', 'LOC'), ('Peninsula', 'LOC'), ('1', 'CARDINAL'), ('Scandinavia', 'LOC')"
+"In the time of Caesar, the reindeer, as well as the elk and the wild bull, was a native of the Hercynian forest, which then overshadowed a great part of Germany and Poland.   (5)","('Caesar', 'PERSON'), ('Hercynian', 'NORP'), ('Germany', 'GPE'), ('Poland', 'GPE'), ('5', 'CARDINAL')"
+"It expired with
+ the war, and in time of peace the German tribes acknowledged
+ not any supreme chief.  (47)","('German', 'NORP')"
+"It is difficult to ascertain, and easy to exaggerate, the
+ influence of the climate of ancient Germany over the minds
+ and bodies of the natives.","('Germany', 'GPE')"
+"It is impossible for us to determine whether this hasty confederation was formed by necessity, by reason, or by passion; but we may rest assured
+ that the barbarians were neither allured by the indolence, nor provoked by the ambition, of the Roman monarch.","('Roman', 'NORP')"
+"It was in the hour of battle, or in the
+ feast of victory, that the bards celebrated the glory of
+ heroes of ancient days, the ancestors of those warlike
+ chieftains who listened with transport to their artless but
+ animated strains.","('the hour', 'TIME')"
+"Its
+ barbarous inhabitants wanted both skill and patience to
+ investigate those rich veins of silver, which have so
+ liberally rewarded the attention of the princes of Brunswick
+ and Saxony.","('Brunswick', 'GPE'), ('Saxony', 'GPE')"
+"Many writers have supposed, and
+ most have allowed, though, as it should seem, without any
+ adequate proof, that the rigorous cold of the North was
+ favourable to long life and generative vigour, that the
+ women were more fruitful, and the human species more
+ prolific, than in warmer or more temperate climates.  (8)","('North', 'LOC'), ('8', 'CARDINAL')"
+"Modern Germany
+ is said to contain about two thousand three hundred walled
+ towns.","('Germany', 'GPE'), ('about two thousand three hundred', 'CARDINAL')"
+"Money, in a
+ word, is the most universal incitement, iron the most
+ powerful instrument, of human industry; and it is very
+ difficult to conceive by what means a people, neither
+ actuated by the one nor seconded by the other, could emerge
+ from the grossest barbarism.  (29)","('29', 'CARDINAL')"
+"Neither stone, nor brick, nor
+ tiles, were employed in these slight habitations.  (23)","('23', 'CARDINAL')"
+"Of that delightful region
+ (for such it appeared to the eyes of a native) the Atlantis
+ of Plato, the country of the Hyperboreans, the gardens of
+ the Hesperides, the Fortunate Islands, and even the Elysian
+ Fields, were all but faint and imperfect transcripts.","('Atlantis', 'LOC'), ('Plato', 'LOC'), ('Hyperboreans', 'NORP'), ('Hesperides', 'LOC'), ('the Fortunate Islands', 'LOC'), ('the Elysian\r\n Fields', 'LOC')"
+"Of these
+ judicious critics, one of the most entertaining was Olaus
+ Rudbeck, professor in the University of Upsal.  (15)","('one', 'CARDINAL'), ('Olaus\r\n Rudbeck', 'PERSON'), ('the University of Upsal', 'ORG'), ('15', 'CARDINAL')"
+"Of these arts, the ancient Germans were wretchedly
+ destitute.","('Germans', 'NORP')"
+"On a narrow basis of acknowledged truth an immense
+ but rude superstructure of fable has been erected, and the
+ wild Irishman, (13)  as well as the wild Tartar, (14) could point out
+ the individual son of Japhet, from whose loins his ancestors
+ were lineally descended.","('Irishman', 'NORP'), ('13', 'CARDINAL'), ('Tartar', 'NORP'), ('14', 'DATE'), ('Japhet', 'PERSON')"
+"On the frequent rebellions of the Quadi and Marcomanni, the irritated emperor resolved to reduce their country into the form of a province.","('Quadi', 'NORP'), ('Marcomanni', 'NORP')"
+"On the west,
+ ancient Germany was divided by the Rhine from the Gallic,
+ and on the south by the Danube from the Illyrian, provinces
+ of the empire.","('Germany', 'GPE'), ('Rhine', 'LOC'), ('Gallic', 'NORP'), ('Danube', 'LOC'), ('Illyrian', 'LOC')"
+"Princes were, however, appointed
+ in the general assembly, to administer justice, or rather to
+ compose differences,  (48) in their respective districts.","('48', 'CARDINAL')"
+"Some applause has been hastily bestowed on the
+ sublime notion, entertained by that people, of the Deity,
+ whom they neither confined within the walls of a temple, nor
+ represented by any human figure; but when we recollect that
+ the Germans were unskilled in architecture, and totally
+ unacquainted with the art of sculpture, we shall readily
+ assign the true reason of a scruple which arose not so much
+ from a superiority of reason as from a want of ingenuity.","('Deity', 'PERSON'), ('Germans', 'NORP')"
+Some ingenious writers  (2) have suspected that Europe was much colder formerly than it is at present; and the most ancient descriptions of the climate of Germany tend exceedingly to confirm their theory.,"('Europe', 'LOC'), ('Germany', 'GPE')"
+"Some of these interpreters of fate, such as
+ Velleda, in the Batavian war, governed, in the name of the
+ deity, the fiercest nations of Germany.  (58)","('Velleda', 'PERSON'), ('the Batavian war', 'EVENT'), ('Germany', 'GPE'), ('58', 'CARDINAL')"
+"Some tribes of the north seem to have embraced
+ the doctrine of transmigration,   (69) others imagined a gross
+ paradise of immortal drunkenness.  (70)","('69', 'CARDINAL'), ('70', 'CARDINAL')"
+"Some tribes, however, on the coast of the Baltic, acknowledged the authority of kings, though without relinquishing the rights of men;  (43) but in the far greater
+ part of Germany, the form of government was a democracy
+ tempered indeed, and controlled, not so much by general and
+ positive laws, as by the occasional ascendant of birth or
+ valour, of eloquence or superstition.  (44)","('Baltic', 'LOC'), ('43', 'CARDINAL'), ('Germany', 'GPE')"
+"Sometimes, indeed, these important
+ questions were previously considered and prepared in a more
+ select council of the principal chieftains.   (45)","('45', 'CARDINAL')"
+"Sweden, which now supplies Europe with iron, was
+ equally ignorant of its own riches; and the appearance of
+ the arms of the Germans furnished a sufficient proof how
+ little iron they were able to bestow on what they must have
+ deemed the noblest use of that metal.","('Sweden', 'GPE'), ('Europe', 'LOC'), ('Germans', 'NORP')"
+"THE government and religion of Persia have deserved some
+ notice from their connection with the decline and fall of
+ the Roman empire.","('Persia', 'GPE'), ('Roman', 'NORP')"
+"That singular order of
+ men has most deservedly attracted the notice of all who have
+ attempted to investigate the antiquities of the Celts, the
+ Scandinavians, and the Germans.","('Celts', 'NORP'), ('Scandinavians', 'NORP'), ('Germans', 'NORP')"
+"The
+ Germans treated their women with esteem and confidence,
+ consulted them on every occasion of importance, and fondly
+ believed that in their breasts resided a sanctity and wisdom
+ more than human.","('Germans', 'NORP')"
+"The
+ magistrates might deliberate and persuade, the people only
+ could resolve and execute; and the resolutions of the
+ Germans were for the most part hasty and violent.","('Germans', 'NORP')"
+"The
+ reindeer are very numerous, the ground is covered with deep
+ and lasting snow, and the great river of St. Laurence is
+ regularly frozen, in a season when the waters of the Seine
+ and the Thames are usually free from ice.  (7)","('St. Laurence', 'FAC'), ('a season', 'DATE'), ('Seine', 'LOC'), ('Thames', 'LOC')"
+"The Batavians still
+ continued to occupy the islands of the Rhine,  (76) the allies
+ not the servants of the Roman monarchy.","('Batavians', 'NORP'), ('Rhine', 'LOC'), ('76', 'CARDINAL'), ('Roman', 'NORP')"
+"The German huts, open on
+ every side to the eye of indiscretion or jealousy, were a
+ better safeguard of conjugal fidelity than the walls, the
+ bolts, and the eunuchs of a Persian harem.","('German', 'NORP'), ('Persian', 'NORP')"
+"The German or Swedish detachment (which marched, if
+ I am not mistaken, under the command of Askenaz, the son of
+ Gomer, the son of Japhet) distinguished itself by a more
+ than common diligence in the prosecution of this great work.","('German', 'NORP'), ('Swedish', 'NORP'), ('Askenaz', 'PERSON'), ('Gomer', 'PERSON'), ('Japhet', 'PERSON')"
+"The German priests, improving this favourable
+ temper of their countrymen, had assumed a jurisdiction, even
+ in temporal concerns, which the magistrate could not venture
+ to exercise; and the haughty warrior patiently submitted to
+ the lash of correction, when it was inflicted, not by any
+ human power, but by the immediate order of the god of war.
+   (64)","('German', 'NORP'), ('64', 'CARDINAL')"
+"The German tribes were
+ voluntary and fluctuating associations of soldiers, almost
+ of savages.","('German', 'NORP')"
+"The German tribes were contented with this
+ rude but liberal outline of political society.","('German', 'NORP')"
+"The Germans abandoned their immense forests to the
+ exercise of hunting, employed in pasturage the most
+ considerable part of their lands, bestowed on the small
+ remainder a rude and careless cultivation, and then accused
+ the scantiness and sterility of a country that refused to
+ maintain the multitude of its inhabitants.","('Germans', 'NORP')"
+The Germans ignorant of letters;,"('Germans', 'NORP')"
+"The Germans respected only those duties which they imposed
+ on themselves.","('Germans', 'NORP')"
+"The Germans were not possessed of their varied
+ resources.","('Germans', 'NORP')"
+"The Germans, in the age of Tacitus, were
+ unacquainted with the use of letters;   (16) and the use of
+ letters is the principal circumstance that distinguishes a
+ civilized people from a herd of savages incapable of
+ knowledge or reflection.","('Germans', 'NORP'), ('Tacitus', 'PERSON'), ('16', 'CARDINAL')"
+"The Quadi and the Marcomanni,  (83) who had taken the lead in the war, were the most severely punished in its catastrophe.","('Quadi', 'PERSON'), ('Marcomanni', 'PERSON'), ('83', 'CARDINAL')"
+"The Tuscan who betrayed his
+ country to the Celtic nations attracted them into Italy by
+ the prospect of the rich fruits and delicious wines, the
+ productions of a happier climate.  (34)","('Tuscan', 'NORP'), ('Celtic', 'NORP'), ('Italy', 'GPE'), ('34', 'CARDINAL')"
+"The assembly of the warriors of the tribe was
+ convened at stated seasons or on sudden emergencies.","('seasons', 'DATE')"
+"The awful distance preserved by
+ their neighbours attested the terror of their arms, and in
+ some measure defended them from the danger of unexpected
+ incursions.  (77)
+fomented by the policy of Rome  These sentiments, less worthy of the humanity than of the
+ patriotism of Tacitus, express the invariable maxims of the
+ policy of his countrymen.","('Rome', 'GPE'), ('Tacitus', 'PERSON')"
+"The barbarians, who often chose that severe season for their inroads, transported, without apprehension or danger, their numerous armies, their cavalry, and their heavy wagons, over a vast and solid bridge of ice.  (3) Modern ages have not presented an instance of a like phenomenon.","('that severe season', 'DATE'), ('3', 'CARDINAL')"
+"The climate of ancient Germany had been mollified, and the
+ soil fertilised, by the labour of ten centuries from the
+ time of Charlemagne.","('Germany', 'GPE'), ('ten centuries', 'DATE'), ('Charlemagne', 'PERSON')"
+"The comparative view of the powers of the magistrates, in
+ two remarkable instances, is alone sufficient to represent
+ the whole system of German manners.","('two', 'CARDINAL'), ('German', 'NORP')"
+"The consecrated standards, long revered in the groves of
+ superstition, were placed in the front of the battle;  (67) and
+ the hostile army was devoted with dire execrations to the
+ gods of war and of thunder.  (68)","('67', 'CARDINAL'), ('68', 'CARDINAL')"
+"The contest was too unequal, till the
+ introduction of luxury had enervated the vigour, and a
+ spirit of disobedience and sedition had relaxed the
+ discipline, of the Roman armies.","('Roman', 'NORP')"
+"The distinctions of the ferocious invaders
+ were perpetually varied by themselves, and confounded by the
+ astonished subjects of the Roman empire.  (86)
+Numbers
+ Wars, and the administration of public affairs are the
+ principal subjects of history; but the number of persons
+ interested in these busy scenes is very different according
+ to the different condition of mankind.","('Roman', 'NORP'), ('86', 'CARDINAL')"
+"The eastern frontier was faintly marked
+ by the mutual fears of the Germans and the Sarmatians, and
+ was often confounded by the mixture of warring and
+ confederating tribes of the two nations.","('Germans', 'NORP'), ('Sarmatians', 'NORP'), ('two', 'CARDINAL')"
+"The face of a German army
+ displayed their poverty of iron.","('German', 'NORP')"
+"The former,
+ by reading and reflection, multiplies his own experience,
+ and lives in distant ages and remote countries; whilst the
+ latter, rooted to a single spot, and confined to a few years
+ of existence, surpasses, but very little, his fellow
+ labourer the ox in the exercise of his mental faculties.","('a few years', 'DATE')"
+"The game of various sorts, with which the forests
+ of Germany were plentifully stocked, supplied its
+ inhabitants with food and exercise.  (25)","('Germany', 'GPE'), ('25', 'CARDINAL')"
+"The general complaints of intense frost, and eternal winter, are perhaps little to be regarded, since we have no method of reducing to the accurate standard of the thermometer the feelings or the expressions of an orator, born in the happier regions of Greece or Asia.","('Greece', 'GPE'), ('Asia', 'LOC')"
+"The general conspiracy which terrified the Romans under the
+ reign of Marcus Antoninus comprehended almost all the
+ nations of Germany, and even Sarmatia, from the mouth of the
+ Rhine to that of the Danube.  (82)","('Romans', 'NORP'), ('Marcus Antoninus', 'PERSON'), ('Germany', 'GPE'), ('Sarmatia', 'GPE'), ('Rhine', 'LOC'), ('Danube', 'LOC'), ('82', 'CARDINAL')"
+"The honourable gifts, bestowed by the chief on his
+ brave companions, have been supposed, by an ingenious
+ writer, to contain the first rudiments of the fiefs,
+ distributed, after the conquest of the Roman provinces by
+ the barbarian lords among their vassals with a similar duty
+ of homage and military service.","('first', 'ORDINAL'), ('Roman', 'NORP')"
+"The introduction of
+ barbarian auxiliaries into those armies was a measure
+ attended with very obvious dangers, as it might gradually
+ instruct the Germans in the arts of war and of policy.","('Germans', 'NORP')"
+"The irregular divisions, and the
+ restless motions, of the people of Germany dazzle our
+ imagination and seem to multiply their numbers.","('Germany', 'GPE')"
+"The last century abounded with
+ antiquarians of profound learning and easy faith, who by the
+ dim light of legends and traditions, of conjectures and
+ etymologies, conducted the great-grand-children of Noah from
+ the tower of Babel to the extremities of the globe.","('The last century', 'DATE'), ('Noah', 'PERSON'), ('Babel', 'FAC')"
+"The lazy warrior, destitute of
+ every art that might employ his leisure hours, consumed his
+ days and nights in the animal gratifications of sleep and
+ food.","('days and nights', 'DATE')"
+"The learned Rudbeck allows the
+ family of Noah a few years to multiply from eight to about
+ twenty thousand persons.","('Rudbeck', 'PRODUCT'), ('Noah', 'PERSON'), ('a few years', 'DATE'), ('eight', 'CARDINAL'), ('about\r\n twenty thousand', 'CARDINAL')"
+"The money and negotiations of Rome insinuated themselves
+ into the heart of Germany; and every art of seduction was
+ used with dignity to conciliate those nations whom their
+ proximity to the Rhine or Danube might render the most
+ useful friends as well as the most troublesome enemies.","('Rome', 'GPE'), ('Germany', 'GPE'), ('Rhine', 'LOC'), ('Danube', 'LOC')"
+"The most civilised nations of modern
+ Europe issued from the woods of Germany, and in the rude
+ institutions of those barbarians we may still distinguish
+ the original principles of our present laws and manners.","('Europe', 'LOC'), ('Germany', 'GPE')"
+"The most formidable states of Germany
+ affected to encompass their territories with a wide frontier
+ of solitude and devastation.","('Germany', 'GPE')"
+"The nations
+ who dwelt towards the North clothed themselves in furs; and
+ the women manufactured for their own use a coarse kind of
+ linen.  (24)","('North', 'LOC'), ('24', 'CARDINAL')"
+"The northern hive cast its swarms over the greatest part of
+ Europe, Africa, and Asia; and (to use the author's metaphor)
+ the blood circulated from the extremities to the heart.","('Europe', 'LOC'), ('Africa', 'LOC'), ('Asia', 'LOC')"
+"The only temples in Germany were dark and ancient groves,
+ consecrated by the reverence of succeeding generations.","('Germany', 'GPE')"
+"The religious system of the Germans (if the wild opinions of
+ savages can deserve that name) was dictated by their wants,
+ their fears, and their ignorance.  (62)","('Germans', 'NORP')"
+"The same extent of ground which at
+ present maintains, in ease and plenty, a million of
+ husbandmen and artificers, was unable to supply an hundred
+ thousand lazy warriors with the simple necessaries of life.
+   (36)","('a million', 'CARDINAL'), ('an hundred\r\n thousand', 'CARDINAL'), ('36', 'CARDINAL')"
+"The severity of a winter
+ campaign, that chilled the courage of the Roman troops, was
+ scarcely felt by these hardy children of the North,  (10) who
+ in their turn were unable to resist the summer heats, and
+ dissolved away in languor and sickness under the beams of an
+ Italian sun.  (11)
+Origin of the Germans","('winter', 'DATE'), ('Roman', 'NORP'), ('North', 'LOC'), ('10', 'CARDINAL'), ('Italian', 'NORP'), ('Germans', 'NORP')"
+"The sound that
+ summoned the German to arms was grateful to his ear.","('German', 'NORP')"
+"The state of Germany till the invasion of the Barbarians, in the time of the emperor Decius.","('Germany', 'GPE'), ('Barbarians', 'NORP'), ('Decius', 'PERSON')"
+"The strength of ancient Germany appears formidable when
+ we consider the effects that might have been produced by its
+ united effort.","('Germany', 'GPE')"
+"The truce of God, so often and so ineffectually
+ proclaimed by the clergy of the eleventh century, was an
+ obvious imitation of this ancient custom.  (66)
+in war
+ But the influence of religion was far more powerful to
+ inflame than to moderate the fierce passions of the Germans.","('the eleventh century', 'DATE'), ('Germans', 'NORP')"
+"The unknown symbol
+ of the Earth, covered with a thick veil, was placed on a
+ carriage drawn by cows; and in this manner the goddess,
+ whose common residence was in the isle of Rugen, visited
+ several adjacent tribes of her worshippers.","('Earth', 'LOC'), ('Rugen', 'PERSON')"
+"The various
+ transactions of peace and war had introduced some Roman
+ coins (chiefly silver) among the borderers of the Rhine and
+ Danube; but the more distant tribes were absolutely
+ unacquainted with the use of money, carried on their
+ confined traffic by the exchange of commodities, and prized
+ their rude earthen vessels as of equal value with the silver
+ vases, the presents of Rome to their princes and
+ ambassadors.   (28)","('Roman', 'NORP'), ('Rhine', 'LOC'), ('Danube', 'LOC'), ('Rome', 'GPE'), ('28', 'CARDINAL')"
+"The view of arms and of danger heightened
+ the effect of the military song; and the passions which it
+ tended to excite, the desire of fame and the contempt of
+ death, were the habitual sentiments of a German mind.  (71)","('German', 'NORP'), ('71', 'CARDINAL')"
+"The wide extent of country might very
+ possibly contain a million of warriors, as all who were of
+ age to bear arms were of a temper to use them.","('million', 'CARDINAL')"
+"Their edifices were not even
+ contiguous, or formed into regular villages;   (22) each
+ barbarian fixed his independent dwelling on the spot to
+ which a plain, a wood or a stream of fresh water had induced
+ him to give the preference.","('22', 'CARDINAL')"
+"Their monstrous herds
+ of cattle, less remarkable indeed for their beauty than for
+ their utility,  (26) formed the principal object of their
+ wealth.","('26', 'CARDINAL')"
+"Their progress was checked by their want of
+ arms and discipline, and their fury was diverted by the
+ intestine divisions of ancient Germany.","('Germany', 'GPE')"
+"Their secret gloom, the imagined residence of an invisible
+ power, by presenting no distinct object of fear or worship,
+ impressed the mind with a still deeper sense of religious
+ horror;  (63) and the priests, rude and illiterate as they
+ were, had been taught by experience the use of every
+ artifice that could preserve and fortify impressions so well
+ suited to their own interest.","('63', 'CARDINAL')"
+"Their taste for strong liquors
+ Strong beer, a liquor extracted with very little art from
+ wheat or barley, and corrupted (as it is strongly expressed
+ by Tacitus) into a certain semblance of wine, was sufficient
+ for the gross purposes of German debauchery.","('Tacitus', 'PERSON'), ('German', 'NORP')"
+"There is not anywhere upon the globe a large tract of
+ country which we have discovered destitute of inhabitants,
+ or whose first population can be fixed with any degree of
+ historical certainty.","('first', 'ORDINAL')"
+"These conditions are,
+ however, very repugnant to the maxims of the ancient
+ Germans, who delighted in mutual presents; but without
+ either imposing, or accepting, the weight of obligations.  (55)
+German chastity
+""In the days of chivalry, or more properly of romance, all
+ the men were brave, and all the women were chaste ;""  and notwithstanding the latter of these virtues is acquired and preserved with much more difficulty than the former, it is ascribed, almost without exception, to the wives of the ancient Germans.","('Germans', 'NORP'), ('German', 'NORP'), ('Germans', 'NORP')"
+"These immense woods have been gradually cleared, which intercepted from the earth the rays
+ of the sun.   (6)","('6', 'CARDINAL')"
+"They
+ attempted not, however (as has since been executed with so
+ much success), to naturalise the vine on the banks of the
+ Rhine and Danube; nor did they endeavour to procure by
+ industry the materials of an advantageous commerce.","('Rhine', 'LOC'), ('Danube', 'LOC')"
+"They adored the great
+ visible objects and agents of nature, the Sun and the Moon,
+ the Fire and the Earth; together with those imaginary
+ deities, who were supposed to preside over the most
+ important occupations of human life.","('Sun', 'LOC'), ('Moon', 'LOC'), ('Earth', 'LOC')"
+"They delight in
+ sloth, they detest tranquillity.   (30)","('30', 'CARDINAL')"
+"They were commanded to retire five miles  (84) from their own banks of the Danube, and to deliver up the flower of the youth, who were immediately sent into Britain, a remote island, where they might be secure as hostages, and useful as soldiers.","('five miles', 'QUANTITY'), ('84', 'CARDINAL'), ('Danube', 'LOC'), ('Britain', 'GPE')"
+This dangerous invasion required all the firmness and vigilance of Marcus.,"('Marcus', 'PERSON')"
+"This formidable league, however, the only one that appears in the two first
+ centuries of the Imperial history, was entirely dissipated, without leaving any traces behind in Germany.","('the two first\r\n centuries', 'DATE'), ('Imperial', 'NORP'), ('Germany', 'GPE')"
+"This institution, however it might accidentally weaken the several republics, invigorated the general character of the Germans, and even
+ ripened amongst them all the virtues of which barbarians are
+ susceptible; the faith and valour, the hospitality and the
+ courtesy, so conspicuous long afterwards in the ages of
+ chivalry.","('Germans', 'NORP')"
+"Though the horses of Germany were neither
+ beautiful, swift, nor practised in the skilful evolutions of
+ the Roman manege, several of the nations obtained renown by
+ their cavalry; but, in general, the principal strength of
+ the Germans consisted in their infantry,  (73) which was drawn
+ up in several deep columns, according to the distinction of
+tribes and families.","('Germany', 'GPE'), ('Roman', 'NORP'), ('Germans', 'NORP'), ('73', 'CARDINAL')"
+"To
+ solicit by labour what might be ravished by arms was
+ esteemed unworthy of the German spirit.  (33)","('German', 'NORP'), ('33', 'CARDINAL')"
+"To each was assigned, by the public, a
+ guard and a council of an hundred persons and the first of
+ the princes appears to have enjoyed a pre-eminence of rank
+ and honour which sometimes tempted the Romans to compliment
+ him with the regal title.","('an hundred', 'CARDINAL'), ('first', 'ORDINAL'), ('Romans', 'NORP')"
+"To the names of Mariana and of
+ Machiavel,  (39) we can oppose the equal names of Robertson and
+ Hume.  (40)
+German freedom
+ A warlike nation like the Germans, without either cities,
+ letters, arts, or money, found some compensation for this
+ savage state in the enjoyment of liberty.","('Mariana', 'PERSON'), ('Machiavel', 'PERSON'), ('39', 'DATE'), ('Robertson', 'PERSON'), ('Hume', 'PERSON'), ('40', 'CARDINAL'), ('German', 'NORP'), ('Germans', 'NORP')"
+Transient union against Marcus Antoninus,"('Marcus Antoninus', 'PERSON')"
+"We
+ may assert, with greater confidence, that the keen air of
+ Germany formed the large and masculine limbs of the natives,
+ who were, in general, of a more lofty stature than the
+ people of the South,   (9) gave them a kind of strength better
+ adapted to violent exertions than to patient labour, and
+ inspired them with constitutional bravery, which is the
+ result of nerves and spirits.","('Germany', 'GPE'), ('South', 'LOC'), ('9', 'CARDINAL')"
+"We are only
+ at a loss to conceive by what means riches and despotism
+ could penetrate into a remote corner of the North, and
+ extinguish the generous flame that blazed with such
+ fierceness on the frontier of the Roman provinces: or how
+ the ancestors of those Danes and Norwegians, so
+ distinguished in latter ages by their unconquered spirit,
+ could thus tamely resign the great character of German
+ liberty.  (42)","('North', 'LOC'), ('Roman', 'NORP'), ('Danes', 'NORP'), ('Norwegians', 'NORP'), ('German', 'NORP'), ('42', 'CARDINAL')"
+"We may allow with safety, and perhaps
+ with truth, that ancient Germany was not originally peopled
+ by any foreign colonies already formed into a political
+ society;  (12) but that the name and nation received their
+ existence from the gradual union of some wandering savages
+ of the Hercynian woods.","('Germany', 'GPE'), ('12', 'CARDINAL'), ('Hercynian', 'NORP')"
+"We may easily discover that Tacitus indulges an honest pleasure in the contrast of barbarian virtue with the dissolute conduct of the Roman ladies; yet there are
+ some striking circumstances that give an air of truth, or at
+ least of probability, to the conjugal faith and chastity of
+ the Germans.","('Tacitus', 'PERSON'), ('Roman', 'NORP'), ('Germans', 'NORP')"
+"We may recollect how often the diets of Poland
+ have been polluted with blood, and the more numerous party
+ has been compelled to yield to the more violent and
+ seditious.  (46)","('Poland', 'GPE')"
+"We shall occasionally mention the Scythian
+ or Sarmatian tribes, which, with their arms and horses,
+ their flocks and herbs, their wives and families wandered
+ over the immense plains which spread themselves from the
+ Caspian Sea to the Vistulay from the confines of Persia to
+ those of Germany.","('Scythian', 'NORP'), ('Sarmatian', 'NORP'), ('the\r\n Caspian Sea', 'LOC'), ('Vistulay', 'LOC'), ('Persia', 'LOC'), ('Germany', 'GPE')"
+"We shall therefore
+ content ourselves with observing, and indeed with repeating,
+ some of the most important circumstances of climate, of
+ manners, and of institutions, which rendered the wild
+ barbarians of Germany such formidable enemies to the Roman
+ power.","('Germany', 'GPE'), ('Roman', 'NORP')"
+"When Tacitus considered the purity of
+ the German blood, and the forbidding aspect of the country,
+ he was disposed to pronounce those barbarians Indigenae, or
+ natives of the soil.","('Tacitus', 'PERSON'), ('German', 'NORP'), ('Indigenae', 'NORP')"
+"When at length, after an obstinate struggle, he yielded to
+ the power of the empire, Civilis secured himself and his
+ country by an honourable treaty.","('Civilis', 'PERSON')"
+"When the return
+ of famine severely admonished them of the importance of the
+ arts, the national distress was sometimes alleviated by the
+ emigration of a third, perhaps, or a fourth part of their
+ youth.","('a third', 'CARDINAL'), ('fourth', 'ORDINAL')"
+"When we recollect the complete armour of the Roman soldiers,
+ their discipline, exercises, evolutions, fortified camps,
+ and military engines, it appears a just matter of surprise
+ how the naked and unassisted valour of the barbarians could
+ dare to encounter in the field the strength of the legions,
+ and the various troops of the auxiliaries which seconded
+ their operations.","('Roman', 'NORP')"
+"and of discipline Impatient of fatigue or delay, these half-armed warriors rushed to battle with dissonant shouts and disordered ranks; and sometimes, by the effort of native valour, prevailed over the constrained and more artificial
+ bravery of the Roman mercenaries.","('Roman', 'NORP')"

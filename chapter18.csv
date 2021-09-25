@@ -1,0 +1,1500 @@
+Sentence,Entities
+"(1) But it 
+ would soon appear that the vain attempt to blend such
+ discordant colours, and to reconcile such inconsistent
+ qualities, must produce a figure monstrous rather than
+ human, unless it is viewed in its proper and distinct lights
+ by a careful separation of the different periods of the
+ reign of Constantine.","('Constantine', 'PERSON')"
+"(15) In the midst of 
+ the festival the unfortunate Crispus was apprehended by
+ order of the emperor, who laid aside the tenderness of a
+ father without assuming the equity of a judge.","('Crispus', 'PERSON')"
+"(3) In the life of Augustus we behold the tyrant of the republic converted almost by imperceptible degrees into the father of his country and of
+ human kind.","('Augustus', 'PERSON')"
+(34),"('34', 'CARDINAL')"
+(4),"('4', 'CARDINAL')"
+(43),"('43', 'CARDINAL')"
+(44),"('44', 'CARDINAL')"
+(51),"('51', 'CARDINAL')"
+"(55) 
+ If any credit can be given to this marvellous tale, which
+ seems, however, to be countenanced by the manners of the
+ people and by the extraordinary duration of his reign, we
+ must admire not only the fortune but the genius of Sapor.","('55', 'CARDINAL'), ('Sapor', 'PERSON')"
+"(76)
+Deposes Vetranio, A.D. 350, Dec. 25.","('350', 'CARDINAL'), ('Dec. 25', 'DATE')"
+"A more
+ numerous band retired beyond the Carpathian mountains, among
+ the Quadi, their German allies, and were easily admitted to
+ share a superfluous waste of uncultivated land.","('Carpathian', 'NORP'), ('Quadi', 'NORP'), ('German', 'NORP')"
+"A perpetual exemption from
+ all duties was stipulated for their vessels which traded to
+ the ports of the Black Sea.","('the Black Sea', 'LOC')"
+"A royal bed, on which the queen lay in state,
+ was exhibited in the midst of the palace; the diadem was
+ placed on the spot which might be supposed to conceal the
+ future heir of Artaxerxes, and the prostrate satraps adored
+ the majesty of their invisible and insensible sovereign.","('Artaxerxes', 'NORP')"
+"A tale so moral and so interesting would deserve to be supported by less exceptionable
+ authority; but if we consult the more ancient and authentic
+ writers, they will inform us that the repentance of
+ Constantine was manifested only in acts of blood and
+ revenge, and that he atoned for the murder of an innocent
+ son by the execution, perhaps, of a guilty wife.","('Constantine', 'PERSON')"
+"A treble enclosure of
+ brick walls was defended by a deep ditch; (65) and the 
+ intrepid resistance of Count Lucilianus and his garrison was
+ seconded by the desperate courage of the people.","('65', 'CARDINAL'), ('Lucilianus', 'PERSON')"
+"A.D. 324, October 10.","('A.D. 324', 'DATE'), ('October 10', 'DATE')"
+"A.D. 325, October 1","('A.D. 325', 'DATE'), ('October 1', 'DATE')"
+A.D. 350..,"('A.D. 350', 'DATE')"
+"According to the
+ maxims adopted by Probus and his successors, the offers of
+ this barbarian colony were eagerly accepted; and a competent
+ portion of lands in the provinces of Pannonia, Thrace,
+ Macedonia, and Italy, were immediately assigned for the
+ habitation and subsistence of three hundred thousand
+ Sarmatians.(46)
+Death and funeral of Constantine, A.D. 335, July 25.","('Probus', 'PERSON'), ('Pannonia', 'GPE'), ('Thrace', 'GPE'), ('Macedonia', 'GPE'), ('Italy', 'GPE'), ('three hundred thousand', 'CARDINAL'), ('Sarmatians', 'NORP'), ('46', 'CARDINAL'), ('Constantine', 'PERSON'), ('A.D. 335', 'DATE'), ('July 25', 'DATE')"
+"According to the various accidents of peace and war, of
+ alliance or conquest, the Sarmatians were sometimes confined
+ to the banks of the Tanais, and they sometimes spread
+ themselves over the immense plains which lie between the
+ Vistula and the Volga.(36)","('Sarmatians', 'NORP'), ('Tanais', 'NORP'), ('Vistula', 'NORP'), ('Volga', 'LOC'), ('36', 'CARDINAL')"
+"After
+ the troubles had continued about three years, Antiochus, one
+ of the officers of the household, executed with success the
+ Imperial commission of restoring Chosroes, the son of
+ Tiridates, to the throne of his fathers, of distributing
+ honours and rewards among the faithful servants of the house
+ of Arsaces, and of proclaiming a general amnesty, which was
+ accepted by the greater part of the rebellious satraps.","('about three years', 'DATE'), ('Antiochus', 'PERSON'), ('one', 'CARDINAL'), ('Imperial', 'ORG'), ('Chosroes', 'PERSON'), ('Tiridates', 'PERSON'), ('Arsaces', 'PERSON')"
+"After some experience of the superior
+ strength and numbers of their adversaries, the Sarmatians
+ implored the protection of the Roman monarch, who beheld
+ with pleasure the discord of the nations, but who was justly
+ alarmed by the progress of the Gothic arms.","('Sarmatians', 'NORP'), ('Roman', 'NORP'), ('Gothic', 'NORP')"
+"After the partition of the empire three years had scarcely
+ elapsed before the sons of Constantine seemed impatient to
+ convince mankind that they were incapable of contenting
+ themselves with the dominions which they were unqualified to
+ govern.","('three years', 'DATE'), ('Constantine', 'PERSON')"
+"Alarmed 
+ by this intelligence, he hastily relinquished the siege, and
+ marched with rapid diligence from the banks of the Tigris to
+ those of the Oxus.","('Tigris', 'LOC'), ('Oxus', 'PERSON')"
+"Although Sapor was in the thirtieth year of his long reign,
+ he was still in the vigour of youth, as the date of his
+ accession, by a very strange fatality, had preceded that of
+ his birth.","('Sapor', 'PERSON'), ('the thirtieth year', 'DATE')"
+"An Imperial fleet acquired the easy
+ possession of Africa and Spain, confirmed the wavering faith
+ of the Moorish nations, and landed a considerable force,
+ which passed the Pyrenees, and advanced towards Lyons, the
+ last and fatal station of Magnentius.(94)","('Imperial', 'ORG'), ('Africa', 'LOC'), ('Spain', 'GPE'), ('Moorish', 'NORP'), ('Pyrenees', 'LOC'), ('Lyons', 'GPE'), ('Magnentius', 'GPE'), ('94', 'CARDINAL')"
+"An edict of Constantine, published about this time, manifestly indicates his real or affected suspicions that a secret conspiracy had been formed against his person and government.","('Constantine', 'PERSON')"
+"Arming a desperate troop of slaves and
+ gladiators, he overpowered the feeble guard of the domestic
+ tranquillity of Rome, received the homage of the senate,
+ and, assuming the title of Augustus, precariously reigned
+ during a tumult of twenty eight days.","('Rome', 'GPE'), ('Augustus', 'PERSON'), ('twenty eight days', 'DATE')"
+"As soon as
+ Constantine had declared himself in favour of the weaker
+ party, the haughty Araric, king of the Goths, instead of
+ expecting the attack of the legions, boldly passed the
+ Danube, and spread terror and devastation through the
+ province of Maesia.","('Constantine', 'PERSON'), ('Araric', 'PERSON'), ('Goths', 'NORP'), ('Danube', 'LOC'), ('Maesia', 'GPE')"
+"As soon as he had taken
+ possession of the palace of Constantinople, his first care
+ was to remove the apprehensions of his kinsmen, by a solemn
+ oath which he pledged for their security.","('Constantinople', 'GPE'), ('first', 'ORDINAL')"
+"As soon as the death of Constans had decided this easy but
+ important revolution, the example of the court of Autun was
+ imitated by the provinces of the West.","('Constans', 'PERSON'), ('Autun', 'GPE'), ('West', 'LOC')"
+"As soon as the legions gave way, the lighter and more active squadrons of the second line rode sword in hand into the intervals and completed the disorder.","('second', 'ORDINAL')"
+"As they advanced in years and experience,
+ the limits of their authority were insensibly enlarged: but
+ the emperor always reserved for himself the title of
+ Augustus; and while he showed the Caesars to the armies and
+ provinces, he maintained every part of the empire in equal
+ obedience to its supreme head.","('years', 'DATE'), ('Augustus', 'PERSON'), ('Caesars', 'PERSON')"
+"At the age of 
+ seventeen Crispus was invested with the title of Caesar, and
+ the administration of the Gallic provinces, where the
+ inroads of the Germans gave him an early occasion of
+ signalising his military prowess.","('the age of \r\n seventeen', 'DATE'), ('Crispus', 'PERSON'), ('Caesar', 'PERSON'), ('Gallic', 'NORP'), ('Germans', 'NORP')"
+"At the decease of Constantine, the throne of
+ the East was filled by Sapor, son of Hormouz, or Hormisdas,
+ and grandson of Narses, who, after the victory of Galerius,
+ had humbly confessed the superiority of the Roman power.","('Constantine', 'PERSON'), ('East', 'LOC'), ('Sapor', 'PERSON'), ('Hormouz', 'PERSON'), ('Hormisdas', 'PERSON'), ('Narses', 'PERSON'), ('Galerius', 'PERSON'), ('Roman', 'NORP')"
+"At the head of a tumultuary
+ band, suited for rapine rather than for conquest, he
+ suddenly broke into the dominions of Constans, by the way of
+ the Julian Alps, and the country round Aquileia felt the
+ first effects of his resentment.","('Constans', 'NORP'), ('the Julian Alps', 'LOC'), ('Aquileia', 'PERSON'), ('first', 'ORDINAL')"
+"At the stated season of the
+ melting of the snows in Armenia, the river Mygdonius, which
+ divides the plain and the city of Nisibis, forms, like the
+ Nile,(67) an inundation over the adjacent country.","('Armenia', 'GPE'), ('Mygdonius', 'GPE'), ('Nisibis', 'GPE'), ('Nile', 'LOC'), ('67', 'CARDINAL')"
+"Attached by habit, by duty, and by gratitude to 
+ the house of Constantine, he immediately gave the strongest
+ assurances to the only surviving son of his late master that
+ he would expose, with unshaken fidelity, his person and his
+ troops to inflict a just revenge on the traitors of Gaul.","('Constantine', 'PERSON'), ('Gaul', 'PERSON')"
+"Battle of Mursa, A.D. 351, Sept. 28.","('Mursa', 'PERSON'), ('351', 'CARDINAL'), ('Sept. 28', 'DATE')"
+"Before he
+ could reach a seaport in Spain, where he intended to embark,
+ he was overtaken near Helena, (72) at the foot of the 
+ Pyrenees, by a party of light cavalry, whose chief,
+ regardless of the sanctity of a temple, executed his
+ commission by the murder of the son of Constantine.(73)
+Magnentius and Vetranio assume the purple, A.D. 350, March 1.","('Spain', 'GPE'), ('Helena', 'GPE'), ('72', 'CARDINAL'), ('Pyrenees', 'LOC'), ('Constantine', 'PERSON'), ('Vetranio', 'ORG'), ('350', 'CARDINAL'), ('March 1', 'DATE')"
+"Besides the females and the allies of the
+ Flavian house, ten or twelve males, to whom the language of
+ modern courts would apply the title of princes of the blood,
+ seemed, according to the order of their birth, to be
+ destined either to inherit or to support the throne of
+ Constantine.","('Flavian', 'NORP'), ('ten or twelve', 'CARDINAL'), ('Constantine', 'PERSON')"
+"But
+ Constantius, though he granted fair terms of pardon and
+ reconciliation to all who abandoned the standard of
+ rebellion,(93) avowed his inflexible resolution to inflict a 
+ just punishment on the crimes of an assassin whom he
+ prepared to overwhelm on every side by the effort of his
+ victorious arms.","('Constantius', 'PERSON'), ('93', 'DATE')"
+"But
+ the Romans derived more honour than advantage from this
+ revolution.","('Romans', 'NORP')"
+"But
+ the conclusion of his reign (according to the moderate and
+ indeed tender sentence of a writer of the same age) degraded
+ him from the rank which he had acquired among the most
+ deserving of the Roman princes.","('Roman', 'NORP')"
+"But
+ the haughty usurper, careless of the remonstrances of his
+ friends, gave orders that Philip should be detained as a
+ captive, or at least as an hostage; while he despatched an
+ officer to reproach Constantius with the weakness of his
+ reign, and to insult him by the promise of a pardon if he
+ would instantly abdicate the purple.","('Philip', 'PERSON'), ('Constantius', 'PERSON')"
+"But Helena, the aged mother of Constantine,
+ lamented and revenged the untimely fate of her grandson
+ Crispus; nor was it long before a real or pretended
+ discovery was made that Fausta herself entertained a
+ criminal connection with a slave belonging to the Imperial
+ stables.(23) Her condemnation and punishment were the instant 
+ consequences of the charge, and the adulteress was
+ suffocated by the steam of a bath, which, for that purpose,
+ had been heated to an extraordinary degree.(24)","('Helena', 'PERSON'), ('Constantine', 'PERSON'), ('Crispus', 'PERSON'), ('Fausta', 'PERSON'), ('Imperial', 'NORP'), ('23', 'CARDINAL'), ('24', 'CARDINAL')"
+"But as many of the
+ Armenian nobles still refused to abandon the plurality of
+ their gods and of their wives, the public tranquillity was
+ disturbed by a discontented faction, which insulted the
+ feeble age of their sovereign, and impatiently expected the
+ A.D. 342.","('Armenian', 'NORP'), ('342', 'CARDINAL')"
+"But as soon as
+ Sapor attained the age of manhood the presumptuous Thair,
+ his nation, and his country, fell beneath the first effort
+ of the young warrior, who used his victory with so judicious
+ a mixture of rigour and clemency that he obtained from the
+ fears and gratitude of the Arabs the title of Dhoulacnaf,
+ or protector of the nation.(56)
+State of Mesopotamia and Armenia.","('Sapor', 'PERSON'), ('Thair', 'PERSON'), ('first', 'ORDINAL'), ('Arabs', 'NORP'), ('Dhoulacnaf', 'PERSON'), ('56', 'CARDINAL'), ('Mesopotamia', 'GPE'), ('Armenia', 'GPE')"
+"But as soon as Constantius, after the battle of Mursa, became master of the
+ seacoast of Dalmatia, a band of noble exiles, who had
+ ventured to equip a fleet in some harbour of the Adriatic,
+ sought protection and revenge in his victorious camp.","('Constantius', 'PERSON'), ('Mursa', 'PERSON'), ('Dalmatia', 'GPE'), ('Adriatic', 'LOC')"
+"But in less than thirty years this numerous and
+ increasing family was reduced to the persons of Constantius
+ and Julian, who alone had survived a series of crimes and
+ calamities such as the tragic poets have deplored in the
+ devoted lines of Pelops and of Cadmus.","('less than thirty years', 'DATE'), ('Constantius', 'PERSON'), ('Julian', 'PERSON'), ('Pelops', 'PERSON'), ('Cadmus', 'PERSON')"
+"But it was thought that the
+ Sarmatians were sufficiently rewarded by their deliverance
+ from impending ruin and the emperor, perhaps with too strict
+ an economy, deducted some part of the expenses of the war
+ from the customary gratifications which were allowed to that
+ turbulent nation.","('Sarmatians', 'NORP')"
+"But of
+ the whole series of Roman princes in any age of the empire
+ Hannibalianus alone was distinguished by the title of KING,
+ a name which the subjects of Tiberius would have detested as
+ the profane and cruel insult of capricious tyranny.","('Roman', 'NORP'), ('Hannibalianus', 'PERSON'), ('Tiberius', 'PERSON')"
+"But the Romans of the West soon rallied by the habits of discipline; and the barbarians of Germany
+ supported the renown of their national bravery.","('Romans', 'NORP'), ('West', 'LOC'), ('Germany', 'GPE')"
+"But the far
+ greater part of the distressed nation turned their eyes
+ towards the fruitful provinces of Rome.","('Rome', 'GPE')"
+"But the genius of Constantine
+ himself had been formed by adversity and experience.","('Constantine', 'PERSON')"
+"But the legions of Vetranio were seduced, rather than
+ provoked, by the example of rebellion; their leader soon
+ betrayed a want of firmness or a want of sincerity, and his
+ ambition derived a specious pretence from the approbation of
+ the princess Constantina.","('Vetranio', 'NORP'), ('Constantina', 'PERSON')"
+"But the memory of the cruelties exercised by his 
+ ministers, after the unsuccessful revolt of Nepotian, had
+ left a deep impression of horror and resentment on the minds
+ of the Romans.","('Nepotian', 'NORP'), ('Romans', 'NORP')"
+"But the prudent Sapor had watched
+ the moment of victory.","('Sapor', 'PERSON')"
+"But the royalty of the Flavian
+ line, which had been first ennobled by the Gothic Claudius,
+ descended through several generations; and Constantine
+ himself derived from his royal father the hereditary honours
+ which he transmitted to his children.","('Flavian', 'NORP'), ('first', 'ORDINAL'), ('Claudius', 'PERSON'), ('Constantine', 'PERSON')"
+"But the vigilant citizens improved the
+ opportunity of the night, and the return of day discovered a
+ new wall of six feet in height rising every moment to fill
+ up the interval of the breach.","('six feet', 'QUANTITY'), ('every moment', 'TIME')"
+"By
+ their secret intelligence with their countrymen, Rome and
+ the Italian cities were persuaded to display the banners of
+ Constantius on their walls.","('Rome', 'GPE'), ('Italian', 'NORP'), ('Constantius', 'ORG')"
+"By Fausta, the daughter of Maximian, he
+ had three daughters, and three sons known by the kindred
+ names of Constantine, Constantius, and Constans.","('Fausta', 'PERSON'), ('Maximian', 'PERSON'), ('three', 'CARDINAL'), ('three', 'CARDINAL'), ('Constantine', 'PERSON'), ('Constantius', 'PERSON'), ('Constans', 'PERSON')"
+"By all the allurements of honours and
+ rewards he invites informers of every degree to accuse,
+ without exception, his magistrates or ministers, his friends
+ or his most intimate favourites, protesting, with a solemn
+ asseveration, that he himself will listen to the charge,
+ that he himself will revenge his injuries; and concluding
+ with a prayer, which discovers some apprehension of danger,
+ that the providence of the Supreme Being may still continue
+ to protect the safety of the emperor and of the empire.(12)
+Disgrace and death of Crispus, A.D. 326, July","('the Supreme Being', 'ORG'), ('12', 'CARDINAL'), ('Crispus', 'PERSON'), ('A.D. 326', 'DATE'), ('July', 'DATE')"
+"By chastising the pride of the Goths, and by accepting the
+ homage of a suppliant nation, Constantine asserted the
+ majesty of the Roman empire; and the ambassadors of
+ Aethiopia, Persia, and the most remote countries of India,
+ congratulated the peace and prosperity of his government.(47)","('Goths', 'NORP'), ('Constantine', 'PERSON'), ('Roman', 'NORP'), ('Aethiopia', 'GPE'), ('Persia', 'GPE'), ('India', 'GPE')"
+"By his
+ secrecy and diligence he entertained some hopes of
+ surprising the person of Constans, who was pursuing in the
+ adjacent forest his favourite amusement of hunting, or
+ perhaps some pleasures of a more private and criminal
+ nature.","('Constans', 'PERSON')"
+"By some it 
+ will perhaps be thought that the remembrance of a Conjugal
+ union of twenty years, and the honour of their common
+ offspring, the destined heirs of the throne, might have
+ softened the obdurate heart of Constantine, and persuaded
+ him to suffer his wife, however guilty she might appear, to
+ expiate her offences in a solitary prison.","('Conjugal', 'NORP'), ('twenty years', 'DATE'), ('Constantine', 'PERSON')"
+"By the
+ grateful zeal of the Christians the deliverer of the church
+ has been decorated with every attribute of a hero, and even
+ of a saint; while the discontent of the vanquished party has
+ compared Constantine to the most abhorred of those tyrants
+ who, by their vice and weakness, dishonoured the Imperial
+ purple.","('Christians', 'NORP'), ('Constantine', 'PERSON'), ('Imperial', 'NORP')"
+"By the 
+ labour of the Persians the course of the river was stopped
+ below the town, and the waters were confined on every side
+ by solid mounds of earth.","('Persians', 'NORP')"
+"By the artful
+ appearances of flight, Constantine was betrayed into an
+ ambuscade, which had been concealed in a wood, where the
+ rash youth, with a few attendants, was surprised,
+ surrounded, and slain.","('Constantine', 'PERSON')"
+"By the death of Crispus the inheritance of the empire seemed
+ to devolve on the three sons of Fausta, who have been
+ already mentioned under the names of Constantine,
+ Constantius, and of Constans.","('Crispus', 'PERSON'), ('three', 'CARDINAL'), ('Fausta', 'PERSON'), ('Constantine', 'PERSON'), ('Constantius', 'PERSON'), ('Constans', 'PERSON')"
+"By the prudence of Constantius, who,
+ from the interview with his brothers in Pannonia,
+ immediately hastened to the banks of the Euphrates, the
+ legions were gradually restored to a sense of duty and
+ discipline; but the season of anarchy had permitted Sapor to
+ form the siege of Nisibis, and to occupy several of the most
+ important fortresses of Mesopotamia. (58)","('Constantius', 'PERSON'), ('Pannonia', 'GPE'), ('Euphrates', 'LOC'), ('Sapor', 'PERSON'), ('Nisibis', 'GPE'), ('Mesopotamia', 'LOC'), ('58', 'CARDINAL')"
+"Character of Constantine 
+ THE character of the prince who removed the seat of empire,
+ and introduced such important changes into the civil and
+ religious constitution of his country, has fixed the
+ attention, and divided the opinions of mankind","('Constantine \r\n THE', 'PERSON')"
+Character of Constantine— Gothic War—Death of Constantine— Division of the Empire among His Three Sons— Persian War— Tragic Deaths of Constantine the Younger and Constans— Usurpation of Magnentius— Civil War— Victory of Constantius.,"('Constantine', 'PERSON'), ('Gothic War', 'WORK_OF_ART'), ('Death of Constantine', 'WORK_OF_ART'), ('Three', 'CARDINAL'), ('Persian War', 'WORK_OF_ART'), ('Tragic Deaths of Constantine the Younger and Constans— Usurpation of Magnentius— Civil War— Victory of Constantius', 'WORK_OF_ART')"
+"Chosroes was a prince of a puny stature and a
+ pusillanimous spirit.","('Chosroes', 'PERSON')"
+"Civil war and death of Constantine, A.D. 340,March.","('Constantine', 'PERSON'), ('A.D. 340', 'DATE'), ('March', 'DATE')"
+"Constantine survived that solemn
+ festival about ten months; and, at the mature age of
+ A.D. 337, May 22.sixty-four, after a short illness, he ended his memorable life at the palace of Aquyrion, in the suburbs of Nicomedia, whither he had retired for the benefit of the air, and with
+ the hope of recruiting his exhausted strength by the use of
+ the warm baths.","('Constantine', 'PERSON'), ('about ten months', 'DATE'), ('A.D. 337', 'DATE'), ('May 22.sixty-four', 'DATE'), ('Aquyrion', 'FAC'), ('Nicomedia', 'GPE')"
+"Constantine, the eldest of
+ the Caesars, obtained, with a certain pre-eminence of rank,
+ the possession of the new capital, which bore his own name
+ and that of his father.","('Constantine', 'PERSON'), ('Caesars', 'ORG')"
+"Constantius acknowledged him as a
+ legitimate and equal colleague in the empire, on condition
+ that he would renounce his disgraceful alliance with
+ Magnentius, and appoint a place of interview on the
+ frontiers of their respective provinces, where they might
+ pledge their friendship by mutual vows of fidelity, and
+ regulate by common consent the future operations of the
+ civil war.","('Constantius', 'PERSON'), ('Magnentius', 'PERSON')"
+"Constantius used his victory with
+ prudence and moderation; and raising from the ground the aged suppliant, whom he affected to style by the endearing name of Father, he gave him his hand to descend from the throne.","('Constantius', 'PERSON')"
+"Constantius, who was
+ hurried along in the pursuit, attempted, without effect, to
+ restrain the ardour of his troops, by representing to them
+ the dangers of the approaching night, and the certainty of
+ completing their success with the return of day.","('Constantius', 'PERSON')"
+"Crispus soon had
+ reason to complain that, while his infant brother
+ Constantius was sent with the title of Caesar to reign over
+ his peculiar department of the Gallic provinces,(11) he, a prince of mature years, who had performed such recent and
+ signal services, instead of being raised to the superior
+ rank of Augustus, was confined almost a prisoner to his
+ father's court, and exposed, without power or defence, to
+ every calumny which the malice of his enemies could suggest.","('Crispus', 'PERSON'), ('Constantius', 'PERSON'), ('Caesar', 'PERSON'), ('Gallic', 'NORP'), ('11', 'CARDINAL'), ('years', 'DATE'), ('Augustus', 'PERSON')"
+"During the greater part of the summer the tyrant of
+ Gaul showed himself master of the field.","('Gaul', 'PERSON')"
+"During the long period of the reign of Constantius the
+ provinces of the East were afflicted by the calamities of
+ the Persian war.","('Constantius', 'GPE'), ('East', 'LOC'), ('the Persian war', 'EVENT')"
+"Enraged by their former
+ servitude, elated by their present glory, the slaves, under
+ the name of Limigantes, claimed and usurped the possession
+ of the country which they had saved.","('Limigantes', 'PERSON')"
+"Every day, at the appointed hours,
+ the principal officers of the state, the army, and the
+ household, approaching the person of their sovereign with
+ bended knees and a composed countenance, offered their
+ respectful homage as seriously as if he had been still
+ alive.","('the appointed hours', 'TIME')"
+"Exasperated by this apparent neglect, the Sarmatians soon
+ forgot, with the levity of barbarians, the services which
+ they had so lately received, and the dangers which still
+ threatened their safety.","('Sarmatians', 'NORP')"
+"Expulsion of the Sarmatians, A.D. 334","('Sarmatians', 'NORP'), ('334', 'CARDINAL')"
+"From motives of policy, this theatrical
+ representation was for some time continued; nor could
+ flattery neglect the opportunity of remarking that
+ Constantine alone, by the peculiar indulgence of Heaven, had
+ reigned after his death.(48)
+Factions of the court.","('Constantine', 'PERSON'), ('48', 'CARDINAL')"
+"From the hands of the
+ bishop of Nicomedia, Constantius received a fatal scroll,
+ affirmed to be the genuine testament of his father; in which
+ the emperor expressed his suspicions that he had been
+ poisoned by his brothers; and conjured his sons to revenge
+ his death, and to consult their own safety, by the
+ punishment of the guilty.","('Nicomedia', 'GPE'), ('Constantius', 'PERSON')"
+"Gallus and Julian afterwards became
+ the most illustrious of the children of Julius Constantius,
+ the Patrician.","('Gallus', 'PERSON'), ('Julian', 'PERSON'), ('Julius Constantius', 'PERSON'), ('Patrician', 'NORP')"
+"He
+ fixed Dalmatius on the Gothic frontier, to which he annexed
+ the government of Thrace, Macedonia, and Greece.","('Dalmatius', 'NORP'), ('Gothic', 'NORP'), ('Thrace', 'GPE'), ('Macedonia', 'GPE'), ('Greece', 'GPE')"
+"He carried by assault the
+ important town of Siscia; made an attack on the city of
+ Sirmium, which lay in the rear of the Imperial camp;
+ attempted to force a passage over the Save into the eastern
+ provinces of Illyricum; and cut in pieces a numerous
+ detachment which he had allured into the narrow passes of
+ Adarne.","('Siscia', 'GPE'), ('Sirmium', 'GPE'), ('Imperial', 'NORP'), ('Illyricum', 'GPE'), ('Adarne', 'PERSON')"
+"He contributed at least to improve this advantage by his
+ negotiations with the free and warlike people of
+ Chersonesus,(45) whose capital, situated on the western coast 
+ of the Tauric or Crimaean peninsula, still retained some
+ vestiges of a Grecian colony, and was governed by a
+ perpetual magistrate, assisted by a council of senators,
+ emphatically styled the Fathers of the City.","('Chersonesus', 'GPE'), ('45', 'CARDINAL'), ('Tauric', 'LOC'), ('Crimaean peninsula', 'LOC'), ('Grecian', 'NORP')"
+"He died at length, after a reign of fifty-six years, and the fortune of the Armenian monarchy expired with Tiridates.","('fifty-six years', 'DATE'), ('Armenian', 'NORP'), ('Tiridates', 'PRODUCT')"
+"He displayed, with some
+ complacency, the glories of his Imperial race, and recalled
+ to the memory of the troops the valour, the triumphs, the
+ liberality of the great Constantine, to whose sons they had
+ engaged their allegiance by an oath of fidelity, which the
+ ingratitude of his most favoured servants had tempted them
+ to violate.","('Imperial', 'NORP'), ('Constantine', 'PERSON')"
+"He first
+ despatched a senator, in whose abilities he confided, and
+ afterwards several bishops, whose holy character might
+ obtain a more favourable audience, with the offer of
+ resigning the purple, and the promise of devoting the
+ remainder of his life to the services of the emperor.","('first', 'ORDINAL')"
+"He often expressed his grateful sense of the goodness of Constantius, and, with a very amiable simplicity, advised his benefactor to resign the sceptre of the world, and to seek for content (where alone it could be found) in the peaceful obscurity of a private condition.(79)
+Makes war against Magnentius, A.D. 351.","('Constantius', 'PERSON'), ('79', 'CARDINAL'), ('Magnentius', 'PERSON'), ('351', 'CARDINAL')"
+"He recommended the care of
+ the East to his lieutenants, and afterwards to his cousin
+ Gallus, whom he raised from a prison to a throne, and
+ marched towards Europe, with a mind agitated by the conflict
+ of hope and fear, of grief and indignation.","('East', 'LOC'), ('Gallus', 'PERSON'), ('Europe', 'LOC')"
+"He seems to have displayed the virtues of a general and of a soldier till the day was irrecoverably lost, and his camp in the possession of the enemy.","('the day', 'DATE')"
+"He was unable to bring 
+ another army into the field; the fidelity of his guards was
+ corrupted; and when he appeared in public to animate them by
+ his exhortations, he was saluted with an unanimous shout of
+ ""Long live the emperor Constantius!""","('Constantius', 'PERSON')"
+"His
+ fond partiality towards some German captives, distinguished
+ only by the charms of youth, was an object of scandal to the
+ people;(70) and Magnentius, an ambitious soldier, who was 
+ himself of barbarian extraction, was encouraged by the
+ public discontent to assert the honour of the Roman name.(71)","('German', 'NORP'), ('70', 'CARDINAL'), ('Magnentius', 'PERSON'), ('Roman', 'NORP'), ('71', 'CARDINAL')"
+"His army, of which the greater part,
+ securely posted on the heights, had been spectators of the
+ action, advanced in silence and under the shadow of the
+ night, and his Persian archers, guided by the illumination
+ of the camp, poured a shower of arrows on a disarmed and
+ licentious crowd.","('Persian', 'NORP')"
+"His body, after it had been found in
+ the obscure stream of the Alsa, obtained the honours of an
+ Imperial sepulchre, but his provinces transferred their
+ allegiance to the conqueror, who, refusing to admit his
+ elder brother Constantius to any share in these new
+ acquisitions, maintained the undisputed possession of more
+ than two-thirds of the Roman empire.(69)
+Murder of Constans, A.D. 350, February.","('Alsa', 'PRODUCT'), ('Imperial', 'NORP'), ('Constantius', 'PERSON'), ('more\r\n than two-thirds', 'CARDINAL'), ('Roman', 'NORP'), ('69', 'CARDINAL'), ('Constans', 'PERSON'), ('350', 'CARDINAL'), ('February', 'DATE')"
+"His cuirassiers are described as so many massy statues of steel, glittering with their scaly armour, and breaking with their ponderous lances the firm array of the Gallic legions.","('Gallic', 'NORP')"
+"His destined
+ successors had the misfortune of being born and educated in
+ the Imperial purple.","('Imperial', 'NORP')"
+"His formidable host, when it
+ was drawn out in order of battle, covered the banks of the
+ river, the adjacent heights, and the whole extent of a plain
+ of above twelve miles which separated the two armies.","('above twelve miles', 'QUANTITY'), ('two', 'CARDINAL')"
+"His lawful heir was driven into
+ exile, the Christian priests were either murdered or
+ expelled from their churches, the barbarous tribes of
+ Albania were solicited to descend from their mountains, and
+ two of the most powerful governors, usurping the ensigns or
+ the powers of royalty, implored the assistance of Sapor, and
+ opened the gates of their cities to the Persian garrisons.","('Christian', 'NORP'), ('Albania', 'GPE'), ('two', 'CARDINAL'), ('Sapor', 'NORP'), ('Persian', 'NORP')"
+"His minority was exposed to the almost inevitable calamities
+ of domestic discord; his capital was surprised and plundered
+ by Thair, a powerful king of Yemen or Arabia, and the
+ majesty of the royal family was degraded by the captivity of
+ a princess, the sister of the deceased king.","('Thair', 'PERSON'), ('Yemen', 'GPE'), ('Arabia', 'GPE')"
+"His third sister, Constantia, was
+ distinguished by her pre-eminence of greatness and of
+ misery.","('third', 'ORDINAL'), ('Constantia', 'PERSON')"
+"His two elder brothers obtained in marriage the
+ daughters of wealthy senators, and propagated new branches
+ of the Imperial race.","('two', 'CARDINAL'), ('Imperial', 'ORG')"
+"His unworthy favourites,  enriched by the boundless liberality of their master, usurped with impunity the privilege of rapine and
+ corruption.(5) A secret but universal decay was felt in every  part of the public administration, and the emperor himself, though he still retained the obedience, gradually lost the
+ esteem, of his subjects.","('5', 'CARDINAL')"
+"If he reckoned among the favours of fortune the death of his
+ eldest son, of his nephew, and perhaps of his wife, he
+ enjoyed an uninterrupted flow of private as well as public
+ felicity till the thirtieth year of his reign; a period
+ which none of his predecessors; since Augustus, had been
+ permitted to celebrate.","('the thirtieth year', 'DATE'), ('Augustus', 'PERSON')"
+"If it were necessary to
+ aggravate the horrors of this bloody scene, we might add
+ that Constantius himself had espoused the daughter of his
+ uncle Julius, and that he had bestowed his sister in
+ marriage on his cousin Hannibalianus.","('Constantius', 'PERSON'), ('Julius', 'PERSON'), ('Hannibalianus', 'PERSON')"
+"In
+ the soft sequestered education of a Persian harem the royal
+ youth could discover the importance of exercising the vigour
+ of his mind and body, and by his personal merit deserved a
+ throne on which he had been seated while he was yet
+ unconscious of the duties and temptations of absolute power.","('Persian', 'NORP')"
+"In Armenia the 
+ renowned Tiridates had long enjoyed the peace and glory
+ which he deserved by his valour and fidelity to the cause of
+ Rome.","('Armenia', 'GPE'), ('Tiridates', 'PERSON'), ('Rome', 'GPE')"
+"In consequence of this agreement, Vetranio
+ advanced to the city of Sardica,(77) at the head of twenty 
+ thousand horse, and of a more numerous body of infantry; a
+ power so far superior to the forces of Constantius, that the
+ Illyrian emperor appeared to command the life and fortunes
+ of his rival, who, depending on the success of his private
+ negotiations, had seduced the troops and undermined the
+ throne of Vetranio.","('Vetranio', 'ORG'), ('Sardica', 'GPE'), ('77', 'CARDINAL'), ('twenty \r\n thousand', 'CARDINAL'), ('Constantius', 'PERSON'), ('Illyrian', 'NORP'), ('Vetranio', 'PERSON')"
+"In favour of the
+ latter, Constantine invented the new and singular
+ appellation of Nobilissimus, (30) to which he annexed the flattering distinction of a robe of purple and gold.","('Constantine', 'PERSON'), ('Nobilissimus', 'PERSON'), ('30', 'CARDINAL')"
+"In his civil wars against Maxentius
+ and Licinius he had engaged on his side the inclinations of
+ the people, who compared the undissembled vices of those
+ tyrants with the spirit of wisdom and justice which seemed
+ to direct the general tenor of the administration of
+ Constantine.(2)
+His vices 
+ Had Constantine fallen on the banks of the Tiber.","('Maxentius', 'PERSON'), ('Licinius', 'PERSON'), ('Constantine', 'PERSON'), ('2', 'CARDINAL'), ('Had Constantine', 'PERSON'), ('Tiber', 'LOC')"
+"In his pathetic, but
+ sometimes unmanly lamentations, (40) he describes in the most 
+ lively colours the dress and manners, the arms and inroads;
+ of the Getae and Sarmatians, who were associated for the
+ purposes of destruction; and from the accounts of history
+ there is some reason to believe that these Sarmatians were
+ the Jazygae, one of the most numerous and warlike tribes of
+ the nation.","('40', 'DATE'), ('Getae', 'NORP'), ('Sarmatians', 'NORP'), ('Sarmatians', 'NORP'), ('Jazygae', 'NORP'), ('one', 'CARDINAL')"
+"In such apparel, scarcely to be excused by
+ the youth and folly of Elagabalus, we are at a loss to
+ discover the wisdom of an aged monarch and the simplicity of
+ a Roman veteran. (6)","('Elagabalus', 'GPE'), ('Roman', 'NORP'), ('6', 'CARDINAL')"
+"In that of Constantine we may contemplate a
+ hero, who had so long inspired his subjects with love and
+ his enemies with terror, degenerating into a cruel and
+ dissolute monarch, corrupted by his fortune, or raised by
+ conquest above the necessity of dissimulation.","('Constantine', 'PERSON')"
+"In the
+ free intercourse of private life, and amidst the dangers of
+ the court of Galerius, he had learned to command his own
+ passions, to encounter those of his equals, and to depend
+ for his present safety and future greatness on the prudence
+ and firmness of his personal conduct.","('Galerius', 'PERSON')"
+"In the
+ presence of this formidable assembly the two emperors were
+ called upon to explain the situation of public affairs: the
+ precedency of rank was yielded to the royal birth of
+ Constantius; and though he was indifferently skilled in the
+ arts of rhetoric, he acquitted himself, under these
+ difficult circumstances, with firmness, dexterity, and
+ eloquence.","('two', 'CARDINAL'), ('Constantius', 'PERSON')"
+"In the civil war which
+ broke out soon afterwards, the father and son divided their
+ powers; and this history has already celebrated the valour
+ as well as conduct displayed by the latter in forcing the
+ straits of the Hellespont, so obstinately defended by the
+ superior fleet of Licinius.","('the civil war', 'EVENT'), ('Hellespont', 'GPE'), ('Licinius', 'PRODUCT')"
+"In the expressions of his gratitude towards the
+ faithful Chersonites, the emperor was still more
+ magnificent.","('Chersonites', 'PERSON')"
+"In the meantime the Imperial troops 
+ forced the passages of the Cottian Alps, and in the bloody
+ combat of Mount Seleucus irrevocably fixed the title of
+ rebels on the party of Magnentius.(98)","('Imperial', 'NORP'), ('the Cottian Alps', 'LOC'), ('Mount Seleucus', 'LOC'), ('Magnentius', 'ORG'), ('98', 'CARDINAL')"
+"In the meanwhile, the huge bodies of the Germans were exposed almost naked to the dexterity of the Oriental archers; and whole troops of those barbarians were urged by anguish and despair to precipitate
+ themselves into the broad and rapid stream of the Drave.(86)","('Germans', 'NORP'), ('Oriental', 'NORP'), ('Drave', 'PRODUCT'), ('86', 'CARDINAL')"
+"In the space of twelve years Nisibis, which,
+ since the time of Lucullus, had been deservedly esteemed the
+ bulwark of the East, sustained three memorable sieges A.D. 338,346,350.","('the space of twelve years', 'DATE'), ('Nisibis', 'PERSON'), ('Lucullus', 'PERSON'), ('East', 'LOC'), ('three', 'CARDINAL'), ('338,346,350', 'CARDINAL')"
+"In this advantageous position they watched or suspended the
+ moment of attack, as they were provoked by injuries or
+ appeased by presents; they gradually acquired the skill of
+ using more dangerous weapons; and although the Sarmatians
+ did not illustrate their name by any memorable exploits,
+ they occasionally assisted their eastern and western
+ neighbours, the Goths and the Germans, with a formidable
+ body of cavalry.","('Sarmatians', 'NORP'), ('Goths', 'NORP'), ('Germans', 'NORP')"
+"It was
+ the object of Magnentius to tempt or to compel his adversary
+ to relinquish this advantageous position; and he employed
+ with that view the various marches, evolutions, and
+ stratagems which the knowledge of the art of war could
+ suggest to an experienced officer.","('Magnentius', 'PERSON')"
+"It was an easy task
+ to deceive the frankness and simplicity of Vetranio, who,
+ fluctuating some time between the opposite views of honour
+ and interest, displayed to the world the insincerity of his
+ temper, and was insensibly engaged in the snares of an
+ artful negotiation.","('Vetranio', 'PERSON')"
+"Italy, the Western Illyricum, and
+ Africa, were accustomed to revere Constans, the third of his
+ sons, as the representative of the great Constantine.","('Italy', 'GPE'), ('Western Illyricum', 'NORP'), ('Africa', 'LOC'), ('Constans', 'PERSON'), ('third', 'ORDINAL'), ('Constantine', 'PERSON')"
+"Like the 
+ daughter of Minos, the daughter of Maximian accused her
+ son-in-law of an incestuous attempt on the chastity of his
+ father's wife and easily obtained, from the jealousy of the
+ emperor, a sentence of death against a young prince whom she
+ considered with reason as the most formidable rival of her
+ own children.","('Minos', 'PERSON'), ('Maximian', 'PERSON')"
+"Magnentius had fixed his
+ residence in the city of Aquileia, and showed a seeming
+ resolution to dispute the passage of the mountains and
+ morasses which fortified the confines of the Venetian
+ province.","('Magnentius', 'PERSON'), ('Aquileia', 'GPE'), ('Venetian', 'NORP')"
+"Magnentius then consulted his safety, and, throwing away the Imperial ornaments, escaped with some difficulty from the pursuit of the light horse, who incessantly followed his rapid flight from the banks of
+ the Drave to the foot of the Julian Alps.(89)
+Conquest of Italy, A.D. 352.","('Magnentius', 'PERSON'), ('Imperial', 'NORP'), ('Drave', 'FAC'), ('the Julian Alps', 'LOC'), ('89', 'CARDINAL'), ('Italy', 'GPE'), ('352', 'CARDINAL')"
+"Magnentius, directing his march towards Mursa, set fire to the gates, and, by a sudden assault, had almost scaled the walls of the town.","('Magnentius', 'PERSON'), ('Mursa', 'PERSON')"
+"Manners of the Sarmatians 
+ Among the different branches of the human race, the
+ Sarmatians form a very remarkable shade; as they seem to
+ unite the manners of the Asiatic barbarians with the figure
+ and complexion of the ancient inhabitants of Europe.","('Sarmatians', 'NORP'), ('Sarmatians', 'NORP'), ('Asiatic', 'NORP'), ('Europe', 'LOC')"
+"Marcellinus, under the pretence of celebrating
+ his son's birthday, gave a splendid entertainment to the
+ illustrious and honourable persons of the court of Gaul,
+ which then resided in the city of Autun.","('Marcellinus', 'PERSON'), ('Gaul', 'PERSON'), ('Autun', 'GPE')"
+"Medals
+ were struck with the customary vows for the long and
+ auspicious reign of the young Caesar;(13) and as the people 
+ who was not admitted into the secrets of the palace, still
+ loved his virtues and respected his dignity, a poet, who
+ solicits his recall from exile adores with equal devotion
+ the majesty of the father and that of the son.(14)","('Caesar', 'PERSON'), ('13', 'CARDINAL'), ('14', 'CARDINAL')"
+"Minervina, the obscure but lawful object of
+ his youthful attachment, (7) had left him only one son, who 
+ was called Crispus.","('Minervina', 'PERSON'), ('7', 'CARDINAL'), ('only one', 'CARDINAL'), ('Crispus', 'PERSON')"
+"Notwithstanding the
+ disappointment of his hopes and the loss of more than twenty
+ thousand men, Sapor still pressed the reduction of Nisibis
+ with an obstinate firmness which could have yielded only to
+ the necessity of defending the eastern provinces of Persia
+ against a formidable invasion of the Massagetae.(68)","('more than twenty\r\n thousand', 'CARDINAL'), ('Sapor', 'PERSON'), ('Nisibis', 'PERSON'), ('Persia', 'GPE'), ('Massagetae', 'PERSON'), ('68', 'CARDINAL')"
+"Notwithstanding the claims of the
+ senate and people of ancient Rome, the corpse of the
+ deceased emperor, according to his last request, was
+ transported to the city which was destined to preserve the
+ name and memory of its founder.","('Rome', 'GPE')"
+"Notwithstanding the positive testimony of several writers of
+ the Pagan as well as of the Christian religion, there may
+ still remain some reason to believe, or at least to suspect,
+ that Fausta escaped the blind and suspicious cruelty of her
+ husband.","('Pagan', 'NORP'), ('Christian', 'NORP'), ('Fausta', 'PERSON')"
+"Obedient to the
+ requisition of Constantine, they prepared under the conduct
+ of their magistrate Diogenes, a considerable army, of which
+ the principal strength consisted in cross-bows and military
+ chariots.","('Constantine', 'PERSON'), ('Diogenes', 'PERSON')"
+"Obedient to the voice of superstition,
+ the Persians prepared, without delay, the ceremony of his
+ coronation.","('Persians', 'NORP')"
+"Of so numerous a family, Gallus and Julian alone,
+ the two youngest children of Julius Constantius, were saved
+ from the hands of the assassins, till their rage, satiated
+ with slaughter, had in some measure subsided.","('Gallus', 'PERSON'), ('Julian', 'PERSON'), ('two', 'CARDINAL'), ('Julius Constantius', 'PERSON')"
+"On a sudden the doors were thrown open, and
+ Magnentius, who had retired for a few moments, returned into
+ the apartment, invested with the diadem and purple.","('Magnentius', 'PERSON'), ('a few moments', 'TIME')"
+"On his arrival
+ at Heraclea in Thrace, the emperor gave audience to the
+ ambassadors of Magnentius and Vetranio.","('Heraclea', 'GPE'), ('Thrace', 'GPE'), ('Magnentius', 'PERSON'), ('Vetranio', 'PERSON')"
+"On the news of his brother's invasion he
+ detached a select and disciplined body of his Illyrian
+ troops, proposing to follow them in person with the
+ remainder of his forces.","('Illyrian', 'NORP')"
+"On this artificial lake a fleet of
+ armed vessels, filled with soldiers, and with engines which
+ discharged stones of five hundred pounds weight, advanced in
+ order of battle, and engaged, almost upon a level, the
+ troops which defended the ramparts","('five hundred pounds', 'QUANTITY')"
+"One of the ambassadors of the tyrant was dismissed with the haughty answer of Constantius; his colleagues, as unworthy of the privileges of the law of nations, were put in irons; and the contending powers prepared to wage an implacable war.","('One', 'CARDINAL'), ('Constantius', 'PERSON')"
+"Paul, surnamed Catena from his superior skill in
+ the judicial exercise of tyranny, was sent to explore the
+ latent remains of the conspiracy in the remote province of
+ Britain.","('Paul', 'PERSON'), ('Catena', 'PERSON'), ('Britain', 'GPE')"
+"Peace was at length granted to their humble supplications;
+ the eldest son of Araric was accepted as the most valuable
+ hostage; and Constantine endeavoured to convince their
+ chiefs, by a liberal distribution of honours and rewards,
+ how far the friendship of the Romans was preferable to their
+ enmity.","('Araric', 'PERSON'), ('Constantine', 'PERSON'), ('Romans', 'NORP')"
+"Perhaps it was without the consent of
+ Constantina that the new emperor formed a necessary, though
+ dishonourable, alliance with the usurper of the West, whose
+ purple was so recently stained with her brother's blood.(75)
+Constantius refuses to treat.","('Constantina', 'PERSON'), ('West', 'LOC'), ('Constantius', 'PERSON')"
+"She remained the widow of the vanquished Licinius;
+ and it was by her entreaties that an innocent boy, the
+ offspring of their marriage, preserved, for sometime, his
+ life, the title of Caesar, and a precarious hope of the
+ succession.","('Licinius', 'PERSON'), ('Caesar', 'PERSON')"
+"Should
+ pride and mistaken piety urge him to refuse these equitable
+ conditions, the ambassadors were ordered to expatiate on the
+ inevitable ruin which must attend his rashness, if he
+ ventured to provoke the sovereigns of the West to exert
+ their superior strength, and to employ against him that
+ valour, those abilities, and those legions, to which the
+ house of Constantine had been indebted for so many triumphs.","('West', 'LOC'), ('Constantine', 'PERSON')"
+"Some of the fugitive Sarmatians solicited a less ignominious
+ dependence under the hostile standard of the Goths.","('Sarmatians', 'NORP'), ('Goths', 'NORP')"
+"Soon
+ after the reign of Augustus they obliged the Dacians, who
+ subsisted by fishing on the banks of the river Theiss or
+ Tibiscus, to retire into the hilly country, and to abandon
+ to the victorious Sarmatians the fertile plains of the Upper
+ Hungary, which are bounded by the course of the Danube and
+ the semicircular enclosure of the Carpathian mountains.(41)","('Augustus', 'PERSON'), ('Dacians', 'NORP'), ('Theiss', 'LOC'), ('Tibiscus', 'GPE'), ('Sarmatians', 'NORP'), ('the Upper\r\n Hungary', 'LOC'), ('Danube', 'LOC'), ('the Carpathian mountains', 'LOC'), ('41', 'CARDINAL')"
+"Such propositions and such arguments appeared to deserve the
+ most serious attention; the answer of Constantius was
+ deferred till the next day; and as he had reflected on the
+ importance of justifying a civil war in the opinion of the
+ people, he thus addressed his council, who listened with
+ real or affected credulity:","('Constantius', 'PERSON'), ('the next day', 'DATE')"
+"Such was the conduct, and such perhaps was the duty, of the
+ brother of Constans towards the perfidious usurper of Gaul.","('Constans', 'PERSON'), ('Gaul', 'PERSON')"
+"That cruel and aspiring woman, who
+ had obtained from the great Constantine, her father, the
+ rank of Augusta, placed the diadem with her own hands on the
+ head of the Illyrian general, and seemed to expect from his
+ victory the accomplishment of those unbounded hopes of which
+ she had been disappointed by the death of her husband
+ Hannibalianus.","('Constantine', 'PERSON'), ('Augusta', 'GPE'), ('Illyrian', 'NORP'), ('Hannibalianus', 'PERSON')"
+"That rash youth, the son of the princess
+ Eutropia, and the nephew of Constantine, had seen with
+ indignation the sceptre of the West usurped by a perfidious
+ barbarian.","('Eutropia', 'PERSON'), ('Constantine', 'PERSON'), ('West', 'LOC')"
+"The
+ author of the conspiracy, Marcellinus, had long since
+ disappeared in the battle of Mursa, (100) and the public 
+ tranquillity was confirmed by the execution of the surviving
+ leaders of a guilty and unsuccessful faction.","('Marcellinus', 'PERSON'), ('Mursa', 'PERSON'), ('100', 'CARDINAL')"
+"The
+ broken army of the Goths abandoned the field of battle, the
+ wasted province, and the passage of the Danube: and although
+ the eldest of the sons of Constantine was permitted to
+ supply the place of his father, the A.D. 332, April 20.","('Goths', 'NORP'), ('Danube', 'LOC'), ('Constantine', 'PERSON'), ('the A.D. 332', 'DATE'), ('April 20', 'DATE')"
+"The
+ citizens of Nisibis were animated by the exhortations of
+ their bishop,(66) inured to arms by the presence of danger, 
+ and convinced of the intentions of Sapor to plant a Persian
+ colony in their room, and to lead them away into distant and
+ barbarous captivity.","('Nisibis', 'GPE'), ('66', 'CARDINAL'), ('Sapor', 'PERSON'), ('Persian', 'NORP')"
+"The
+ conspirators instantly saluted him with the titles of
+ Augustus and Emperor.","('Augustus', 'PERSON')"
+"The
+ examination was short and private;(16) and as it was thought 
+ decent to conceal the fate of the young prince from the eyes
+ of the Roman people, he was sent under a strong guard to
+ Pola, in Istria, where, soon afterwards, he was put to
+ death, either by the hand of the executioner or by the more
+ gentle operation of poison.(17) The Caesar Liciniuss, a youth 
+ of amiable manners, was involved in the ruin of Crispus,(18) 
+ and the stern jealousy of Constantine was unmoved by the
+ prayers and tears of his favourite sister, pleading for the
+ life of a son whose rank was his only crime, and whose loss
+ she did not long survive.","('16', 'CARDINAL'), ('Roman', 'NORP'), ('Pola', 'LOC'), ('Istria', 'GPE'), ('The Caesar Liciniuss', 'WORK_OF_ART'), ('Crispus', 'PERSON'), ('18', 'DATE'), ('Constantine', 'PERSON')"
+"The
+ experienced merit of a reigning monarch is acknowledged by
+ his subjects with reluctance, and frequently denied with
+ partial and discontented murmurs; while, from the opening
+ virtues of his successor, they fondly conceive the most
+ unbounded hopes of private as well as public felicity.(10)
+Jealousy of Constantine.","('Constantine', 'PERSON')"
+"The
+ indulgence of Constantine admitted them, at a very tender
+ age, to share the administration of the empire; and they
+ studied the art of reigning, at the expense of the people
+ intrusted to their care.","('Constantine', 'PERSON')"
+"The
+ ministers and generals who were placed about their persons
+ were such as Constantine could trust to assist, and even to
+ control, these youthful sovereigns in the exercise of their
+ delegated power.","('Constantine', 'PERSON')"
+"The
+ most innocent subjects of the West were exposed to exile and
+ confiscation, to death and torture; and as the timid are
+ always cruel, the mind of Constantius was inaccessible to
+ mercy.(101)","('West', 'LOC'), ('Constantius', 'PERSON')"
+"The
+ pernicious tendency of the system introduced by Constantine
+ was displayed in the feeble administration of his sons, who,
+ by their vices and weakness, soon lost the esteem and
+ affections of their people.","('Constantine', 'PERSON')"
+"The
+ unambitious brothers of the Great Constantine, Julius
+ Constantius, Dalmatius, and Hannibalanus, (8) were permitted 
+ to enjoy the most honourable rank and the most affluent
+ fortune that could be consistent with a private station.","('the Great Constantine', 'ORG'), ('Julius\r\n Constantius', 'PERSON'), ('Dalmatius', 'PERSON'), ('Hannibalanus', 'PERSON'), ('8', 'CARDINAL')"
+"The
+ youngest of the three lived without a name and did without
+ posterity.","('three', 'CARDINAL')"
+"The 
+ same assiduous cultivation was bestowed, though not perhaps
+ with equal success, to improve the minds of the sons and
+ nephews of Constantine.(33) The most celebrated professors of 
+ the Christian faith, of the Grecian philosophy, and of the
+ Roman jurisprudence, were invited by the liberality of the
+ emperor, who reserved for himself the important task of
+ instructing the royal youths in the science of government
+ and the knowledge of mankind.","('Constantine', 'PERSON'), ('Christian', 'NORP'), ('Grecian', 'NORP'), ('Roman', 'NORP')"
+"The 
+ younger Dalmatius, who was united with his collateral
+ relations by the ties of friendship and interest, is allowed
+ to have inherited a considerable share of the abilities of
+ the great Constantine; but, on this occasion, he does not
+ appear to have concerted any measures for supporting by arms
+ the just claims which himself and his royal brother derived
+ from the liberality of their uncle.","('Dalmatius', 'PERSON'), ('Constantine', 'PERSON')"
+"The Asiatic pomp which had been adopted by the pride of Diocletian assumed an
+ air of softness and effeminacy in the person of Constantine.","('Asiatic', 'NORP'), ('Diocletian', 'PERSON'), ('Constantine', 'PERSON')"
+"The Chersonites
+ were animated against the Goths by the memory of the wars
+ which, in the preceding century, they had maintained with
+ unequal forces against the invaders of their country.","('Chersonites', 'NORP'), ('Goths', 'NORP'), ('the preceding century', 'DATE')"
+"The Christian party, under the guidance of the archbishop of
+ Artaxata, the immediate successor of St. Gregory the
+ Illuminator, had recourse to the piety of Constantius.","('Christian', 'NORP'), ('Artaxata', 'GPE'), ('St. Gregory the\r\n Illuminator', 'PERSON'), ('Constantius', 'PERSON')"
+"The Czar Peter, in the full possession of despotic
+ power, submitted to the judgment of Russia, of Europe, and
+ of posterity, the reasons which had compelled him to
+ subscribe the condemnation of a criminal, or at least of a
+ degenerate, son. (20)","('The Czar Peter', 'PERSON'), ('Russia', 'GPE'), ('Europe', 'LOC'), ('20', 'CARDINAL')"
+"The Gothic war, A.lD. 331.","('The Gothic war', 'EVENT'), ('331', 'CARDINAL')"
+"The Goths,
+ vanquished on every side, were driven into the mountains,
+ where, in the course of a severe campaign, above an hundred
+ thousand were computed to have perished by cold and hunger.","('Goths', 'NORP'), ('an hundred\r\n thousand', 'CARDINAL')"
+"The Great
+ King, who, from an exalted throne, beheld the misfortunes of
+ his arms, sounded, with reluctant indignation, the signal of
+ the retreat, and suspended for some hours the prosecution of
+ the attack.","('The Great\r\n King', 'PERSON'), ('some hours', 'TIME')"
+"The Persian war, A.D. 337-360.","('The Persian war', 'EVENT'), ('337-360', 'CARDINAL')"
+"The Persians were
+ instantly driven to the assault, and the fate of Nisibis
+ depended on the event of the day.","('Persians', 'NORP'), ('Nisibis', 'PERSON'), ('the day', 'DATE')"
+"The Vandal princes were
+ stimulated by fear and revenge; the Gothic kings aspired to
+ extend their dominion from the Euxine to the frontiers of
+ Germany; and the waters of the Maros, a small river which
+ falls into the Theiss, were stained with the blood of the
+ contending barbarians.","('Gothic', 'NORP'), ('Euxine', 'NORP'), ('Germany', 'GPE'), ('Maros', 'GPE'), ('Theiss', 'GPE')"
+"The accumulated treasures
+ found in the palaces of Maxentius and Licinius were lavishly
+ consumed; the various innovations introduced by the
+ conqueror were attended with an increasing expense, the cost
+ of his buildings, his court, and his festivals required an
+ immediate and plentiful supply; and the oppression of the
+ people was the only fund which could support the
+ magnificence of the sovereign.","('Maxentius', 'LOC'), ('Licinius', 'LOC')"
+"The ambition of the Persian, to whom his enemies ascribe the
+ virtues of a soldier and a statesman, was animated by the
+ desire of revenging the disgrace of his fathers, and of
+ wresting from the hands of the Romans the five provinces
+ beyond the Tigris.","('Persian', 'NORP'), ('Romans', 'NORP'), ('five', 'CARDINAL'), ('Tigris', 'LOC')"
+"The apprehensions of civil
+ war were at length removed by the positive assurance of the
+ Magi that the widow of Hormouz had conceived, and would
+ safely produce a son.","('Magi', 'PERSON'), ('Hormouz', 'PERSON')"
+"The approach of winter supplied the indolence of Constantius
+ with specious reasons for referring the prosecution of the
+ war till the ensuing spring.","('winter', 'DATE'), ('Constantius', 'GPE'), ('the ensuing spring', 'DATE')"
+"The arguments by which they
+ solicited the concurrence of the soldiers and people are of
+ a more obvious nature: and they might with decency, as well
+ as truth, insist on the superior rank of the children of
+ Constantine, the danger of multiplying the number of
+ sovereigns, and the impending mischiefs which threatened the
+ republic, from the discord of so many rival princes who were
+ not connected by the tender sympathy of fraternal affection.","('Constantine', 'PERSON')"
+"The armies submitted to their
+ hereditary right, and they condescended, after some delay,
+ to accept from the Roman senate the title of Augustus.","('Roman', 'NORP'), ('Augustus', 'PERSON')"
+"The authority of
+ Magnentius was acknowledged through the whole extent of the
+ two great praefectures of Gaul and Italy; and the usurper
+ prepared, by every act of oppression, to collect a treasure
+ which might discharge the obligation of an immense donative
+ and supply the expenses of a civil war.","('Magnentius', 'GPE'), ('two', 'CARDINAL'), ('Gaul', 'LOC'), ('Italy', 'GPE')"
+"The behaviour of Constantius on this memorable occasion was
+ celebrated with some appearance of justice; and his
+ courtiers compared the studied orations which a Pericles or
+ a Demosthenes addressed to the populace of Athens with the
+ victorious eloquence which had persuaded an armed multitude
+ to desert and depose the object of their partial choice.(80) 
+ The approaching contest with Magnentius was of a more
+ serious and bloody kind.","('Constantius', 'PERSON'), ('Pericles', 'PERSON'), ('Demosthenes', 'NORP'), ('Athens', 'GPE'), ('80', 'CARDINAL'), ('Magnentius', 'PERSON')"
+"The body of Constantine,
+ adorned with the vain symbols of greatness, the purple and
+ diadem, was deposited on a golden bed in one of he
+ apartments of the palace, which for that purpose had been
+ splendidly furnished and illuminated.","('Constantine', 'PERSON'), ('one', 'CARDINAL')"
+"The boundless ambition which, from the moment of his
+ accepting the purple at York, appears as the ruling passion
+ of his soul, may be justified by the dangers of his own
+ situation, by the character of his rivals, by the
+ consciousness of superior merit, and by the prospect that
+ his success would enable him to restore peace and order to
+ the distracted empire.","('York', 'GPE')"
+"The care of his
+ education, or at least of his studies, was intrusted to
+ Lactantius, the most eloquent of the Christians; a preceptor
+ admirably qualified to form the taste and to excite the
+ virtues of his illustrious disciple.","('Lactantius', 'PERSON'), ('Christians', 'NORP')"
+"The care of their numerous flocks 
+ and herds, the pursuit of game, and the exercise of war, or
+ rather of rapine, directed the vagrant motions of the
+ Sarmatians.","('Sarmatians', 'NORP')"
+"The cavalry, the legions, and the
+ auxiliaries of Italy, renewed their oath of allegiance to
+ Constantius; and the usurper, alarmed by the general
+ desertion, was compelled, with the remains of his faithful
+ troops, to retire beyond the Alps into the provinces of
+ Gaul.","('Italy', 'GPE'), ('Constantius', 'PERSON'), ('Alps', 'LOC'), ('Gaul', 'LOC')"
+"The chiefs, who had secretly embraced
+ the party of Constantius, prepared in his favour a public
+ spectacle, calculated to discover and inflame the passions
+ of the multitude. (78)","('Constantius', 'PERSON'), ('78', 'CARDINAL')"
+"The chosen bands of Jovians and Herculians, who acknowledged
+ Magnentius as their leader, maintained the most respectable
+ and important station in the Imperial camp.","('Jovians', 'NORP'), ('Herculians', 'NORP'), ('Magnentius', 'PERSON'), ('Imperial', 'ORG')"
+"The city of
+ Caesarea was chosen for the residence of Hannibalianus; and
+ the provinces of Pontus, Cappadocia, and the Lesser Armenia,
+ were designed to form the extent of his new kingdom.","('Caesarea', 'GPE'), ('Hannibalianus', 'GPE'), ('Pontus', 'LOC'), ('Cappadocia', 'GPE'), ('the Lesser Armenia', 'LOC')"
+"The city of Mursa, or Essek, celebrated in modern times for a bridge of boats, five miles in length, over the river Drave, and the adjacent morasses, (83) has been always  considered as a place of importance in the wars of Hungary.","('Mursa', 'GPE'), ('Essek', 'GPE'), ('five miles', 'QUANTITY'), ('Drave', 'FAC'), ('83', 'CARDINAL'), ('Hungary', 'GPE')"
+"The city of Prusa was assigned for the exile or
+ retirement of the abdicated monarch, who lived six years in the enjoyment of ease and affluence.","('Prusa', 'GPE'), ('six years', 'DATE')"
+"The contagion of loyalty and repentance
+ was communicated from rank to rank, till the plain of
+ Sardica resounded with the universal acclamation of The shout of thousands, their menacing gestures, the fierce clashing of their arms, astonished and subdued the courage of Vetranio, who stood, amidst the defection of his followers, in anxious and silent suspense.","('Sardica', 'PERSON'), ('thousands', 'CARDINAL'), ('Vetranio', 'PERSON')"
+"The danger and difficulties of the
+ Scythian war engaged him soon afterwards to conclude, or at
+ least to observe, a truce with the Roman emperor, which was
+ equally grateful to both princes, as Constantius himself,
+ after the deaths of his two brothers, was involved, by the
+ revolutions of the West, in a civil contest which required
+ and seemed to exceed the most vigorous exertion of his
+ undivided strength.","('the\r\n Scythian war', 'EVENT'), ('Roman', 'NORP'), ('Constantius', 'PERSON'), ('two', 'CARDINAL'), ('West', 'LOC')"
+"The death of Constantine was the signal
+ of war,(57) and the actual condition of the Syrian and 
+ Armenian frontier seemed to encourage the Persians by the
+ prospect of a rich spoil and an easy conquest.","('Constantine', 'PERSON'), ('57', 'CARDINAL'), ('Syrian', 'NORP'), ('Armenian', 'NORP'), ('Persians', 'NORP')"
+"The deaths of
+ Maximian and Licinius may perhaps be justified by the maxims
+ of policy as they are taught in the schools of tyrants; but
+ an impartial narrative of the executions, or rather murders,
+ which sullied the declining age of Constantine, will suggest
+ to our most candid thoughts the idea of a prince who could
+ sacrifice, without reluctance, the laws of justice and the
+ feelings of nature to the dictates either of his passions or
+ of his interest.","('Maximian', 'NORP'), ('Licinius', 'PERSON'), ('Constantine', 'PERSON')"
+"The deaths of a son and of a nephew, with the
+ execution of a great number of respectable and perhaps
+ innocent friends,(27) who were involved in their fall, may be 
+ sufficient, however, to justify the discontent of the Roman
+ people, and to explain the satirical verses affixed to the
+ palace gate, comparing the splendid and bloody reigns of
+ Constantine and Nero.(28)","('27', 'DATE'), ('Roman', 'NORP'), ('Constantine', 'PERSON'), ('Nero', 'PERSON'), ('28', 'CARDINAL')"
+"The detachments, however, which were ordered either to
+ press or to intercept the flight of Magnentius, conducted
+ themselves with the usual imprudence of success; and allowed
+ him, in the plains of Pavia, an opportunity of turning on
+ his pursuers, and gratifying his despair by the carnage of a
+ useless victory.(92)
+Last defeat and death of Magnentius, A.D. 353, August 10..","('Magnentius', 'ORG'), ('Pavia', 'GPE'), ('92', 'CARDINAL'), ('Magnentius', 'PERSON'), ('A.D. 353', 'DATE'), ('August 10', 'DATE')"
+"The disadvantage of an illiterate education had
+ not prevented him from forming a just estimate of the value
+ of learning; and the arts and sciences derived some
+ encouragement from the munificent protection of Constantine.","('Constantine', 'PERSON')"
+"The eldest of those princes soon complained that he
+ was defrauded of his just proportion of the spoils of their
+ murdered kinsmen; and though he might yield to the superior
+ guilt and merit of Constantius, he exacted from Constans the
+ cession of the African provinces, as an equivalent for the
+ rich countries of Macedonia and Greece which his brother had
+ acquired by the death of Dalmatius.","('Constantius', 'PERSON'), ('African', 'NORP'), ('Macedonia', 'GPE'), ('Greece', 'GPE'), ('Dalmatius', 'PERSON')"
+"The elephants,
+ made furious by their wounds, increased the disorder, and
+ trampled down thousands of the Persian archers.","('thousands', 'CARDINAL'), ('Persian', 'NORP')"
+"The emperor
+ Constantius, who, in the absence of his brothers, was the
+ most obnoxious to guilt and reproach, discovered, on some
+ future occasions, a faint and transient remorse for those
+ cruelties which the perfidious counsels of his ministers and
+ the irresistible violence of the troops, had extorted from
+ his inexperienced youth.(53)
+Division of the empire, A.D. 337, Sept. 11","('Constantius', 'PERSON'), ('53)\r\nDivision', 'ORG'), ('337', 'CARDINAL'), ('Sept. 11', 'DATE')"
+The empress Fausta,"('Fausta', 'PERSON')"
+"The event of a second and more 
+ successful action retrieved the honour of the Roman name;
+ and the powers of art and discipline prevailed, after an
+ obstinate contest, over the efforts of irregular valour.","('second', 'ORDINAL'), ('Roman', 'NORP')"
+"The event of the day was most commonly adverse to the Romans, but in
+ A.D. 348 the battle of Singara their imprudent valour had almost achieved a signal and decisive victory.","('the day', 'DATE'), ('Romans', 'NORP'), ('A.D. 348', 'DATE'), ('Singara', 'PERSON')"
+"The event of the two former sieges
+ elated their confidence and exasperated the haughty spirit
+ of the Great King, who advanced a third time towards
+ Nisibis, at the head of the united forces of Persia and
+ India.","('two', 'CARDINAL'), ('the Great King', 'PERSON'), ('third', 'ORDINAL'), ('Nisibis', 'GPE'), ('Persia', 'GPE'), ('India', 'GPE')"
+"The example
+ of the massacres of the palace diffused a spirit of
+ licentiousness and sedition among the troops of the East,
+ who were no longer restrained by their habits of obedience
+ to a veteran commander.","('East', 'LOC')"
+"The example of suicide was imitated by Decentius, who
+ strangled himself on the news of his brother's death.","('Decentius', 'PERSON')"
+"The fate of Constans himself was delayed about ten years
+ longer, and the revenge of his brother's death was reserved
+ for the more ignoble hand of a domestic traitor.","('Constans', 'PERSON'), ('about ten years\r\n longer', 'DATE')"
+"The fertile plains
+ (81) of the Lower Pannonia, between the Drave, the Save, and 
+ the Danube, presented a spacious theatre; and the operations
+ of the civil war were protracted during the summer months by
+ the skill or timidity of the combatants.(82) Constantius had 
+ declared his intention of deciding the quarrel in the fields
+ of Cibalis, a name that would animate his troops by the
+ remembrance of the victory which, on the same auspicious
+ ground, had been obtained by the arms of his father
+ Constantine Yet, by the impregnable fortifications with
+ which the emperor encompassed his camp, he appeared to
+ decline rather than to invite a general engagement.","('81', 'CARDINAL'), ('the Lower Pannonia', 'LOC'), ('Drave', 'FAC'), ('Save', 'FAC'), ('Danube', 'LOC'), ('the summer months', 'DATE'), ('Constantius', 'PERSON'), ('Cibalis', 'GPE'), ('Constantine Yet', 'PERSON')"
+"The field of battle round Mursa was a naked and level plain: on this ground the army of Constantius formed, with the Drave on their right; while their left, either from the nature of their disposition, or
+ from the superiority of their cavalry, extended far beyond the right flank of Magnentius. (84)","('Mursa', 'GPE'), ('Constantius', 'GPE'), ('Magnentius', 'PERSON'), ('84', 'CARDINAL')"
+"The firm alliance which he maintained with Constantine
+ was productive of spiritual as well as of temporal benefits;
+ by the conversion of Tiridates the character of a saint was
+ applied to that of a hero, the Christian faith was preached
+ and established from the Euphrates to the shores of the
+ Caspian, and Armenia was attached to the empire by the
+ double ties of policy and of religion.","('Constantine', 'PERSON'), ('Christian', 'NORP'), ('Euphrates', 'LOC'), ('Caspian', 'LOC'), ('Armenia', 'GPE')"
+"The first author of
+ the conspiracy, Marcellinus, who in some measure had
+ bestowed the purple on his new master, boldly accepted this
+ dangerous commission; and his three colleagues were selected
+ from the illustrious personages of the state and army.","('first', 'ORDINAL'), ('Marcellinus', 'PERSON'), ('three', 'CARDINAL')"
+"The first part of his oration seemed to be
+ pointed only against the tyrant of Gaul; but while he
+ tragically lamented the cruel murder of Constans, he
+ insinuated that none, except a brother, could claim a right
+ to the succession of his brother.","('first', 'ORDINAL'), ('Gaul', 'PERSON'), ('Constans', 'PERSON')"
+"The former celebrates the virtues, the
+ beauty, and the fortune of the empress Fausta, the daughter,
+ wife, sister, and mother of so many princes.(25)","('Fausta', 'PERSON'), ('25', 'CARDINAL')"
+"The former was raised, by the title of
+ Caesar, to an equality with his cousins.","('Caesar', 'PERSON')"
+"The friendship
+ of Marcellinus, count of the sacred largesses, supplied with
+ a liberal hand the means of seduction.","('Marcellinus', 'PERSON')"
+"The general
+ peace which he maintained during the last fourteen years of
+ his A.D. 323-337 reign was a period of apparent splendour rather than of real prosperity; and the old age of Constantine was
+ disgraced by the opposite yet reconcilable vices of
+ rapaciousness and prodigality.","('the last fourteen years', 'DATE'), ('A.D. 323-337', 'DATE'), ('Constantine', 'PERSON')"
+"The guards hastened to
+ take the oath of fidelity, the gates of the town were shut,
+ and before the dawn of day Magnentius became master of the
+ troops and treasure of the palace and city of Autun.","('Magnentius', 'PERSON'), ('Autun', 'GPE')"
+"The honest indignation expressed by Martin,
+ vice-praefect of the island, was interpreted as an evidence
+ of his own guilt; and the governor was urged to the
+ necessity of turning against his breast the sword with which
+ he had been provoked to wound the Imperial minister.","('Martin', 'PERSON'), ('Imperial', 'ORG')"
+"The informers who complied with so liberal an invitation
+ were sufficiently versed in the arts of courts to select the
+ friends and adherents of Crispus as the guilty persons; nor
+ is there any reason to distrust the veracity of the emperor
+ who had promised an ample measure of revenge and punishment.","('Crispus', 'PERSON')"
+"The innocence of Crispus was so universally acknowledged
+ that the modern Greeks, who adore the memory of their
+ founder, are reduced to palliate the guilt of a parricide
+ which the common feelings of human nature forbade them to
+ justify.","('Crispus', 'PERSON'), ('Greeks', 'NORP')"
+"The intelligence of these important events, which so deeply
+ affected the honour and safety of the Imperial house,
+ recalled the arms of Constantius from the inglorious
+ prosecution of the Persian war.","('Imperial', 'NORP'), ('Constantius', 'GPE'), ('the Persian war', 'EVENT')"
+"The intemperance of
+ the feast was artfully protracted till a very late hour of
+ the night, and the unsuspecting guests were tempted to
+ indulge themselves in a dangerous and guilty freedom of
+ conversation.","('a very late hour of\r\n the night', 'TIME')"
+"The intrigue was conducted with zeal and secrecy, till a
+ loud and unanimous declaration was procured from the troops
+ that they would suffer none except the sons of their
+ lamented monarch to reign over the Roman empire.(49)","('Roman', 'NORP')"
+"The irregular incursions of the light
+ troops alternately spread terror and devastation beyond the
+ Tigris and beyond the Euphrates, from the gates of Ctesiphon
+ to those of Antioch; and this active service was performed
+ by the Arabs of the desert, who were divided in their
+ interest and affections, some of their independent chiefs
+ being enlisted in the party of Sapor, whilst others had
+ engaged their doubtful fidelity to the emperor.(60)","('Tigris', 'LOC'), ('Euphrates', 'LOC'), ('Ctesiphon', 'GPE'), ('Antioch', 'GPE'), ('Arabs', 'NORP'), ('Sapor', 'PERSON'), ('60', 'CARDINAL')"
+"The irresistible force of
+ the waters was alternately fatal to the contending parties,
+ till at length a portion of the walls, unable to sustain the
+ accumulated pressure, gave way at once, and exposed an ample
+ breach of one hundred and fifty feet.","('one hundred and fifty feet', 'QUANTITY')"
+"The latter 
+ asserts, in explicit terms, that the mother of the younger
+ Constantine, who was slain three years after his father's
+ death, survived to weep over the fate of her son. (26)","('Constantine', 'PERSON'), ('three years', 'DATE')"
+"The march of some
+ regular forces put an end to his ambitious hopes: the
+ rebellion was extinguished in the blood of Nepotian, of his
+ mother Eutropia, and of his adherents; and the proscription
+ was extended to all who had contracted a fatal alliance with
+ the name and family of Constantine. (91)","('Nepotian', 'NORP'), ('Eutropia', 'PERSON'), ('Constantine', 'PERSON')"
+"The martial
+ countries of Illyricum, from the Danube to the extremity of
+ Greece, had long obeyed the government of Vetranio, an aged
+ general, beloved for the simplicity of his manners, and who
+ had acquired some reputation by his experience and services
+ in war.(74)","('Illyricum', 'GPE'), ('Danube', 'LOC'), ('Greece', 'GPE'), ('Vetranio', 'PERSON')"
+"The massacre of the Flavian race was succeeded by a new
+ division of the provinces, which was ratified in a personal
+ interview of the three brothers.","('Flavian', 'NORP'), ('three', 'CARDINAL')"
+"The measures of Constans,
+ who then resided in Dacia, were directed with more prudence
+ and ability.","('Constans', 'PERSON'), ('Dacia', 'GPE')"
+"The military fame of Constantine, and the
+ real or apparent strength of his government, suspended the
+ attack, and, while the hostile conduct of Sapor provoked the
+ resentment, his artful negotiations amused the patience of
+ the Imperial court.","('Constantine', 'PERSON'), ('Sapor', 'PERSON'), ('Imperial', 'ORG')"
+"The military strength of the nation was composed of
+ cavalry; and the custom of their warriors to lead in their
+ hand one or two spare horses enabled them to advance and to
+ retreat with a rapid diligence, which surprised the
+ security, and eluded the pursuit, of a distant enemy.(37)","('one', 'CARDINAL'), ('two', 'CARDINAL'), ('37', 'CARDINAL')"
+"The more 
+ grave and important operations of the war were conducted
+ with equal vigour; and the armies of Rome and Persia
+ encountered each other in nine bloody fields, in two of
+ which Constantius himself commanded in person. (61)","('Rome', 'GPE'), ('Persia', 'GPE'), ('nine', 'CARDINAL'), ('two', 'CARDINAL'), ('Constantius', 'PERSON')"
+"The negotiation of Philip was not, however, ineffectual, since he determined Sylvanus the Frank, a general of merit and reputation, to desert with a
+ considerable body of cavalry a few days before the battle of Mursa.","('Philip', 'PERSON'), ('Sylvanus', 'PERSON'), ('Frank', 'PERSON'), ('a few days', 'DATE'), ('Mursa', 'PERSON')"
+"The number of the slain was computed at fifty-four thousand men, and the slaughter of the conquerors was more
+ considerable than that of the vanquished;(87) a circumstance  which proves the obstinacy of the contest, and justifies the observation of an ancient writer, that the forces of the empire were consumed in the fatal battle of Mursa, by the
+ loss of a veteran army, sufficient to defend the frontiers, or to add new triumphs to the glory of Rome. (88)","('fifty-four thousand', 'CARDINAL'), ('87', 'CARDINAL'), ('Mursa', 'GPE'), ('Rome', 'GPE'), ('88', 'CARDINAL')"
+"The offensive arms of the 
+ Sarmatians were short daggers, long lances, and a weighty
+ bow with a quiver of arrows.","('Sarmatians', 'NORP')"
+"The officers, who surrounded the tribunal, and
+ were instructed to act their parts in this extraordinary
+ scene, confessed the irresistible power of reason and
+ eloquence, by saluting the emperor Constantius as their
+ lawful sovereign.","('Constantius', 'PERSON')"
+"The ordinary machines, invented to batter or
+ undermine the walls, were rendered ineffectual by the
+ superior skill of the Romans, and many days had vainly
+ elapsed when Sapor embraced a resolution worthy of an
+ eastern monarch who believed that the elements themselves
+ were subject to his power.","('Romans', 'NORP'), ('many days', 'DATE'), ('Sapor', 'PERSON')"
+"The person, as well as the mind, of Constantine had been
+ enriched by nature with her choicest endowments.","('Constantine', 'PERSON')"
+"The policy of Constantine maintained, however, the same
+ appearances of regard and confidence towards a son whom he
+ began to consider as his most irreconcilable enemy.","('Constantine', 'PERSON')"
+"The pride assumed by Constans
+ from the unmerited success of his arms was rendered more
+ contemptible by his want of abilities and application.","('Constans', 'PERSON')"
+"The pride of Magnentius was reduced, by repeated
+ misfortunes, to sue, and to sue in vain, for peace.","('Magnentius', 'GPE')"
+"The public favour,
+ which seldom accompanies old age, diffused its lustre over
+ the youth of Crispus.","('Crispus', 'PERSON')"
+"The same fortune which so invariably followed the standard
+ of Constantine seemed to secure the hopes and comforts of
+ his domestic life.","('Constantine', 'PERSON')"
+"The same ministers and generals who bowed with
+ such reverential awe before the inanimate corpse of their
+ deceased sovereign were engaged in secret consultations to
+ exclude his two nephews, Dalmatius and Hannialianus, from
+ the share which he had assigned them in the succession of
+ the empire.","('two', 'CARDINAL'), ('Dalmatius', 'PERSON'), ('Hannialianus', 'PERSON')"
+"The same passions have, in some degree, been
+ perpetuated to succeeding generations, and the character of
+ Constantine is considered, even in the present age, as an
+ object either of satire or of panegyric.","('Constantine', 'PERSON')"
+The signal victory which Constantius obtained is attributed to the arms of his cavalry.,"('Constantius', 'PERSON')"
+"The sincerity of history(62) declares that 
+ the Romans were vanquished with a dreadful slaughter, and
+ that the flying remnant of the legions was exposed to the
+ most intolerable hardships.","('62', 'CARDINAL'), ('Romans', 'NORP')"
+"The situation and character of Vetranio admitted of milder
+ measures; and the policy of the Eastern emperor was directed
+ to disunite his antagonists, and to separate the forces of
+ Illyricum from the cause of rebellion.","('Vetranio', 'PERSON'), ('Eastern', 'NORP'), ('Illyricum', 'NORP')"
+"The son of Sapor, the heir of his crown, had been made
+ a captive in the Persian camp.","('Sapor', 'PERSON'), ('Persian', 'NORP')"
+The sons and nephews of Constantine,"('Constantine', 'PERSON')"
+"The speedy march and intrepid attack of the
+ Chersonites, by diverting the attention of the Goths,
+ assisted the operations of the Imperial generals.","('Chersonites', 'PRODUCT'), ('Goths', 'NORP'), ('Imperial', 'ORG')"
+"The spirit, and even the forms, of
+ legal proceedings were repeatedly violated in a promiscuous
+ massacre; which involved the two uncles of Constantius,
+ seven of his cousins, of whom Dalmatius and Hannibalianus
+ were the most illustrious, the Patrician Optatus, who had
+ married a sister of the late emperor, and the praefect
+ Ablavius, whose power and riches had inspired him with some
+ hopes of obtaining the purple.","('two', 'CARDINAL'), ('Constantius', 'PERSON'), ('seven', 'CARDINAL'), ('Dalmatius', 'PERSON'), ('Hannibalianus', 'PERSON'), ('Patrician', 'NORP'), ('Ablavius', 'PERSON')"
+"The stationary troops of Singara retired on the approach of Sapor, who
+ passed the Tigris over three bridges, and occupied near the
+ village of Hilleh an advantageous camp, which, by the labour
+ of his numerous pioneers, he surrounded in one day with a
+ deep ditch and a lofty rampart.","('Singara', 'GPE'), ('Sapor', 'PERSON'), ('Tigris', 'LOC'), ('three', 'CARDINAL'), ('Hilleh', 'GPE'), ('one day', 'DATE')"
+"The story of these unhappy
+ princes, the nature and evidence of their guilt, the forms
+ of their trial, and the circumstances of their death, were
+ buried in mysterious obscurity, and the courtly bishop, who
+ has celebrated in an elaborate work the virtues and piety of
+ his hero, observes a prudent silence on the subject of these
+ tragic events.(19) Such haughty contempt for the opinion of 
+ mankind, whilst it imprints an indelible stain on the memory
+ of Constantine, must remind us of the very different
+ behaviour of one of the greatest monarchs of the present
+ age.","('19', 'CARDINAL'), ('Constantine', 'PERSON'), ('one', 'CARDINAL')"
+"The surprisal of a castle in the Alps by the
+ secret march of the imperialists could scarcely have
+ determined him to relinquish the possession of Italy, if the
+ inclinations of the people had supported the cause of their
+ tyrant.(90)","('Alps', 'LOC'), ('Italy', 'GPE')"
+"The temper of the 
+ tyrant, which was never inclined to clemency, was urged by
+ distress to exercise every act of oppression which could
+ extort an immediate supply from the cities of Gaul.(95)","('Gaul', 'GPE'), ('95', 'CARDINAL')"
+"The tender Ovid, after a youth spent in the enjoyment of
+ fame and luxury, was condemned to an hopeless exile on the
+ frozen banks of the Danube, where he was exposed, almost
+ without defence, to the fury of these monsters of the
+ desert, with whose stern spirits he feared that his gentle
+ shade might hereafter be confounded.","('Ovid', 'PERSON'), ('Danube', 'LOC')"
+"The time 
+ was now arrived for celebrating the august ceremony of the
+ twentieth year of the reign of Constantine and the emperor,
+ for that purpose, removed his court from Nicomedia to Rome,
+ where the most splendid preparations had been made for his
+ reception.","('the\r\n twentieth year', 'DATE'), ('Constantine', 'PERSON'), ('Nicomedia', 'PERSON'), ('Rome', 'GPE')"
+"The tranquillity of the 
+ last fourteen years of his reign was scarcely interrupted by
+ the contemptible insurrection of a camel-driver in the
+ island of Cyprus, (35) or by the active part which the policy 
+ of Constantine engaged him to assume in the wars of the
+ Goths and Sarmatians.","('the \r\n last fourteen years', 'DATE'), ('Cyprus', 'GPE'), ('35', 'CARDINAL'), ('Constantine', 'PERSON'), ('Goths', 'NORP'), ('Sarmatians', 'NORP')"
+"The troops of
+ Constantius were harassed and dispirited; his reputation
+ declined in the eye of the world; and his pride condescended
+ to solicit a treaty of peace, which would have resigned to
+ the assassin of Constans the sovereignty of the provinces
+ beyond the Alps.","('Constantius', 'PERSON'), ('Constans', 'PERSON'), ('Alps', 'LOC')"
+"The troops on both sides  remained under arms in anxious expectation during the greatest part of the morning; and the son of Constantine, after animating his soldiers by an eloquent speech, retired into a church at some distance from the field of battle, and committed to his generals the conduct of this decisive day.","('the morning', 'TIME'), ('Constantine', 'PERSON')"
+"The two sisters of the great
+ Constantine, Anastasia and Eutropia, were bestowed on
+ Optatus and Nepotianus, two senators of noble birth and of
+ consular dignity.","('two', 'CARDINAL'), ('Constantine', 'PERSON'), ('Anastasia', 'PERSON'), ('Eutropia', 'PERSON'), ('Optatus', 'NORP'), ('Nepotianus', 'PERSON'), ('two', 'CARDINAL')"
+"The two sons of Dalmatius, who had been
+ decorated with the vain title of Censor, were named
+ Dalmatius and Hannibalianus.","('two', 'CARDINAL'), ('Dalmatius', 'PERSON'), ('Censor', 'ORG'), ('Dalmatius', 'PERSON'), ('Hannibalianus', 'PERSON')"
+"The tyrant advanced by rapid
+ marches to encounter Constantius, at the head of a numerous
+ army, composed of Gauls and Spaniards, of Franks and Saxons;
+ of those provincials who supplied the strength of the
+ legions, and of those barbarians who were dreaded as the
+ most formidable enemies of the republic.","('Constantius', 'PERSON'), ('Gauls', 'NORP'), ('Spaniards', 'NORP'), ('Franks', 'NORP'), ('Saxons', 'NORP')"
+"The tyrant, who
+ perceived that they were preparing to deserve pardon and
+ rewards by the sacrifice of the most obnoxious criminal,
+ prevented their design by falling on his sword;(99) a death 
+ more easy and more honourable than he could hope to obtain
+ from the hands of an enemy whose revenge would have been
+ coloured with the specious pretence of justice and fraternal
+ piety.","('99', 'CARDINAL')"
+"The unhappy youth, who might
+ have excited the compassion of the most savage enemy, was
+ scourged, tortured, and publicly executed by the inhuman
+ Romans.(63)
+Siege of Nisbis.","('Romans', 'NORP'), ('63', 'CARDINAL'), ('Siege of Nisbis', 'WORK_OF_ART')"
+"The use
+ of such a title, even as it appears under the reign of
+ Constantine, is a strange and unconnected fact, which can
+ scarcely be admitted on the joint authority of Imperial
+ medals and contemporary writers.(31)
+Their education","('Constantine', 'PERSON'), ('Imperial', 'ORG')"
+"The vigilance of the garrison extinguished the flames; the approach of Constantius left him no time to continue the operations of the siege; and the emperor soon removed the only obstacle that could embarrass his motions, by forcing a body of troops which had taken post in an adjoining amphitheatre.","('Constantius', 'GPE')"
+"The voice of the dying emperor had recommended the care of
+ his funeral to the piety of Constantius; and that prince, by
+ the vicinity of his eastern station, could easily prevent
+ the diligence of his brothers, who resided in their distant
+ governments of Italy and Gaul.","('Constantius', 'PERSON'), ('Italy', 'GPE'), ('Gaul', 'PERSON')"
+"The want of sincerity
+ which Constantine experienced in a tedious and fruitless
+ negotiation exasperated the fierceness of his temper, and he
+ eagerly listened to those favourites who suggested to him
+ that his honour, as well as his interest.","('Constantine', 'PERSON')"
+"The well-ordered ranks of Romans and
+ barbarians, with drawn swords, or with erected spears, the
+ squadrons of cavalry, and the cohorts of infantry,
+ distinguished by the variety of their arms and ensigns,
+ formed an immense circle around the tribunal; and the
+ attentive silence which they preserved was sometimes
+ interrupted by loud bursts of clamour or of applause.","('Romans', 'NORP')"
+"The whole empire was deeply interested in the education of
+ these five youths, the acknowledged successors of
+ Constantine.","('five', 'CARDINAL'), ('Constantine', 'PERSON')"
+"The wife of Hormouz remained pregnant at the time
+ of her husband's death, and the uncertainty of the sex, as
+ well as of the event, excited the ambitious hopes of the
+ princes of the house of Sassan.","('Hormouz', 'PERSON'), ('Sassan', 'PERSON')"
+"The younger Constantine was
+ appointed to hold his court in Gaul; and his brother
+ Constantius exchanged that department, the ancient patrimony
+ of their father, for the more opulent, but less martial,
+ countries of the East.","('Constantine', 'PERSON'), ('Gaul', 'PERSON'), ('Constantius', 'PERSON'), ('East', 'LOC')"
+"Their 
+ patience was at length exhausted; and Treves, the seat of
+ Praetorian government, gave the signal of revolt, by
+ shutting her gates against Decentius, who had been raised by
+ his brother to the rank of either Caesar or of Augustus.(96) 
+ From Treves, Decentius was obliged to retire to Sens, where
+ he was soon surrounded by an army of Germans, whom the
+ pernicious arts of Constantius had introduced into the civil
+ dissensions of Rome. (97)","('Treves', 'PERSON'), ('Praetorian', 'NORP'), ('Decentius', 'PERSON'), ('Caesar', 'PERSON'), ('Augustus', 'PERSON'), ('Treves', 'PERSON'), ('Decentius', 'PERSON'), ('Sens', 'ORG'), ('Germans', 'NORP'), ('Constantius', 'ORG'), ('Rome', 'GPE'), ('97', 'CARDINAL')"
+"Their fate was
+ suspended till the arrival of Constantius, the second,(50) 
+ and perhaps the most favoured, of the sons of Constantine.","('Constantius', 'PERSON'), ('second', 'ORDINAL'), ('50', 'DATE'), ('Constantine', 'PERSON')"
+"Their inroads on the territory of
+ the empire provoked the indignation of Constantine to leave
+ them to their fate; and he no longer opposed the ambition of
+ Geberic, a renowned warrior, who had recently ascended the
+ Gothic throne.","('Constantine', 'PERSON'), ('Geberic', 'PERSON'), ('Gothic', 'NORP')"
+Their settlement near the Danube.,"('Danube', 'LOC')"
+"These
+ deputies were instructed to soothe the resentment, and to
+ alarm the fears, of Constantius.","('Constantius', 'ORG')"
+"These alliances, which
+ the policy of Constantine, regardless of the public
+ prejudice,(52) had formed between the several branches of the 
+ Imperial house, served only to convince mankind that these
+ princes were as cold to the endearments of conjugal
+ affection, as they were insensible to the ties of
+ consanguinity and the moving entreaties of youth and
+ innocence.","('Constantine', 'PERSON'), ('52', 'CARDINAL'), ('Imperial', 'NORP')"
+"These offers were enforced by the eloquence
+ of Philip the Imperial ambassador; and the council as well
+ as the army of Magnentius were disposed to accept them.","('Philip', 'PERSON'), ('Imperial', 'ORG'), ('Magnentius', 'GPE')"
+"These young princes were
+ successively invested with the title of Caesar, and the
+ dates of their promotion may be referred to the tenth, the
+ twentieth, and the thirtieth years of the reign of their
+ father.(29)","('Caesar', 'PERSON'), ('the tenth, the\r\n twentieth', 'DATE'), ('the thirtieth years', 'DATE'), ('29', 'CARDINAL')"
+"They
+ ascribe the misfortunes of Crispus to the arts of his
+ stepmother, Fausta, whose implacable hatred or whose
+ disappointed love renewed in the palace of Constantine the
+ ancient tragedy of Hippolytus and of Phaedra.(22)","('Crispus', 'PERSON'), ('Fausta', 'PERSON'), ('Constantine', 'PERSON'), ('Hippolytus', 'PERSON'), ('Phaedra', 'PERSON'), ('22', 'CARDINAL')"
+"They
+ were connected with the Romans by the mutual benefits of
+ commerce; as they were supplied from the provinces of Asia
+ with corn and manufactures, which they purchased with their
+ only productions, salt, wax, and hides.","('Romans', 'NORP'), ('Asia', 'LOC')"
+"They lived under the irregular aristocracy
+ of their chieftains, (42) but after they had received into 
+ their bosom the fugitive Vandals who yielded to the pressure
+ of the Gothic power, they seem to have chosen a king from
+ that nation, and from the illustrious race of the Astingi,
+ who had formerly dwelt on the shores of the northern ocean.","('42', 'DATE'), ('Vandals', 'NORP'), ('Gothic', 'NORP'), ('Astingi', 'NORP')"
+"They pretend that, as soon as the afflicted father
+ discovered the falsehood of the accusation by which his
+ credulity had been so fatally misled, he published to the
+ world his repentance and remorse; that he mourned forty
+ days, during which he abstained from the use of the bath and
+ all the ordinary comforts of life; and that, for the lasting
+ instruction of posterity, he erected a golden statue of
+ Crispus, with this memorable inscription, - TO MY SON, WHOM
+ I UNJUSTLY CONDEMNED. (21)","('forty\r\n days', 'DATE'), ('Crispus', 'PERSON'), ('21', 'CARDINAL')"
+"They were empowered to
+ offer him the friendship and alliance of the western
+ princes, to cement their union by a double marriage, - of
+ Constantius with the daughter of Magnentius, and of
+ Magnentius himself with the ambitious Constantina, - and to
+ acknowledge in the treaty the pre-eminence of rank which
+ might justly be claimed by the emperor of the East.","('Constantius', 'PERSON'), ('Magnentius', 'PERSON'), ('Magnentius', 'PERSON'), ('Constantina', 'PERSON'), ('East', 'LOC')"
+"They were reduced to the
+ necessity of employing fish-bones for the points of their
+ weapons; but the custom of dipping them in a venomous
+ liquor, that poisoned the wounds which they inflicted, is
+ alone sufficient to prove the most savage manners; since a
+ people impressed with a sense of humanity would have
+ abhorred so cruel a practice, and a nation skilled in the
+ arts of war would have disdained so impotent a resource.(39) 
+ Whenever these barbarians issued from their deserts in quest
+ of prey, their shaggy beards, uncombed locks, the furs with
+ which they were covered from head to foot, and their fierce
+ countenancess which seemed to express the innate cruelty of
+ their minds, inspired the more civilised provincials of Rome
+ with horror and dismay.","('Rome', 'GPE')"
+"This conduct, though it tended to multiply the 
+ future masters of the Roman world, might be excused by the
+ partiality of paternal affection; but it is not so easy to
+ understand the motives of the emperor, when he endangered
+ the safety both of his family and of his people by the
+ unnecessary elevation of his two nephews, Dalmatius and
+ Hannibalianus.","('Roman', 'NORP'), ('two', 'CARDINAL'), ('Dalmatius', 'PERSON'), ('Hannibalianus', 'PERSON')"
+"This dangerous popularity soon excited the attention of
+ Constantine, who, both as a father and as a king, was
+ impatient of an equal.","('Constantine', 'PERSON')"
+"This large and populous city was situate about two days' journey from the Tigris, in the midst of a pleasant and fertile plain at the foot of Mount Masius.","(""about two days'"", 'DATE'), ('Tigris', 'LOC'), ('Mount Masius', 'LOC')"
+"This naval victory contributed
+ to determine the event of the war, and the names of
+ Constantine and of Crispus were united in the joyful
+ acclamations of their eastern subjects, who loudly
+ proclaimed that the world had been subdued, and was now
+ governed, by an emperor endowed with every virtue, and by
+ his illustrious son, a prince beloved of Heaven, and the
+ lively image of his father's perfections.","('Constantine', 'PERSON'), ('Crispus', 'PERSON')"
+"Those among his predecessors who had
+ enjoyed the longest and most prosperous reigns, Augustus,
+ Trajan, and Diocletian, had been disappointed of posterity;
+ and the frequent revolutions had never allowed sufficient
+ time for any imperial family to grow up and multiply under
+ the shade of the purple.","('Augustus', 'PERSON'), ('Trajan', 'PERSON'), ('Diocletian', 'PERSON')"
+"Those who
+ occasionally mention the education or talents of Constantius
+ allow that he excelled in the gymnastic arts of leaping and
+ running; that he was a dexterous archer, a skilful horseman,
+ and a master of all the different weapons used in the
+ service either of the cavalry or of the infantry.(32)","('Constantius', 'PERSON'), ('32', 'CARDINAL')"
+"Those who have attacked, and those who have defended, the
+ character of Constantine, have alike disregarded two very
+ remarkable passages of two orations pronounced under the
+ succeeding reign.","('Constantine', 'PERSON'), ('two', 'CARDINAL'), ('two', 'CARDINAL')"
+"Thrace and the countries of the East
+ were allotted for the patrimony of Constantius; and Constans
+ was acknowledged as the lawful sovereign of Italy, Africa,
+ and the western Illyricum.","('East', 'LOC'), ('Constantius', 'LOC'), ('Constans', 'PERSON'), ('Italy', 'GPE'), ('Africa', 'LOC'), ('Illyricum', 'LOC')"
+"To secure this inglorious ease, he submitted to the
+ conditions of peace which Sapor condescended to impose: the
+ payment of an annual tribute, and the restitution of the
+ fertile province of Atropatene, which the courage of
+ Tiridates and the victorious arms of Galerius had annexed to
+ the Armenian monarchy.(59)","('Sapor', 'PERSON'), ('Atropatene', 'GPE'), ('Tiridates', 'PERSON'), ('Galerius', 'PERSON'), ('Armenian', 'NORP')"
+"Unequal to the fatigues of war, averse
+ to the society of mankind, he withdrew from his capital to a
+ retired palace which he built on the banks of the river
+ Eleutherus, and in the centre of a shady grove, where he
+ consumed his vacant hours in the rural sports of hunting and
+ hawking.","('Eleutherus', 'LOC'), ('hours', 'TIME')"
+"Virtues of Crispus 
+Crispus, the eldest son of Constantine, and the presumptive
+ heir of the empire, is represented by impartial historians
+ as an amiable and accomplished youth.","('Crispus \r\nCrispus', 'PERSON'), ('Constantine', 'PERSON')"
+"We are too imperfectly acquainted with the court
+ of Constantine to form any judgment of the real motives
+ which influenced the leaders of the conspiracy; unless we
+ should suppose that they were actuated by a spirit of
+ jealousy and revenge against the praefect Ablavius, a proud
+ favourite, who had long directed the counsels and abused the
+ confidence of the late emperor.","('Constantine', 'PERSON'), ('Ablavius', 'PERSON')"
+"Whatever advantages might attend the arms of Sapor in the
+ field, though nine repeated victories diffused among the
+ nations the fame of his valour and conduct, he could not
+ hope to succeed in the execution of his designs while the
+ fortified towns of Mesopotamia, and, above all, the strong
+ and ancient city of Nisibis, remained in the possession of
+ the Romans.","('Sapor', 'PERSON'), ('nine', 'CARDINAL'), ('Mesopotamia', 'GPE'), ('Nisibis', 'GPE'), ('Romans', 'NORP')"
+"When
+ they first assumed the reins of government, the eldest of
+ these princes was twenty-one, the second twenty, and the
+ third only seventeen, years of age.(54)
+Sapor king of Persia, A.D. 310.","('first', 'ORDINAL'), ('twenty-one', 'CARDINAL'), ('second', 'ORDINAL'), ('twenty', 'CARDINAL'), ('third', 'ORDINAL'), ('seventeen, years of age.(54', 'DATE'), ('Sapor', 'PERSON'), ('Persia', 'GPE'), ('310', 'CARDINAL')"
+"While the martial nations of Europe followed the standards
+ of his brothers, Constantius, at the head of the effeminate
+ troops of Asia, was left to sustain the weight of the
+ Persian war.","('Europe', 'LOC'), ('Constantius', 'PERSON'), ('Asia', 'LOC'), ('the\r\n Persian war', 'EVENT')"
+"Wisumar, the Vandal king, whilst, alone and
+ unassisted, he defended his dominions with undaunted
+ courage, was vanquished and slain in a decisive battle which
+ swept away the flower of the Sarmatian youth.","('Wisumar', 'PERSON'), ('Vandal', 'PERSON'), ('Sarmatian', 'NORP')"
+"Yet one of those venal orators, so jealous of the fame of
+ Constantius, relates, with amazing coolness, an act of such
+ incredible cruelty, as, in the judgment of posterity, must
+ imprint a far deeper stain on the honour of the Imperial
+ name.","('one', 'CARDINAL'), ('Constantius', 'PERSON'), ('Imperial', 'ORG')"
+"against the power of Sapor, and the disappointed monarch, after urging his attacks above sixty, eighty, and an hundred
+ days, was thrice repulsed with loss and ignominy.(64)","('Sapor', 'PERSON'), ('sixty, eighty', 'CARDINAL'), ('an hundred\r\n days', 'DATE')"
+hour of his death.,"('hour', 'TIME')"
+"or even in
+ the plains of Hadrianople, such is the character which, with
+ a few exceptions he might have transmitted to posterity.","('Hadrianople', 'LOC')"
+"to
+ reward the same virtues which had raised the ancestors of
+ the degenerate Constans from a private condition to the
+ throne of the world.","('Constans', 'NORP')"

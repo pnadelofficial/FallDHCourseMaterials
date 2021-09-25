@@ -1,0 +1,779 @@
+Sentence,Entities
+"(11) Seville and Carthagena became 
+ the reward, or rather the prey, of the ferocious conquerors;
+ and the vessels which they found in the harbour of
+ Carthagena might easily transport them to the isles of
+ Majorca and Minorca, where the Spanish fugitives, as in a
+ secure recess, had vainly concealed their families and their
+ fortunes.","('Seville', 'GPE'), ('Carthagena', 'GPE'), ('Carthagena', 'GPE'), ('Majorca', 'LOC'), ('Minorca', 'LOC'), ('Spanish', 'NORP')"
+(31),"('31', 'CARDINAL')"
+"A
+ female attendant, transported in the same ship, and sold in
+ the same family, still continued to respect a mistress whom
+ fortune had reduced to the common level of servitude; and
+ the daughter of Eudaemon received from her grateful
+ affection the domestic services which she had once required
+ from her obedience.","('Eudaemon', 'PERSON')"
+"A
+ shepherd, whom the popular credulity transformed into an
+ angel, guided the Eastern cavalry, by a secret, and, it was
+ thought, an impassable road, through the morasses of the Po:
+ the gates of Ravenna, after a short struggle, were thrown
+ open; and the defenceless tyrant was delivered to the mercy,
+ or rather to the cruelty, of the conquerors.","('Eastern', 'NORP'), ('Po', 'PERSON'), ('Ravenna', 'GPE')"
+"A peasant, who
+ complained of the criminal intimacy between his wife and a
+ Gothic soldier, was directed to attend his tribunal the
+ following day: in the evening the count, who had diligently
+ informed himself of the time and place of the assignation,
+ mounted his horse, rode ten miles into the country,
+ surprised the guilty couple, punished the soldier with
+ instant death, and silenced the complaints of the husband,
+ by presenting him, the next morning, with the head of the
+ adulterer.","('Gothic', 'NORP'), ('the\r\n following day', 'DATE'), ('ten miles', 'QUANTITY'), ('the next morning', 'TIME')"
+"A regular scale of fines, from ten to two
+ hundred pounds of silver, was curiously ascertained,
+ according to the distinctions of rank and fortune, to punish
+ the crime of assisting at a schismatic conventicle; and if
+ the fine had been levied five times without subduing the
+ obstinacy of the offender, his future punishment was
+ referred to the discretion of the Imperial court.(18) By 
+ these severities, which obtained the warmest approbation of
+ St. Augustin,(19) great numbers of Donatists were reconciled 
+ to the Catholic church; but the fanatics who still
+ persevered in their opposition were provoked to madness and
+ despair; the distracted country was filled with tumult and
+ bloodshed; the armed troops of Circumcellions alternately
+ pointed their rage against themselves or against their
+ adversaries; and the calendar of martyrs received on both
+ sides a considerable augmentation. (20)","('ten to two\r\n hundred pounds', 'QUANTITY'), ('five', 'CARDINAL'), ('Imperial', 'ORG'), ('18', 'CARDINAL'), ('St. Augustin', 'GPE'), ('19', 'CARDINAL'), ('Donatists', 'NORP'), ('Catholic', 'NORP'), ('Circumcellions', 'NORP'), ('20', 'CARDINAL')"
+"A regular subordination of
+ civil honours gradually ascended from the procurators of the
+ streets and quarters of the city to the tribunal of the
+ supreme magistrate, who, with the title of proconsul,
+ represented the state and dignity of a consul of ancient
+ Rome.","('Rome', 'GPE')"
+"A simple reflection will impress every
+ thinking mind with the clearest idea of fertility and
+ cultivation: the country was extremely populous; the
+ inhabitants reserved a liberal subsistence for their own
+ use; and the annual exportation, particularly of wheat, was
+ so regular and plentiful, that Africa deserved the name of
+ the common granary of Rome and of mankind.","('Africa', 'LOC'), ('Rome', 'GPE')"
+"A temperate
+ inquiry into the real motives of Boniface would have
+ restored a faithful servant to his duty and to the republic;
+ but the arts of Aetius still continued to betray and to
+ inflame, and the count was urged by persecution to embrace
+ the most desperate counsels.","('Boniface', 'PERSON'), ('Aetius', 'ORG')"
+"According to the judgment of the most impartial critics, 
+ the superficial learning of Augustin was confined to the
+ Latin language;(28) and his style, though sometimes animated 
+ by the eloquence of passion, is usually clouded by false and
+ affected rhetoric.","('Augustin', 'PERSON'), ('Latin', 'LANGUAGE'), ('28', 'CARDINAL')"
+Aetius and Boniface.—,"('Aetius', 'ORG'), ('Boniface', 'PERSON')"
+"After a
+ slumber, as they thought of a few hours, they were pressed
+ by the calls of hunger; and resolved that Jamblichus, one of
+ their number, should secretly return to the city to purchase
+ bread for the use of his companions.","('a few hours', 'TIME'), ('Jamblichus', 'PERSON'), ('one', 'CARDINAL')"
+"After her
+ return from Spain to Italy, Placidia experienced a new
+ persecution in the bosom of her family.","('Spain', 'GPE'), ('Italy', 'GPE'), ('Placidia', 'PERSON')"
+"After some hesitation,
+ the last struggles of prudence and loyalty, Boniface
+ despatched a trusty friend to the court, or rather to the
+ camp, of Gonderic, king of the Vandals, with the proposal of
+ a strict alliance, and the offer of an advantageous and
+ perpetual settlement.","('Boniface', 'PERSON'), ('Gonderic', 'PERSON'), ('Vandals', 'NORP')"
+"After the loss of a battle he retired to Hippo Regius, where
+ he was immediately besieged by an enemy who considered him
+ as the real bulwark of Africa.","('Hippo Regius', 'PERSON'), ('Africa', 'LOC')"
+"Almost in the moment of his departure he was informed that Hermanric, king of the Suevi, had presumed to ravage the Spanish territories which he was resolved to abandon.","('Hermanric', 'PERSON'), ('Suevi', 'PERSON'), ('Spanish', 'NORP')"
+"Amidst the decay of
+ military spirit, her armies were commanded by two generals, Her two generals Aetius (8) and Boniface, (9) who may be deservedly named as the last of the Romans.","('two', 'CARDINAL'), ('two', 'CARDINAL'), ('Aetius', 'PERSON'), ('8', 'CARDINAL'), ('Boniface', 'PERSON'), ('9', 'CARDINAL'), ('Romans', 'NORP')"
+"Among the insipid legends of ecclesiastical history, I am
+ tempted to distinguish the memorable fable of the SEVEN
+ SLEEPERS;(42) whose imaginary date corresponds with the reign of the younger Theodosius, and the conquest of Africa by the
+ Vandals. (43)","('SEVEN', 'CARDINAL'), ('42', 'CARDINAL'), ('Theodosius', 'PERSON'), ('Africa', 'LOC'), ('Vandals', 'PERSON'), ('43', 'CARDINAL')"
+"Ardaburius employed, or abused, the
+ courteous freedom which he was permitted to enjoy, to revive
+ among the troops a sense of loyalty and gratitude; and, as
+ soon as the conspiracy was ripe for execution, he invited,
+ by private messages, and pressed the approach of Aspar.","('Ardaburius', 'PERSON'), ('Aspar', 'ORG')"
+"As he advanced towards Carthage he was forced to withdraw his troops from the Western provinces; the sea-coast was exposed to the naval enterprises of the Romans of Spain and Italy; and, in the heart of Numidia, the strong inland city of Cirta still persisted in obstinate independence.(35) These difficulties were gradually subdued by the spirit, the perseverance, and the cruelty of Genseric, who alternately: applied the arts of peace and war to the establishment of his African kingdom.","('Carthage', 'GPE'), ('Western', 'NORP'), ('Romans', 'NORP'), ('Spain', 'GPE'), ('Italy', 'GPE'), ('Numidia', 'GPE'), ('Cirta', 'GPE'), ('Genseric', 'PERSON'), ('African', 'NORP')"
+"As soon as the
+ force of the two empires was united under the command of
+ Boniface, he boldly marched against the Vandals; and the
+ loss of a second battle irretrievably decided the fate of
+ Africa.","('two', 'CARDINAL'), ('Boniface', 'PERSON'), ('Vandals', 'NORP'), ('second', 'ORDINAL'), ('Africa', 'LOC')"
+"At the end of that time, the slaves of
+ Adolius, to whom the inheritance of the mountain had
+ descended, removed the stones, to supply materials for some
+ rustic edifice: the light of the sun darted into the cavern,
+ and the Seven Sleepers were permitted to awake.","('Adolius', 'GPE'), ('Seven', 'CARDINAL')"
+"At the same time, as a compensation, perhaps,
+ for the expenses of the war, the Western Illyricum was
+ detached from the Italian dominions, and yielded to the
+ throne of Constantinople.(5)","('Italian', 'NORP'), ('Constantinople', 'GPE'), ('5', 'CARDINAL')"
+"Boniface accepted with gratitude the
+ rank of patrician and the dignity of master-general of the
+ Roman armies; but he must have blushed at the sight of those
+ medals in which he was represented with the name and
+ attributes of victory.","('Boniface', 'PERSON'), ('Roman', 'NORP')"
+"Boniface was successful; His death, A.D. 432 but he received in the conflict a mortal wound from the spear of his adversary, of which he expired within a few days, in such Christian and charitable
+ sentiments that he exhorted his wife, a rich heiress of
+ Spain, to accept Aetius for her second husband.","('Boniface', 'PERSON'), ('A.D. 432', 'DATE'), ('a few days', 'DATE'), ('Christian', 'NORP'), ('Spain', 'GPE'), ('Aetius', 'PERSON'), ('second', 'ORDINAL')"
+"But Aetius
+ could not derive any immediate advantage from the generosity
+ of his dying enemy: he was proclaimed a rebel by the justice
+ of Placidia; and though he attempted to defend some strong
+ fortresses, erected on his patrimonial estate, the Imperial
+ power soon compelled him to retire into Pannonia, to the
+ tents of his faithful Huns.","('Aetius', 'PERSON'), ('Placidia', 'PERSON'), ('Imperial', 'NORP'), ('Pannonia', 'GPE'), ('Huns', 'PERSON')"
+"But Aetius
+ possessed an advantage of singular moment in a female reign:
+ he was present: he besieged with artful and assiduous
+ flattery the palace of Ravenna; disguised his dark designs
+ with the mask of loyalty and friendship; and at length
+ deceived both his mistress and his absent rival, by a subtle
+ conspiracy which a weak woman and a brave man could not
+ easily suspect.","('Aetius', 'PERSON'), ('Ravenna', 'PERSON')"
+"But he possessed a strong, capacious,
+ argumentative mind; he boldly sounded the dark abyss of
+ grace, predestination, free-will, and original sin; and the
+ rigid system of Christianity which he framed or restored(29) 
+ has been entertained with public applause and secret
+ reluctance by the Latin church.(30)
+Defeat and retreat of Bonniface, A.D. 431.","('Christianity', 'NORP'), ('29', 'CARDINAL'), ('Latin', 'NORP'), ('30', 'CARDINAL'), ('Bonniface', 'PERSON'), ('431', 'CARDINAL')"
+"But her resistance ended with the ceremony of the
+ nuptials; nor did Placidia refuse to become the mother of
+ Honoria and Valentinian the Third, or to assume and exercise
+ an absolute dominion over the mind of her grateful husband.","('Placidia', 'PERSON'), ('Honoria', 'PERSON'), ('Valentinian', 'NORP'), ('Third', 'ORDINAL')"
+"But if the interval
+ between two memorable eras could be instantly annihilated;
+ if it were possible, after a momentary slumber of two
+ hundred years, to display the new world to the eyes of a
+ spectator who still retained a lively and recent impression
+ of the old, his surprise and his reflections would furnish
+ the pleasing subject of a philosophical romance.","('two', 'CARDINAL'), ('two\r\n hundred years', 'DATE')"
+But the public discontent burst forth in dangerous and frequent conspiracies; and the warlike tyrant is supposed to have shed more Vandal blood by the hand of the executioner than in the field of battle.(34),"('Vandal', 'NORP'), ('34', 'CARDINAL')"
+"By a positive declaration, the validity of all
+ future laws was limited to the dominions of their peculiar
+ author; unless he should think proper to communicate them,
+ subscribed with his own hand, for the approbation of his
+ independent colleague.(6)
+Administration of his mother Placidia, A.D. 425-450 
+Valentinian, when he received the title of Augustus, was no
+ more than six years of age; and his long minority was
+ intrusted to the guardian care of a mother who might assert
+ a female claim to the succession of the Western empire
+ Placidia envied, but she could not equal, the reputation and
+ virtues of the wife and sister of Theodosius; the elegant
+ genius of Eudocia, the wise and successful policy of
+ Pulcheria.","('Placidia', 'PERSON'), ('A.D. 425-450', 'DATE'), ('Valentinian', 'WORK_OF_ART'), ('Augustus', 'PERSON'), ('six years of age', 'DATE'), ('Western', 'NORP'), ('Placidia', 'PERSON'), ('Theodosius', 'PERSON'), ('Eudocia', 'PERSON'), ('Pulcheria', 'PERSON')"
+"By the agreement of the three females who 
+ governed the Roman world, the son of Placidia was betrothed
+ to Eudoxia, the daughter of Theodosius and Athenais; and, as
+ soon as the lover and his bride had attained the age of
+ puberty, this honourable alliance was faithfully
+ accomplished.","('three', 'CARDINAL'), ('Roman', 'NORP'), ('Placidia', 'PERSON'), ('Eudoxia', 'PERSON'), ('Theodosius', 'PERSON'), ('Athenais', 'PERSON')"
+"By the skill of Boniface, and perhaps by the ignorance of
+ the Vandals, the siege of Hippo was protracted above
+ fourteen months: the sea was continually open; and when the
+ adjacent country had been exhausted by irregular rapine, the
+ besiegers themselves were compelled by famine to relinquish
+ their enterprise.","('Boniface', 'PERSON'), ('Vandals', 'NORP'), ('Hippo', 'PERSON'), ('fourteen months', 'DATE')"
+"Carthage and the Roman garrisons returned with
+ their general to the allegiance of Valentinian, but the rest
+ of Africa was still distracted with war and faction; and the
+ inexorable king of the Vandals, disdaining all terms of
+ accommodation, sternly refused to relinquish the possession
+ of his prey.","('Carthage', 'GPE'), ('Roman', 'NORP'), ('Valentinian', 'NORP'), ('Africa', 'LOC'), ('Vandals', 'NORP')"
+"Carthage contained the manufactures, the arms, and the
+ treasures of the six provinces.","('Carthage', 'GPE'), ('six', 'CARDINAL')"
+Conquest of Africa by the Vandals.,"('Africa', 'LOC'), ('Vandals', 'NORP')"
+Death of Honorius.—,"('Death of Honorius', 'PERSON')"
+Desolation of Africa,"('Africa', 'LOC')"
+"During this period the seat of
+ government had been transported from Rome to a new city on
+ the banks of the Thracian Bosphorus and the abuse of
+ military spirit had been suppressed by an artificial system
+ of tame and ceremonious servitude.","('Rome', 'GPE'), ('the Thracian Bosphorus', 'LOC')"
+Eight years however elapsed from the evacuation of Hippo to the reduction of Carthage.,"('Eight years', 'DATE'), ('Hippo', 'GPE'), ('Carthage', 'GPE')"
+"Elated by the submission of Italy, and
+ the hope of an alliance with the Huns, John presumed to
+ insult by an embassy, the majesty of the Eastern emperor;
+ but when he understood that his agents had been banished,
+ imprisoned, and at length chased away with deserved
+ ignominy, John prepared to assert by arms the injustice of
+ his claims.","('Italy', 'GPE'), ('Huns', 'NORP'), ('John', 'PERSON'), ('Eastern', 'NORP'), ('John', 'PERSON')"
+"Elevation and fall of the usurper John, A.D. 423-425","('John', 'PERSON')"
+"Emperor of the West, A.D. 425-455","('425-455', 'CARDINAL')"
+Emperor of the West—Administration of His Mother Placidia.—,"('His Mother Placidia', 'PERSON')"
+"Error and revolt of Boniface in Africa, A.D. 427","('Boniface', 'PERSON'), ('Africa', 'LOC'), ('A.D. 427', 'DATE')"
+Fable of the seven sleepers.,"('seven', 'CARDINAL')"
+"He contented himself with
+ the possession of the East; and wisely relinquished the
+ laborious task of waging a distant and doubtful war against
+ the barbarians beyond the Alps, or of securing the obedience
+ of the Italians and Africans, whose minds were alienated by
+ the irreconcilable difference of language and interest.","('East', 'LOC'), ('Alps', 'LOC'), ('Italians', 'NORP'), ('Africans', 'NORP')"
+"He embarked with the precipitation of despair, and
+ the people of Hippo were permitted, with their families and
+ effects, to occupy the vacant place of the soldiers, the
+ greatest part of whom were either slain or made prisoners by
+ the Vandals.","('Hippo', 'PERSON'), ('Vandals', 'NORP')"
+"He hastily returned from Gaul to Italy, with a
+ retinue, or rather With an army, of barbarian followers; and
+ such was the weakness of the government, that the two
+ generals decided their private quarrel in a bloody battle.","('Gaul', 'PERSON'), ('Italy', 'GPE'), ('two', 'CARDINAL')"
+"He invites the vandals, A.D. 428 
+ After the retreat of the Goths the authority of Honorius had
+ obtained a precarious establishment in Spain, except only in
+ the province of Gallicia, where the Suevi and the Vandals
+ had fortified their camps in mutual discord and hostile
+ independence.","('A.D. 428', 'FAC'), ('Goths', 'NORP'), ('Honorius', 'GPE'), ('Spain', 'GPE'), ('Gallicia', 'GPE'), ('Suevi', 'GPE'), ('Vandals', 'PRODUCT')"
+"He secretly persuaded (10) Placidia to recall 
+ Boniface from the government of Africa; he secretly advised
+ Boniface to disobey the Imperial summons: to the one, he
+ represented the order as a sentence of death; to the other,
+ he stated the refusal as a signal of revolt; and when the
+ credulous and unsuspectful count had armed the province in
+ his defence, Aetius applauded his sagacity in foreseeing the
+ rebellion which his own perfidy had excited.","('10', 'CARDINAL'), ('Placidia', 'PERSON'), ('Boniface', 'PERSON'), ('Africa', 'LOC'), ('Boniface', 'PERSON'), ('Imperial', 'NORP'), ('Aetius', 'PERSON')"
+"Her filial impatience was seconded
+ by the pious bishop: Theodoret, in a letter still extant,
+ recommends Maria to the bishop of Aegae, a maritime city of
+ Cilicia, which was frequented, during the annual fair, by
+ the vessels of the West; most earnestly requesting that his
+ colleague would use the maiden with a tenderness suitable to
+ her birth; and that he would intrust her to the care of such
+ faithful merchants as would esteem it a sufficient gain if
+ they restored a daughter, lost beyond all human hope, to the
+ arms of her afflicted parent.","('Theodoret', 'PERSON'), ('Maria', 'PERSON'), ('Aegae', 'GPE'), ('Cilicia', 'GPE'), ('West', 'LOC')"
+"His
+ singular dress and obsolete language confounded the baker,
+ whom he offered an ancient medal of Decius the current coin
+ of the empire; and Jamblichus, on the suspicion of a secret
+ treasure, was dragged before the judge.","('Decius', 'PERSON'), ('Jamblichus', 'PERSON')"
+"His right hand
+ was first cut off, and after he had been exposed, mounted on
+ an ass, to the public derision, John was beheaded in the
+ circus of Aquileia.","('first', 'ORDINAL'), ('John', 'PERSON'), ('Aquileia', 'PERSON')"
+"His throne was encompassed with domestic enemies, who accused the baseness of his birth, and asserted the legitimate claims of his nephews, the sons of Gonderic.","('Gonderic', 'PERSON')"
+"Impatient of the insult, Genseric pursued the hasty retreat of the Suevi as far as Merida, precipitated the king and his army into the river Anas, He lands in Africa, A.D. 429, May, and calmly returned to the seashore to embark his victorious troops.","('Genseric', 'PERSON'), ('Suevi', 'NORP'), ('Merida', 'GPE'), ('Anas', 'PERSON'), ('Africa', 'LOC'), ('A.D. 429', 'DATE'), ('May', 'DATE')"
+"In a monarchy which, according to various precedents, might
+ be considered as elective, or hereditary, or patrimonial, it
+ was impossible that the intricate claims of female and
+ collateral succession should be clearly defined; (3) and 
+ Theodosius, by the right of consanguinity or conquest, might
+ have reigned the sole legitimate emperor of the Romans.","('3', 'CARDINAL'), ('Theodosius', 'PERSON'), ('Romans', 'NORP')"
+"In such a cause the grandson of the great
+ Theodosius should have marched in person; but the young
+ emperor was easily diverted by his physicians from so rash
+ and hazardous a design; and the conduct of the Italian
+ expedition was prudently intrusted to Ardaburius and his son
+ Aspar, who had already signalised their valour against the
+ Persians.","('Theodosius', 'PERSON'), ('Italian', 'NORP'), ('Ardaburius', 'PERSON'), ('Aspar', 'PERSON'), ('Persians', 'NORP')"
+"In the field of
+ battle, in partial encounters, in single combats, he was
+ still the terror of the barbarians: the clergy, and
+ particularly his friend Augustin, were edified by the
+ Christian piety which had once tempted him to retire from
+ the world; the people applauded his spotless integrity; the
+ army dreaded his equal and inexorable justice, which may be
+ displayed in a very singular example.","('Augustin', 'PERSON'), ('Christian', 'NORP')"
+"In the melancholy season
+ of her exile and distress, Boniface alone had maintained her
+ cause with unshaken fidelity; and the troops and treasures
+ of Africa had essentially contributed to extinguish the
+ rebellion.","('Boniface', 'PERSON'), ('Africa', 'LOC')"
+"In the midst of that interval the ambitious Genseric, in the full tide of apparent prosperity, negotiated a treaty of peace, by which he gave his son Hunneric for an hostage, and consented to leave the Western emperor in the undisturbed possession of the three Mauritanias. (33)","('Genseric', 'ORG'), ('Hunneric', 'PERSON'), ('Western', 'NORP'), ('three', 'CARDINAL'), ('Mauritanias', 'NORP'), ('33', 'CARDINAL')"
+"In the room of a prince not conspicuous for
+ any superior powers of the mind or body, they acquired his
+ bastard brother, Genseric, King Of The Vandals the terrible Genseric;(12) a name which in the destruction of the Roman empire has reserved an equal rank with the names of Alaric and Attila.","('Genseric', 'PERSON'), ('King Of The Vandals', 'PERSON'), ('Genseric', 'PERSON'), ('12', 'CARDINAL'), ('Roman', 'NORP'), ('Alaric', 'PERSON'), ('Attila', 'PERSON')"
+"In the sack of Carthage she was
+ purchased from the Vandals by some merchants of Syria, who
+ afterwards sold her as a slave in their native country.","('Carthage', 'GPE'), ('Vandals', 'PRODUCT'), ('Syria', 'GPE')"
+"In their first interview at Carthage the imaginary
+ provocations were mutually explained, the opposite letters
+ of Aetius were produced and compared, and the fraud was
+ easily detected.","('first', 'ORDINAL'), ('Carthage', 'GPE'), ('Aetius', 'PRODUCT')"
+"Instead of listening to the voice of ambition, Theodosius
+ resolved to imitate the moderation of his grandfather, and
+ to seat his cousin Valentinian on the throne of the West.","('Theodosius', 'PERSON'), ('Valentinian', 'PERSON'), ('West', 'LOC')"
+"It might naturally be expected, after the retreat of Boniface, that the Vandals would achieve without resistance or delay the conquest of Africa.","('Boniface', 'PERSON'), ('Vandals', 'NORP'), ('Africa', 'LOC')"
+"It was natural enough that Genseric should hate those whom
+ he had injured: the nobility and senators of Carthage, were
+ exposed to his jealousy and resentment; and all those who
+ refused the ignominious terms which their honour and
+ religion forbade them to accept were compelled by the Arian
+ tyrant to embrace the condition of perpetual banishment.","('Genseric', 'PERSON'), ('Carthage', 'GPE'), ('Arian', 'NORP')"
+"It was resolved that Ardaburius should embark with
+ the infantry; whilst Aspar, at the head of the cavalry,
+ conducted Placidia, and her son Valentinian, along the
+ sea-coast of the Hadriatic.","('Ardaburius', 'PERSON'), ('Aspar', 'PERSON'), ('Placidia', 'PERSON'), ('Valentinian', 'NORP'), ('Hadriatic', 'PRODUCT')"
+"James of
+ Sarug, a Syrian bishop, who was born only two years after
+ the death of the younger Theodosius, has devoted one of his
+ two hundred and thirty homilies to the praise of the young
+ men of Ephesus.(44)","('James of\r\n Sarug', 'PERSON'), ('Syrian', 'NORP'), ('only two years', 'DATE'), ('Theodosius', 'PERSON'), ('one', 'CARDINAL'), ('two hundred and thirty', 'CARDINAL'), ('Ephesus', 'GPE'), ('44', 'CARDINAL')"
+"Last years and death of Honorius, A.D. 423, August 27 
+ DURING a long and disgraceful reign of twenty-eight years,
+ Honorius, emperor of the West, was separated from the
+ friendship of his brother, and afterwards of his nephew, who
+ reigned over the East; and Constantinople beheld, with
+ apparent indifference and secret joy, the calamities of
+ Rome.","('Last years', 'DATE'), ('Honorius', 'GPE'), ('A.D. 423', 'DATE'), ('August 27', 'DATE'), ('twenty-eight years', 'DATE'), ('Honorius', 'PERSON'), ('West', 'LOC'), ('East', 'LOC'), ('Constantinople', 'GPE'), ('Rome', 'GPE')"
+"Nor has 
+ their reputation been confined to the Christian world.","('Christian', 'NORP')"
+"On a sudden the
+ seven fruitful provinces, from Tangier to Tripoli, were
+ overwhelmed by the invasion of the Vandals, whose
+ destructive rage has perhaps been exaggerated by popular
+ animosity, religious zeal, and extravagant declamation.","('seven', 'CARDINAL'), ('Tangier', 'GPE'), ('Tripoli', 'GPE'), ('Vandals', 'LOC')"
+"On a sudden, by some base
+ intrigues of a steward and a nurse, this excessive fondness
+ was converted into an irreconcilable quarrel: the debates of
+ the emperor and his sister were not long confined within the
+ walls of the palace; and as the Gothic soldiers adhered to
+ their queen, the city of Ravenna was agitated with bloody
+ and dangerous tumults, which could only be appeased by the
+ forced or voluntary retreat of Placidia and her children.","('Gothic', 'NORP'), ('Ravenna', 'GPE'), ('Placidia', 'PERSON')"
+"Our fancy, so long accustomed to exaggerate and multiply the
+ martial swarms of barbarians that seemed to issue from the
+ North, will perhaps be surprised by the account of the army
+ which Genseric mustered on the coast of Mauritania.","('North', 'LOC'), ('Genseric', 'GPE'), ('Mauritania', 'GPE')"
+"Placidia and Boniface lamented their fatal
+ error, and the count had sufficient magnanimity to confide
+ in the forgiveness of his sovereign, or to expose his head
+ to her future resentment.","('Placidia', 'PERSON'), ('Boniface', 'PERSON')"
+"Placidia implored the
+ assistance of her Eastern ally and the Italian fleet and
+ army were reinforced by Aspar, who sailed from
+ Constantinople with a powerful armament.","('Placidia', 'PERSON'), ('Eastern', 'NORP'), ('Italian', 'NORP'), ('Aspar', 'PERSON'), ('Constantinople', 'GPE')"
+"Rome, Italy, and the provinces of the East, were filled with
+ a crowd of exiles, of fugitives and of ingenuous captives,
+ who solicited the public compassion: and the benevolent
+ epistles of Theodoret still preserve the names and
+ misfortunes of Caelestian and Maria. (41)","('Rome', 'GPE'), ('Italy', 'GPE'), ('East', 'LOC'), ('Theodoret', 'PERSON'), ('Caelestian', 'NORP'), ('Maria', 'PERSON')"
+"Schools and gymnasia were instituted for the education
+ of the African youth; and the liberal arts and manners,
+ grammar, rhetoric, and philosophy, were publicly taught in
+ the Greek and Latin languages.","('African', 'NORP'), ('Greek', 'LANGUAGE'), ('Latin', 'LANGUAGE')"
+"Seventeen years
+ before he landed in Africa, a public conference was held at
+ Carthage by the order of the magistrate.","('Seventeen years', 'DATE'), ('Africa', 'LOC'), ('Carthage', 'GPE')"
+"She was averse to a
+ marriage which had been stipulated without her consent; and
+ the brave Constantius, as a noble reward for the tyrants
+ whom he had vanquished, received, from the hand of Honorius
+ himself, the struggling and reluctant hand of the widow of
+ Adolphus.","('Constantius', 'PERSON'), ('Honorius', 'PERSON'), ('Adolphus', 'PERSON')"
+"Tardy repentance of Boniface, A.D. 430","('Boniface', 'PERSON'), ('A.D. 430', 'DATE')"
+"That wealthy and opulent metropolis (37) displayed, in a 
+ dependent condition, the image of a flourishing republic.","('37', 'CARDINAL')"
+"The
+ Vandals, who in twenty years had penetrated from the Elbe to
+ Mount Atlas, were united under the command of their warlike
+ king; and he reigned with equal authority over the Alani,
+ who had passed within the term of human life from the cold
+ of Scythia to the excessive heat of an African climate.","('Vandals', 'PERSON'), ('twenty years', 'DATE'), ('Elbe', 'LOC'), ('Mount Atlas', 'LOC'), ('Alani', 'PERSON'), ('Scythia', 'GPE'), ('African', 'NORP')"
+"The
+ hopes of the bold enterprise had excited many brave
+ adventurers of the Gothic nation, and many desperate
+ provincials were tempted to repair their fortunes by the
+ same means which had occasioned their ruin.","('Gothic', 'NORP')"
+"The
+ story of Maria, the daughter of the magnificent Eudaemon, is
+ singular and interesting.","('Maria', 'PERSON'), ('Eudaemon', 'PERSON')"
+"The
+ youth of Augustin had been stained by the vices and errors
+ which he so ingenuously confesses; but from the moment of
+ his conversion to that of his death the manners of the
+ bishop of Hippo were pure and austere, and the most
+ conspicuous of his virtues was an ardent zeal against
+ heretics of every denomination—the Manichaeans, the
+ Donatists, and the Pelagians against whom he waged a
+ perpetual controversy.","('Augustin', 'PERSON'), ('Hippo', 'PERSON'), ('Manichaeans', 'NORP'), ('Donatists', 'NORP'), ('Pelagians', 'NORP')"
+"The 
+ king of the Vandals severely reformed the vices of a
+ voluptuous people; and the ancient, noble, ingenuous freedom
+ of Carthage (these expressions of Victor are not without
+ energy) was reduced by Genseric into a state of ignominious
+ servitude.","('Vandals', 'NORP'), ('Carthage', 'GPE'), ('Victor', 'PERSON'), ('Genseric', 'NORP')"
+The Donatists,"('The Donatists', 'PERSON')"
+"The Syrian bishop 
+ deplores the misfortunes of Caelestian, who, from the state
+ of a noble and opulent senator of Carthage, was reduced,
+ with his wife, and family, and servants, to beg his bread in
+ a foreign country; but he applauds the resignation of the
+ Christian exile, and the philosophic temper which, under the
+ pressure of such calamities, could enjoy more real happiness
+ than was the ordinary lot of wealth and prosperity.","('Syrian', 'NORP'), ('Caelestian', 'PERSON'), ('Carthage', 'GPE'), ('Christian', 'NORP')"
+"The Vandals prevailed, and their adversaries
+ were besieged in the Nervasian hills, between Leon and
+ Oviedo, till the approach of Count Asterius compelled, or
+ rather provoked, the victorious barbarians to remove the
+ scene of the war to the plains of Baetica.","('Nervasian', 'NORP'), ('Leon', 'GPE'), ('Oviedo', 'GPE'), ('Asterius', 'PERSON'), ('Baetica', 'GPE')"
+"The Vandals,
+ where they found resistance, seldom gave quarter; and the
+ deaths of the valiant countrymen were expiated by the ruin
+ of the cities under whose walls they had fallen.","('Vandals', 'PRODUCT'), ('quarter', 'CARDINAL')"
+"The abilities of Aetius and Boniface might have
+ been usefully employed against the public enemies in
+ separate and important commands; but the experience of their
+ past conduct should have decided the real favour and
+ confidence of the empress Placidia.","('Aetius', 'PERSON'), ('Boniface', 'PERSON'), ('Placidia', 'PERSON')"
+"The ambition of Genseric was without bounds and without scruples, and the warrior could dexterously employ the dark engines of policy to solicit the allies who might be useful to his success, or to scatter among his enemies the seeds of hatred and contention.","('Genseric', 'PERSON')"
+"The band of veterans who marched under the
+ standard of Boniface, and his hasty levies of provincial
+ troops, were defeated with considerable loss; the victorious
+ barbarians insulted the open country; and Carthage, Cirta,
+ and Hippo Regius, were the only cities that appeared to rise
+ above the general inundation.","('Boniface', 'PERSON'), ('Carthage', 'GPE'), ('Cirta', 'GPE'), ('Hippo Regius', 'ORG')"
+"The bishop of
+ Ephesus, the clergy, the magistrates, the people, and, as it
+ is said, the emperor Theodosius himself, hastened to visit
+ the cavern of the Seven Sleepers; who bestowed their
+ benediction, related their story, and at the same instant
+ peaceably expired.","('Ephesus', 'GPE'), ('Theodosius', 'PERSON'), ('Seven', 'CARDINAL')"
+"The buildings of Carthage
+ were uniform and magnificent: a shady grove was planted in
+ the midst of the capital; the new port, a secure and
+ capacious harbour, was subservient to the commercial
+ industry of citizens and strangers; and the splendid games
+ of the circus and theatre were exhibited almost in the
+ presence of the barbarians.","('Carthage', 'GPE')"
+"The catholics were
+ satisfied that, after the invincible reasons which they had
+ alleged, the obstinacy of the schismatics must be
+ inexcusable and voluntary, and the emperor Honorius was
+ persuaded to inflict the most rigorous penalties on a
+ faction which had so long abused his patience and clemency.","('Honorius', 'PERSON')"
+"The convulsions of Africa, which had favoured his attack, opposed the firm establishment of his power; and the various seditions of the Moors and Germans, the Donatists and catholics, continually disturbed or threatened the unsettled reign of the conqueror.","('Africa', 'LOC'), ('Moors', 'NORP'), ('Germans', 'NORP'), ('Donatists', 'NORP'), ('catholics', 'NORP')"
+"The count, whose fatal credulity had wounded
+ the vitals of the republic, might enter the palace of
+ Ravenna with some anxiety, which was soon removed by the
+ smiles of Placidia.","('Ravenna', 'GPE'), ('Placidia', 'PERSON')"
+"The daughter
+ of the great Theodosius had been the captive and the queen
+ of the Goths; she lost an affectionate husband; she was
+ dragged in chains by his insulting assassin; she tasted the
+ pleasure of revenge, and was exchanged, in the treaty of
+ peace, for six hundred thousand measures of wheat.","('Theodosius', 'PERSON'), ('Goths', 'NORP'), ('six hundred thousand', 'CARDINAL')"
+"The death of Constantius, in the seventh
+ month of his reign, instead of diminishing, seemed to
+ increase, the power of Placidia; and the indecent
+ familiarity(1) of her brother, which might be no more than 
+ the symptoms of a childish affection, were universally
+ attributed to incestuous love.","('Constantius', 'PERSON'), ('the seventh\r\n month of his reign', 'DATE'), ('Placidia', 'PERSON'), ('1', 'CARDINAL')"
+"The discovery of his fraud, the 
+ displeasure of the empress, and the distinguished favour of
+ his rival, exasperated the haughty and perfidious soul of
+ Aetius.","('Aetius', 'PERSON')"
+"The emperor Theodosius, when he received
+ the news of the victory, interrupted the horseraces; and
+ singing, as he marched through the streets a suitable psalm,
+ conducted his people from the Hippodrome to the church,
+ where he spent the remainder of the day in grateful
+ devotion.(2)
+Valentinian III.","('Theodosius', 'PERSON'), ('Hippodrome', 'FAC'), ('2', 'CARDINAL')"
+"The emperor of the East acquired 
+ the useful dominion of the rich and maritime province of
+ Dalmatia, and the dangerous sovereignty of Pannonia and
+ Noricum, which had been filled and ravaged above twenty
+ years by a promiscuous crowd of Huns, Ostrogoths Vandals,
+ and Bavarians.","('East', 'LOC'), ('Dalmatia', 'GPE'), ('Pannonia', 'GPE'), ('Noricum', 'GPE'), ('twenty\r\n years', 'DATE'), ('Huns', 'NORP'), ('Ostrogoths Vandals', 'ORG'), ('Bavarians', 'NORP')"
+"The experience of navigation, and perhaps the
+ prospect of Africa, encouraged the Vandals to accept the
+ invitation which they received from Count Boniface, and the
+ death of Gonderic served only to forward and animate the
+ bold enterprise.","('Africa', 'LOC'), ('Vandals', 'NORP'), ('Count Boniface', 'PERSON'), ('Gonderic', 'PERSON')"
+"The friends of Boniface, who still believed that
+ his criminal behaviour might be excused by some honourable
+ motive, solicited, during the absence of Aetius, a free
+ conference with the Count of Africa; and Darius, an officer
+ of high distinction, was named for the important embassy.(23)","('Boniface', 'PERSON'), ('Aetius', 'PERSON'), ('the Count of Africa', 'ORG'), ('Darius', 'PERSON'), ('23', 'CARDINAL')"
+"The generous mind of Count Boniface was tortured by the
+ exquisite distress of beholding the ruin which he had
+ occasioned, and whose rapid progress he was unable to check.","('Count Boniface', 'PERSON')"
+"The generous soldier, whose time had hitherto been divided
+ between social pleasure and military service, was taught new
+ lessons of avarice and ambition: he extorted the title of
+ Augustus; and the servant of Honorius was associated to the
+ empire of the West.","('Augustus', 'PERSON'), ('Honorius', 'PERSON'), ('West', 'LOC')"
+"The habits of trade and the 
+ abuse of luxury had corrupted their manners; but their
+ impious contempt of monks and the shameless practice of
+ unnatural lusts are the two abominations which excite the
+ pious vehemence of Salvian, the preacher of the age.(39)","('two', 'CARDINAL'), ('Salvian', 'PERSON')"
+"The hostile
+ communions of the East preserve their memory with equal
+ reverence; and their names are honourably inscribed in the
+ Roman, the Abyssinian, and the Russian calendar.(45)","('East', 'LOC'), ('Roman', 'NORP'), ('Abyssinian', 'NORP'), ('Russian', 'NORP'), ('45', 'CARDINAL')"
+"The importance and danger of Africa were
+ deeply felt by the regent of the West.","('Africa', 'LOC'), ('West', 'LOC')"
+"The invasion and defeat of
+ Attila has immortalised the fame of Aetius; and though time
+ has thrown a shade over the exploits of his rival, the
+ defence of Marseilles, and the deliverance of Africa, attest
+ the military talents of Count Boniface.","('Attila', 'PERSON'), ('Aetius', 'PERSON'), ('Marseilles', 'GPE'), ('Africa', 'LOC'), ('Count Boniface', 'PERSON')"
+"The king of the Vandals is described to have been of a middle stature, with a lameness in one leg, which he had contracted by an accidental fall from his horse.","('The king of the Vandals', 'PERSON'), ('one', 'CARDINAL')"
+"The lands of the proconsular province, which formed the
+ immediate district of Carthage, were accurately measured and
+ divided among the barbarians; and the conqueror reserved for
+ his peculiar domain the fertile territory of Byzacium and
+ the adjacent parts of Numidia and Gaetulia.(40)
+African exiles and captives.","('Carthage', 'GPE'), ('Byzacium', 'GPE'), ('Numidia', 'GPE'), ('Gaetulia', 'GPE'), ('40', 'CARDINAL'), ('African', 'NORP')"
+"The liberality of Theodoret
+ provided for her decent maintenance; and she passed ten
+ months among the deaconesses of the church, till she was
+ unexpectedly informed that her father, who had escaped from
+ the ruin of Carthage, exercised an honourable office in one
+ of the Western provinces.","('Theodoret', 'PERSON'), ('ten\r\n months', 'DATE'), ('Carthage', 'GPE'), ('one', 'CARDINAL'), ('Western', 'NORP')"
+"The long and narrow tract of the African coast was filled
+ with frequent monuments of Roman art and magnificence; and
+ the respective degrees of improvement might be accurately
+ measured by the distance from Carthage and the
+ Mediterranean.","('the African coast', 'LOC'), ('Roman', 'NORP'), ('Carthage', 'GPE'), ('Mediterranean', 'LOC')"
+"The march of the cavalry was
+ performed with such active diligence, that they surprised,
+ without resistance, the important city of Aquileia; when the
+ hopes of Aspar were unexpectedly confounded by the
+ intelligence that a storm had dispersed the Imperial fleet,
+ and that his father, with only two galleys, was taken and
+ carried a prisoner into the port of Ravenna.","('Aquileia', 'GPE'), ('Aspar', 'ORG'), ('Imperial', 'ORG'), ('two', 'CARDINAL'), ('Ravenna', 'GPE')"
+"The maritime colony of Hippo,
+ (25) about two hundred miles westward of Carthage, had 
+ formerly acquired the distinguishing epithet of Regius from
+ the residence of Numidian kings; and some remains of trade
+ and populousness still adhere to the modern city, which is
+ known in Europe by the corrupted name of Bona.","('Hippo', 'GPE'), ('25', 'CARDINAL'), ('about two hundred miles', 'QUANTITY'), ('Carthage', 'GPE'), ('Regius', 'PERSON'), ('Numidian', 'NORP'), ('Europe', 'LOC'), ('Bona', 'PERSON')"
+"The military
+ labours and anxious reflections of Count Boniface were
+ alleviated by the edifying conversation of his friend St.
+ Augustin;(26) till that bishop, the light and pillar of the 
+ Catholic church,Death of St. Augustin, A.D. 430, August 28.","('Boniface', 'PERSON'), ('St.\r\n Augustin', 'PERSON'), ('26', 'DATE'), ('Catholic', 'NORP'), ('St. Augustin', 'GPE'), ('A.D. 430', 'DATE'), ('August 28', 'DATE')"
+"The mother of Valentinian was jealous of the
+ power which she was incapable of exercising:(7) she reigned 
+ twenty-five years, in the name of her son; and the character
+ of that unworthy emperor gradually countenanced the
+ suspicion that Placidia had enervated his youth by a
+ dissolute education, and studiously diverted his attention
+ from every manly and honourable pursuit.","('Valentinian', 'PERSON'), ('7', 'CARDINAL'), ('twenty-five years', 'DATE'), ('Placidia', 'PERSON')"
+"The name of the rebel was John; he filled the
+ confidential office of Primicerius, or principal
+ secretary; and history has attributed to his character more
+ virtues than can easily be reconciled with the violation of
+ the most sacred duty.","('John', 'PERSON'), ('Primicerius', 'PERSON')"
+"The origin of this marvellous fable
+ cannot be ascribed to the pious fraud and credulity of the
+ modern Greeks, since the authentic tradition may be traced
+ within half a century of the supposed miracle.","('Greeks', 'NORP'), ('half a century', 'DATE')"
+"The parts of
+ Mauritania which border on the great desert and the Atlantic
+ ocean, The Moors were filled with a fierce and untractable race of men, whose savage temper had been exasperated rather than
+ reclaimed by their dread of the Roman arms.","('Mauritania', 'GPE'), ('Atlantic', 'LOC'), ('Moors', 'LOC'), ('Roman', 'NORP')"
+"The persecution of the Donatists (16) was an event not less 
+ favourable to the designs of Genseric.","('Donatists', 'ORG'), ('16', 'CARDINAL'), ('Genseric', 'ORG')"
+"The rapid
+ progress of the Vandals soon required a more effectual
+ opposition, and the master-general Castinus marched against
+ them with a numerous army of Romans and Goths.","('Vandals', 'PRODUCT'), ('Castinus', 'PERSON'), ('Romans', 'NORP'), ('Goths', 'NORP')"
+"The republic was deprived by
+ their mutual discord of the service of her two most
+ illustrious champions.(32)
+Progress of the Vandals in Africa, A.D. 431-439.","('two', 'CARDINAL'), ('32', 'CARDINAL'), ('Progress of the Vandals', 'PERSON'), ('Africa', 'LOC'), ('431-439', 'CARDINAL')"
+"The reputation of the
+ Carthaginians was not equal to that of their country, and
+ the reproach of Punic faith still adhered to their subtle
+ and faithless character. (38)","('Carthaginians', 'NORP'), ('Punic', 'NORP')"
+"The royal exiles landed at Constantinople, soon after the
+ marriage of Theodosius, during the festival of the Persian
+ victories.","('Constantinople', 'GPE'), ('Theodosius', 'PERSON'), ('Persian', 'NORP')"
+"The royal infant was distinguished at Constantinople by the
+ title of Nobilissimus: he was promoted, before his
+ departure from Thessalonica, to the rank and dignity of
+ Caesar: and, after the conquest of Italy, the patrician
+ Helion, by the authority of Theodosius, and in the presence
+ of the senate, saluted Valentinian the Third by the name of
+ Augustus, and solemnly invested him with the diadem and the
+ Imperial purple.(4)","('Constantinople', 'GPE'), ('Nobilissimus', 'PERSON'), ('Thessalonica', 'GPE'), ('Caesar', 'PERSON'), ('Italy', 'GPE'), ('Helion', 'PERSON'), ('Theodosius', 'PERSON'), ('Valentinian', 'PERSON'), ('Third', 'ORDINAL'), ('Augustus', 'PERSON'), ('Imperial', 'ORG'), ('4', 'CARDINAL')"
+"The same rebellion had been supported by the zeal
+ and activity of Aetius, who brought an army of sixty
+ thousand Huns from the Danube to the confines of Italy, for
+ the service of the usurper.","('Aetius', 'PERSON'), ('sixty\r\n thousand', 'CARDINAL'), ('Huns', 'NORP'), ('Danube', 'LOC'), ('Italy', 'GPE')"
+"The scene
+ could not be more advantageously placed than in the two
+ centuries which elapsed between the reigns of Decius and of
+ Theodosius the Younger.","('the two\r\n centuries', 'DATE'), ('Decius', 'PERSON'), ('Theodosius the Younger', 'PERSON')"
+"The shops and the gates of
+ Constantinople remained shut during seven days; and the loss
+ of a foreign prince, who could neither be esteemed nor
+ regretted, was celebrated with loud and affected
+ demonstrations of the public grief.","('Constantinople', 'GPE'), ('seven days', 'DATE')"
+"The stern policy of
+ Genseric justified his frequent examples of military
+ execution: he was not always the master of his own passions
+ or of those of his followers; and the calamities of war were
+ aggravated by the licentiousness of the Moors and the
+ fanaticism of the Donatists.","('Genseric', 'PERSON'), ('Moors', 'NORP'), ('Donatists', 'ORG')"
+"The story of the Seven 
+ Sleepers has been adopted and adorned by the nations, from
+ Bengal to Africa, who profess the Mahometan religion;(47) and some vestiges of a similar tradition have been discovered in
+ the remote extremities of Scandinavia. (48)","('the Seven \r\n Sleepers', 'WORK_OF_ART'), ('Bengal', 'LOC'), ('Africa', 'LOC'), ('Mahometan', 'NORP'), ('47', 'CARDINAL'), ('Scandinavia', 'LOC'), ('48', 'CARDINAL')"
+"The strange adventures of Placidia gradually renewed
+ and cemented the alliance of the two empires.","('Placidia', 'GPE'), ('two', 'CARDINAL')"
+"The success with which he
+ eluded or repelled the first attacks could not inspire a
+ vain confidence that, at the head of some loose disorderly
+ Africans, he should be able to withstand the regular forces
+ of the West, commanded by a rival whose military character
+ it was impossible for him to despise.","('first', 'ORDINAL'), ('Africans', 'NORP'), ('West', 'LOC')"
+"The throne of the
+ persecuting Decius was filled by a succession of Christian
+ and orthodox princes, who had extirpated the fabulous gods
+ of antiquity: and the public devotion of the age was
+ impatient to exalt the saints and martyrs of the Catholic
+ church on the altars of Diana and Hercules.","('Decius', 'PERSON'), ('Christian', 'NORP'), ('Catholic', 'NORP'), ('Diana', 'PERSON'), ('Hercules', 'PERSON')"
+"The union of the
+ Roman empire was dissolved; its genius was humbled in the
+ dust; and armies of unknown barbarians, issuing from the
+ frozen regions of the North, had established their
+ victorious reign over the fairest provinces of Europe and
+ Africa.","('Roman', 'NORP'), ('North', 'LOC'), ('Europe', 'LOC'), ('Africa', 'LOC')"
+"The untimely death of John
+ compelled him to accept an advantageous treaty, but he still
+ continued, the subject and the soldier of Valentinian, to
+ entertain a secret, perhaps a treasonable, correspondence
+ with his barbarian allies, whose retreat had been purchased
+ by liberal gifts and more liberal promises.","('John', 'PERSON'), ('Valentinian', 'NORP')"
+"The vessels which transported the Vandals over the modern Straits of Gibraltar, a channel only twelve miles in breadth, were furnished by the Spaniards, who anxiously wished their departure, and by the African general, who had implored their formidable assistance.(13)
+and reviews his army, A.D. 429.","('Vandals', 'PRODUCT'), ('Straits of Gibraltar', 'LOC'), ('only twelve miles', 'QUANTITY'), ('Spaniards', 'NORP'), ('African', 'NORP'), ('429', 'CARDINAL')"
+"The vigilance of his enemies was relaxed by the protestations of friendship which concealed his hostile approach; and Carthage was at length surprised by the Vandals, five hundred and eighty-five years after the destruction of the city and republic by the younger Scipio. (36)","('Carthage', 'PERSON'), ('Vandals', 'NORP'), ('five hundred and eighty-five years', 'DATE'), ('Scipio', 'PERSON'), ('36', 'CARDINAL')"
+"The wandering
+ Moors, (15) as they gradually ventured to approach the seashore and the camp of the Vandals, must have viewed with terror and astonishment the dress, the armour, the martial
+ pride and discipline of the unknown strangers who had landed
+ on their coast; and the fair complexions of the blue-eyed
+ warriors of Germany formed a very singular contrast with the
+ swarthy or olive hue which is derived from the neighbourhood
+ of the torrid zone, After the first difficulties had in some
+ measure been removed which arose from the mutual ignorance
+ of their respective language, the Moors, regardless of any
+ future consequence, embraced the alliance of the enemies of
+ Rome, and a crowd of naked savages rushed from the woods and
+ valleys of Mount Atlas, to satiate their revenge on the
+ polished tyrants who had injuriously expelled them from the
+ native sovereignty of the land.","('Moors', 'NORP'), ('15', 'DATE'), ('Vandals', 'NORP'), ('Germany', 'GPE'), ('first', 'ORDINAL'), ('Moors', 'NORP'), ('Rome', 'GPE'), ('Mount Atlas', 'LOC')"
+"The youth (if we may
+ still employ that appellation) could no longer recognise the
+ once familiar aspect of his native country; and his surprise
+ was increased by the appearance of a large cross,
+ triumphantly erected over the principal gate of Ephesus.","('Ephesus', 'GPE')"
+"Their legend, before the end of the sixth 
+ century, was translated from the Syriac into the Latin
+ language, by the care of Gregory of Tours.","('the end of the sixth \r\n century', 'DATE'), ('Syriac', 'LANGUAGE'), ('Latin', 'LANGUAGE'), ('Gregory of Tours', 'PERSON')"
+"Their mutual
+ inquiries produced the amazing discovery that two centuries
+ were almost elapsed since Jamblichus and his friends had
+ escaped from the rage of a Pagan tyrant.","('two centuries', 'DATE'), ('Jamblichus', 'PERSON'), ('Pagan', 'NORP')"
+"Their union might have supported a
+ sinking empire; their discord was the fatal and immediate
+ cause of the loss of Africa.","('Africa', 'LOC')"
+"Theodosius and Valentinian continued to
+ respect the obligations of their public and domestic
+ alliance; but the unity of the Roman government was finally
+ dissolved.","('Theodosius', 'PERSON'), ('Valentinian', 'NORP'), ('Roman', 'NORP')"
+"They Surprise Carthage, A.D. 439, October 9 
+ A new city had arisen from its ruins, with the title of a
+ colony; and though Carthage might yield to the royal
+ prerogatives of Constantinople, and perhaps to the trade of
+ Alexandria, or the splendour of Antioch, she still
+ maintained the second rank in the West; as the Rome (if we
+ may use the style of contemporaries) of the African world.","('A.D. 439', 'DATE'), ('October 9', 'DATE'), ('Carthage', 'GPE'), ('Constantinople', 'GPE'), ('Alexandria', 'GPE'), ('Antioch', 'GPE'), ('second', 'ORDINAL'), ('West', 'LOC'), ('Rome', 'GPE'), ('African', 'NORP')"
+"They immediately fell into a deep
+ slumber, which was miraculously prolonged, without injuring
+ the powers of life, during a period of one hundred and
+ eighty-seven years.","('one hundred and\r\n eighty-seven years', 'DATE')"
+"They were treated with kindness and magnificence;
+ but as the statues of the emperor Constantius had been
+ rejected by the Eastern court, the title of Augusta could
+ not decently be allowed to his widow.","('Constantius', 'PERSON'), ('Eastern', 'NORP'), ('Augusta', 'ORG')"
+"This
+ popular tale, which Mahomet might learn when he drove his
+ camels to the fairs of Syria, is introduced, as a divine
+ revelation, into the Koran. (46)","('Mahomet', 'PERSON'), ('Syria', 'GPE'), ('Koran', 'WORK_OF_ART'), ('46', 'CARDINAL')"
+"This remarkable behaviour divulged the
+ real condition of Maria, who, in the absence of the bishop
+ of Cyrrhus, was redeemed from slavery by the generosity of
+ some soldiers of the garrison.","('Maria', 'PERSON'), ('Cyrrhus', 'PERSON')"
+"Three hundred bishops, (17) with many thousands of the 
+ inferior clergy, were torn from their churches, stripped of
+ their ecclesiastical possessions, banished to the islands,
+ and proscribed by the laws, if they presumed to conceal
+ themselves in the provinces of Africa.","('Three hundred', 'CARDINAL'), ('17', 'CARDINAL'), ('many thousands', 'CARDINAL'), ('Africa', 'LOC')"
+"Under these 
+ circumstances Genseric, a Christian, but an enemy of the
+ orthodox communion, showed himself to the Donatists as a
+ powerful deliverer, from whom they might reasonably expect
+ the repeal of the odious and oppressive edicts of the Roman
+ emperors.(21) The conquest of Africa was facilitated by the 
+ active real or the secret favour of a domestic faction; the
+ wanton outrages against the churches and the clergy, of
+ which the Vandals are accused, may be fairly imputed to the
+ fanaticism of their allies; and the intolerant spirit which
+ disgraced the triumph of Christianity contributed to the
+ loss of the most important province of the West.(22)","('Genseric', 'PERSON'), ('Christian', 'NORP'), ('Donatists', 'NORP'), ('Roman', 'NORP'), ('21', 'CARDINAL'), ('Africa', 'LOC'), ('Vandals', 'NORP'), ('Christianity', 'NORP'), ('22', 'CARDINAL')"
+"Vanquished in
+ battle by an inferior enemy, Castinus fled with dishonour to
+ Tarragona; and this memorable defeat, which has been
+ represented as the punishment, was most probably the effect,
+ of his rash presumption.","('Castinus', 'PERSON'), ('Tarragona', 'GPE')"
+"When the city, some months after his
+ death was burnt by the Vandals, the library was fortunately
+ saved which contained his voluminous writings—two hundred
+ and thirty-two separate books or treatises on theological
+ subjects, besides a complete exposition of the Psalter and
+ the gospel, and a copious magazine of epistles and homilies.
+ (27)","('some months', 'DATE'), ('Vandals', 'PRODUCT'), ('two hundred\r\n and thirty-two', 'CARDINAL'), ('Psalter', 'WORK_OF_ART'), ('27', 'CARDINAL')"
+"When the emperor Decius persecuted the 
+ Christians, seven noble youths of Ephesus concealed
+ themselves in a spacious cavern in the side of an adjacent
+ mountain where they were doomed to perish by the tyrant, who
+ gave orders that the entrance should be firmly secured with
+ a pile of huge stones.","('Decius', 'PERSON'), ('Christians', 'NORP'), ('seven', 'CARDINAL'), ('Ephesus', 'GPE')"
+"While the ministers of Constantinople deliberated, the
+ vacant throne of Honorius was usurped by the ambition of a
+ stranger.","('Constantinople', 'GPE'), ('Honorius', 'PERSON')"
+"Within a few months
+ after the arrival of Placidia a swift messenger announced
+ the death of Honorius, the consequence of a dropsy; but the
+ important secret was not divulged till the necessary orders
+ had been despatched for the march of a large body of troops
+ to the sea-coast of Dalmatia.","('a few months', 'DATE'), ('Placidia', 'GPE'), ('Honorius', 'PERSON'), ('Dalmatia', 'GPE')"
+"Yet I shall not easily be
+ persuaded that it was the common practice of the Vandals to
+ extirpate the olives and other fruit trees of a country
+ where they intended to settle: nor can I believe that it
+ was a usual stratagem to slaughter great numbers of their
+ prisoners before the walls of a besieged city, for the sole
+ purpose of infecting the air and producing a pestilence, of
+ which they themselves must have been the first victims.(24)
+Siege of Hippo, A.D. 430, May.","('Vandals', 'NORP'), ('first', 'ORDINAL'), ('24', 'CARDINAL'), ('Siege of Hippo', 'WORK_OF_ART'), ('430', 'CARDINAL'), ('May', 'DATE')"
+"Yet this
+ incident, unfortunate as it might seem, facilitated the
+ conquest of Italy.","('Italy', 'GPE')"
+"Yet this various
+ multitude amounted only to fifty thousand effective men; and
+ though Genseric artfully magnified his apparent strength by
+ appointing eighty chiliarchs, or commanders of thousands,
+ the fallacious increase of old men, of children, and of
+ slaves, would scarcely have swelled his army to the number
+ of four-score thousand persons.(14) But his own dexterity and 
+ the discontents of Africa soon fortified the Vandal powers
+ by the accession of numerous and active allies.","('fifty thousand', 'CARDINAL'), ('Genseric', 'PERSON'), ('eighty', 'CARDINAL'), ('thousands', 'CARDINAL'), ('four-score thousand', 'CARDINAL'), ('14', 'CARDINAL'), ('Africa', 'LOC'), ('Vandal', 'PERSON')"
+"was gently released, in the third month of
+ the siege and in the seventy-sixth year of his age, from the
+ actual and the impending calamities of his country.","('the third month', 'DATE'), ('the seventy-sixth year', 'DATE')"

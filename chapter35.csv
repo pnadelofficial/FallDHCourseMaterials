@@ -1,0 +1,1202 @@
+Sentence,Entities
+"""Attila, my lord, and thy lord, commands thee to provide a palace for his immediate reception.""  (2)","('Attila', 'PERSON'), ('2', 'CARDINAL')"
+(14),"('14', 'CARDINAL')"
+(18),"('18', 'CARDINAL')"
+"(19) 
+ Clodion, the first of their long-haired kings whose name and
+ actions are mentioned in authentic history, held his
+ residence at Dispargum, (20) a village or fortress, whose 
+ place may be assigned between Louvain and Brussels.","('19', 'CARDINAL'), ('Clodion', 'ORG'), ('first', 'ORDINAL'), ('Dispargum', 'ORG'), ('20', 'CARDINAL'), ('Louvain', 'GPE'), ('Brussels', 'GPE')"
+(43),"('43', 'CARDINAL')"
+"(9) Strangers to the emperor or the republic, the 
+ Alani of Gaul were devoted to the ambition of Aetius; and
+ though he might suspect that, in a contest with Attila
+ himself, they would revolt to the standard of their national
+ king, the patrician laboured to restrain, rather than to
+ excite, their zeal and resentment against the Goths, the
+ Burgundians, and the Franks.","('Alani', 'PERSON'), ('Gaul', 'PERSON'), ('Aetius', 'PERSON'), ('Attila', 'PERSON'), ('Goths', 'NORP'), ('Burgundians', 'NORP'), ('Franks', 'PERSON')"
+"A
+ republican spirit was insensibly revived in the senate, as
+ their authority, and even their supplies, became necessary
+ for the support of his feeble government.","('republican', 'NORP')"
+"A native of Gaul and a contemporary, the learned and
+ eloquent Sidonius, who was afterwards bishop of Clermont,
+ had made a promise to one of his friends that he would
+ compose a regular history of the war of Attila.","('Gaul', 'LOC'), ('Sidonius', 'PERSON'), ('Clermont', 'GPE'), ('one', 'CARDINAL'), ('Attila', 'PERSON')"
+"A people whose habitations might be
+ doubtfully assigned to the earth or water soon became alike
+ familiar with the two elements; and the demands of avarice
+ succeeded to those of necessity.","('two', 'CARDINAL')"
+"A seasonable treaty
+ which he concluded with Genseric protected Italy from the
+ depredations of the Vandals; the independent Britons
+ implored and acknowledged his salutary aid; the Imperial
+ authority was restored and maintained in Gaul and Spain; and
+ he compelled the Franks and the Suevi, whom he had
+ vanquished in the field, to become the useful confederates
+ of the republic.","('Genseric', 'PERSON'), ('Italy', 'GPE'), ('Vandals', 'NORP'), ('Britons', 'NORP'), ('Imperial', 'ORG'), ('Gaul', 'GPE'), ('Spain', 'GPE'), ('Franks', 'PERSON'), ('Suevi', 'PERSON')"
+"A troop of light barbarians who roamed in quest of
+ plunder might choose the winter for the convenience of
+ passing the river on the ice, but the innumerable cavalry of
+ the Huns required such plenty of forage and provisions as
+ could be procured only in a milder season; the Hercynian
+ forest supplied materials for a bridge of boats, and the
+ hostile myriads were poured with resistless violence into
+ the Belgic provinces. (33)","('the winter', 'DATE'), ('Huns', 'NORP'), ('a milder season', 'DATE'), ('Hercynian', 'NORP'), ('Belgic', 'NORP'), ('33', 'CARDINAL')"
+A.D. 435-439.,"('435-439', 'CARDINAL')"
+"Aetius assumed the command of the left, and Theodoric of the
+ right wing; while Torismond still continued to occupy the
+ heights which appear to have stretched on the flank, and
+ perhaps the rear, of the Scythian army.","('Aetius', 'PERSON'), ('Theodoric', 'PERSON'), ('Torismond', 'PERSON'), ('Scythian', 'NORP')"
+"Aetius himself, supported by the consciousness
+ of his merit, his services, and perhaps his innocence, seems
+ to have maintained a haughty and indiscreet behaviour.","('Aetius', 'PERSON')"
+"Aetius was the sole
+ guardian of the public safety; but his wisest measures were
+ embarrassed by a faction which, since the death of Placidia,
+ infested the Imperial palace: the youth of Italy trembled at
+ the sound of the trumpet; and the barbarians, who from fear
+ or affection were inclined to the cause of Attila, awaited
+ with doubtful and venal faith the event of the war.","('Aetius', 'PERSON'), ('Placidia', 'PERSON'), ('Imperial', 'NORP'), ('Italy', 'GPE'), ('Attila', 'PERSON')"
+"After an obstinate siege the walls
+ were shaken by the battering rams; the Huns had already
+ occupied the suburbs, and the people who were incapable of
+ bearing arms lay prostrate in prayer.","('Huns', 'NORP')"
+"After his death
+ the boldest chieftains aspired to the rank of kings; the
+ most powerful kings refused to acknowledge a superior; and
+ the numerous sons whom so many various mothers bore to the
+ deceased monarch divided and disputed like a private
+ inheritance the sovereign command of the nations of Germany
+ and Scythia.","('Germany', 'GPE'), ('Scythia', 'GPE')"
+"After the death of Wallia, the Gothic sceptre
+ devolved to Theodoric, the son of the great Alaric;(10) and 
+ his prosperous reign of more than thirty years over a
+ turbulent people may be allowed to prove that his prudence
+ was supported by uncommon vigour, both of mind and body.","('Wallia', 'PERSON'), ('Gothic', 'NORP'), ('Theodoric', 'PERSON'), ('Alaric', 'PERSON'), ('10', 'CARDINAL'), ('more than thirty years', 'DATE')"
+"After the death of his rival Boniface, Aetius had prudently
+ retired to the tents of the Huns; and he was indebted to
+ their alliance for his safety and his restoration.","('Boniface', 'PERSON'), ('Aetius', 'PERSON'), ('Huns', 'NORP')"
+"After the departure of the Goths, and the 
+ separation of the allied army, Attila was surprised at the
+ vast silence that reigned over the plains of Chalons: the
+ suspicion of some hostile stratagem detained him several
+ days within the circle of his waggons, and his retreat
+ beyond the Rhine confessed the last victory which was
+ achieved in the name of the Western empire.","('Goths', 'NORP'), ('Attila', 'PERSON'), ('Chalons', 'NORP'), ('several\r\n days', 'DATE'), ('Rhine', 'PERSON'), ('Western', 'NORP')"
+"After the mutual and repeated discharge of missile weapons, in which the archers of Scythia might signalise their superior dexterity, the cavalry and infantry of the two armies were furiously mingled in closer combat.","('Scythia', 'ORG'), ('two', 'CARDINAL')"
+"After this dreadful chastisement, Attila 
+ pursued his march; and as he passed, the cities of Altinumn
+ Concordia, and Padua were reduced into heaps of stones and
+ ashes.","('Attila', 'PERSON'), ('Altinumn\r\n Concordia', 'GPE'), ('Padua', 'GPE')"
+Alliance of the Romans and Visigoths.,"('Alliance of the Romans', 'ORG'), ('Visigoths', 'ORG')"
+"Amidst the general consternation, Aetius alone was incapable
+ of fear; but it was impossible that he should achieve alone
+ and unassisted any military exploits worthy of his former
+ renown.","('Aetius', 'PERSON')"
+"An artery had suddenly burst: and as Attila lay in a supine
+ posture, he was suffocated by a torrent of blood, which,
+ instead of finding a passage through the nostrils,
+ regurgitated into the lungs and stomach.","('Attila', 'PERSON')"
+"Anianus, who anxiously counted the days and hours!","('Anianus', 'PERSON')"
+"Aquileia was at that period one of the richest, the
+ most Populous, and the strongest of the maritime cities of
+ the Hadriatic coast.","('Aquileia', 'PERSON'), ('one', 'CARDINAL'), ('Populous', 'NORP'), ('the Hadriatic coast', 'LOC')"
+"Aquileia, Padua, and the
+ adjacent towns, who fled from the sword of the Huns, found a
+ safe, though obscure, refuge in the neighbouring islands.(55)","('Aquileia', 'GPE'), ('Padua', 'GPE'), ('Huns', 'NORP'), ('55', 'CARDINAL')"
+"As Theodoric rode along the ranks to animate his troops, he received a mortal stroke from the javelin of Andaires, a noble Ostrogoth, and immediately fell from his horse.","('Theodoric', 'PERSON'), ('Andaires', 'NORP'), ('Ostrogoth', 'NORP')"
+"As early as the time of Cicero and Varro it was the opinion of the Roman augurs that the twelve vultures which Romulus had seen, represented the twelve centuries assigned for the fatal period of his city(75)","('Cicero', 'PERSON'), ('Varro', 'PERSON'), ('Roman', 'NORP'), ('twelve', 'CARDINAL'), ('Romulus', 'PERSON'), ('the twelve centuries', 'DATE'), ('75', 'CARDINAL')"
+"At
+ the head of his brave and faithful Huns, he occupied in
+ person the centre of the line.","('Huns', 'PERSON')"
+"At the extremity of the Gulf, where the Hadriatic feebly
+ imitates the tides of the ocean, near an hundred small
+ islands are separated by shallow water from the continent,
+ and protected from the waves by several long slips of land,
+ which admit the entrance of vessels through some secret and
+ narrow channels.(56)","('Gulf', 'LOC'), ('Hadriatic', 'GPE'), ('hundred', 'CARDINAL'), ('56', 'CARDINAL')"
+"At the head of
+ an army of Huns, he rashly advanced to the gates of
+ Toulouse, full of careless contempt for an enemy whom his
+ misfortunes had rendered prudent, and his situation made
+ desperate.","('Huns', 'NORP'), ('Toulouse', 'GPE')"
+"Attila
+ had fondly or superstitiously believed that Irnac, the
+ youngest of his sons, was destined to perpetuate the glories
+ of his race.","('Attila', 'PERSON'), ('Irnac', 'PERSON')"
+"Attila already exulted in the confidence of victory, when the valiant Torismond descended from the hills, and verified the remainder of the prediction.","('Attila', 'PERSON'), ('Torismond', 'PERSON')"
+"Attila threatens both empires, and prepares to invade Gaul, A.D. 450.","('Attila', 'PERSON'), ('Gaul', 'PERSON'), ('450', 'CARDINAL')"
+Battle of Chalons.,"('Battle of Chalons', 'ORG')"
+"Before the irruption of the barbarians,
+ fifty Venetian cities flourished in peace and prosperity:
+ Aquileia was placed in the most conspicuous station: but the
+ ancient dignity of Padua was supported by agriculture and
+ manufactures; and the property of five hundred citizens, who
+ were entitled to the equestrian rank, must have amounted, at
+ the strictest computation, to one million seven hundred
+ thousand pounds.","('fifty', 'CARDINAL'), ('Venetian', 'NORP'), ('Aquileia', 'PERSON'), ('Padua', 'GPE'), ('five hundred', 'CARDINAL'), ('one million seven hundred\r\n thousand pounds', 'QUANTITY')"
+"Before the king of the Huns evacuated Italy, he threatened
+ to return more dreadful, and more implacable, if his bride,
+ the princess Honoria, were not delivered to his ambassadors
+ within the term stipulated by the treaty.","('Huns', 'NORP'), ('Italy', 'GPE'), ('Honoria', 'PERSON')"
+"Boethius, the
+ Praetorian praefect, was killed at the same moment; and
+ before the event could be divulged, the principal friends of
+ the patrician were summoned to the palace and separately
+ murdered.","('Boethius', 'PERSON'), ('Praetorian', 'NORP')"
+"But as he rode round the walls, pensive, angry, and
+ disappointed, he observed a stork preparing to leave her
+ nest in one of the towers, and to fly with her infant family
+ towards the country.","('one', 'CARDINAL')"
+"But as the
+ greatest part of the Gallic cities were alike destitute of
+ saints and soldiers, they were besieged and stormed by the
+ Huns, who practised, in the example of Metz, (35) their 
+ customary maxims of war.","('Gallic', 'NORP'), ('Huns', 'NORP'), ('Metz', 'PERSON'), ('35', 'CARDINAL')"
+"But as the barbarian despised, or affected to despise, the Romans of the East, whom he had so often vanquished, he soon declared his resolution of suspending the easy conquest till he had achieved a more glorious and important enterprise.","('Romans', 'NORP'), ('East', 'LOC')"
+"But his enemies had passed the night in equal disorder and
+ anxiety.","('the night', 'TIME')"
+"But in the
+ absence of the patrician, who was hastily summoned to Italy
+ by some public or private interest, Count Litorius succeeded
+ to the command; and his presumption soon discovered that far
+ different talents are required to lead a wing of cavalry, or
+ to direct the operations of an important war.","('Italy', 'GPE'), ('Litorius', 'PERSON')"
+"But in this tumultuary retreat the
+ vanguard of the Romans and their allies continually pressed,
+ and sometimes engaged, the troops whom Attila had posted in
+ the rear; the hostile columns, in the darkness of the night
+ and the perplexity of the roads, might encounter each other without design; and the bloody conflict of the Franks and Gepidae, in which fifteen thousand(40) 
+ barbarians were slain, was a prelude to a more general and
+ decisive action.","('Romans', 'NORP'), ('Attila', 'PERSON'), ('Franks', 'NORP'), ('Gepidae', 'PERSON'), ('fifteen thousand(40', 'CARDINAL')"
+"But its fall was announced by a clearer omen than the flight of vultures: the Roman government appeared every day less formidable to its enemies, more odious and oppressive to its subjects.","('Roman', 'NORP'), ('every day', 'DATE')"
+"But on his arrival at Arles or Lyons he was confounded by 
+ the intelligence that the Visigoths, refusing to embrace the
+ defence of Gaul, had determined to expect within their own
+ territories the formidable invader whom they professed to
+ despise.","('Arles', 'GPE'), ('Lyons', 'PERSON'), ('Visigoths', 'PERSON'), ('Gaul', 'PERSON')"
+"But the battle of Chalons can only excite our
+ curiosity by the magnitude of the object; since it was
+ decided by the blind impetuosity of barbarians, and has been
+ related by partial writers, whose civil and ecclesiastical
+ profession secluded them from the knowledge of military
+ affairs.","('Chalons', 'GPE')"
+"But the emperor of the West, the feeble and
+ dissolute Valentinian, who had reached his thirty-fifth year
+ without attaining the age of reason or courage, abused this
+ apparent security to undermine the foundations of his own
+ throne by the murder of the patrician Aetius.","('West', 'LOC'), ('Valentinian', 'NORP'), ('thirty-fifth year', 'DATE'), ('Aetius', 'PERSON')"
+"But the fair Honoria had no sooner
+ attained the sixteenth year of her age than she detested the
+ importunate greatness which must for ever exclude her from
+ the comforts of honourable love: in the midst of vain and
+ unsatisfactory pomp Honoria sighed, yielded to the impulse
+ of nature, and threw herself into the arms of her
+ chamberlain Eugenius.","('Honoria', 'PERSON'), ('the sixteenth year', 'DATE'), ('Honoria', 'PERSON'), ('Eugenius', 'PERSON')"
+"But the impatience of the barbarians soon disdained
+ these cautious and dilatory measures: and the mature policy
+ of Aetius was apprehensive that, after the extirpation of
+ the Huns, the republic would be oppressed by the pride and
+ power of the Gothic nation.","('Aetius', 'PERSON'), ('Huns', 'NORP'), ('Gothic', 'NORP')"
+"But the labour of many
+ thousand provincials and captives, whose lives were
+ sacrificed without pity, might execute the most painful and
+ dangerous work.","('many\r\n thousand', 'CARDINAL')"
+"But the manners of the Venetian fugitives, their arts
+ and their government, were gradually formed by their new situation; and one of the
+ epistles of Cassiodorus, (57) which describes their condition 
+ about seventy years afterwards, may be considered as the
+ primitive monument of the republic.","('Venetian', 'NORP'), ('one', 'CARDINAL'), ('Cassiodorus', 'PERSON'), ('57', 'DATE'), ('about seventy years afterwards', 'DATE')"
+"But the timid grandson of Theodosius,
+ instead of sharing the dangers, escaped from the sound, of
+ war; and his hasty retreat from Ravenna to Rome, from an
+ impregnable fortress to an open capital, betrayed his secret
+ intention of abandoning Italy as soon as the danger should
+ approach his Imperial person.","('Theodosius', 'PERSON'), ('Ravenna', 'GPE'), ('Rome', 'GPE'), ('Italy', 'GPE'), ('Imperial', 'ORG')"
+"But the unusual
+ despondency which seemed to prevail among the Huns engaged
+ Attila to use the expedient, so familiar to the generals of
+ antiquity, of animating his troops by a military oration;
+ and his language was that of a king who had often fought and
+ conquered at their head.","('Huns', 'NORP'), ('Attila', 'PERSON')"
+"But this treacherous
+ conspiracy was detected and disappointed: Orleans had been
+ strengthened with recent fortifications, and the assaults of
+ the Huns were vigorously repelled by the faithful valour of
+ the soldiers or citizens who defended the place.","('Orleans', 'GPE'), ('Huns', 'NORP')"
+"By the ministry
+ of a faithful eunuch she transmitted to Attila a ring, the
+ pledge of her affection, and earnestly conjured him to claim
+ her as a lawful spouse to whom he had been secretly
+ betrothed.","('the ministry\r\n of a faithful', 'ORG'), ('Attila', 'PERSON')"
+"By the specious professions of
+ gratitude and voluntary attachment, the patrician might
+ disguise his apprehensions of the Scythian conqueror, who
+ pressed the two empires with his innumerable armies.","('Scythian', 'NORP'), ('two', 'CARDINAL')"
+"Cassiodorus, however, had familiarly conversed with
+ many Gothic warriors who served in that memorable
+ engagement;","('Cassiodorus', 'PERSON'), ('Gothic', 'NORP')"
+"Death of Valentinian, A.D. 455, March 16.","('Valentinian', 'GPE'), ('A.D. 455', 'DATE'), ('March 16', 'DATE')"
+"Deep gaming was one of the
+ vices of the court; the emperor, who, by chance or
+ contrivance, had gained from Maximus a considerable sum,
+ uncourteously exacted his ring as a security for the debt,
+ and sent it by a trusty messenger to his wife, with an order
+ in her husband's name that she should immediately attend the
+ empress Eudoxia.","('Maximus', 'PERSON'), ('Eudoxia', 'PERSON')"
+"During his absence his elder brother had solicited
+ with equal ardour the formidable aid of Attila; and the king
+ of the Huns embraced an alliance which facilitated the
+ passage of the Rhine, and justified by a specious and
+ honourable pretence the invasion of Gaul.(27)","('Attila', 'PERSON'), ('Huns', 'NORP'), ('Rhine', 'LOC'), ('Gaul', 'PERSON'), ('27', 'CARDINAL')"
+"Ellac, the
+ eldest on of Attila, lost his life and crown in the
+ memorable battle of Netad; his early valour had raised him
+ to the throne of the Acatzires, a Scyhlan people, whom he
+ subdued; and his father, who loved the superior merit, would
+ have envied the death, of Ellac.(70)","('Ellac', 'PERSON'), ('Attila', 'PERSON'), ('Netad', 'PERSON'), ('Acatzires', 'NORP'), ('Scyhlan', 'NORP'), ('Ellac', 'PERSON')"
+"From a principle of interest, as well as gratitude, Aetius
+ assiduously cultivated the alliance of the Huns.","('Aetius', 'PERSON'), ('Huns', 'NORP')"
+"From the
+ instinct of a base and jealous mind, he hated the man who
+ was universally celebrated as the terror of the barbarians
+ and the support of the republic; and his new favourite, the
+ eunuch Heraclius, awakened the emperor from the supine
+ lethargy which might be disguised during the life of
+ Placidia(72) by the excuse of filial piety.","('Heraclius', 'PERSON'), ('Placidia', 'PERSON'), ('72', 'CARDINAL')"
+"From the
+ report of his spies the king of the Franks was informed that
+ the defenceless state of the second Belgic must yield, on
+ the slightest attack, to the valour of his subjects.","('Franks', 'PERSON'), ('second', 'ORDINAL'), ('Belgic', 'GPE')"
+"From the Rhine and the
+ Moselle, Attila advanced into the heart of Gaul, crossed the
+ Seine at Auxerre, and after a long and laborious march fixed
+ his camp under the walls of Orleans.","('Rhine', 'LOC'), ('Moselle', 'FAC'), ('Attila', 'PERSON'), ('Gaul', 'PERSON'), ('Seine', 'LOC'), ('Auxerre', 'LOC'), ('Orleans', 'GPE')"
+"From the royal village in the
+ plains of Hungary his standard moved towards the West and
+ after a march of seven or eight hundred miles he reached the
+ conflux of the Rhine and the Neckar, where he was joined by
+ the Franks who adhered to his ally, the elder of the sons of
+ Clodion.","('Hungary', 'GPE'), ('West', 'LOC'), ('seven or eight hundred miles', 'QUANTITY'), ('Rhine', 'LOC'), ('Neckar', 'LOC'), ('Franks', 'PERSON'), ('Clodion', 'PERSON')"
+"He
+ boldly penetrated through the thickets and morasses of the
+ Carbonarian forest,(21) occupied Tournay and Cambray, the 
+ only cities which existed in the fifth century; and extended
+ his conquests as far as the river Somme, over a desolate
+ country whose cultivation and populousness are the effects
+ of more recent industry. (22)","('Carbonarian', 'NORP'), ('21', 'CARDINAL'), ('Tournay', 'LOC'), ('Cambray', 'LOC'), ('the fifth century', 'DATE'), ('Somme', 'LOC'), ('22', 'CARDINAL')"
+"He
+ represented to Theodoric that an ambitious conqueror who
+ aspired to the dominion of the earth could be resisted only
+ by the firm and unanimous alliance of the powers whom he
+ laboured to oppress.","('Theodoric', 'PERSON')"
+He Is Repulsed by Aetius and the Visigoths. —  Attila Invades and Evacuates Italy. —,"('Aetius', 'ORG'), ('Visigoths', 'NORP'), ('Attila Invades', 'PERSON'), ('Italy', 'GPE')"
+"He commanded a
+ painter to reverse the figures and the attitudes; and the
+ emperors were delineated on the same canvas approaching in a
+ suppliant posture to empty their bags of tributary gold
+ before the throne of the Scythian monarch.(52)","('Scythian', 'NORP'), ('52', 'CARDINAL')"
+"He faithfully imitated the hereditary weakness of his cousin and his two uncles, without inheriting the gentleness, the purity, the innocence, which alleviate in their characters the want of spirit and ability.","('two', 'CARDINAL')"
+"He had exposed his person with the rashness of a private soldier, but the intrepid troops of the centre had pushed forwards beyond the rest of the line; their attack was faintly supported; their flanks were unguarded; and the conquerors of Scythia and Germany were saved by the approach of the night from a total defeat.","('Scythia', 'NORP'), ('Germany', 'GPE'), ('the night', 'TIME')"
+He returned twice without any intelligence that could inspire hope or comfort; but in his third report he mentioned a small cloud which he had faintly descried at the extremity of the horizon.,"('third', 'ORDINAL')"
+"He strenuously urged that it was the duty of every
+ Christian to save from sacrilegious violation the churches
+ of God and the relics of the saints; that it was the
+ interest of every barbarian who had acquired a settlement in
+ Gaul to defend the fields and vineyards, which were
+ cultivated for his use, against the desolation of the
+ Scythian shepherds.","('Christian', 'NORP'), ('Gaul', 'LOC'), ('Scythian', 'NORP')"
+"He threatened to chastise the rash successor of 
+ Theodosius; but he hesitated, whether he should first direct his invincible arms against the Eastern or the Western empire.","('Theodosius', 'PERSON'), ('first', 'ORDINAL'), ('Eastern', 'NORP'), ('Western', 'NORP')"
+"He was desirous of
+ securing his conquests by the possession of an advantageous
+ post which commanded the passage of the Loire; and he
+ depended on the secret invitation of Sangiban, king of the
+ Alani, who had promised to betray the city and to revolt
+ from the service of the empire.","('Loire', 'LOC'), ('Sangiban', 'PERSON'), ('Alani', 'PERSON')"
+"Her guilt and shame (such is the
+ absurd language of imperious man) were soon betrayed by the
+ appearances of pregnancy: but the disgrace of the royal
+ family was published to the world by the imprudence of the
+ empress Placidia, who dismissed her daughter, after a strict
+ and shameful confinement, to a remote exile at
+ Constantinople.","('Placidia', 'PERSON'), ('Constantinople', 'GPE')"
+"Her tears when she
+ returned home, her deep affliction, and the bitter
+ reproaches against a husband whom she considered as the
+ accomplice of his own shame, excited Maximus to a just
+ revenge; the desire of revenge was stimulated by ambition;
+ and he might reasonably aspire, by the free suffrage of the
+ Roman senate, to the throne of a detested and despicable
+ rival.","('Maximus', 'PERSON'), ('Roman', 'NORP')"
+"His
+ soldiers, animated with martial and religious enthusiasm,
+ assaulted the camp of Litorius.","('Litorius', 'PERSON')"
+"His
+ throne was surrounded by six valiant sons, who were educated
+ with equal care in the exercises of the barbarian camp, and
+ in those of the Gallic schools: from the study of the Roman
+ jurisprudence they acquired the theory, at least, of law and
+ justice; and the harmonious sense of Virgil contributed to
+ soften the asperity of their native manners.","('six', 'CARDINAL'), ('Gallic', 'NORP'), ('Roman', 'NORP'), ('Virgil', 'PERSON')"
+"His attendants continued to respect his pleasures or his
+ repose the greatest part of the ensuing day, till the
+ unusual silence alarmed their fears and suspicions; and,
+ after attempting to awaken Attila by loud and repeated
+ cries, they at length broke into the royal apartment.","('Attila', 'PERSON')"
+"His body was
+ solemnly exposed in the midst of the plain, under a silken
+ pavilion; and the chosen squadrons of the Huns, wheeling
+ round in measured evolutions, chanted a funeral song to the
+ memory of a hero, glorious in his life, invincible in his
+ death, the father of his people, the scourge of his enemies,
+ and the terror of the world.","('Huns', 'NORP')"
+"His brother Dengisich, 
+ with an army of Huns still formidable in their flight and
+ ruin, maintained his ground above fifteen years on the banks
+ of the Danube.","('Dengisich', 'PERSON'), ('Huns', 'NORP'), ('fifteen years', 'DATE'), ('Danube', 'LOC')"
+His connection with the Huns and Alani.,"('Huns', 'NORP'), ('Alani', 'PERSON')"
+"His predecessors, the
+ ancient Tanjous, had often addressed in the same hostile and
+ peremptory manner the daughters of China; and the
+ pretensions of Attila were not less offensive to the majesty
+ of Rome.","('Tanjous', 'NORP'), ('China', 'GPE'), ('Attila', 'PERSON'), ('Rome', 'GPE')"
+"His prudence, rather than his virtue, engaged him
+ to leave the grandson of Theodosius in the possession of the
+ purple; and Valentinian was permitted to enjoy the peace and
+ luxury of Italy, while the patrician appeared in the
+ glorious light of a hero and a patriot, who supported near
+ twenty years the ruins of the Western empire.","('Theodosius', 'PERSON'), ('Valentinian', 'PERSON'), ('Italy', 'GPE'), ('near\r\n twenty years', 'DATE'), ('Western', 'NORP')"
+"His public declarations were
+ skilfully mitigated by his private assurances; he
+ alternately soothed and threatened the Romans and the Goths;
+ and the courts of Ravenna and Toulouse, mutually suspicious
+ of each other's intentions, beheld with supine indifference
+ the approach of their common enemy.","('Romans', 'NORP'), ('Goths', 'NORP'), ('Ravenna', 'GPE'), ('Toulouse', 'GPE')"
+"His rich gifts and
+ pressing solicitations inflamed the ambition of Attila; and
+ the designs of Aetius and Theodoric were prevented by the
+ invasion of Gaul.(15)
+The Franks in Gaul, under the Merovingian kings, A.D. 420-451.","('Attila', 'PERSON'), ('Aetius', 'WORK_OF_ART'), ('Theodoric', 'ORG'), ('Gaul', 'PERSON'), ('15', 'CARDINAL'), ('The Franks in Gaul', 'WORK_OF_ART'), ('Merovingian', 'NORP'), ('420-451', 'CARDINAL')"
+"IT was the opinion of Marcian, that war should be avoided as
+ long as it is possible to preserve a secure and honourable
+ peace; but it was likewise his opinion that peace cannot be
+ honourable or secure, if the sovereign betrays a
+ pusillanimous aversion to war.","('Marcian', 'PERSON')"
+"If all the barbarian conquerors had been annihilated in the same hour, their total destruction would not have restored the empire of the West: and if Rome still survived, she survived the loss of freedom, of virtue, and of honour.","('the same hour', 'TIME'), ('West', 'LOC'), ('Rome', 'GPE')"
+"If the
+ modesty of Sidonius had not discouraged him from the
+ prosecution of this interesting work,(31) the historian could 
+ have related with the simplicity of truth those memorable
+ events to which the poet, in vague and doubtful metaphors,
+ has concisely alluded. (32)","('Sidonius', 'PERSON'), ('31', 'CARDINAL'), ('32', 'CARDINAL')"
+"If the 
+ mind of Valentinian had been susceptible of any generous
+ sentiments, he would have chosen such a general for his
+ example and his guide.","('Valentinian', 'ORG')"
+"Impatient of his narrow limits, Theodoric aspired to the
+ possession of Arles, the wealthy seat of government and
+ commerce; but the city was saved by the timely approach of
+ Aetius; and the Gothic king, who had raised the siege with
+ some loss and disgrace, was persuaded, for an adequate
+ subsidy, to divert the martial valour of his subjects in a
+ Spanish war.","('Theodoric', 'PERSON'), ('Arles', 'PERSON'), ('Aetius', 'PERSON'), ('Gothic', 'NORP'), ('a\r\n Spanish war', 'EVENT')"
+"In a bloody and decisive
+ conflict on the banks of the river Netad in Pannonia, the
+ lance of the Gepidae, the sword of the Goths, the arrows of
+ the Huns, the Suevic infantry, the light arms of the Heruli,
+ and the heavy weapons of the Alani, encountered or supported
+ each other; and the victory of Ardaric was accompanied with
+ the slaughter of thirty thousand of his enemies.","('Netad', 'GPE'), ('Pannonia', 'GPE'), ('Gepidae', 'NORP'), ('Goths', 'NORP'), ('Huns', 'NORP'), ('Suevic', 'NORP'), ('Heruli', 'PRODUCT'), ('Alani', 'NORP'), ('Ardaric', 'PERSON'), ('thirty thousand', 'CARDINAL')"
+"In the confusion of a nocturnal combat he was thrown from
+ his horse; and the Gothic prince must have perished like his
+ father, if his youthful strength and the intrepid zeal of
+ his companions had not rescued him from this dangerous
+ situation.","('Gothic', 'NORP')"
+"In the ensuing spring he repeated his demand of
+ the princess Honoria and her patrimonial treasures.","('the ensuing spring', 'DATE'), ('Honoria', 'PERSON')"
+"In the memorable invasions of Gaul and Italy, the Huns were naturally attracted by the wealth and fertility of those provinces; but the particular motives and provocations of Attila can only be explained by the state of the Western empire under the reign of Valentinian, or, to speak more correctly, under the administration of Aetius. (3)
+Character and administration of Aetius, A.D. 433-454.","('Gaul', 'GPE'), ('Italy', 'GPE'), ('Huns', 'NORP'), ('Attila', 'PERSON'), ('Western', 'NORP'), ('Valentinian', 'NORP'), ('Aetius', 'ORG'), ('3', 'CARDINAL'), ('Aetius', 'ORG'), ('433-454', 'CARDINAL')"
+"In the pursuit of
+ love, or rather of revenge, the daughter of Placidia
+ sacrificed every duty and every prejudice, and offered to
+ deliver her person into the arms of a barbarian of whose
+ language she was ignorant, whose figure was scarcely human,
+ and whose religion and manners she abhorred.","('Placidia', 'PERSON')"
+"In the same manner, but on the left of the line,
+ Aetius himself, separated from his allies, ignorant of their
+ victory, and anxious for their fate, encountered and escaped
+ the hostile troops that were scattered over the plains of
+ Chalons; and at length reached the camp of the Goths, which
+ he could only fortify with a slight rampart of shields till
+ the dawn of day.","('Aetius', 'PERSON'), ('Chalons', 'LOC'), ('Goths', 'NORP'), ('the dawn of day', 'DATE')"
+"Instead
+ of the suppliant language of a guilty exile, he solicited
+ his pardon at the head of sixty thousand barbarians; and the
+ empress Placidia confessed, by a feeble resistance, that the
+ condescension which might have been ascribed to clemency was
+ the effect of weakness or fear.","('sixty thousand', 'CARDINAL'), ('Placidia', 'PERSON')"
+Invasion of Gaul by Attila. —,"('Gaul', 'PERSON'), ('Attila', 'PERSON')"
+"It is a saying worthy of the ferocious pride of Attila, that
+ the grass never grew on the spot where his horse had trod.","('Attila', 'PERSON')"
+"It was determined in a
+ general council of war to besiege the king of the Huns in
+ his camp, to intercept his provisions, and to reduce him to
+ the alternative of a disgraceful treaty or an unequal
+ combat.","('Huns', 'NORP')"
+"It was reported at Constantinople that, on the fortunate
+ night in which he expired, Marcian beheld in a dream the bow
+ of Attila broken asunder: and the report may be allowed to
+ prove how seldom the image of that formidable barbarian was
+ absent from the mind of a Roman emperor.(69)
+Destruction of his empire.","('Constantinople', 'GPE'), ('the fortunate\r\n night', 'TIME'), ('Marcian', 'PERSON'), ('Attila', 'PERSON'), ('Roman', 'NORP'), ('69', 'CARDINAL')"
+"It was reported that, after scrutinising the
+ entrails of victims and scraping their bones, they revealed,
+ in mysterious language, his own defeat, with the death of
+ his principal adversary; and that the barbarian, by
+ accepting the equivalent, expressed his involuntary esteem
+ for the superior merit of Aetius.","('Aetius', 'PERSON')"
+"Meroveus and his
+ Franks, observing a prudent distance, and magnifying the
+ opinion of their strength by the numerous fires which they
+ kindled every night, continued to follow the rear of the
+ Huns till they reached the confines of Thuringia.","('Meroveus', 'PERSON'), ('Franks', 'PERSON'), ('every night', 'TIME'), ('Huns', 'NORP'), ('Thuringia', 'GPE')"
+"Meroveus, the younger, (26) was persuaded to implore the 
+ protection of Rome; he was received at the Imperial court as
+ the ally of Valentinian and the adopted son of the patrician
+ Aetius, and dismissed to his native country with splendid
+ gifts and the strongest assurances of friendship and
+ support.","('Meroveus', 'PERSON'), ('26', 'DATE'), ('Rome', 'GPE'), ('Imperial', 'ORG'), ('Valentinian', 'NORP'), ('Aetius', 'PERSON')"
+"Milan and
+ Pavia submitted, without resistance, to the loss of their
+ wealth; and applauded the unusual clemency which preserved
+ from the flames the public as well as private buildings, and
+ spared the lives of the captive multitude.","('Milan', 'GPE'), ('Pavia', 'GPE')"
+"Neither the spirit, nor the forces, nor the reputation of
+ Attila were impaired by the failure of the Gallic
+ expedition.","('Attila', 'PERSON'), ('Gallic', 'NORP')"
+"On every side, the activity of Aetius  and his Scythian cavalry opposed a firm and successful resistance.","('Aetius', 'PERSON'), ('Scythian', 'NORP')"
+"On the discovery of her 
+ connection with the king of the Huns, the guilty princess
+ had been sent away, as an object of horror, from
+ Constantinople to Italy: her life was spared, but the
+ ceremony of her marriage was performed with some obscure and
+ nominal husband before she was immured in a perpetual
+ prison, to bewail those crimes and misfortunes which Honoria
+ might have escaped had she not been born the daughter of an
+ emperor.(30)
+Attila invades Gaul, and besieges Orleans, A.D. 4501.","('Huns', 'NORP'), ('Constantinople', 'GPE'), ('Italy', 'GPE'), ('Honoria', 'PERSON'), ('Attila', 'PERSON'), ('Gaul', 'PERSON'), ('4501', 'CARDINAL')"
+"On their approach the king of the Huns immediately raised
+ the siege, and sounded a retreat to recall the foremost of
+ his troops from the pillage of a city which they had already
+ entered.(39)","('Huns', 'NORP')"
+"Petronius
+ Maximus, a wealthy senator of the Anician family, who had
+ been twice consul was possessed of a chaste and beautiful
+ wife; her obstinate resistance served only to irritate the
+ desires of Valentinian, and he resolved to accomplish them
+ either by stratagem or force.","('Petronius\r\n Maximus', 'PERSON'), ('Anician', 'PERSON'), ('Valentinian', 'NORP')"
+"Sangiban, the faithless king of the Alani, was
+ placed in the centre: where his motions might be strictly
+ watched, and his treachery might be instantly punished.","('Sangiban', 'PERSON'), ('Alani', 'PERSON')"
+"She delivered herself, her
+ son Valentinian, and the Western empire, into the hands of
+ an insolent subject; nor could Placidia protect the
+ son-in-law of Boniface, the virtuous and faithful Sebastian,
+ (4) from the implacable persecution which urged him from one 
+ kingdom to another, till he miserably perished in the
+ service of the Vandals.","('Valentinian', 'PERSON'), ('Western', 'NORP'), ('Placidia', 'PERSON'), ('Boniface', 'PERSON'), ('Sebastian', 'PERSON'), ('4', 'CARDINAL'), ('one', 'CARDINAL'), ('Vandals', 'PRODUCT')"
+"Since Aetius, at the head
+ of his domestic troops, still maintained the field, and
+ harassed or retarded the march of Attila, he never showed
+ himself more truly great than at the time when his conduct
+ was blamed by an ignorant and ungrateful people.(59)","('Aetius', 'PERSON'), ('Attila', 'PERSON')"
+"Such
+ sentiments seldom pervade the walls of a palace; yet the
+ emperor was confounded by the honest reply of a Roman whose
+ approbation he had not disdained to solicit. and ravishes the wife of Maximus.","('Roman', 'NORP'), ('Maximus', 'PERSON')"
+"Such an event might contribute to the safety of the Eastern
+ empire under the reign of a prince who conciliated the
+ friendship, without forfeiting the esteem, of the
+ barbarians.","('Eastern', 'NORP')"
+"Such was the fate of Valentinian the Third, (74) the last Roman emperor of the family of Theodosius.","('Valentinian', 'NORP'), ('Third', 'ORDINAL'), ('74', 'CARDINAL'), ('Roman', 'NORP'), ('Theodosius', 'PERSON')"
+"Such was the various army which, under the conduct of Aetius
+ and Theodoric, advanced by rapid marches to relieve Orleans,
+ and to give battle to the innumerable host of Attila.(38)
+Attila retires to the plains of Champagne.","('Aetius', 'GPE'), ('Theodoric', 'GPE'), ('Orleans', 'GPE'), ('Attila', 'PERSON'), ('Attila', 'PERSON'), ('Champagne', 'LOC')"
+"Such were
+ those savage ancestors whose imaginary virtues have
+ sometimes excited the praise and envy of civilised ages !(47)
+Invasion of Italy by Attila, A.D. 452.","('47', 'CARDINAL'), ('Italy', 'GPE'), ('Attila', 'PERSON'), ('452', 'CARDINAL')"
+"Surrounded and
+ oppressed by the multitude of his father's slaves, the
+ kingdom of Dengisich was confined to the circle of his
+ waggons; his desperate courage urged him to invade the
+ Eastern empire: he fell in battle, and his head,
+ ignominiously exposed in the Hippodrome, exhibited a
+ grateful spectacle to the people of Constantinople.","('Dengisich', 'PERSON'), ('Eastern', 'NORP'), ('Hippodrome', 'FAC'), ('Constantinople', 'GPE')"
+"The
+ Thuringians served in the army of Attila: they traversed,
+ both in their march and in their return, the territories of
+ the Franks; and it was perhaps in this war that they
+ exercised the cruelties which, about four-score years
+ afterwards, were revenged by the son of Clovis.","('Thuringians', 'NORP'), ('Attila', 'PERSON'), ('Franks', 'PERSON'), ('about four-score years\r\n afterwards', 'DATE'), ('Clovis', 'PERSON')"
+"The
+ demand was again rejected or eluded; and the indignant lover
+ immediately took the field, passed the Alps, invaded Italy,
+ and besieged Aquileia with an innumerable host of
+ barbarians.","('Alps', 'LOC'), ('Italy', 'GPE'), ('Aquileia', 'PERSON')"
+"The
+ distress of Cologne was prolonged by the perpetual dominion
+ of the same barbarians who evacuated the ruins of Treves,
+ and Treves, which in the space of forty years had been four
+ times besieged and pillaged, was disposed to lose the memory
+ of her afflictions in the vain amusements of the circus.(25)","('Cologne', 'GPE'), ('Treves', 'LOC'), ('Treves', 'LOC'), ('the space of forty years', 'DATE'), ('four', 'CARDINAL'), ('25', 'CARDINAL')"
+"The
+ pastoral diligence of Anianus, a bishop of primitive
+ sanctity and consummate prudence, exhausted every art of
+ religious policy to support their courage till the arrival
+ of the expected succours.","('Anianus', 'PERSON')"
+"The
+ patrician offended his sovereign by an hostile declaration;
+ he aggravated the offence by compelling him to ratify with a
+ solemn oath a treaty of reconciliation and alliance; he
+ proclaimed his suspicions, he neglected his safety; and from
+ a vain confidence that the enemy whom he despised was
+ incapable even of a manly crime, he rashly ventured his
+ person in the palace of Rome.","('Rome', 'GPE')"
+"The
+ patrician passed the Alps at the head of some troops whose
+ strength and numbers scarcely deserved the name of an army.
+ (36)","('Alps', 'LOC')"
+"The
+ young and valiant Torismond first occupied the summit; the
+ Goths rushed with irresistible weight on the Huns, who
+ laboured to ascend from the opposite side: and the
+ possession of this advantageous post inspired both the
+ troops and their leaders with a fair assurance of victory.","('Torismond', 'PERSON'), ('first', 'ORDINAL'), ('Goths', 'NORP'), ('Huns', 'NORP')"
+"The 
+ barbarian monarch listened with favourable, and even
+ respectful, attention; and the deliverance of Italy was
+ purchased by the immense ransom or dowry of the princess
+ Honoria.","('Italy', 'GPE'), ('Honoria', 'PERSON')"
+"The Armorican provinces of Gaul and the greatest part of Spain were thrown into a state of disorderly independence by the confederations of the Bagaudae, and the Imperial ministers pursued with proscriptive laws and ineffectual arms the rebels whom they had made.","('Armorican', 'NORP'), ('Gaul', 'LOC'), ('Spain', 'GPE'), ('Bagaudae', 'NORP'), ('Imperial', 'ORG')"
+"The Catalaunian fields(41) spread themselves 
+ round Chalons, and extend, according to the vague
+ measurement of Jornandes, to the length of one hundred and
+ fifty, and the breadth of one hundred miles, over the whole
+ province, which is entitled to the appellation of a
+ 'champaign' country. (42)","('Catalaunian', 'NORP'), ('41', 'CARDINAL'), ('Chalons', 'GPE'), ('Jornandes', 'GPE'), ('one hundred and\r\n fifty', 'CARDINAL'), ('one hundred miles', 'QUANTITY'), ('42', 'CARDINAL')"
+"The Deaths of Attila, Aetius, and Valentinian the Third.","('The Deaths of Attila', 'WORK_OF_ART'), ('Aetius', 'PERSON'), ('Valentinian', 'NORP'), ('Third', 'ORDINAL')"
+"The Franks, whose monarchy was still confined to the
+ neighbourhood of the Lower Rhine, had wisely established the
+ right of hereditary succession in the noble family of the
+ Merovingians.(16)","('Franks', 'PERSON'), ('the Lower Rhine', 'LOC'), ('Merovingians', 'NORP'), ('16', 'CARDINAL')"
+"The Geougen, or Avares,
+ whose residence is assigned by the Greek writers to the
+ shores of the ocean, impelled the adjacent tribes; till at
+ length the Igours of the North, issuing from the cold
+ Siberian regions which produce the most valuable furs,
+ spread themselves over the desert as far as the Borysthenes
+ and the Caspian gates, and finally extinguished the empire
+ of the Huns.(71)
+Valentinian murders the patrician Aetius, A.D. 454.","('Geougen', 'PERSON'), ('Avares', 'PERSON'), ('Greek', 'NORP'), ('Igours', 'PERSON'), ('North', 'LOC'), ('Siberian', 'NORP'), ('Borysthenes', 'LOC'), ('Caspian', 'LOC'), ('Huns', 'NORP'), ('71', 'CARDINAL'), ('Valentinian', 'NORP'), ('Aetius', 'PERSON'), ('A.D. 454', 'DATE')"
+"The Gothic
+ historian ingenuously confesses that Aetius was born for the
+ salvation of the Roman republic; (5) and the following 
+ portrait, though it is drawn in the fairest colours, must be
+ allowed to contain a much larger proportion of truth than of
+ flattery.","('Gothic', 'NORP'), ('Aetius', 'PERSON'), ('Roman', 'NORP'), ('5', 'CARDINAL')"
+"The Gothic auxiliaries, who appear to
+ have served under their native princes, Alaric and Antala,
+ communicated their intrepid spirit; and the citizens still
+ remembered the glorious and successful resistance which
+ their ancestors had opposed to a fierce, inexorable
+ barbarian, who disgraced the majesty of the Roman purple.","('Gothic', 'NORP'), ('Alaric', 'PERSON'), ('Antala', 'PERSON'), ('Roman', 'NORP')"
+"The Goths besieged Narbonne, while the Belgic  provinces were invaded by the Burgundians; and the public  safety was threatened on every side by the apparent union of  the enemies of Rome.","('Goths', 'NORP'), ('Narbonne', 'GPE'), ('Belgic', 'NORP'), ('Burgundians', 'NORP'), ('Rome', 'GPE')"
+"The Goths, clashing their arms,
+ elevated on a buckler his eldest son Torismond, to whom they
+ justly ascribed the glory of their success; and the new king
+ accepted the obligation of revenge as a sacred portion of
+ his paternal inheritance.","('Goths', 'NORP'), ('Torismond', 'PERSON')"
+"The Huns, who fought under the eyes of their king, pierced through the feeble and doubtful centre of the allies, separated their wings from each other, and wheeling, with a rapid effort, to the left, directed their whole force against the Visigoths.","('Huns', 'NORP'), ('Visigoths', 'NORP')"
+"The Imperial general was soon satisfied of
+ the defeat of Attila, who still remained inactive within his
+ entrenchments; and when he contemplated the bloody scene, he
+ observed, with secret satisfaction, that the loss had
+ principally fallen on the barbarians.","('Imperial', 'ORG'), ('Attila', 'PERSON')"
+"The Imperial ministers, who
+ always cherished the discord of the barbarians, would have
+ supplied the Goths with arms, and ships, and treasures, for
+ the African war; and the cruelty of Genseric might have been
+ fatal to himself, if the artful Vandal had not armed, in his
+ cause, the formidable power of the Huns.","('Imperial', 'ORG'), ('Goths', 'NORP'), ('the African war', 'EVENT'), ('Genseric', 'EVENT'), ('Vandal', 'PERSON'), ('Huns', 'NORP')"
+"The Italians, who had long since renounced the exercise of
+ arms, were surprised, after forty years' peace, by the
+ approach of a formidable barbarian, whom they abhorred as
+ the enemy of their religion as well as of their republic.","('Italians', 'NORP'), (""forty years'"", 'DATE')"
+"The Pannonian conquests, from Vienna to
+ Sirmium, were occupied by the Ostrogoths; and the
+ settlements of the tribes who had so bravely asserted their
+ native freedom were irregularly distributed according to the
+ measure of their respective strength.","('Pannonian', 'NORP'), ('Vienna', 'GPE'), ('Sirmium', 'GPE'), ('Ostrogoths', 'NORP')"
+"The Roman ambassadors were
+ introduced to the tent of Attila, as he lay encamped at the
+ place where the slow-winding Mincius is lost in the foaming
+ waves of the lake Benacus, (62) and trampled, with his 
+ Scythian cavalry, the farms of Catullus and Virgil.(63)","('Roman', 'NORP'), ('Attila', 'PERSON'), ('Mincius', 'GPE'), ('Benacus', 'LOC'), ('62', 'CARDINAL'), ('Scythian', 'NORP'), ('Catullus', 'GPE'), ('Virgil', 'PERSON'), ('63', 'CARDINAL')"
+"The Roman general, after a total
+ defeat, which could be imputed only to his unskilful
+ rashness, was actually led through the streets of Toulouse,
+ not in his own, but in an hostile triumph; and the misery
+ which he experienced, in a long and ignominious captivity,
+ excited the compassion of the barbarians themselves.(12) Such 
+ a loss, in a country whose spirit and finances were long
+ since exhausted, could not easily be repaired; and the
+ Goths, assuming, in their turn, the sentiments of ambition
+ and revenge, would have planted their victorious standards
+ on the banks of the Rhone, if the presence of Aetius had not
+ restored strength and discipline to the Romans.(13) The two 
+ armies expected the signal of a decisive action; but the
+ generals, who were conscious of each other's force, and
+ doubtful of their own superiority, prudently sheathed their
+ swords in the field of battle; and their reconciliation was
+ permanent and sincere.","('Roman', 'NORP'), ('Toulouse', 'GPE'), ('12', 'CARDINAL'), ('Goths', 'NORP'), ('Rhone', 'LOC'), ('Aetius', 'ORG'), ('Romans', 'NORP'), ('13', 'CARDINAL'), ('two', 'CARDINAL')"
+"The Visigoths alone were the strength
+ and nerves of the opposite army, and the Huns might securely
+ trample on the degenerate Romans, whose close and compact
+ order betrayed their apprehensions, and who were equally
+ incapable of supporting the dangers or the fatigues of a day
+ of battle.","('Visigoths', 'NORP'), ('Huns', 'NORP'), ('Romans', 'NORP'), ('a day', 'DATE')"
+"The Visigoths in Gaul under the reign of Theoderic, A.D. 419-451.","('Visigoths', 'NORP'), ('Gaul', 'LOC'), ('Theoderic', 'PERSON'), ('419-451', 'CARDINAL')"
+"The Visigoths, who at that time were in the mature vigour of their fame and
+ power, obeyed with alacrity the signal of war, prepared
+ their arms and horses, and assembled under the standard of
+ their aged king, who was resolved, with his two eldest sons,
+ Torismond and Theodoric, to command in person his numerous
+ and valiant people.","('Visigoths', 'PERSON'), ('two', 'CARDINAL'), ('Torismond', 'PERSON'), ('Theodoric', 'PERSON')"
+"The Visigoths, who had been thrown into confusion by the flight, or defection, of the Alani, gradually restored their order of battle; and the Huns were undoubtedly vanquished, since Attila was compelled to retreat.","('Visigoths', 'PERSON'), ('Alani', 'PERSON'), ('Huns', 'NORP'), ('Attila', 'PERSON')"
+"The Western emperor,
+ with the senate and people of Rome, embraced the more
+ salutary resolution of deprecating, by a solemn and
+ suppliant embassy, the wrath of Attila.","('Western', 'NORP'), ('Rome', 'GPE'), ('Attila', 'PERSON')"
+The adventures of the princess Honoria.,"('Honoria', 'PERSON')"
+"The ambiguous office of these
+ magistrates is explained by the tradition, that, in the
+ twelve principal islands, twelve tribunes, or judges, were
+ created by an annual and popular election.","('twelve', 'CARDINAL'), ('twelve', 'CARDINAL'), ('annual', 'DATE')"
+"The ambitious designs, of which he was secretly
+ accused, excited the fears as well as the resentment of
+ Valentinian.","('Valentinian', 'NORP')"
+"The anxiety of Attila prompted him to consult his priests
+ and haruspices.","('Attila', 'PERSON')"
+"The apparition of the two apostles of St. Peter
+ and St. Paul, who menaced the barbarian with instant death
+ if he rejected the prayer of their successor, is one of the
+ noblest legends of ecclesiastical tradition.","('two', 'CARDINAL'), ('St. Peter', 'GPE'), ('St. Paul', 'GPE'), ('one', 'CARDINAL')"
+"The attentive
+ study of the military operations of Xenophon, or Caesar, or
+ Frederic, when they are described by the same genius which
+ conceived and executed them, may tend to improve (if such
+ improvement can be wished) the art of destroying the human
+ species.","('Xenophon', 'PERSON'), ('Caesar', 'PERSON'), ('Frederic', 'PERSON')"
+"The barbarians who had defended Gaul refused to march to the
+ relief of Italy; and the succours promised by the Eastern
+ emperor were distant and doubtful.","('Gaul', 'PERSON'), ('Italy', 'GPE'), ('Eastern', 'NORP')"
+"The barbarians, who had seated themselves in the Western provinces, were insensibly taught to respect the faith and valour of the patrician Aetius.","('Western', 'NORP'), ('Aetius', 'PERSON')"
+"The birth of the empress Eudoxia
+ was equal to his own, and her charms and tender affection
+ deserved those testimonies of love which her inconstant
+ husband dissipated in vague and unlawful amours.","('Eudoxia', 'PERSON')"
+"The body of Theodoric,
+ pierced with honourable wounds, was discovered under a heap
+ of the slain: his subjects bewailed the death of their king
+ and father; but their tears were mingled with songs and
+ acclamations, and his funeral rites were performed in the
+ face of a vanquished enemy.","('Theodoric', 'PERSON')"
+"The bold Ardaric felt and represented the
+ disgrace of this servile partition and his subjects, the
+ warlike Gepidae, with the Ostrogoths, under the conduct of
+ three valiant brothers, encouraged their allies to vindicate
+ the rights of freedom and royalty.","('Ardaric', 'PERSON'), ('Gepidae', 'PERSON'), ('Ostrogoths', 'NORP'), ('three', 'CARDINAL')"
+"The celebrated
+ name of Venice, or Venetia,(54) was formerly diffused over a 
+ larger and fertile province of Italy, from the confines of
+ Pannonia to the river Addua, and from the Po to the Rhaetian
+ and the Julian Alps.","('Venice', 'GPE'), ('Venetia', 'GPE'), ('54', 'CARDINAL'), ('Italy', 'GPE'), ('Pannonia', 'GPE'), ('Addua', 'LOC'), ('Po', 'LOC'), ('Rhaetian', 'LOC'), ('the Julian Alps', 'LOC')"
+"The character of that prince, who attempted to
+ moderate the rashness of his brother Dengisich, was more
+ suitable to the declining condition of the Huns; and Irnac,
+ with his subject hordes, retired into the heart of the
+ Lesser Scythia.","('Dengisich', 'PERSON'), ('Huns', 'NORP'), ('Irnac', 'PERSON')"
+"The consternation of Gaul was 
+ universal, and the various fortunes of its cities have been
+ adorned by tradition with martyrdoms and miracles.(34) Troyes 
+ was saved by the merits of St. Lupus; St. Servatius was
+ removed from the world that he might not behold the ruin of
+ Tongres; and the prayers of St. Genevieve diverted the march
+ of Attila from the neighbourhood of Paris.","('Gaul', 'PERSON'), ('Troyes', 'WORK_OF_ART'), ('St. Lupus', 'LOC'), ('St. Servatius', 'GPE'), ('Tongres', 'GPE'), ('St. Genevieve', 'GPE'), ('Attila', 'PERSON'), ('Paris', 'GPE')"
+"The cruel Genseric suspected that his son's wife had
+ conspired to poison him; the supposed crime was punished by
+ the amputation of her nose and ears; and the unhappy
+ daughter of Theodoric was ignominiously returned to the
+ court of Toulouse in that deformed and mutilated condition.","('Genseric', 'PERSON'), ('Theodoric', 'PERSON'), ('Toulouse', 'GPE')"
+"The death of Attila, A.D. 453.","('Attila', 'PERSON'), ('453', 'CARDINAL')"
+"The death of Clodion, after a reign of twenty years, exposed
+ his kingdom to the discord and ambition of his two sons.","('Clodion', 'PERSON'), ('twenty years', 'DATE'), ('two', 'CARDINAL')"
+"The discipline and tactics of the Greeks and Romans form an
+ interesting part of their national manners.","('Greeks', 'NORP'), ('Romans', 'NORP')"
+"The doctrine of predestination, so favourable to
+ martial virtue, was carefully inculcated by the king of the
+ Huns; who assured his subjects that the warriors, protected
+ by Heaven, were safe and invulnerable amidst the darts of
+ the enemy; but that the unerring Fates would strike their
+ victims in the bosom of inglorious peace.","('Huns', 'NORP'), ('Fates', 'PERSON')"
+"The emperor
+ signified to the barbarians that they must no longer insult
+ the majesty of Rome by the mention of a tribute; that he was
+ disposed to reward, with becoming liberality, the faithful
+ friendship of his allies; but that, if they presumed to
+ violate the public peace, they should feel that he possessed
+ troops, and arms, and resolution, to repel their attacks.","('Rome', 'GPE')"
+"The epistle of
+ Cassiodorus, the Praetorian praefect, is addressed to the
+ maritime tribunes; and he exhorts them, in a mild tone of
+ authority, to animate the zeal of their countrymen for the
+ public service, which required their assistance to transport
+ the magazines of wine and oil from the province of Istria to
+ the royal city of Ravenna.","('Cassiodorus', 'PERSON'), ('Praetorian', 'NORP'), ('Istria', 'GPE'), ('Ravenna', 'GPE')"
+The event was doubtful but Attila had secured a last and honourable resource.,"('Attila', 'PERSON')"
+"The example of the Goths determined
+ several tribes or nations that seemed to fluctuate between
+ the Huns and the Romans.","('Goths', 'NORP'), ('Huns', 'NORP'), ('Romans', 'NORP')"
+"The existence of
+ the Venetian republic under the Gothic kingdom of Italy is
+ attested by the same authentic record which annihilates
+ their lofty claim of original and perpetual independence.(58)
+Attila gives peace to the Romans.","('Venetian', 'NORP'), ('Gothic', 'NORP'), ('Italy', 'GPE'), ('Attila', 'PERSON'), ('Romans', 'NORP')"
+"The facility with which Attila had penetrated into the heart
+ of Gaul may be ascribed to his insidious policy as well as
+ to the terror of his arms.","('Attila', 'PERSON'), ('Gaul', 'PERSON')"
+"The fame of 
+ Aetius, his wealth and dignity, the numerous and martial
+ train of barbarian followers, his powerful dependents who
+ filled the civil offices of the state, and the hopes of his
+ son Gaudentius, who was already contracted to Eudoxia, the
+ emperor's daughter, had raised him above the rank of a
+ subject.","('Aetius', 'PERSON'), ('Gaudentius', 'PERSON'), ('Eudoxia', 'PERSON')"
+"The favourable omen inspired 
+ an assurance of victory; the siege was renewed, and
+ prosecuted with fresh vigour; a large breach was made in the
+ part of the wall from whence the stork had taken her flight;
+ the Huns mounted to the assault with irresistible fury; and
+ the succeeding generation could scarcely discover the ruins
+ of Aquileia.(50)","('Huns', 'NORP'), ('Aquileia', 'PERSON'), ('50', 'CARDINAL')"
+"The fortunate Aetius, who was
+ immediately promoted to the rank of patrician, and thrice
+ invested with the honours of the consulship, assumed, with
+ the title of master of the cavalry and infantry, the whole
+ military power of the state; and he is sometimes styled, by
+ contemporary writers, the duke, or general, of the Romans of
+ the West.","('Aetius', 'PERSON'), ('Romans', 'NORP'), ('West', 'LOC')"
+"The genius of Leo(61) was exercised 
+ and displayed in the public misfortunes; and he has deserved
+ the appellation of Great by the successful zeal with which
+ he laboured to establish his opinions and his authority,
+ under the venerable names of orthodox faith and
+ ecclesiastical discipline.","('Leo', 'PERSON'), ('61', 'DATE')"
+"The inconsiderate courage of Torismond was tempted
+ to urge the pursuit, till he unexpectedly found himself,
+ with a few followers, in the midst of the Scythian waggons.","('Torismond', 'PERSON'), ('Scythian', 'NORP')"
+"The indefatigable diligence of the
+ patrician gradually collected the troops of Gaul and
+ Germany, who had formerly acknowledged themselves the
+ subjects or soldiers of the republic, but who now claimed
+ the rewards of voluntary service and the rank of independent
+ allies; the Laeti, the Armoricans, the Breones, the Saxons,
+ the Burgundians, the Sarmatians or Alani, the Ripuarians,
+ and the Franks who followed Meroveus as their lawful prince.","('Gaul', 'PERSON'), ('Germany', 'GPE'), ('Laeti', 'NORP'), ('Armoricans', 'NORP'), ('Breones', 'NORP'), ('Saxons', 'NORP'), ('Burgundians', 'NORP'), ('Sarmatians', 'NORP'), ('Alani', 'PERSON'), ('Ripuarians', 'NORP'), ('Franks', 'PERSON'), ('Meroveus', 'PERSON')"
+"The inland towns, Vicenza, Verona, and Bergamo, were
+ exposed to the rapacious cruelty of the Huns.","('Vicenza', 'GPE'), ('Verona', 'GPE'), ('Bergamo', 'GPE'), ('Huns', 'NORP')"
+"The invasion of Gaul was preceded and justified by
+ a formal demand of the princess Honoria, with a just and
+ equal share of the Imperial patrimony.","('Gaul', 'PERSON'), ('Honoria', 'PERSON'), ('Imperial', 'NORP')"
+"The islanders, who, from
+ Grado to Chiozza, were intimately connected with each other,
+ penetrated into the heart of Italy, by the secure, though
+ laborious, navigation of the rivers and inland canals.","('Grado', 'LOC'), ('Chiozza', 'GPE'), ('Italy', 'GPE')"
+"The king of the Goths
+ exhibited in his distress the edifying contrast of Christian
+ piety and moderation; nor did he lay aside his sackcloth and
+ ashes till he was prepared to arm for the combat.","('The king of the Goths', 'PERSON'), ('Christian', 'NORP')"
+"The kingdom established by the Visigoths in the southern
+ provinces of Gaul had gradually acquired strength and
+ maturity; and the conduct of those ambitious barbarians,
+ either in peace or war, engaged the perpetual vigilance of
+ Aetius.","('Visigoths', 'NORP'), ('Gaul', 'LOC'), ('Aetius', 'ORG')"
+"The kings and nations of Germany 
+ and Scythia, from the Volga perhaps to the Danube, obeyed
+ the warlike summons of Attila.","('Germany', 'GPE'), ('Scythia', 'GPE'), ('Volga', 'LOC'), ('Danube', 'LOC'), ('Attila', 'PERSON')"
+"The kings and nations who might
+ have deserted his standard in the hour of distress were made
+ sensible that the displeasure of their monarch was the most
+ imminent and inevitable danger.","('the hour', 'TIME')"
+"The lively eloquence of Avitus inflamed
+ the Gothic warriors by the description of the injuries which
+ their ancestors had suffered from the Huns, whose implacable
+ fury still pursued them from the Dawe to the foot of the
+ Pyrenees.","('Avitus', 'PERSON'), ('Gothic', 'NORP'), ('Huns', 'NORP'), ('Dawe', 'PRODUCT'), ('Pyrenees', 'LOC')"
+"The lofty 
+ stature of the Franks and their blue eyes denoted a Germanic
+ origin; their close apparel accurately expressed the figure
+ of their limbs; a weighty sword was suspended from a broad
+ belt; their bodies were protected by a large shield: and
+ these warlike barbarians were trained from their earliest
+ youth to run, to leap, to swim; to dart the javelin or
+ battle-axe with unerring aim; to advance without hesitation
+ against a superior enemy; and to maintain, either in life or
+ death, the invincible reputation of their ancestors.","('Franks', 'PERSON'), ('Germanic', 'NORP')"
+"The luxury of Rome seems to have attracted the long and
+ frequent visits of Valentinian, who was consequently more
+ despised at Rome than in any other part of his dominions.","('Rome', 'GPE'), ('Valentinian', 'NORP'), ('Rome', 'GPE')"
+"The minister of
+ Theodoric compares them, in his quaint declamatory style, to
+ waterfowl, who had fixed their nests on the bosom of the
+ waves; and though he allows that the Venetian provinces had
+ formerly contained many noble families, he insinuates that
+ they were now reduced by misfortune to the same level of
+ humble poverty.","('The minister of\r\n Theodoric', 'PERSON'), ('Venetian', 'NORP')"
+"The name of
+ Attila was familiar and formidable at Constantinople, and
+ his frequent embassies entertained a perpetual intercourse
+ between his camp and the Imperial palace.","('Attila', 'PERSON'), ('Constantinople', 'GPE'), ('Imperial', 'NORP')"
+"The nations from the
+ Volga to the Atlantic were assembled on the plain of
+ Chalons; but many of these nations had been divided by
+ faction, or conquest, or emigration; and the appearance of
+ similar arms and ensigns, which threatened each other,
+ presented the image of a civil war.","('Volga', 'LOC'), ('Atlantic', 'LOC'), ('Chalons', 'LOC')"
+"The nations subject to his
+ empire, the Rugians, the Heruli, the Thuringians, the
+ Franks, the Burgundians, were extended, on either hand, over
+ the ample space of the Catalaunian fields; the right wing
+ was commanded by Ardaric, king of the Gepidae; and the three
+ valiant brothers who reigned over the Ostrogoths were posted
+ on the left to oppose the kindred tribes of the Visigoths.","('Rugians', 'NORP'), ('Heruli', 'NORP'), ('Thuringians', 'NORP'), ('Franks', 'NORP'), ('Burgundians', 'NORP'), ('Catalaunian', 'NORP'), ('Ardaric', 'PERSON'), ('Gepidae', 'PERSON'), ('three', 'CARDINAL'), ('Ostrogoths', 'NORP'), ('Visigoths', 'NORP')"
+"The nations who were strangers or enemies to Aetius
+ generously deplored the unworthy fate of a hero; the
+ barbarians who had been attached to his service dissembled
+ their grief and resentment; and the public contempt which
+ had been so long entertained for Valentinian was at once
+ converted into deep and universal abhorrence.","('Aetius', 'PERSON'), ('Valentinian', 'PERSON')"
+"The number of the slain amounted to one hundred and sixty-two thousand, or, according to another account, three hundred thousand persons; (44) and these incredible exaggerations suppose a real and effective loss, sufficient to justify the historian's remark that whole generations may be swept away by the madness of kings in the space of a single hour.","('one hundred and sixty-two thousand', 'CARDINAL'), ('three hundred thousand', 'CARDINAL'), ('a single hour', 'TIME')"
+"The palace of Attila, with the old country of
+ Daciab from the Carpathian hills to the Euxine, became the
+ seat of a new power which was erected by Ardaric, king of
+ the Gepidae.","('Attila', 'PERSON'), ('Daciab', 'GPE'), ('the Carpathian hills', 'LOC'), ('Euxine', 'LOC'), ('Ardaric', 'PERSON'), ('Gepidae', 'PERSON')"
+"The patrician exerted the
+ superior ascendant of authority and reason to calm the
+ passions which the son of Theodoric considered as a duty;
+ represented, with seeming affection and real truth, the
+ dangers of absence and delay; and persuaded Torismond to
+ disappoint, by his speedy return, the ambitious designs of
+ his brothers, who might occupy the throne and treasures of
+ Toulouse.(46)","('Theodoric', 'PERSON'), ('Torismond', 'PERSON'), ('Toulouse', 'GPE'), ('46', 'CARDINAL')"
+"The popular
+ traditions of Comum, Turin, or Modena may justly be
+ respected; yet they concur with more authentic evidence to
+ prove that Attila spread his ravages over the rich plains of
+ modern Lombardy, which are divided by the Po, and bounded by
+ the Alps and Apennine. (51)","('Comum', 'LOC'), ('Turin', 'GPE'), ('Modena', 'GPE'), ('Attila', 'PERSON'), ('Lombardy', 'GPE'), ('Po', 'NORP'), ('Alps', 'LOC'), ('Apennine', 'PERSON'), ('51', 'CARDINAL')"
+"The predictions of the augurs had inspired
+ Litorius with the profane confidence that he should enter
+ the Gothic capital in triumph; and the trust which he
+ reposed in his Pagan allies encouraged him to reject the
+ fair conditions of peace which were repeatedly proposed by
+ the bishops in the name of Theodoric.","('Litorius', 'PERSON'), ('Gothic', 'NORP'), ('Pagan', 'NORP'), ('Theodoric', 'ORG')"
+"The pressing eloquence 
+ of Leo, his majestic aspect and sacerdotal robes, excited
+ the veneration of Attila for the spiritual father of the
+ Christians.","('Leo', 'PERSON'), ('Attila', 'PERSON'), ('Christians', 'NORP')"
+"The princess of the Vandals was
+ the victim of a jealous tyrant, whom she called her father.","('Vandals', 'PERSON')"
+"The queen of
+ the Suevi bewailed the death of an husband, inhumanly
+ massacred by her brother.","('Suevi', 'PERSON')"
+"The remains of Attila were enclosed
+ within three coffins of gold, of silver, and of iron, and
+ privately buried in the night: the spoils of nations were
+ thrown into his grave; the captives who had opened the
+ ground were inhumanly massacred; and the same Huns, who had
+ indulged such excessive grief, feasted, with dissolute and
+ intemperate mirth, about the recent sepulchre of their king.","('Attila', 'PERSON'), ('three', 'CARDINAL'), ('Huns', 'NORP')"
+"The remote object, on which every eye was fixed, became each moment larger and more distinct; the Roman and Gothic banners were gradually perceived; and a favourable wind, blowing aside the dust, discovered.","('Roman', 'NORP'), ('Gothic', 'NORP')"
+"The revenge which Attila inflicted on this monument of
+ Roman vanity was harmless and ingenious.","('Attila', 'PERSON'), ('Roman', 'NORP')"
+"The revolution which subverted the empire of the Huns
+ established the fame of Attila, whose genius alone had
+ sustained the huge and disjointed fabric.","('Huns', 'NORP'), ('Attila', 'PERSON')"
+"The right of female succession, though it
+ might derive a specious argument from the recent examples of
+ Placidia and Pulcheria, was strenuously denied, and the
+ indissoluble engagements of Honoria were opposed to the
+ claims of her Scythian lover. (29)","('Placidia', 'ORG'), ('Pulcheria', 'PERSON'), ('Honoria', 'PERSON'), ('Scythian', 'NORP'), ('29', 'CARDINAL')"
+"The saddles and rich furniture of the cavalry were collected by his order into a funeral pile; and the magnanimous barbarian had resolved, if his entrenchments should be forced, to rush headlong into the flames, and deprive his enemies of the glory which they might have acquired by the death or captivity of Attila. (45)
+Retreat of Attila.","('Attila', 'PERSON'), ('45', 'CARDINAL'), ('Attila', 'PERSON')"
+"The safety of
+ Rome might deserve the interposition of celestial beings;
+ and some indulgence is due to a fable which has been
+ represented by the pencil of Raphael and the chisel of
+ Algardi.(66)","('Rome', 'GPE'), ('Raphael', 'PERSON'), ('Algardi', 'PERSON'), ('66', 'CARDINAL')"
+"The same fortune which opened the deserts and
+ morasses of Scythia to their unarmed valour, which had laid
+ so many warlike nations prostrate at their feet, had
+ reserved the joys of this memorable field for the
+ consummation of their victories.","('Scythia', 'ORG')"
+"The same language, even in the camp of the Huns, was used by
+ his ambassador Apollonius, whose bold refusal to deliver the
+ presents, till he had been admitted to a personal interview,
+ displayed a sense of dignity, and a contempt of danger,
+ which Attila was not prepared to expect from the degenerate
+ Romans.(1)","('Huns', 'NORP'), ('Apollonius', 'PERSON'), ('Attila', 'PERSON'), ('Romans', 'NORP'), ('1', 'CARDINAL')"
+"The senator Avitus, who after the honourable
+ exercise of the Praetorian praefecture had retired to his
+ estate in Auvergne, was persuaded to accept the important
+ embassy, which he executed with ability and success.","('Avitus', 'PERSON'), ('Praetorian', 'NORP'), ('Auvergne', 'GPE')"
+"The severe inquisition, which confiscated their goods and tortured their persons, compelled the subjects of Valentinian to prefer the more simple tyranny of the barbarians, to fly to the woods and mountains, or to embrace the vile and abject condition of mercenary servants.","('Valentinian', 'NORP')"
+"The shepherds of
+ the North, whose ordinary food consisted of milk and raw
+ flesh, indulged themselves too freely in the use of bread,
+ of wine, and of meat prepared and seasoned by the arts of
+ cookery; and the progress of disease revenged in some
+ measure the injuries of the Italians. (64)","('North', 'LOC'), ('Italians', 'NORP')"
+"The siege was
+ immediately raised; and the more decisive victory, which is
+ ascribed to the personal conduct of Aetius himself, was
+ marked with the blood of eight thousand Goths.","('Aetius', 'PERSON'), ('eight thousand', 'CARDINAL'), ('Goths', 'NORP')"
+"The sister of Valentinian was educated in
+ the palace of Ravenna; and as her marriage might be
+ productive of some danger to the state, she was raised, by
+ the title of Augusta, (28) above the hopes of the most 
+ presumptuous subject.","('Valentinian', 'NORP'), ('Ravenna', 'GPE'), ('Augusta', 'GPE'), ('28', 'DATE')"
+"The skill of the Roman artists might be
+ corrupted to the destruction of their country.","('Roman', 'NORP')"
+"The specious and artful character of
+ Avienus(60) was admirably qualified to conduct a negotiation 
+ either of public or private interest: his colleague
+ Trigetius had exercised the Praetorian praefecture of Italy;
+ and Leo, bishop of Rome, consented to expose his life for
+ the safety of his flock.","('Avienus', 'PERSON'), ('60', 'DATE'), ('Trigetius', 'PERSON'), ('Praetorian', 'NORP'), ('Italy', 'GPE'), ('Leo', 'PERSON'), ('Rome', 'GPE')"
+"The spectators 
+ must have confessed the truth and propriety of the
+ alteration; and were perhaps tempted to apply, on this
+ singular occasion, the well-known fable of the dispute
+ between the lion and the man.(53)
+Foundation of the republic of Venice.","('53', 'CARDINAL'), ('Venice', 'GPE')"
+"The spirit of the barbarians was rekindled by the presence, the voice and the example of their intrepid leader and Attila, yielding to
+ their impatience, immediately formed his order of battle.","('Attila', 'PERSON')"
+"The stately
+ demeanour of an hereditary monarch offended their pride, and
+ the pleasures of Valentinian were injurious to the peace and
+ honour of noble families.","('Valentinian', 'NORP')"
+"The tables, which had been
+ spread under the shelter of a hill along the banks of a
+ pleasant stream, were rudely overturned; the Franks were
+ oppressed before they could recover their arms or their
+ ranks, and their unavailing valour was fatal only to
+ themselves.","('Franks', 'PERSON')"
+"The two 
+ daughters of the Gothic king were given in marriage to the
+ eldest sons of the kings of the Suevi and of the Vandals,
+ who reigned in Spain and Africa; but these illustrious
+ alliances were pregnant with guilt and discord.","('two', 'CARDINAL'), ('Gothic', 'NORP'), ('Suevi', 'PERSON'), ('Vandals', 'NORP'), ('Spain', 'GPE'), ('Africa', 'LOC')"
+"The unhappy princess passed twelve or
+ fourteen years in the irksome society of the sisters of
+ Theodosius and their chosen virgins, to whose crown
+ Honoria could no longer aspire, and whose monastic assiduity
+ of prayer, fasting, and vigils she reluctantly imitated.","('twelve or\r\n fourteen years', 'DATE'), ('Theodosius', 'PERSON'), ('Honoria', 'NORP')"
+"The unsuspecting wife of Maximus was
+ conveyed in her litter to the Imperial palace; the
+ emissaries of her impatient lover conducted her to a remote
+ and silent bedchamber; and Valentinian violated, without
+ remorse, the laws of hospitality.","('Maximus', 'PERSON'), ('Imperial', 'NORP'), ('Valentinian', 'NORP')"
+"The valour of Attila was always guided by his 
+ prudence; and as he foresaw the fatal consequences of a
+ defeat in the heart of Gaul, he repassed the Seine, and
+ expected the enemy in the plains of Chalons, whose smooth
+ and level surface was adapted to the operations of his
+ Scythian cavalry.","('Attila', 'PERSON'), ('Gaul', 'PERSON'), ('Seine', 'LOC'), ('Chalons', 'GPE'), ('Scythian', 'NORP')"
+"The walls of
+ Aquileia were assaulted by a formidable train of battering
+ rams, movable turrets, and engines that threw stones, darts,
+ and fire;(48) and the monarch of the Huns employed the 
+ forcible impulse of hope, fear, emulation and interest, to
+ subvert the only barrier which delayed the conquest of
+ Italy.","('Aquileia', 'PRODUCT'), ('48', 'CARDINAL'), ('Huns', 'NORP'), ('Italy', 'GPE')"
+"Their
+ flaxen locks, which they combed and dressed with singular
+ care, hung down in flowing ringlets on their back and
+ shoulders; while the rest of the nation were obliged, either
+ by law or custom, to shave the hinder part of their head, to
+ comb their hair over the forehead, and to content themselves
+ with the ornament of two small whiskers.","('two', 'CARDINAL')"
+"Their
+ vessels, which were continually increasing in size and
+ number, visited all the harbours of the Gulf; and the
+ marriage which Venice annually celebrates with the Hadriatic
+ was contracted in her early infancy.","('Gulf', 'LOC'), ('Venice', 'GPE'), ('Hadriatic', 'PERSON')"
+"Their marriage was celebrated with 
+ barbaric pomp and festivity, at his wooden palace beyond the
+ Danube; and the monarch, oppressed with wine and sleep,
+ retired at a late hour from the banquet to the nuptial bed.","('Danube', 'LOC'), ('a late hour', 'TIME')"
+"Theodoric yielded to the evidence of
+ truth, adopted the measure at once the most prudent and the
+ most honourable, and declared that as the faithful ally of
+ Aetius and the Romans he was ready to expose his life and
+ kingdom for the common safety of Gaul.(37)","('Theodoric', 'PERSON'), ('Aetius', 'PERSON'), ('Romans', 'NORP'), ('Gaul', 'PERSON'), ('37', 'CARDINAL')"
+"Theodoric; king of the Visigoths,
+ appears to have deserved the love of his subjects, the
+ confidence of his allies, and the esteem of mankind.","('Visigoths', 'NORP')"
+"These indecent advances were received, however,
+ with coldness and disdain; and the king of the Huns
+ continued to multiply the number of his wives till his love
+ was awakened by the more forcible passions of ambition and
+ avarice.","('Huns', 'NORP')"
+"These princes were elevated on a buckler, 
+ the symbol of military command;(17) and the royal fashion of 
+ long hair was the ensign of their birth and dignity.","('17', 'CARDINAL')"
+"These savage allies were not indeed less
+ formidable to the subjects than to the enemies of Rome.","('Rome', 'GPE')"
+"They
+ massacred their hostages, as well as their captives: two
+ hundred young maidens were tortured with exquisite and
+ unrelenting rage; their bodies were torn asunder by wild
+ horses, or their bones were crushed under the weight of
+ rolling waggons; and their unburied limbs were abandoned on
+ the public roads as a prey to dogs and vultures.","('two\r\n hundred', 'CARDINAL')"
+"They abjured and abhorred the name of Roman citizens, which had formerly excited the ambition of mankind.","('Roman', 'NORP')"
+"They involved in a promiscuous
+ massacre the priests who served at the altar and the infants
+ who, in the hour of danger, had been providently baptised by
+ the bishop; the flourishing city was delivered to the
+ flames, and a solitary chapel of St. Stephen marked the
+ place where it formerly stood.","('St. Stephen', 'FAC')"
+"This advantage, which
+ had been obtained by the skill and activity of Aetius, might
+ reflect some disgrace on the military prudence of Clodion;
+ but the king of the Franks soon regained his strength and
+ reputation, and still maintained the possession of his
+ Gallic kingdom from the Rhine to the Somme.(24)","('Aetius', 'WORK_OF_ART'), ('Clodion', 'PERSON'), ('Franks', 'PERSON'), ('Gallic', 'NORP'), ('Rhine', 'LOC'), ('Somme', 'LOC'), ('24', 'CARDINAL')"
+"This horrid act, which must seem incredible to a civilised
+ age, drew tears from every spectator; but Theodoric was
+ urged, by the feelings of a parent and a king, to revenge
+ such irreparable injuries.","('Theodoric', 'PERSON')"
+"This important
+ commission was accepted by Avienus, who, from his birth and
+ riches, his consular dignity, the numerous train of his
+ clients, and his personal abilities, held the first rank in
+ the Roman senate.","('Avienus', 'PERSON'), ('first', 'ORDINAL'), ('Roman', 'NORP')"
+"This prophecy, disregarded perhaps in the season of health and prosperity, inspired the people with gloomy apprehensions when the twelfth century, clouded with disgrace and misfortune, was almost elapsed;(76) and even posterity must acknowledge with some surprise that the arbitrary interpretation of an accidental or fabulous circumstance has been seriously verified in the downfall of the Western empire.","('the twelfth century', 'DATE'), ('76', 'DATE'), ('Western', 'NORP')"
+"This spacious plain was 
+ distinguished, however, by some inequalities of ground; and
+ the importance of an height which commanded the camp of
+ Attila was understood and disputed by the two generals.","('Attila', 'PERSON'), ('two', 'CARDINAL')"
+"This temperate courage
+ dictated his reply to the demands of Attila, who insolently
+ pressed the payment of the annual tribute.","('Attila', 'PERSON'), ('annual', 'DATE')"
+"Three months were consumed without effect in the siege of
+ Aquileia; till the want of provisions and the clamours of
+ his army compelled Attila to relinquish the enterprise, and
+ reluctantly to issue his orders that the troops should
+ strike their tents the next morning, and begin their
+ retreat.","('Three months', 'DATE'), ('Aquileia', 'GPE'), ('Attila', 'PERSON'), ('the next morning', 'TIME')"
+"Till the middle of the fifth century 
+ these remote and sequestered spots remained without
+ cultivation, with few inhabitants, and almost without a
+ name.","('the middle of the fifth century', 'DATE')"
+"Twenty thousand Burgundians were slain in battle, and the remains of the nation humbly accepted a ependent seat in the mountains of Savoy.(11) The walls of Narbonne had been shaken by the battering engines, and the inhabitants had endured the last extremities of famine, when Count Litorius, approaching in silence, and directing each
+ horseman to carry behind him two sacks of flour, cut his way
+ through the entrenchments of the besiegers.","('Twenty thousand', 'CARDINAL'), ('Burgundians', 'NORP'), ('Savoy', 'GPE'), ('11', 'CARDINAL'), ('Narbonne', 'GPE'), ('Litorius', 'PERSON'), ('two', 'CARDINAL')"
+"Two colonies of these barbarians were judiciously fixed in
+ the territories of Valence and Orleans;(8) and their active 
+ cavalry secured the important passages of the Rhine and of
+ the Loire.","('Two', 'CARDINAL'), ('Valence', 'LOC'), ('Orleans', 'GPE'), ('8', 'CARDINAL'), ('Rhine', 'LOC'), ('Loire', 'LOC')"
+"Two of these, of barbarian race, were
+ persuaded to execute a sacred and honourable duty by
+ punishing with death the assassin of their patron, and their intrepid courage did not long expect a favourable moment.","('Two', 'CARDINAL')"
+"Under his 
+ reign, and most probably from the enterprising spirit of his
+ subjects, the three Capitals, Mentzs Treves, and Cologne,
+ experienced the effects of hostile cruelty and avarice.","('three', 'CARDINAL'), ('Capitals', 'ORG'), ('Mentzs Treves', 'ORG'), ('Cologne', 'GPE')"
+"Valentinian was less excusable, since he had passions without virtues: even his religion was questionable; and though he never deviated into the paths of heresy, he scandalised the pious Christians by his attachment to the profane arts of magic and divination.","('Valentinian', 'PERSON'), ('Christians', 'NORP')"
+"Valentinian, who supposed that every human breast was
+ devoid like his own of friendship and gratitude, had
+ imprudently admitted among his guards several domestics and
+ followers of Aetius.","('Valentinian', 'PERSON'), ('Aetius', 'PERSON')"
+"When Attila 
+ declared his resolution of carrying his victorious arms to
+ the gates of Rome, he was admonished by his friends, as well
+ as by his enemies, that Alaric had not long survived the
+ conquest of the eternal city.","('Attila', 'PERSON'), ('Rome', 'GPE'), ('Alaric', 'PERSON')"
+"When Attila declared his resolution of supporting the cause
+ of his allies the Vandals and the Franks, at the same time,
+ and almost in the spirit of romantic chivalry, the savage
+ monarch professed himself the lover and the champion of the
+ princess Honoria.","('Attila', 'PERSON'), ('Vandals', 'NORP'), ('Franks', 'PERSON'), ('Honoria', 'PERSON')"
+"When he claimed the spoils of
+ a vanquished city, some vases of gold, which had been
+ fraudulently embezzled, the civil and military governors of
+ Noricum were immediately despatched to satisfy his
+ complaints:(7) and it is evident, from their conversation 
+ with Maximin and Priscus in the royal village, that the
+ valour and prudence of Aetius had not saved the Western
+ Romans from the common ignominy of tribute.","('Noricum', 'GPE'), ('Maximin', 'PERSON'), ('Priscus', 'PERSON'), ('Aetius', 'PERSON'), ('the Western\r\n Romans', 'NORP')"
+"When he took possession of the 
+ royal palace of Milan, he was surprised and offended at the
+ sight of a picture which represented the Caesars seated on
+ their throne, and the princes of Scythia prostrate at their
+ feet.","('Milan', 'GPE'), ('Caesars', 'PERSON'), ('Scythia', 'PERSON')"
+"While Clodion lay encamped in 
+ the plains of Artois, (23) and celebrated with vain and 
+ ostentatious security the marriage perhaps of his son, the
+ nuptial feast was interrupted by the unexpected and
+ unwelcome presence of Aetius, who had passed the Somme at
+ the head of his light cavalry.","('Clodion', 'PERSON'), ('Artois', 'GPE'), ('23', 'CARDINAL'), ('Aetius', 'PERSON'), ('Somme', 'LOC')"
+"While he
+ resided in their tents as an hostage or an exile, he had
+ familiarly conversed with Attila himself, the nephew of his
+ benefactor; and the two famous antagonists appear to have
+ been connected by a personal and military friendship, which
+ they afterwards confirmed by mutual gifts, frequent
+ embassies, and the education of Carpilio, the son of Aetius,
+ in the camp of Attila.","('Attila', 'PERSON'), ('two', 'CARDINAL'), ('Carpilio', 'PERSON'), ('Aetius', 'PERSON'), ('Attila', 'PERSON')"
+"While mankind awaited his decision with awful suspense, he sent an equal defiance to the courts of Ravenna and Constantinople; and his ministers saluted the two emperors with the same haughty declaration.","('Ravenna', 'GPE'), ('Constantinople', 'GPE'), ('two', 'CARDINAL')"
+"Whilst Valentinian amused himself in the field of Mars with the spectacle of some military sports, they suddenly rushed upon him with drawn weapons, despatched the guilty Heraclius, and stabbed the emperor to the heart, without the least opposition from his numerous train, who seemed to rejoice in the tyrant's death.","('Valentinian', 'PERSON'), ('Mars', 'LOC'), ('Heraclius', 'PERSON')"
+"Whilst he urged, perhaps with
+ intemperate vehemence, the marriage of his son, Valentinian,
+ drawing his sword - the first sword he had ever drawn -
+ plunged it in the breast of a general who had saved his
+ empire: his courtiers and eunuchs ambitiously struggled to
+ imitate their master; and Aetius, pierced with an hundred
+ wounds, fell dead in the royal presence.","('Valentinian', 'PERSON'), ('first', 'ORDINAL'), ('Aetius', 'PERSON'), ('hundred', 'CARDINAL')"
+"Yet Theodoric still watched, and eagerly
+ seized, the favourable moment of renewing his hostile
+ attempts.","('Theodoric', 'PERSON')"
+"Yet his
+ dexterous policy prolonged the advantages of a salutary
+ peace; and a numerous army of Huns and Alani, whom he had
+ attached to his person, was employed in the defence of Gaul.","('Huns', 'NORP'), ('Alani', 'PERSON'), ('Gaul', 'PERSON')"
+"Yet the Goths themselves were
+ astonished by the fierce and undaunted aspect of their
+ formidable antagonist; and their historian has compared
+ Attila to a lion encompassed in his den and threatening his
+ hunters with redoubled fury.","('Goths', 'NORP'), ('Attila', 'PERSON')"
+"Yet the savage destroyer undesignedly laid the foundations
+ of a republic which revived, in the feudal state of Europe,
+ the art and spirit of a commercial industry.","('Europe', 'LOC')"
+"Yet, in the
+ meanwhile, Attila relieved his tender anxiety, by adding a
+ beautiful maid, whose name was Ildico, to the list of his
+ innumerable wives.(67)","('Attila', 'PERSON'), ('Ildico', 'PERSON')"
+"in deep array, the impatient squadrons of Aetius and Theodoric, who pressed forwards to the relief of Orleans.","('Aetius', 'PERSON'), ('Theodoric', 'PERSON'), ('Orleans', 'GPE')"

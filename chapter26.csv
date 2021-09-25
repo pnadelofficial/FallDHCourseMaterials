@@ -1,0 +1,2126 @@
+Sentence,Entities
+(11),"('11', 'CARDINAL')"
+(113),"('113', 'CARDINAL')"
+(115),"('115', 'CARDINAL')"
+"(15)
+Situation and extent of Scythia, or Tartary.","('15', 'CARDINAL'), ('Scythia', 'ORG'), ('Tartary', 'ORG')"
+(2),"('2', 'CARDINAL')"
+(3),"('3', 'CARDINAL')"
+(54),"('54', 'CARDINAL')"
+"A
+ Gothic chief was heard to declare, with insolent moderation,
+ that, for his own part, he was fatigued with slaughter; but
+ that he was astonished how a people who fled before him like
+ a flock of sheep could still presume to dispute the
+ possession of their treasures and provinces.","('Gothic', 'NORP')"
+"A
+ Tartar sovereign enjoys the tenth part of the wealth of his
+ people; and as his own domestic riches of flocks and herds
+ increase in a much larger proportion, he is able plentifully
+ to maintain the rustic splendour of his court, to reward the
+ most deserving or the most favoured of his followers, and to
+ obtain from the gentle influence of corruption the obedience
+ which might be sometimes refused to the stern mandates of
+ authority.","('Tartar', 'NORP'), ('tenth', 'ORDINAL')"
+"A 
+ magnificent palace was prepared for his reception; his place
+ was assigned above all the princes of the royal family; and
+ the patience of the barbarian king was exhausted by the
+ ceremonies of a banquet, which consisted of eight courses of
+ meat; and of nine solemn pieces of music.","('eight', 'CARDINAL'), ('nine', 'CARDINAL')"
+"A Gothic soldier was slain by the dagger of an
+ Arab, and the hairy, naked savage, applying his lips to the
+ wound, expressed a horrid delight while he sucked the blood
+ of his vanquished enemy. (97)","('Gothic', 'NORP'), ('Arab', 'NORP')"
+"A blow was
+ imprudently given; a sword was hastily drawn, and the first
+ blood that was spilt in this accidental quarrel became the
+ signal of a long and destructive war.","('first', 'ORDINAL')"
+"A circle is drawn, of many miles in circumference,
+ to encompass the game of an extensive district; and the
+ troops that form the circle regularly advance towards a
+ common centre, where the captive animals, surrounded on
+ every side, are abandoned to the darts of the hunters.","('many miles', 'QUANTITY')"
+"A different mode of vindication or apology was opposed 
+ to the complaints of the people, who loudly censured these
+ shameful and dangerous concessions. (131)","('131', 'CARDINAL')"
+"A fabulous origin was 
+ assigned worthy of their form and manners that the witches
+ of Scythia, who, for their foul and deadly practices, had
+ been driven from society, had copulated in the desert with
+ infernal spirits, and that the Huns were the offspring of
+ this execrable conjunction. (58)","('Scythia', 'PERSON'), ('Huns', 'NORP'), ('58', 'CARDINAL')"
+"A formidable tempest of the barbarians of
+ Germany seemed ready to burst over the provinces of Gaul,
+ and the mind of Gratian was oppressed and distracted by the
+ administration of the Western empire.","('Germany', 'GPE'), ('Gaul', 'PERSON'), ('Gratian', 'PERSON'), ('Western', 'NORP')"
+"A great number of brave and distinguished officers perished in the battle of Hadrianople, which equalled in the actual loss, and far surpassed in the fatal consequences, the misfortune which Rome had formerly sustained in the fields of Cannae. (93)","('Hadrianople', 'GPE'), ('Rome', 'GPE'), ('Cannae', 'GPE'), ('93', 'CARDINAL')"
+"A large fleet of vessels,
+ of boats, and of canoes, was provided; many days and nights
+ they passed and repassed with indefatigable toil; and the
+ most strenuous diligence was exerted by the officers of
+ Valens that not a single barbarian, of those who were
+ reserved to subvert the foundations of Rome, should be left
+ on the opposite shore.","('Valens', 'PERSON'), ('Rome', 'GPE')"
+"A numerous colony of the Visigoths was
+ seated in Thrace; the remains of the Ostrogoths were planted
+ in Phrygia and Lydia; their immediate wants were supplied by
+ a distribution of corn and cattle; and their future industry
+ was encouraged by an exemption from tribute during a certain
+ term of years.","('Visigoths', 'PRODUCT'), ('Thrace', 'LOC'), ('Ostrogoths', 'PRODUCT'), ('Phrygia', 'GPE'), ('Lydia', 'GPE'), ('years', 'DATE')"
+"A probable testimony has fixed the number of the
+ Gothic warriors at two hundred thousand men; and if we can
+ venture to add the just proportion of women, of children,
+ and of slaves, the whole mass of people which composed this
+ formidable emigration must have amounted to near a million
+ of persons, of both sexes and of al!","('Gothic', 'NORP'), ('two hundred thousand', 'CARDINAL'), ('near a million', 'CARDINAL')"
+"A select band of the fairest maidens of
+ China was annually devoted to the rude embraces of the Huns;
+ (36) and the alliance of the haughty Tanjous was secured by 
+ their marriage with the genuine, or adopted, daughters of
+ the Imperial family, which vainly attempted to escape the
+ sacrilegious pollution.","('China', 'GPE'), ('Huns', 'NORP'), ('36', 'CARDINAL'), ('Tanjous', 'PERSON'), ('Imperial', 'NORP')"
+"A soldier of the lifeguards of
+ Gratian was of the nation of the Alemanni, and of the tribe
+ of the Lentienses, who dwelt beyond the lake of Constance.","('Gratian', 'PERSON'), ('Alemanni', 'NORP'), ('Lentienses', 'NORP'), ('Constance', 'PERSON')"
+"A subject invested with such ample command would
+ not long have preserved his fidelity to a distant
+ benefactor; and the Imperial council embraced the wise and
+ manly resolution of conferring an obligation rather than of
+ yielding to an insult.","('Imperial', 'ORG')"
+A.D. 377,"('A.D. 377', 'DATE')"
+A.D. 48.,"('A.D. 48', 'DATE')"
+"About the same time, Count
+ Richomer returned from the West to announce the defeat and
+ submission of the Alemanni; to inform Valens that his nephew
+ advanced by rapid marches at the head of the veteran and
+ victorious legions of Gaul; and to request, in the name of
+ Gratian and of the republic, that every dangerous and
+ decisive measure might be suspended till the junction of the
+ two emperors should ensure the success of the Gothic war.","('Richomer', 'PERSON'), ('West', 'LOC'), ('Alemanni', 'PERSON'), ('Valens', 'PERSON'), ('Gaul', 'PERSON'), ('Gratian', 'PERSON'), ('two', 'CARDINAL'), ('the Gothic war', 'EVENT')"
+"Above one 
+ hundred thousand persons, the poorest, indeed, and the most
+ pusillanimous of the people, were contented to remain in
+ their native country, to renounce their peculiar name and
+ origin, and to mingle with the victorious nation of the
+ Sienpi.","('one \r\n hundred thousand', 'CARDINAL'), ('Sienpi', 'NORP')"
+"Above two-thirds of the Roman army were destroyed: and the darkness of the night was esteemed a very favourable circumstance, as it served to conceal the flight of the multitude, and to
+protect the more orderly retreat of Victor and Richomer, who alone, amidst the general consternation, maintained the advantage of calm courage and regular discipline.(94)
+Funeral oration of Valens and his army.","('two', 'CARDINAL'), ('Roman', 'NORP'), ('Victor', 'PERSON'), ('Richomer', 'PERSON'), ('94', 'CARDINAL'), ('Valens', 'PERSON')"
+"After Valens had terminated the Gothic war with some
+ appearance of glory and success, he made a progress through
+ his dominions of Asia, and at length fixed his residence in
+ the capital of Syria.","('Valens', 'PERSON'), ('the Gothic war', 'EVENT'), ('Asia', 'LOC'), ('Syria', 'GPE')"
+"After the hasty and impolitic
+ massacre of three hundred deserters, an act of justice
+ extremely useful to the discipline of the Roman armies, the
+ Goths indignantly raised the siege of Hadrianople.","('three hundred', 'CARDINAL'), ('Roman', 'NORP'), ('Goths', 'NORP'), ('Hadrianople', 'PRODUCT')"
+"After this humiliating submission, the
+ Tanjous sometimes departed from their allegiance, and seized
+ the favourable moments of war and rapine; but the monarchy
+ of the Huns gradually declined, till it was broken, by civil
+ dissension, into two hostile and separate kingdoms.","('Tanjous', 'PERSON'), ('Huns', 'NORP'), ('two', 'CARDINAL')"
+"After this signal victory,
+ which secured the peace of Gaul and asserted the honour of
+ the Roman arms, the emperor Gratian appeared to proceed
+ without delay on his Eastern expedition; but, as he
+ approached the confines of the Alemanni, he suddenly
+ inclined to the left, surprised them by his unexpected
+ passage of the Rhine, and boldly advanced into the heart of
+ their country.","('Gaul', 'PERSON'), ('Roman', 'NORP'), ('Gratian', 'PERSON'), ('Eastern', 'NORP'), ('Alemanni', 'NORP'), ('Rhine', 'LOC')"
+"Against these enemies, Hermanric prepared to
+ exert the united forces of the Gothic state, but he soon
+ discovered that his vassal tribes, provoked by oppression,
+ were much more inclined to second than to repel the invasion
+ of the Huns.","('Hermanric', 'PERSON'), ('Gothic', 'NORP'), ('second', 'ORDINAL'), ('Huns', 'NORP')"
+"Ammianus Marcellinus, who terminates his
+ useful work with the defeat and death of Valens, recommends
+ the more glorious subject of the ensuing reign to the
+ youthful vigour and eloquence of the rising generation.","('Ammianus Marcellinus', 'PERSON'), ('Valens', 'PERSON')"
+"An army of forty thousand Goths was maintained for
+ the perpetual service of the empire of the East; and those
+ haughty troops, who assumed the title of Foederati, or
+ allies, were distinguished by their gold collars, liberal
+ pay, and licentious privileges.","('forty thousand', 'CARDINAL'), ('Goths', 'NORP'), ('East', 'LOC'), ('Foederati', 'PERSON')"
+"An order was immediately promulgated that, on a stated day,
+ the Gothic youth should assemble in the capital cities of
+ their respective provinces; and, as a report was
+ industriously circulated that they were summoned to receive
+ a liberal gift of lands and money, the pleasing hope allayed
+ the fury of their resentment, and perhaps suspended the
+ motions of the conspiracy.","('a stated day', 'DATE'), ('Gothic', 'NORP')"
+"Another colony advanced, with more intrepid
+ courage, towards the shores of the Baltic; associated
+ themselves with the northern tribes of Germany; and shared
+ the spoil of the Roman provinces of Gaul and Spain.","('Baltic', 'LOC'), ('Germany', 'GPE'), ('Roman', 'NORP'), ('Gaul', 'GPE'), ('Spain', 'GPE')"
+Ant. Christ 51.,"('Christ 51', 'DATE')"
+"As each
+ moment of delay diminished something of the power and
+ resources of the future sovereign of the East, the situation
+ of the times would not allow a tedious debate.","('East', 'LOC')"
+"As late as
+ the thirteenth century their transient residence on the
+ eastern banks of the Volga was attested by the name of Great
+ Hungary.(49)","('As late as\r\n the thirteenth century', 'DATE'), ('Volga', 'LOC'), ('Great\r\n Hungary', 'GPE'), ('49', 'CARDINAL')"
+"As long as the superior genius of Fritigern
+ preserved the union and directed the motions of the
+ barbarians, their power was not inadequate to the conquest
+ of a great empire.","('Fritigern', 'PERSON')"
+"As soon
+ as the forage of a certain district is consumed, the tribe,
+ or rather army, of shepherds makes a regular march to some
+ fresh pastures, and thus acquires, in the ordinary
+ occupations of the pastoral life, the practical knowledge of
+ one of the most important and difficult operations of war.","('one', 'CARDINAL')"
+"As soon as they descried the flaming beacons,(81) 
+ they obeyed with incredible speed the signal of their
+ leader; the camp was filled with the martial crowd of
+ barbarians; their impatient clamours demanded the battle,
+ and their tumultuous zeal was approved and animated by the
+ spirit of their chiefs.","('81', 'CARDINAL')"
+"As they had been deprived by the ministers of the emperor of the common benefits of nature and the fair intercourse of social life, they retaliated the injustice on the subjects of the empire; and the crimes of Lupicinus were expiated by the ruin of the peaceful husbandmen of Thrace, the conflagration of their villages, and the massacre or captivity of their innocent families.","('Lupicinus', 'PERSON'), ('Thrace', 'LOC')"
+"As they were conscious how ill they had
+ deserved the respect or confidence of the barbarians, they
+ diligently collected from every side a military force that
+ might urge the tardy and reluctant march of a people who had
+ not yet renounced the title or the duties of Roman subjects","('Roman', 'NORP')"
+"At the age of
+ nineteen the son of Valentinian seemed to possess the
+ talents of peace and war; and his personal success against
+ the Alemanni was interpreted as a sure presage of his Gothic
+ triumphs.(87)
+Valens marches against the Goths, A.D. 378.","('the age of\r\n nineteen', 'DATE'), ('Valentinian', 'NORP'), ('Alemanni', 'PERSON'), ('Gothic', 'NORP'), ('87', 'CARDINAL'), ('Valens', 'PERSON'), ('Goths', 'NORP'), ('378', 'CARDINAL')"
+"At the same hour, in all the
+ cities of the East, the signal was given of indiscriminate
+ slaughter; and the provinces of Asia were delivered, by the
+ cruel prudence of Julius, from a domestic enemy, who in a
+ few months might have carried fire and sword from the
+ Hellespont to the Euphrates.(103)","('the same hour', 'TIME'), ('East', 'LOC'), ('Asia', 'LOC'), ('Julius', 'PERSON'), ('a\r\n few months', 'DATE'), ('Hellespont', 'LOC'), ('Euphrates', 'LOC'), ('103', 'CARDINAL')"
+"At these words Fritigern and his companions drew their swords, opened their passage through the unresisting crowd, which filled the palace, the streets, and the gates of Marcianopolis, and, mounting their horses, hastily vanished from the eyes of the astonished Romans.","('Fritigern', 'PERSON'), ('Marcianopolis', 'GPE'), ('Romans', 'NORP')"
+"At this important crisis the military government
+ of Thrace was exercised by Lupicinus and Maximus, in whose
+ venal minds the slightest hope of private emolument
+ outweighed every consideration of public advantage, and
+ whose guilt was only alleviated by their incapacity of
+ discerning the pernicious effects of their rash and criminal
+ administration.","('Thrace', 'GPE'), ('Lupicinus', 'PERSON'), ('Maximus', 'PERSON')"
+"Athanaric himself, still anxious to avoid the
+ guilt of perjury, retired, with a band of faithful
+ followers, into the mountainous country of Caucaland, which
+ appears to have been guarded and almost concealed by the
+ impenetrable forests of Transylvania.(62)","('Athanaric', 'PERSON'), ('Caucaland', 'GPE'), ('Transylvania', 'GPE')"
+"Athanaric, who had been a patient spectator
+ of these extraordinary events, was at length driven, by the
+ chance of arms, from the dark recesses of the woods of
+ Caucaland.","('Athanaric', 'PERSON'), ('Caucaland', 'GPE')"
+August 9th .,"('August 9th', 'DATE')"
+"Battle of Hadrianople, A.D. 378.","('Battle of Hadrianople', 'ORG'), ('378', 'CARDINAL')"
+"Before
+ he had reposed himself ten days in the capital he was urged
+ by the licentious clamours of the Hippodrome to march
+ against the barbarians whom he had invited into his
+ dominions: and the citizens, who are always brave at a
+ distance from any real danger, declared, with confidence,
+ that if they were supplied with arms, they alone would
+ undertake to deliver the province from the ravages of an
+ insulting foe. (88)","('ten days', 'DATE'), ('Hippodrome', 'FAC')"
+"Before they passed the Danube they
+ were required to deliver their arms, and it was insisted
+ that their children should be taken from them and dispersed
+ through the provinces of Asia, where they might be civilised
+ by the arts of education, and serve as hostages to secure
+ the fidelity of their parents.","('Danube', 'LOC'), ('Asia', 'LOC')"
+"But
+ the more numerous faction adhered to the fierce and
+ faithless Priulf, who inflamed the passions and asserted the
+ independence of his warlike followers.","('Priulf', 'PERSON')"
+"But age had chilled the daring
+ spirit of Athanaric; and instead of leading his people to the field of battle and victory, he wisely listened to the fair proposal of an honourable and advantageous treaty.","('Athanaric', 'PERSON')"
+"But as the
+ minds of the barbarians were not insensible to the power of
+ gratitude, several of the Gothic leaders sincerely devoted
+ themselves to the service of the empire, or, at least, of
+ the emperor: the whole nation was insensibly divided into
+ two opposite factions, and much sophistry was employed in
+ conversation and dispute to compare the obligations of their
+ first and second engagements.","('Gothic', 'NORP'), ('two', 'CARDINAL'), ('first', 'ORDINAL'), ('second', 'ORDINAL')"
+"But he added, in a whisper of confidential
+ friendship, that the exasperated barbarians were averse to
+ these reasonable conditions; and that Fritigern was doubtful
+ whether he could accomplish the conclusion of the treaty
+ unless he found himself supported by the presence and
+ terrors of an Imperial army.","('Fritigern', 'PERSON'), ('Imperial', 'NORP')"
+"But he performed,
+ on his knees, the duty of a respectful homage to the emperor
+ of China; pronounced, in his own name, and in the name of
+ his successors, a perpetual oath of fidelity; and gratefully
+ accepted a seal, which was bestowed as the emblem of his
+ regal dependence.","('China', 'GPE')"
+"But he was soon surrounded by the
+ barbarians; and, after a siege of seven days, the monarch,
+ hopeless of relief, was reduced to purchase his deliverance
+ by an ignominious capitulation.","('seven days', 'DATE')"
+"But in the
+ winter they return to the South, and shelter their camp,
+ behind some convenient eminence, against the winds, which
+ are chilled in their passage over the bleak and icy regions
+ of Siberia.","('the\r\n winter', 'DATE'), ('South', 'LOC'), ('Siberia', 'LOC')"
+"But the
+ greatest part of the nation of the Alani embraced the offers
+ of an honourable and advantageous union; and the Huns, who
+ esteemed the valour of their less fortunate enemies,
+ proceeded, with an increase of numbers and confidence, to
+ invade the limits of the Gothic empire.","('Alani', 'PERSON'), ('Huns', 'NORP'), ('Gothic', 'NORP')"
+"But the
+ person of Witheric, the infant king, was saved by the
+ diligence of Alatheus and Saphrax; two warriors of approved
+ valour and fidelity, who, by cautious marches, conducted the
+ independent remains of the nation of the Ostrogoths towards
+ the Danastus, or Dniester, a considerable river, which now
+ separates the Turkish dominions from the empire of Russia.","('Witheric', 'PERSON'), ('Alatheus', 'PERSON'), ('Saphrax', 'PERSON'), ('two', 'CARDINAL'), ('Ostrogoths', 'NORP'), ('Danastus', 'LOC'), ('Dniester', 'LOC'), ('Turkish', 'NORP'), ('Russia', 'GPE')"
+"But the attention of the emperor
+ was most seriously engaged by the important intelligence
+ which he received from the civil and military officers who
+ were intrusted with the defence of the Danube.","('Danube', 'LOC')"
+"But the constant operation of various and
+ permanent causes contributed to unite the vagrant Hords into
+ national communities, under the command of a supreme head.","('Hords', 'NORP')"
+"But the effects which were produced by the battle of
+ Hadrianople on the minds of the barbarians and of the
+ Romans, extended the victory of the former, and the defeat
+ of the latter, far beyond the limits of a single day.","('Hadrianople', 'ORG'), ('Romans', 'NORP'), ('a single day', 'DATE')"
+"But the exploits of the
+ hunters of Scythia are not confined to the destruction of
+ timid or innocuous beasts: they boldly encounter the angry
+ wild boar when he turns against his pursuers, excite the
+ sluggish courage of the bear, and provoke the fury of the
+ tiger as he slumbers in the thicket.","('Scythia', 'LOC')"
+"But the feeble sovereign of the East was actuated only by
+ the fatal illusions of pride and jealousy.","('East', 'LOC')"
+"But the first magistrate of Hadrianople, incensed by some disorders which had been committed at his country-house, refused this indulgence; and arming against them the inhabitants and manufacturers of a populous city, he urged, with hostile threats, their instant departure.","('first', 'ORDINAL'), ('Hadrianople', 'PERSON')"
+"But the flock and herds which accompany the march of the
+ Tartars afford a sure and increasing supply of flesh and
+ milk; in the far greater part of the uncultivated waste the
+ vegetation of the grass is quick and luxuriant; and there
+ are few places so extremely barren that the hardy cattle of
+ the North cannot find some tolerable pasture.","('Tartars', 'LOC'), ('North', 'LOC')"
+"But the generals of Valens, while their attention was solely
+ directed to the discontented Visigoths, imprudently disarmed
+ the ships and the fortifications which constituted the
+ defence of the Danube.","('Valens', 'PERSON'), ('Visigoths', 'NORP'), ('Danube', 'LOC')"
+"But the great Theodosius, an epithet which he
+ honourably deserved on this momentous occasion, conducted
+ himself as the firm and faithful guardian of the republic.","('Theodosius', 'PERSON')"
+"But the hopes and measures of the 
+ Judge of the Visigoths were soon disappointed by the
+ trembling impatience of his dismayed countrymen, who were
+ persuaded by their fears that the interposition of the
+ Danube was the only barrier that could save them from the
+ rapid pursuit and invincible valour of the barbarians of
+ Scythia.","('Visigoths', 'PERSON'), ('Danube', 'LOC'), ('Scythia', 'ORG')"
+"But the most experienced
+ statesman of Europe has never been summoned to consider the
+ propriety or the danger of admitting or rejecting an
+ innumerable multitude of barbarians, who are driven by
+ despair and hunger to solicit a settlement on the
+ territories of a civilised nation.","('Europe', 'LOC')"
+"But the most powerful 
+ auxiliaries of the Goths were drawn from the camp of those
+ enemies who had expelled them from their native seats.","('Goths', 'NORP')"
+"But the most suspicious
+ malignity cannot ascribe to Theodosius, in his obscure
+ solitude of Caucha, the arts, the desires, or even the hopes
+ of an ambitious statesman; and the name of the Exile would
+ long since have been forgotten, if his genuine and
+ distinguished virtues had not left a deep impression in the
+ Imperial court.","('Theodosius', 'PERSON'), ('Caucha', 'NORP'), ('Exile', 'EVENT'), ('Imperial', 'NORP')"
+"But the most warlike and powerful tribes of the Huns
+ maintained in their adverse fortune the undaunted spirit of
+ their ancestors.","('Huns', 'NORP')"
+"But the name of that sea, on whose shores the
+ patriot Sovou embraced the life of a shepherd and an exile,
+ (31) may be transferred, with much more probability, to the 
+ Baikal, a capacious basin, above three hundred miles in
+ length, which disdains the modest appellation of a lake,(32) 
+ and which actually communicates with the seas of the North,
+ by the long course of the Angara, the Tonguska, and the
+ Yenesei.","('Sovou', 'PERSON'), ('31', 'CARDINAL'), ('Baikal', 'GPE'), ('three hundred miles', 'QUANTITY'), ('32', 'CARDINAL'), ('North', 'LOC'), ('Angara', 'NORP'), ('Tonguska', 'NORP'), ('Yenesei', 'NORP')"
+But the policy of Theodosius derived more solid benefit from the death than he could have expected from the most faithful services of his ally.,"('Theodosius', 'PERSON')"
+"But the progress of the barbarians was
+ suddenly stopped by an unexpected obstacle—a triple line
+ of vessels, strongly connected with each other, and which
+ formed an impenetrable chain of two miles and a half along
+ the river.","('two miles and a half', 'QUANTITY')"
+"But the stipulation, the most
+ offensive to the Goths and the most important to the Romans,
+ was shamefully eluded.","('Goths', 'NORP'), ('Romans', 'NORP')"
+"But the tide soon returned with the weight of an immense and irresistible deluge, which was severely felt on the coasts of Sicily, of Dalmatia, of Greece, and of Egypt; large boats were transported and lodged on the roofs of houses, or at the distance of two miles from the shore; the people, with their habitations, were swept away by the waters, and the city of Alexandria annually commemorated the fatal day on which fifty thousand persons had lost their lives in the inundation.","('Sicily', 'GPE'), ('Dalmatia', 'GPE'), ('Greece', 'GPE'), ('Egypt', 'GPE'), ('two miles', 'QUANTITY'), ('Alexandria', 'GPE'), ('fifty thousand', 'CARDINAL')"
+"But their pride was humbled, and their progress
+ was checked, by the arms and policy of Vouti,(38) the fifth 
+ emperor of the powerful dynasty of the Han.","('Vouti', 'PERSON'), ('38', 'CARDINAL'), ('fifth', 'ORDINAL'), ('Han', 'NORP')"
+"But they applauded the
+ liberality of fortune which had conducted, from the most
+ distant countries of the globe, a numerous and invincible
+ army of strangers to defend the throne of Valens, who might
+ now add to the royal treasures the immense sums of gold
+ supplied by the provincials to compensate their annual
+ proportion of recruits.","('Valens', 'PERSON')"
+"But they respected, in peace, the faith of
+ treaties; in war, the dictates of humanity; and their
+ memorable victory over Peroses, or Firuz, displayed the
+ moderation as well as the valour of the barbarians.","('Peroses', 'NORP'), ('Firuz', 'PERSON')"
+"But this extraordinary abstinence,
+ which the Stoic would approve and the hermit might envy, is
+ commonly succeeded by the most voracious indulgence of
+ appetite.","('Stoic', 'NORP')"
+"But this humble retreat was instantly surrounded by the enemy; they tried to force the door; they were provoked by a discharge of arrows from the roof; till at length, impatient of delay, they set fire to a
+pile of dry faggots, and consumed the cottage with the Roman emperor and his train.","('Roman', 'NORP')"
+"But those inaccessible regions are the ancient
+ residence of a powerful and civilised nation, (22) which 
+ ascends, by a probable tradition, above forty centuries;(23) 
+ and which is able to verify a series of near two thousand
+ years by the perpetual testimony of accurate and
+ contemporary historians. (24)","('22', 'CARDINAL'), ('forty centuries', 'DATE'), ('23', 'CARDINAL'), ('near two thousand\r\n years', 'DATE'), ('24', 'CARDINAL')"
+"But, as it is the indispensable duty of a Tartar sovereign to lead his warlike subjects into the field, the claims of an infant are often disregarded,
+ and some royal kinsman, distinguished by his age and valour,
+ is intrusted with the sword and sceptre of his predecessor.","('Tartar', 'NORP')"
+"By the care of his attendants, Valens was removed from the field of battle to a neighbouring cottage, where they attempted to dress his wound and to provide for his future safety.","('Valens', 'PERSON')"
+"By the help of such rafts and vessels as could be hastily
+ procured, the leaders of the Ostrogoths transported, without
+ opposition, their king and their army, and boldly fixed an
+ hostile and independent camp on the territories of the
+ empire.(70)
+Revolt of the Goths in Maesia, and their first victories.","('Ostrogoths', 'NORP'), ('70', 'CARDINAL'), ('Goths', 'NORP'), ('Maesia', 'GPE'), ('first', 'ORDINAL')"
+"By the vigour and conduct of Sebastian,
+ a large body of the Goths was surprised in their camp; and
+ the immense spoil which was recovered from their hands
+ filled the city of Hadrianople and the adjacent plain.","('Sebastian', 'PERSON'), ('Goths', 'NORP'), ('Hadrianople', 'GPE')"
+Christ. 201.,"('201', 'CARDINAL')"
+"Conscious of these disadvantages, which will
+ continue to involve a considerable portion of the decline
+ and fall of the Roman empire, I shall proceed with doubtful
+ and timorous steps.","('Roman', 'NORP')"
+"Death and funeral of Athanaric, A.D. 381, January 25.","('Athanaric', 'PERSON'), ('A.D. 381', 'DATE'), ('January 25', 'DATE')"
+Death of the emperor Valens.,"('Valens', 'PERSON')"
+"During the civil war against Maximus a great
+ number of Gothic deserters retired into the morasses of
+ Macedonia, wasted the adjacent provinces, and obliged the
+ intrepid monarch to expose his person and exert his power to
+ suppress the rising flame of rebellion. (134)","('the civil war', 'EVENT'), ('Maximus', 'PERSON'), ('Gothic', 'NORP'), ('Macedonia', 'GPE'), ('134', 'CARDINAL')"
+"During this suspense of a doubtful and distant negotiation,
+ the impatient Goths made some rash attempts to pass the
+ Danube without the permission of the government whose
+ protection they had implored.","('Goths', 'NORP'), ('Danube', 'LOC')"
+"Every
+ forest and every village poured forth a band of hardy
+ adventurers; and the great army of the Alemanni, which on
+ their approach was estimated at forty thousand men by the
+ fears of the people, was afterwards magnified to the number
+ of Seventy thousand by the vain and credulous flattery of
+ the Imperial court.","('Alemanni', 'NORP'), ('forty thousand', 'CARDINAL'), ('Seventy thousand', 'CARDINAL'), ('Imperial', 'NORP')"
+"Every youth, on his entrance into the
+ world, was united by the ties of honourable friendship and
+ brutal love to some warrior of the tribe; nor could he hope
+ to be released from this unnatural connection till he had
+ approved his manhood by slaying in single combat a huge bear
+ or a wild boar of the forest. (84)","('84', 'CARDINAL')"
+"Fifty-eight hordes, about two hundred thousand men,
+ ambitious of a more honourable servitude, retired towards
+ the south, implored the protection of the emperors of China,
+ and were permitted to inhabit and to guard the extreme
+ frontiers of the province of Chansi and the territory of
+ Ortow.","('Fifty-eight', 'CARDINAL'), ('about two hundred thousand', 'CARDINAL'), ('China', 'GPE'), ('Chansi', 'GPE'), ('Ortow', 'GPE')"
+"Five months
+ after the death of Valens the emperor Gratian produced
+ before the assembled troops his colleague and their master,
+ who, after a modest, perhaps a sincere resistance, was
+ compelled to accept, amidst the general acclamations, the
+ diadem, the purple, and the equal title of Augustus.(105)","('Five months', 'DATE'), ('Valens', 'PERSON'), ('Gratian', 'PERSON'), ('Augustus', 'PERSON'), ('105', 'CARDINAL')"
+"Fravitta, alarmed and
+ exasperated by the insolence of his rival, whose departure
+ from the palace might have been the signal of a civil war,
+ boldly followed him and, drawing his sword, laid Priulf dead
+ at his feet.","('Fravitta', 'PERSON'), ('Priulf', 'PERSON')"
+"From the innocent, 
+ but humble, labours of his farm, Theodosius was transported,
+ in less than four months, to the throne of the Eastern
+ empire: and the whole period of the history of the world
+ will not perhaps afford a similar example of an elevation at
+ the same time so pure and so honourable.","('Theodosius', 'PERSON'), ('less than four months', 'DATE'), ('Eastern', 'NORP')"
+"From the mouth of the Danube to the
+ sea of Japan, the whole longitude of Scythia is about one
+ hundred and ten degrees, which, in that parallel, are equal
+ to more than five thousand miles.","('Danube', 'LOC'), ('Japan', 'GPE'), ('Scythia', 'LOC'), ('one\r\n hundred and ten degrees', 'QUANTITY'), ('more than five thousand miles', 'QUANTITY')"
+"From the time of this fatal schism, the Huns of
+ the north continued to languish about fifty years, till they
+ were oppressed on every side by their foreign and domestic
+ enemies.","('Huns', 'NORP'), ('about fifty years', 'DATE')"
+"Gorgo, which, under the appellation of Carizme, has
+ since enjoyed a temporary splendour, was the residence of
+ the king, who exercised a legal authority over an obedient
+ people.","('Gorgo', 'PERSON'), ('Carizme', 'GPE')"
+"Gratian was too late to assist, he was too
+ weak to revenge, his unfortunate colleague; and the valiant
+ and modest youth felt himself unequal to the support of a
+ sinking world.","('Gratian', 'PERSON')"
+"He accepted with pleasure the useful reinforcement of hardy workmen who laboured in the goldmines of Thrace (76) for the emolument and under the lash of an unfeeling master: (77) and these new associates conducted the barbarians through the secret paths to the most sequestered places, which had been chosen to secure the inhabitants, the cattle, and the magazines of corn.","('Thrace', 'PERSON'), ('76', 'CARDINAL'), ('77', 'CARDINAL')"
+"He cemented a strict and
+ useful alliance with the great body of his countrymen who
+ obeyed Alatheus and Saphrax as the guardians of their infant
+ king: the long animosity of rival tribes was suspended by
+ the sense of their common interest; the independent part of
+ the nation was associated under one standard; and the chiefs
+ of the Ostrogoths appear to have yielded to the superior
+ genius of the general of the Visigoths.","('Alatheus', 'PERSON'), ('Saphrax', 'PERSON'), ('one', 'CARDINAL'), ('Ostrogoths', 'NORP'), ('Visigoths', 'NORP')"
+"He declared his intention of marching from
+ Antioch to Constantinople, to subdue this dangerous
+ rebellion; and, as he was not ignorant of the difficulties
+ of the enterprise, he solicited the assistance of his
+ nephew, the emperor Gratian, who commanded all the forces of
+ the West.","('Antioch', 'GPE'), ('Constantinople', 'GPE'), ('Gratian', 'PERSON'), ('West', 'LOC')"
+"He despatched
+ messengers of peace, made proposals, required hostages, and
+ wasted the hours, till the Romans, exposed without shelter
+ to the burning rays of the sun, were exhausted by thirst,
+ hunger, and intolerable fatigue.","('Romans', 'NORP')"
+"He disdained the
+ importunate advice; he rejected the humiliating aid; he
+ secretly compared the ignominious, at least the inglorious,
+ period of his own reign with the fame of a beardless youth;
+ and Valens rushed into the field to erect his imaginary
+ trophy before the diligence of his colleague could usurp any
+ share of the triumphs of the day.","('Valens', 'PERSON'), ('the day', 'DATE')"
+"He fixed his headquarters at Thessalonica, the capital of
+ the Macedonian diocese; (117) from whence he could watch the irregular motions of the barbarians, and direct the
+ operations of his lieutenants, from the gates of
+ Constantinople to the shores of the Hadriatic.","('Thessalonica', 'GPE'), ('Macedonian', 'NORP'), ('117', 'CARDINAL'), ('Constantinople', 'GPE'), ('Hadriatic', 'NORP')"
+"He no longer hesitated to pass the Danube; and a
+ very considerable part of the subjects of Fritigern who
+ already felt the inconveniences of anarchy, were easily
+ persuaded to acknowledge for their king a Gothic Judge,
+ whose birth they respected, and whose abilities they had
+ frequently experienced.","('Danube', 'LOC'), ('Fritigern', 'PERSON')"
+"He obtained the
+ formidable aid of the Taifalae, whose military renown was
+ disgraced and polluted by the public infamy of their
+ domestic manners.","('Taifalae', 'NORP')"
+"He obtained the permission of selecting
+ three hundred soldiers from each of the legions, and this
+ separate detachment soon acquired the spirit of discipline
+ and the exercise of arms, which were almost forgotten under
+ the reign of Valens.","('three hundred', 'CARDINAL'), ('Valens', 'PERSON')"
+"He obtained, with
+ the title of Tanjou, a convenient territory on the verge of
+ the Chinese provinces; and his constant attachment to the
+ service of the empire was secured by weakness and the desire
+ of revenge.","('Tanjou', 'GPE'), ('Chinese', 'NORP')"
+"He restrained the impatient spirit of the
+ Visigoths till the injuries and the insults of their tyrants
+ should justify their resistance in the opinion of mankind:
+ but he was not disposed to sacrifice any solid advantages
+ for the empty praise of justice and moderation.","('Visigoths', 'NORP')"
+"He was
+ informed that the North was agitated by a furious tempest;
+ that the irruption of the Huns, an unknown and monstrous
+ race of savages, had subverted the power of the Goths; and
+ that the suppliant multitudes of that warlike nation, whose
+ pride was now humbled in the dust, covered a space many
+ miles along the banks of the river.","('North', 'LOC'), ('Huns', 'NORP'), ('Goths', 'NORP'), ('many\r\n miles', 'QUANTITY')"
+"He was raised to the throne by the
+ acclamations of his equals, and the title of Khan
+ expresses in the language of the North of Asia the full
+ extent of the regal dignity.","('Khan', 'PERSON'), ('the North of Asia', 'LOC')"
+"He was received at Sigan,
+ the capital of the monarchy, by the troops, the mandarins,
+ and the emperor himself, with all the honours that could
+ adorn and disguise the triumph of Chinese vanity. (40)","('Sigan', 'GPE'), ('Chinese', 'NORP'), ('40', 'CARDINAL')"
+"He was soon
+ persuaded by the successful achievements of his lieutenants
+ to despise the power of the Goths, who, by the diligence of
+ Fritigern, were now collected in the neighbourhood of
+ Hadrianople.","('Goths', 'NORP'), ('Fritigern', 'ORG'), ('Hadrianople', 'GPE')"
+"His
+ own merit, and the recommendation of the conqueror of
+ Africa, soon raised him to a separate command; and, in the
+ station of duke of Mazsia, he vanquished an army of
+ Sarmatians; saved the province; deserved the love of the
+ soldiers; and provoked the envy of the court.(110)","('Africa', 'LOC'), ('Mazsia', 'GPE'), ('Sarmatians', 'NORP'), ('110', 'CARDINAL')"
+"His army was strengthened by a numerous
+ reinforcement of veterans; and his march from Constantinople
+ to Hadrianople was conducted with so much military skill
+ that he prevented the activity of the barbarians, who
+ designed to occupy the intermediate defiles, and to
+ intercept either the troops themselves or their convoys of
+ provisions.","('Constantinople', 'GPE'), ('Hadrianople', 'GPE')"
+"His death, which has been
+ imputed to his own despair, left the reins of government in
+ the hands of Withimer, who, with the doubtful aid of some
+ Scythian mercenaries, maintained the unequal contest against
+ the arms of the Huns and the Alani till he was defeated and
+ slain in a decisive battle.","('Withimer', 'PERSON'), ('Scythian', 'NORP'), ('Huns', 'NORP'), ('Alani', 'PERSON')"
+"His faithful generals, Trajan and Victor, who perceived his danger, loudly exclaimed that all was lost unless the person of the emperor could be saved.","('Trajan', 'PERSON'), ('Victor', 'PERSON')"
+"His labours were
+ interrupted by the alarming intelligence that new swarms of
+ barbarians had passed the unguarded Danube, either to
+ support the cause or to imitate the example of Fritigern.","('Danube', 'LOC'), ('Fritigern', 'PERSON')"
+"His prudent and successful conduct of the Gothic war, A.D. 379-382.","('the Gothic war', 'EVENT'), ('379-382', 'CARDINAL')"
+"His rising 
+ fortunes were soon blasted by the disgrace and execution of
+ his illustrious father; and Theodosius obtained, as a
+ favour, the permission of retiring to a private life in his
+ native province of Spain.","('Theodosius', 'PERSON'), ('Spain', 'GPE')"
+"His rival Priarius, king of the
+ Alemanni, was guided, or rather impelled, by the same
+ headstrong valour; and as their troops were animated by the
+ spirit of their leaders, they met, they saw, they
+ encountered each other near the town of Argentaria, or
+ Colmar,(86) in the plains of Alsace.","('Priarius', 'PERSON'), ('Alemanni', 'PERSON'), ('Argentaria', 'GPE'), ('Colmar', 'GPE'), ('86', 'CARDINAL'), ('Alsace', 'GPE')"
+"His time was almost equally divided between
+ the town and country; the spirit which had animated his
+ public conduct was shown in the active and affectionate
+ performance of every social duty; and the diligence of the
+ soldier was profitably converted to the improvement of his
+ ample patrimony, (111) which lay between Valladolid and 
+ Segovia, in the midst of a fruitful district, still famous
+ for a most exquisite breed of sheep.(112)","('Valladolid', 'GPE'), ('Segovia', 'GPE'), ('112', 'CARDINAL')"
+"Horseflesh, which in
+ every age and country has been proscribed by the civilised
+ nations of Europe and Asia, they devour with peculiar
+ greediness, and this singular taste facilitates the success
+ of their military operations.","('Europe', 'LOC'), ('Asia', 'LOC')"
+"IN the second year of the reign of Valentinian and Valens, on the morning of the twenty-first day of July, the greatest part of the Roman world was shaken by a violent and destructive earthquake.","('the second year', 'DATE'), ('Valentinian', 'NORP'), ('Valens', 'PERSON'), ('the twenty-first day of July', 'DATE'), ('Roman', 'NORP')"
+"If Theodosius, hastily collecting his scattered forces, 
+ had led them into the field to encounter a victorious enemy,
+ his army would have been vanquished by their own fears; and
+ his rashness could not have been excused by the chance of
+ success.","('Theodosius', 'PERSON')"
+"If the barbarians were mounted on the horses,
+ and equipped with the armour, of their vanquished enemies,
+ the numerous studs of Cappadocia and Spain would have
+ supplied new squadrons of cavalry; the thirty-four arsenals
+ of the empire were plentifully stored with magazines of
+ offensive and defensive arms; and the wealth of Asia might
+ still have yielded an ample fund for the expenses of the
+ war.","('Cappadocia', 'GPE'), ('Spain', 'GPE'), ('thirty-four', 'CARDINAL'), ('Asia', 'LOC')"
+"If, instead of this faint and imperfect outline,
+ we could accurately represent the counsels and actions of
+ Theodosius in four successive campaigns, there is reason to
+ believe that his consummate skill would deserve the applause
+ of every military reader.","('Theodosius', 'PERSON'), ('four', 'CARDINAL')"
+"In
+ this march, which frequently continues many days, the
+ cavalry are obliged to climb the hills, to swim the rivers,
+ and to wind through the valleys, without interrupting the
+ prescribed order of their gradual progress.","('many days', 'DATE')"
+"In a council of war, which was influenced by pride
+ rather than by reason, it as resolved to seek and to
+ encounter the barbarians, who lay encamped in the spacious
+ and fertile meadows near the most southern of the mouths of
+ the Danube.(79)","('Danube', 'LOC'), ('79', 'CARDINAL')"
+"In a season of tranquillity their
+ power might have been equal as well as their rank; but, as
+ soon as their countrymen were exasperated by hunger and
+ oppression, the superior abilities of Fritigern assumed the
+ military command, which he was qualified to exercise for the
+ public welfare.","('a season', 'DATE'), ('Fritigern', 'PERSON')"
+"In every age the Scythians
+ and Tartars have been renowned for their invincible courage
+ and rapid conquests.","('Scythians', 'NORP'), ('Tartars', 'NORP')"
+"In every age the immense plains of
+ Scythia or Tartary have been inhabited by vagrant tribes of
+ hunters and shepherds, whose indolence refuses to cultivate
+ the earth, and whose restless spirit disdains the
+ confinement of a sedentary life.","('Scythia', 'LOC'), ('Tartary', 'LOC')"
+"In his long
+ reign of fifty-four years, the barbarians of the southern
+ provinces submitted to the laws and manners of China; and
+ the ancient limits of the monarchy were enlarged from the
+ great river of Kiang to the port of Canton.","('fifty-four years', 'DATE'), ('China', 'GPE'), ('Kiang', 'GPE'), ('Canton', 'GPE')"
+"In that dreary climate, instead
+ of the animated picture of a Tartar camp, the smoke which
+ issues from the earth, or rather from the snow, betrays the
+ subterraneous dwellings of the Tongouses and the Samoiedes:
+ the want of horses and oxen is imperfectly supplied by the
+ use of reindeer and of large dogs; and the conquerors of the
+ earth insensibly degenerate into a race of deformed and
+ diminutive savages, who tremble at the sound of arms.(26)
+Original seat of the Huns.","('Tartar', 'NORP'), ('Tongouses', 'NORP'), ('Samoiedes', 'NORP'), ('26', 'CARDINAL'), ('Huns', 'NORP')"
+"In the ages of rustic and martial simplicity, a people
+ of soldiers and husbandmen are dispersed over the face of an
+ extensive and cultivated country; and some time must elapse
+ before the warlike youth of Greece or Italy could be
+ assembled under the same standard, either to defend their
+ own confines, or to invade the territories of the adjacent
+ tribes.","('Greece', 'GPE'), ('Italy', 'GPE')"
+"In the course of these depredations a great number of the children of the Goths, who had been sold into captivity, were restored to the embraces of their afflicted parents; but these tender interviews, which might have revived and cherished in their minds some sentiments of humanity, tended only to stimulate their native fierceness by the desire of revenge.","('Goths', 'NORP')"
+"In the disastrous period of the fall of the Roman empire,
+ which may justly be dated from the reign of Valens, the
+ happiness and security of each individual were personally
+ attacked, and the arts and labours of ages were rudely
+ defaced by the barbarians of Scythia and Germany.","('Roman', 'NORP'), ('Valens', 'PERSON'), ('Scythia', 'GPE'), ('Germany', 'GPE')"
+"In the eyes 
+ of the Greeks and Persians, the real geography of Scythia
+ was bounded, on the east, by the mountains of Imaus or Caf;
+ and their distant prospect of the extreme and inaccessible
+ parts of Asia was clouded by ignorance, or perplexed by
+ fiction.","('Greeks', 'NORP'), ('Persians', 'NORP'), ('Scythia', 'GPE'), ('Imaus', 'LOC'), ('Caf', 'LOC'), ('Asia', 'LOC')"
+"In the hands of a skilful politician the 
+ most different means may be successfully applied to the same
+ ends; and the peace of the empire, which had been forwarded
+ by the divisions, was accomplished by the reunion of the
+ Gothic nation.","('Gothic', 'NORP')"
+"In the midst
+ of riotous intemperance, the watchful Fritigern observed the
+ motions and penetrated the designs of the Romans.","('Fritigern', 'PERSON'), ('Romans', 'NORP')"
+"In the midst of noise
+ and brutal intemperance Lupicinus was informed by a secret
+ messenger that many of his soldiers were slain and despoiled
+ of their arms; and as he was already inflamed by wine and
+ oppressed by sleep, he issued a rash command, that their
+ death should be revenged by the massacre of the guards of
+ Fritigern and Alavivus.","('Lupicinus', 'PERSON'), ('Fritigern', 'GPE'), ('Alavivus', 'PERSON')"
+"In the midst of tumult, of slaughter, and of dismay, the emperor, deserted by his guards, and wounded, as it was supposed, with an arrow, sought protection among the
+Lancearii and the Mattiarii, who still maintained their ground with some appearance of order and firmness.","('Lancearii', 'PERSON'), ('Mattiarii', 'NORP')"
+"In the same moment the flying squadrons of
+Alatheus and Saphrax, whose return was anxiously expected by the general of the Goths, descended like a whirlwind from the hills, swept across the plain, and added new terrors to the tumultuous but irresistible charge of the barbarian host.","('the same moment', 'TIME'), ('Alatheus', 'NORP'), ('Saphrax', 'PERSON'), ('Goths', 'NORP')"
+"In the space of about twelve years their numbers had
+ continually increased; and the children who in the first
+ emigration were sent over the Hellespont had attained with
+ rapid growth the strength and spirit of perfect manhood.(102)","('about twelve years', 'DATE'), ('first', 'ORDINAL'), ('Hellespont', 'GPE'), ('102', 'CARDINAL')"
+"In the third century
+ before the Christian era, a wall of fifteen hundred miles in
+ length was constructed, to defend the frontiers of China
+ against the inroads of the Huns; (33) but this stupendous 
+ work, which holds a conspicuous place in the map of the
+ world, has never contributed to the safety of an unwarlike
+ people.","('the third century', 'DATE'), ('Christian', 'NORP'), ('fifteen hundred miles', 'QUANTITY'), ('China', 'GPE'), ('Huns', 'NORP'), ('33', 'CARDINAL')"
+"In the winter 
+ season, the broad and rapid rivers that discharge their
+ waters into the Euxine, the Caspian, or the Icy Sea, are
+ strongly frozen, the fields are covered with a bed of snow,
+ and the fugitive or victorious tribes may securely traverse,
+ with their families, their waggons, and their cattle, the
+ smooth and hard surface of an immense plain.","('the winter \r\n season', 'DATE'), ('Euxine', 'LOC'), ('Caspian', 'LOC'), ('the Icy Sea', 'LOC')"
+"In the winter they descended with their flocks 
+ and herds towards the mouth of that mighty river; and their
+ summer excursions reached as high as the latitude of
+ Saratoff, or perhaps the conflux of the Kama.","('the winter', 'DATE'), ('Saratoff', 'LOC'), ('Kama', 'PERSON')"
+"In this important
+ crisis the government of the East and the conduct of the
+ Gothic war required the undivided attention of a hero and a
+ statesman.","('East', 'LOC'), ('the\r\n Gothic war', 'EVENT')"
+"In those boundless deserts, where it is
+ impossible to form magazines, and difficult to transport a
+ sufficient supply of provisions, the armies of Vouti were
+ repeatedly exposed to intolerable hardships: and, of one
+ hundred and forty thousand soldiers who marched against the
+ barbarians, thirty thousand only returned in safety to the
+ feet of their master.","('Vouti', 'GPE'), ('one\r\n hundred and forty thousand', 'CARDINAL'), ('thirty thousand', 'CARDINAL')"
+"Instead of
+ confining himself to the timid operations of a defensive
+ war, his lieutenants penetrated many hundred miles into the
+ country of the Huns.","('many hundred miles', 'QUANTITY'), ('Huns', 'NORP')"
+"Instead of obeying the orders of their
+ sovereign, and satisfying, with decent liberality, the
+ demands of the Goths, they levied an ungenerous and
+ oppressive tax on the wants of the hungry barbarians.","('Goths', 'NORP')"
+"Intimidated by the arms, or allured by the
+ promises, of Vouti and his successors, the most considerable
+ tribes, both of the East and of the West, disclaimed the
+ authority of the Tanjou.","('Vouti', 'PERSON'), ('East', 'LOC'), ('West', 'LOC'), ('Tanjou', 'NORP')"
+"It is impossible to fill the dark interval of time which
+ elapsed after the Huns of the Volga were lost in the eyes of
+ the Chinese, and before they showed themselves to those of
+ the Romans.","('Huns', 'NORP'), ('Volga', 'LOC'), ('Chinese', 'NORP'), ('Romans', 'NORP')"
+"It is well known that the cold of Tartary is
+ much more severe than in the midst of the temperate zone
+ might reasonably be expected; this uncommon rigour is
+ attributed to the height of the plains, which rise,
+ especially towards the east, more than half a mile above the
+ level of the sea, and to the quantity of saltpetre with
+ which the soil is deeply impregnated.","('Tartary', 'LOC'), ('more than half a mile', 'QUANTITY')"
+"It was generally
+ believed that the Goths had signed the treaty of peace with
+ an hostile and insidious spirit; and that their chiefs had
+ previously bound themselves by a solemn and secret oath
+ never to keep faith with the Romans, to maintain the fairest
+ show of loyalty and friendship, and to watch the favourable
+ moment of rapine, of conquest, and of revenge.","('Goths', 'NORP'), ('Romans', 'NORP')"
+"It was impossible to conceal from their knowledge the events
+ of the Gothic war; and, as those daring youths had not
+ studied the language of dissimulation, they betrayed their
+ wish, their desire, perhaps their intentions to emulate the
+ glorious example of their fathers","('the Gothic war', 'EVENT')"
+"It was the wish of Gratian to bestow
+ the purple as the reward of virtue; but at the age of
+ nineteen it is not easy for a prince, educated in the
+ supreme rank, to understand the true characters of his
+ ministers and generals.","('Gratian', 'NORP'), ('the age of\r\n nineteen', 'DATE')"
+"It was thought expedient that an
+ accurate account should be taken of their numbers; but the
+ persons who were employed soon desisted, with amazement and
+ dismay, from the prosecution of the endless and
+ impracticable task;(67) and the principal historian of the 
+ age most seriously affirms that the prodigious armies of
+ Darius and Xerxes, which had so long been considered as the
+ fables of vain and credulous antiquity, were now justified,
+ in the eyes of mankind, by the evidence of fact and
+ experience.","('Darius', 'PERSON'), ('Xerxes', 'PERSON')"
+June 11th.,"('June 11th', 'DATE')"
+"Lupicinus had invited the Gothic chiefs to a splendid
+ entertainment, and their martial train remained under arms
+ at the entrance of the palace.","('Lupicinus', 'ORG'), ('Gothic', 'NORP')"
+"Lupicinus left his arms and standards, his tribunes and his bravest soldiers, on the field of battle; and their useless courage served only to protect the ignominious flight of their leader.","('Lupicinus', 'PERSON')"
+"Manners of the Pastoral Nations —Progress of the Huns from China to Europe —Flight of the Goths —They  Pass the Danube — Gothic War — Defeat and Death of Valens —Gratian Invests Theodosius with the Eastern Empire —His Character and Success Peace and Settlement of the Goths
+Earthquakes, A.D. 365, July 21st.","('the Pastoral Nations', 'ORG'), ('China', 'GPE'), ('Europe', 'LOC'), ('Flight of the Goths', 'WORK_OF_ART'), ('Gratian Invests Theodosius with the Eastern Empire —His Character and Success Peace and Settlement of the Goths\r\nEarthquakes', 'WORK_OF_ART'), ('A.D. 365', 'DATE'), ('July 21st', 'DATE')"
+"Massacre of the Gothic youth in Asia, A.D. 378.","('Gothic', 'NORP'), ('Asia', 'LOC'), ('A.D. 378', 'DATE')"
+May 30th—,"('May 30th', 'DATE')"
+May.,"('May', 'DATE')"
+"Necessity compelled them to exchange the silks of China for
+ the furs of Siberia; the imperfect rudiments of civilised
+ life were obliterated; and the native fierceness of the Huns
+ was exasperated by their intercourse with the savage tribes,
+ who were compared, with some propriety, to the wild beasts
+ of the desert.","('China', 'GPE'), ('Siberia', 'LOC'), ('Huns', 'NORP')"
+"Notwithstanding these specious arguments and these sanguine
+ expectations, it was apparent to every discerning eye that
+ the Goths would long remain the enemies, and might soon
+ become the conquerors, of the Roman empire.","('Goths', 'NORP'), ('Roman', 'NORP')"
+"On one of the solemn
+ festivals, when the chiefs of both parties were invited to
+ the Imperial table, they were insensibly heated by wine,
+ till they forgot the usual restraints of discretion and
+ respect, and betrayed in the presence of Theodosius the
+ fatal secret of their domestic disputes.","('one', 'CARDINAL'), ('Imperial', 'NORP'), ('Theodosius', 'PERSON')"
+"On the
+ west, near the head of the Irtish, and in the valleys of
+ Imaus, they found a more ample space, and more numerous
+ enemies.","('Irtish', 'NORP'), ('Imaus', 'LOC')"
+"On the appointed day the unarmed
+ crowd of the Gothic youth was carefully collected in the
+ square or forum; the streets and avenues were occupied by
+ the Roman troops, and the roofs of the houses were covered
+ with archers and slingers.","('the appointed day', 'DATE'), ('Gothic', 'NORP'), ('Roman', 'NORP')"
+"On the banks of the 
+ Tanais the military power of the Huns and the Alani
+ encountered each other with equal valour, but with unequal
+ success.","('Tanais', 'GPE'), ('Huns', 'NORP'), ('Alani', 'NORP')"
+"On the banks of the Dniester the prudent Athanaric, more
+ attentive to his own than to the general safety, had fixed
+ the camp of the Visigoths; with the firm resolution of
+ opposing the victorious barbarians, whom he thought it less
+ advisable to provoke.","('Dniester', 'NORP'), ('Athanaric', 'NORP'), ('Visigoths', 'NORP')"
+"On the ninth of August, a day which has deserved to be marked
+ among the most inauspicious of the Roman calendar,(91) the 
+ emperor Valens, leaving, under a strong guard, his baggage
+ and military treasure, marched from Hadrianople to attack
+ the Goths, who were encamped about twelve miles from the
+ city.(92)","('the ninth of August, a day', 'DATE'), ('Roman', 'NORP'), ('91', 'CARDINAL'), ('Valens', 'PERSON'), ('Hadrianople', 'NORP'), ('Goths', 'NORP'), ('about twelve miles', 'QUANTITY'), ('92', 'CARDINAL')"
+"On the side of the north, the ocean 
+ was assigned as the limit of the power of the Huns.","('Huns', 'NORP')"
+"On the sudden emergency of a hasty march,
+ they provide themselves with a sufficient quantity of little
+ balls of cheese, or rather of hard curd, which they
+ occasionally dissolve in water, and this unsubstantial diet
+ will support, for many days, the life, and even the spirits,
+ of the patient warrior","('many days', 'DATE')"
+"On their arrival in Thrace they were
+ joined by Richomer, count of the domestics; and the
+ auxiliaries of the West that marched under his banner were
+ composed of the Gallic legions, reduced indeed by a spirit
+ of desertion to the vain appearances of strength and
+ numbers.","('Thrace', 'LOC'), ('Richomer', 'PERSON'), ('West', 'LOC'), ('Gallic', 'NORP')"
+"On this occasion, as well
+ as on many others, it is a difficult task to reconcile the
+ passions and prejudices of the writers of the age of
+ Theodosius.","('Theodosius', 'PERSON')"
+"One of
+ the princes of the nation was urged by fear and ambition to
+ retire towards the south with eight hordes, which composed
+ between forty and fifty thousand families.","('One', 'CARDINAL'), ('eight', 'CARDINAL'), ('between forty and fifty thousand', 'CARDINAL')"
+"One of the chiefs of the Roxolani(59) had 
+ formerly deserted the standard of Hermanric, and the cruel
+ tyrant had condemned the innocent wife of the traitor to be
+ torn asunder by wild horses.","('One', 'CARDINAL'), ('Roxolani', 'PERSON'), ('59', 'CARDINAL'), ('Hermanric', 'GPE')"
+"One of the lieutenants of the Tanjou subdued, in a
+ single expedition, twenty-six nations; the Igours, (29) 
+ distinguished above the Tartar race by the use of letters,
+ were in the number of his vassals; and, by the strange
+ connection of human events, the flight of one of those
+ vagrant tribes recalled the victorious Parthians from the
+ invasion of Syria. (30)","('One', 'CARDINAL'), ('Tanjou', 'NORP'), ('twenty-six', 'CARDINAL'), ('Igours', 'PERSON'), ('29', 'CARDINAL'), ('Tartar', 'NORP'), ('one', 'CARDINAL'), ('Parthians', 'NORP'), ('Syria', 'GPE'), ('30', 'CARDINAL')"
+"One of the most dangerous inconveniences of the introduction
+ of the barbarians into the army and the palace was sensibly
+ felt in their correspondence with their hostile countrymen,
+ to whom they imprudently or maliciously revealed the
+ weakness of the Roman empire.","('One', 'CARDINAL'), ('Roman', 'NORP')"
+"One of the nights without a moon had
+ been selected for the execution of their design; and they
+ had almost reached the southern bank of the Danube, in the
+ firm confidence that they should find an easy landing and an
+ unguarded camp.","('One', 'CARDINAL'), ('Danube', 'LOC')"
+"Sensible of
+ the benefits which would result from the union of the Gothic
+ powers under the same standard, he secretly cultivated the
+ friendship of the Ostrogoths; and while he professed an
+ implicit obedience to the orders of the Roman generals, he
+ proceeded by slow marches towards Marcianopolis, the capital
+ of the Lower Maesia, about seventy miles from the banks of
+ the Danube.","('Gothic', 'NORP'), ('Ostrogoths', 'NORP'), ('Roman', 'NORP'), ('Marcianopolis', 'GPE'), ('the Lower Maesia', 'LOC'), ('about seventy miles', 'QUANTITY'), ('Danube', 'LOC')"
+"Settlement of the Goths in Thrace and Asia, A.D. 383-395.","('Goths', 'NORP'), ('Thrace', 'LOC'), ('Asia', 'LOC'), ('383-395', 'CARDINAL')"
+"Several of the hordes
+ were allured by the liberal promises of Fritigern; and the
+ rapid cavalry of Scythia added weight and energy to the
+ steady and strenuous efforts of the Gothic infantry.","('Fritigern', 'NORP'), ('Scythia', 'ORG'), ('Gothic', 'NORP')"
+"Some military skill was displayed by Fritigern to
+ gain the advantage of a commanding eminence; but the bloody
+ conflict, which began and ended with the light, was
+ maintained on either side by the personal and obstinate
+ efforts of strength, valour, and agility.","('Fritigern', 'PERSON')"
+"Some of
+ the happy savages who dwell between the tropics are
+ plentifully nourished by the liberality of nature, but in
+ the climates of the North a nation of shepherds is reduced
+ to their flocks and herds.","('North', 'LOC')"
+"Some time before the great emigration a numerous body of Goths, under the command of Suerid and Colias, had been received into the protection and service of the empire.(73)","('Goths', 'NORP'), ('Suerid', 'PERSON'), ('Colias', 'PERSON')"
+"Such are the words of the Gothic historian,(72) who celebrates, with rude eloquence, the glory of his countrymen.","('Gothic', 'NORP'), ('72', 'DATE')"
+"Such at least
+ were the recent limits of the black Calmucks, (50) who 
+ remained about a century under the protection of Russia, and
+ who have since returned to their native seats on the
+ frontiers of the Chinese empire.","('Calmucks', 'PERSON'), ('50', 'CARDINAL'), ('about a century', 'DATE'), ('Russia', 'GPE'), ('Chinese', 'NORP')"
+"Such was likewise the merit of Theodosius; and the
+ infirmities of his body, which most unseasonably languished
+ under a long and dangerous disease, could not oppress the
+ vigour of his mind, or divert his attention from the public
+ service.(118)
+Divisions defeat and submission, of the Goths, A.D. 379-382.","('Theodosius', 'PERSON'), ('118', 'CARDINAL'), ('Goths', 'NORP'), ('379-382', 'CARDINAL')"
+"Such were the 
+ scenes of barbaric rage which disgraced the palace and table
+ of the Roman emperor; and, as the impatient Goths could only
+ be restrained by the firm and temperate character of
+ Theodosius, the public safety seemed to depend on the life
+ and abilities of a single man.(136)","('Roman', 'NORP'), ('Goths', 'NORP'), ('Theodosius', 'PERSON'), ('136', 'CARDINAL')"
+"The
+ Northern Sea was fixed as the remote boundary of their
+ empire.","('The\r\n Northern Sea', 'LOC')"
+"The
+ Sarmatians, who could never forgive the successor of
+ Valentinian, enjoyed and increased the general confusion;
+ and a seasonable irruption of the Alemanni into the
+ provinces of Gaul engaged the attention and diverted the
+ forces of the emperor of the West.(85)
+Victory of Gratian over the Alemani, A.D. 378.","('Sarmatians', 'NORP'), ('Valentinian', 'NORP'), ('Alemanni', 'NORP'), ('Gaul', 'PERSON'), ('West', 'LOC'), ('85', 'CARDINAL'), ('Alemani', 'PERSON'), ('378', 'CARDINAL')"
+"The
+ acquisition of Modar, a prince of the royal blood of the
+ Amali, gave a bold and faithful champion to the cause of
+ Rome.","('Modar', 'ORG'), ('Amali', 'NORP'), ('Rome', 'GPE')"
+"The
+ advantages of negotiating in the midst of war were perfectly
+ understood by the general of the barbarians; and a Christian
+ ecclesiastic was despatched, as the holy minister of peace,
+ to penetrate and to perplex the councils of the enemy.","('Christian', 'NORP')"
+"The
+ barbarians still wore an angry and hostile aspect; but the
+ experience of past times might encourage the hope that they
+ would acquire the habits of industry and obedience; that
+ their manners would be polished by time, education, and the
+ influence of Christianity; and that their posterity would
+ insensibly blend with the great body of the Roman people.
+ (132)","('Christianity', 'NORP'), ('Roman', 'NORP'), ('132', 'CARDINAL')"
+"The
+ daily subsistence of near a million of extraordinary
+ subjects could be supplied only by constant and skilful
+ diligence, and might continually be interrupted by mistake
+ or accident.","('near a million', 'CARDINAL')"
+"The
+ detachments of these separate garrisons were gradually
+ united into small armies; the same cautious measures were
+ pursued, according to an extensive and well-concerted plan
+ of operations; the events of each day added strength and
+ spirit to the Roman arms; and the artful diligence of the
+ emperor, who circulated the most favourable reports of the
+ success of the war, contributed to subdue the pride of the
+ barbarians, and to animate the hopes and courage of his
+ subjects.","('each day', 'DATE'), ('Roman', 'NORP')"
+"The
+ general hunting matches, the pride and delight of the Tartar
+ princes, compose an instructive exercise for their numerous
+ cavalry.","('Tartar', 'NORP')"
+"The
+ harsh and obscure appellations of those tribes would offend
+ the ear, without informing the understanding, of the reader;
+ but I cannot suppress the very natural suspicion that the
+ Huns of the North derived a considerable reinforcement from
+ the ruin of the dynasty of the South, which, in the course
+ of the third century, submitted to the dominion of China;
+ that the bravest warriors marched away in search of their
+ free and adventurous countrymen; and that, as they had been
+ divided by prosperity, they were easily reunited by the
+ common hardships of their adverse fortune.(53) The Huns, with 
+ their flocks and herds, their wives and children, their
+ dependents and allies, were transported to the west of the
+ Volga, and they boldly advanced to invade the country of the
+ Alani, a pastoral people, who occupied, or wasted, an
+ extensive tract of the deserts of Scythia.","('the\r\n Huns of the North', 'ORG'), ('South', 'LOC'), ('the third century', 'DATE'), ('China', 'GPE'), ('Huns', 'NORP'), ('Volga', 'LOC'), ('Alani', 'NORP'), ('Scythia', 'GPE')"
+"The
+ loose subordination and extensive possessions of the Huns
+ and the Alani delayed the conquests and distracted the
+ councils of that victorious people.","('Huns', 'NORP'), ('Alani', 'PERSON')"
+"The
+ misfortunes, as well as the provocations, of the Gothic
+ nation were forcibly and truly described by their
+ ambassador, who protested, in the name of Fritigern, that he
+ was still disposed to lay down his arms, or to employ them
+ only in the defence of the empire, if he could secure for
+ his wandering countrymen a tranquil settlement on the waste
+ lands of Thrace, and a sufficient allowance of corn and
+ cattle.","('Gothic', 'NORP'), ('Fritigern', 'PERSON'), ('Thrace', 'LOC')"
+"The
+ sons of the Goths had been judiciously distributed through
+ the cities of the East, and the arts of education were
+ employed to polish and subdue the native fierceness of their
+ temper.","('Goths', 'NORP'), ('East', 'LOC')"
+"The
+ splendid narratives which he general transmitted of his own
+ exploits alarmed the Imperial court by the appearance of
+ superior merit; and though he cautiously insisted on the
+ difficulties of the Gothic war, his valour was praised, his
+ advice was rejected; and Valens, who listened with pride and
+ pleasure to the flattering suggestions of the eunuchs of the
+ palace, was impatient to seize the glory of all easy and
+ assured conquest.","('Imperial', 'NORP'), ('the Gothic war', 'EVENT'), ('Valens', 'PERSON')"
+"The 
+ desertion of his subjects, and the perplexity of a civil
+ war, at length compelled the Tanjou himself to renounce the
+ dignity of an independent sovereign, and the freedom of a
+ warlike and high-spirited nation.","('Tanjou', 'PERSON')"
+"The 
+ invasion of the Huns precipitated on the provinces of the
+ West the Gothic nation, which advanced, in less than forty
+ years, from the Danube to the Atlantic, and opened a way, by
+ the success of their arms, to the inroads of so many hostile
+ tribes more savage than themselves.","('Huns', 'NORP'), ('West', 'LOC'), ('Gothic', 'NORP'), ('less than forty\r\n years', 'DATE'), ('Danube', 'LOC'), ('Atlantic', 'LOC')"
+"The 
+ provinces of Thrace, Asia, and Egypt, over which Valens had
+ reigned, were resigned to the administration of the new
+ emperor; but as he was specially intrusted with the conduct
+ of the Gothic war, the Illyrian praefecture was dismembered,
+ and the two great dioceses of Dacia and Macedonia were added
+ to the dominions of the Eastern empire. (106)
+Birth and character of Theodosius.","('Thrace', 'LOC'), ('Asia', 'LOC'), ('Egypt', 'GPE'), ('Valens', 'PERSON'), ('the Gothic war', 'EVENT'), ('Illyrian', 'NORP'), ('two', 'CARDINAL'), ('Dacia', 'GPE'), ('Macedonia', 'GPE'), ('Eastern', 'NORP'), ('106', 'CARDINAL'), ('Theodosius', 'PERSON')"
+"The 
+ vicinity of the Huns to the provinces of Persia involved
+ them in frequent and bloody contests with the power of that
+ monarchy.","('Huns', 'NORP'), ('Persia', 'GPE')"
+"The Chinese
+ generals improved the superiority which they derived from
+ the temper of their arms, their chariots of war, and the
+ service of their Tartar auxiliaries.","('Chinese', 'NORP'), ('Tartar', 'NORP')"
+"The Coroultai, (14) or Diet, of the Tartars was 
+ regularly held in the spring and autumn in the midst of a
+ plain, where the princes of the reigning family and the
+ mursas of the respective tribes may conveniently assemble on
+ horseback with their martial and numerous trains, and the
+ ambitious monarch who reviewed the strength, must consult
+ the inclination, of an armed people.","('Coroultai', 'PRODUCT'), ('14', 'CARDINAL'), ('Diet', 'ORG'), ('Tartars', 'LOC')"
+"The Gothic cavalry had been detached to
+ forage in the adjacent country; and Fritigern still
+ continued to practise his customary arts.","('Gothic', 'NORP'), ('Fritigern', 'PERSON')"
+"The Gothic king did not long enjoy this splendid and honourable reception; and, as temperance was not the virtue of his nation, it may justly be suspected that his mortal disease was contracted amidst the pleasures of the Imperial banquets.","('Gothic', 'NORP'), ('Imperial', 'ORG')"
+The Goths beseige Hadrianople.,"('Goths', 'NORP'), ('Hadrianople', 'PRODUCT')"
+"The Goths implore the protection of Valens, A.D. 376.","('Goths', 'NORP'), ('Valens', 'PERSON'), ('376', 'CARDINAL')"
+"The Goths who considered
+ themselves as the friends of peace, of justice, and of Rome,
+ were directed by the authority of Fravitta, a valiant and
+ honourable youth, distinguished above the rest of his
+ countrymen by the politeness of his manners, the liberality
+ of his sentiments, and the mild virtues of social life.","('Goths', 'NORP'), ('Rome', 'GPE'), ('Fravitta', 'PERSON')"
+"The Goths, with arms in
+ their hands, were permitted to enter the boats; and when
+ their strength was collected on the other side of the river,
+ the immense camp which was spread over the plains and the
+ hills of the Lower Maesia assumed a threatening and even
+ hostile aspect.","('Goths', 'NORP'), ('the Lower Maesia', 'LOC')"
+"The Greeks, who navigated the
+ Euxine, and planted their colonies along the seacoast, made
+ the gradual and imperfect discovery of Scythia, from the
+ Danube and the confines of Thrace, as far as the frozen
+ Maeotis, the seat of eternal winter, and Mount Caucasus,
+ which, in the language of poetry, was described as the
+ utmost boundary of the earth.","('Greeks', 'NORP'), ('Euxine', 'NORP'), ('Scythia', 'LOC'), ('Danube', 'LOC'), ('Thrace', 'LOC'), ('Maeotis', 'LOC'), ('Mount Caucasus', 'LOC')"
+"The Huns and Goths, A.D. 376.","('Huns', 'NORP'), ('Goths', 'NORP'), ('376', 'CARDINAL')"
+The Huns of the Volga.,"('The Huns of the Volga', 'PERSON')"
+"The Huns prevailed in the bloody contest; the king
+ of the Alani was slain; and the remains of the vanquished
+ nation were dispersed by the ordinary alternative of flight
+ or submission.(55) A colony of exiles found a secure refuge 
+ in the mountains of Caucasus, between the Euxine and the
+ Caspian, where they still preserve their name and their
+ independence.","('Huns', 'NORP'), ('Alani', 'PERSON'), ('Caucasus', 'LOC'), ('Euxine', 'LOC'), ('Caspian', 'LOC')"
+"The Huns, who under the reign of Valens threatened the
+ empire of Rome, had been formidable, in a much earlier
+ period, to the empire of China.(27)","('Huns', 'NORP'), ('Valens', 'PERSON'), ('Rome', 'GPE'), ('China', 'GPE'), ('27', 'CARDINAL')"
+"The Imperial
+ mandate was at length received for transporting over the
+ Danube the whole body of the Gothic nation; (65) but the 
+ execution of this order was a task of labour and difficulty.","('Imperial', 'ORG'), ('Danube', 'LOC'), ('Gothic', 'NORP'), ('65', 'CARDINAL')"
+"The Ostrogoths impelled several of the German tribes on the
+ provinces of Gaul; concluded, and soon violated, a treaty
+ with the emperor Gratian; advanced into the unknown
+ countries of the North; and, after an interval of more than
+ four years, returned with accumulated force to the banks of
+ the Lower Danube.","('Ostrogoths', 'PERSON'), ('German', 'NORP'), ('Gaul', 'GPE'), ('Gratian', 'PERSON'), ('North', 'LOC'), ('more than\r\n four years', 'DATE'), ('the Lower Danube', 'LOC')"
+"The Ostrogoths submitted to
+ their fate: and the royal race of the Amali will hereafter
+ be found among the subjects of the haughty Attila.","('Ostrogoths', 'NORP'), ('Amali', 'NORP'), ('Attila', 'PERSON')"
+"The Persian monarchs had extended their 
+ western conquests to the banks of the Danube and the limits
+ of European Scythia.","('Persian', 'NORP'), ('Danube', 'LOC'), ('European Scythia', 'ORG')"
+"The Romans, who so coolly and so concisely mention the acts
+ of justice which were exercised by the legions,(99) reserved their compassion and their eloquence for their own sufferings when the provinces were invaded and desolated by the arms of the successful barbarians.","('Romans', 'NORP'), ('99', 'CARDINAL')"
+"The Scythians of every age
+ have been celebrated as bold and skilful riders, and
+ constant practice had seated them so firmly on horseback
+ that they were supposed by strangers to perform the ordinary
+ duties of civil life, to eat, to drink, and even to sleep,
+ without dismounting from their steeds.","('Scythians', 'PERSON')"
+"The Sienpi, (42) a tribe of Oriental Tartars, 
+ retaliated the injuries which they had formerly sustained;
+ and the power of the Tanjous, A.D. 93.after a reign of thirteen
+ hundred years, was utterly destroyed before the end of the
+ first century of the Christian era.(43)","('Sienpi', 'PERSON'), ('42', 'CARDINAL'), ('Oriental Tartars', 'ORG'), ('Tanjous', 'PRODUCT'), ('A.D. 93', 'DATE'), ('thirteen\r\n hundred years', 'DATE'), ('the end of the\r\n first century', 'DATE'), ('Christian', 'NORP'), ('43', 'CARDINAL')"
+"The Tartars are an ugly and even deformed
+ race; and while they consider their own women as the
+ instruments of domestic labour, their desires, or rather
+ their appetites, are directed to the enjoyment of more
+ elegant beauty.","('Tartars', 'NORP')"
+"The Western world was open to their valour,
+ and they resolved, under the conduct of their hereditary
+ chieftains, to discover and subdue some remote country which
+ was still inaccessible to the arms of the Sienpi and to the
+ laws of China. (45)","('Western', 'NORP'), ('Sienpi', 'NORP'), ('China', 'GPE'), ('45', 'CARDINAL')"
+The White Huns of the Sogdiana.,"('The White Huns', 'PERSON')"
+"The absolute refusal of Valens
+ suspended their progress, and discovered the repentance, the
+ suspicions, and the fears of the Imperial council.","('Valens', 'PERSON'), ('Imperial', 'ORG')"
+"The active cavalry of Scythia
+ is always followed, in their most distant and rapid
+ incursions, by an adequate number of spare horses, who may
+ be occasionally used either to redouble the speed or to
+ satisfy the hunger of the barbarians.","('Scythia', 'GPE')"
+"The advocates of
+ Theodosius could affirm, with some appearance of truth and
+ reason, that it was impossible to extirpate so many warlike
+ tribes, who were rendered desperate by the loss of their
+ native country; and that the exhausted provinces would be
+ revived by a fresh supply of soldiers and husbandmen.","('Theodosius', 'PERSON')"
+"The aged king of the Goths languished some time after the
+ dangerous wound which he received from their daggers; but
+ the conduct of the war was retarded by his infirmities; and
+ the public councils of the nation were distracted by a
+ spirit of jealousy and discord.","('Goths', 'NORP')"
+"The annals of China (25) 
+ illustrate the state and revolutions of the pastoral tribes,
+ which may still be distinguished by the vague appellation of
+ Scythians or Tartars—the vassals, the enemies, and
+ sometimes the conquerors of a great empire, whose policy has
+ uniformly opposed the blind and impetuous valour of the
+ barbarians of the North.","('China', 'GPE'), ('25', 'CARDINAL'), ('Scythians', 'NORP'), ('Tartars', 'NORP'), ('North', 'LOC')"
+"The army of the Goths, laden 
+ with the spoils of the wealthy suburbs and the adjacent
+ territory, slowly moved from the Bosphorus to the mountains
+ which form the western boundary of Thrace.","('Goths', 'NORP'), ('Bosphorus', 'LOC'), ('Thrace', 'LOC')"
+The barbarians expected his approach about nine miles from Marcianopolis; and on this occasion the talents of the general were found to be of more prevailing efficacy than the weapons and discipline of the troops.,"('about nine miles', 'QUANTITY'), ('Marcianopolis', 'GPE')"
+"The barbarians opposed to his progress the
+ obstacles of nature and of courage; and still continued to
+ retreat from one hill to another till they were satisfied,
+ by repeated trials, of the power and perseverance of their
+ enemies.","('one', 'CARDINAL')"
+"The barbarians stood silent and amazed, till they were exasperated by the insulting clamours and missile weapons of the populace: but when patience or contempt was fatigued, they crushed the undisciplined multitude, inflicted many a shameful wound on the backs of their flying enemies, and despoiled them of the splendid armour(74) which they were unworthy to bear.","('74', 'CARDINAL')"
+"The barbarians were surprised
+ with the splendid appearance of the capital of the East, the
+ height and extent of the walls, the myriads of wealthy and
+ affrighted citizens who crowded the ramparts, and the
+ various prospect of the sea and land.","('East', 'LOC')"
+"The barbarians would have deserved to feel
+ the cruel and perfidious policy of the Imperial court if
+ they had suffered themselves to be dispersed through the
+ provinces.","('Imperial', 'NORP')"
+"The barbarians, who considered their
+ arms as the ensigns of honour and the pledges of safety,
+ were disposed to offer a price which the lust or avarice of
+ the Imperial officers was easily tempted to accept.","('Imperial', 'ORG')"
+"The bravest of the Ostrogoths led the 
+ van; the main body consisted of the remainder of their
+ subjects and soldiers; and the women and children securely
+ followed in the rear.","('Ostrogoths', 'PERSON')"
+"The calamities of 
+ the War were painted in the most lively colours; and the
+ first symptoms of the return of order, of plenty, and
+ security were diligently exaggerated.","('the War', 'EVENT'), ('first', 'ORDINAL')"
+"The camp of Valens, which he pitched under the
+ walls of Hadrianople, was fortified, according to the
+ practice of the Romans, with a ditch and rampart; and a most
+ important council was summoned to decide the fate of the
+ emperor and of the empire.","('Valens', 'GPE'), ('Hadrianople', 'GPE'), ('Romans', 'NORP')"
+"The camp of the Tanjou
+ was surprised in the midst of sleep and intemperance; and,
+ though the monarch of the Huns bravely cut his way through
+ the ranks of the enemy, he left above fifteen thousand of
+ his subjects on the field of battle.","('Tanjou', 'PERSON'), ('Huns', 'NORP'), ('fifteen thousand', 'CARDINAL')"
+"The camp, and not the soil, is the
+ native country of the genuine Tartar.","('Tartar', 'NORP')"
+"The cavalry of Scythia was forced to
+ yield to the admirable swiftness and spirit of the Arabian
+ horses; their riders were skilled in the evolutions of
+ irregular war; and the Northern barbarians were astonished
+ and dismayed by the inhuman ferocity of the barbarians of
+ the South.","('Scythia', 'GPE'), ('Arabian', 'NORP'), ('Northern barbarians', 'NORP'), ('South', 'LOC')"
+"The cavalry of the Tanjou frequently consisted of
+ two or three hundred thousand men, formidable by the
+ matchless dexterity with which they managed their bows and
+ their horses; by their hardy patience in supporting the
+ inclemency of the weather; and by the incredible speed of
+ their march, which was seldom checked by torrents or
+ precipices, by the deepest rivers, or by the most lofty
+ mountains.","('Tanjou', 'GPE'), ('two', 'CARDINAL'), ('three hundred thousand', 'CARDINAL')"
+"The children of
+ the Goths, those at least of a distinguished rank, were
+ separated from the multitude.","('Goths', 'NORP')"
+"The choice of
+ Gratian was soon declared in favour of an exile, whose
+ father, only three years before, had suffered, under the
+ sanction of his authority, an unjust and ignominious death.","('Gratian', 'PERSON'), ('three years before', 'DATE')"
+"The choice of stations is regulated by the difference of the
+ seasons; in the summer the Tartars advance towards the
+ North, and pitch their tents on the banks of a river, or, at
+ least, in the neighbourhood of a running stream.","('the summer', 'DATE'), ('Tartars', 'NORP'), ('North', 'LOC')"
+"The clamorous shouts and dying
+ groans apprised Fritigern of his extreme danger; and, as he
+ possessed the calm and intrepid spirit of a hero, he saw
+ that he was lost if he allowed a moment of deliberation to
+ the man who had so deeply injured him.","('Fritigern', 'PERSON')"
+"The clamours of a
+ multitude, untaught to disguise their sentiments, announced
+ the first symptoms of resistance, and alarmed the timid and
+ guilty minds of Lupicinus and Maximus.","('first', 'ORDINAL'), ('Lupicinus', 'PERSON'), ('Maximus', 'PERSON')"
+"The conquest of China has been twice achieved by the
+ pastoral tribes of the North: the forces of the Huns were
+ not inferior to those of the Moguls, or of the Mantcheoux;
+ and their ambition might entertain the most sanguine hopes
+ of success.","('China', 'GPE'), ('North', 'LOC'), ('Huns', 'NORP'), ('Moguls', 'NORP'), ('Mantcheoux', 'NORP')"
+"The course of their emigration soon 
+ carried them beyond the mountains of Imaus and the limits of
+ the Chinese geography; but we are able to distinguish the
+ two great divisions of these formidable exiles, which
+ directed their march towards the Oxus and towards the Volga.","('Imaus', 'LOC'), ('Chinese', 'NORP'), ('two', 'CARDINAL'), ('Oxus', 'ORG'), ('Volga', 'LOC')"
+"The danger of the times
+ seemed to justify the jealous suspicions of the provincials;
+ and these suspicions were admitted as unquestionable
+ evidence that the Goths of Asia had formed a secret and
+ dangerous conspiracy against the public safety.","('Goths', 'NORP'), ('Asia', 'LOC')"
+"The death of
+ Valens had left the East without a sovereign; and Julius,
+ who filled the important station of master-general of the
+ troops, with a high reputation of diligence and ability,
+ thought it his duty to consult the senate of Constantinople,
+ which he considered, during the vacancy of the throne, as
+ the representative council of the nation.","('Valens', 'PERSON'), ('East', 'LOC'), ('Julius', 'PERSON'), ('Constantinople', 'GPE')"
+"The death of that hero, the predecessor
+ and master of the renowned Alaric, relieved an impatient
+ multitude from the intolerable yoke of discipline and
+ discretion.","('Alaric', 'PERSON')"
+The defeat of the Romans.,"('Romans', 'NORP')"
+"The deliverance and peace of the Roman provinces(119) was the work of prudence, rather than of valour: the prudence of
+ Theodosius was seconded by fortune; and the emperor never
+ failed to seize, and to improve, every favourable
+ circumstance.","('Roman', 'NORP'), ('119', 'CARDINAL'), ('Theodosius', 'PERSON')"
+"The design was prosecuted with some
+ conduct and success; the barbarians had almost exhausted
+ their own magazines and the harvests of the country; and the
+ diligence of Saturninus, the master-general of the cavalry,
+ was employed to improve the strength and to contract the
+ extent of the Roman fortifications.","('Saturninus', 'ORG'), ('Roman', 'NORP')"
+"The dexterity of the
+ spies whom he sent into the Gothic camp allured the
+ barbarians into a fatal snare.","('Gothic', 'NORP')"
+"The different characters that mark the civilised nations of
+ the globe may be ascribed to the use and the abuse of
+ reason, which so variously shapes and so artificially
+ composes the manners and opinions of an European or a
+ Chinese.","('European', 'NORP'), ('Chinese', 'NORP')"
+"The eastern provinces of their empire
+ were exposed to the Scythians of Asia, the wild inhabitants
+ of the plains beyond the Oxus and the Jaxartes, two mighty
+ rivers, which direct their course towards the Caspian Sea.","('Scythians', 'NORP'), ('Asia', 'LOC'), ('Oxus', 'LOC'), ('Jaxartes', 'LOC'), ('two', 'CARDINAL'), ('the Caspian Sea', 'LOC')"
+"The emperor Gratian invests Theodosius with the empire of the East, A.D. 379, January 19.","('Gratian', 'PERSON'), ('Theodosius', 'GPE'), ('East', 'LOC'), ('379', 'CARDINAL'), ('January 19', 'DATE')"
+"The emperor Gratian was far advanced on his march towards
+ the plains of Hadrianople when he was informed, at first by
+ the confused voice of fame, and afterwards by the more
+ accurate reports of Victor and Richomer, that his impatient
+ colleague had been slain in battle, and that two-thirds of
+ the Roman army were exterminated by the sword of the
+ victorious Goths.","('Gratian', 'PERSON'), ('Hadrianople', 'PERSON'), ('first', 'ORDINAL'), ('Victor', 'PERSON'), ('Richomer', 'PERSON'), ('two', 'CARDINAL'), ('Roman', 'NORP'), ('Goths', 'NORP')"
+"The emperor Kaoti, (34) a soldier of fortune, whose 
+ personal merit had raised him to the throne, marched against
+ the Huns with those veteran troops which had been trained in
+ the civil wars of China.","('Kaoti', 'PERSON'), ('34', 'CARDINAL'), ('Huns', 'NORP'), ('China', 'GPE')"
+"The emperor of the East was no longer guided by
+ the wisdom and authority of his elder brother, A.D. 375, Nov 17.","('East', 'LOC'), ('A.D. 375', 'PERSON'), ('Nov 17', 'DATE')"
+"The emperor was persuaded
+ to send an ambassador to the Gothic camp; the zeal of
+ Richomer, who alone had courage to accept the dangerous
+ commission, was applauded; and the count of the domestics,
+ adorned with the splendid ensigns of his dignity, had
+ proceeded some way in the space between the two armies when
+ he was suddenly recalled by the alarm of battle.","('Gothic', 'NORP'), ('Richomer', 'PERSON'), ('two', 'CARDINAL')"
+"The enterprise of some light
+ detachments, who in the month of February passed the Rhine
+ upon the ice, was the prelude of a more important war.","('the month of February', 'DATE'), ('Rhine', 'LOC')"
+"The evening was already far
+ advanced; and the two armies prepared themselves for the
+ approaching combat, which was deferred only till the dawn of
+ day.","('The evening', 'TIME'), ('two', 'CARDINAL'), ('the dawn of\r\n day', 'DATE')"
+"The event of the battle of Hadrianople, so fatal to Valens and to the empire, may be described in a few words: the Roman cavalry fled; the infantry was abandoned, surrounded, and cut in pieces.","('Hadrianople', 'GPE'), ('Valens', 'PERSON'), ('Roman', 'NORP')"
+"The exploits of 
+ Sebastian,(90) who was recently engaged in the service of 
+ Valens, and promoted to the rank of master-general of the
+ infantry, were still more honourable to himself, and useful
+ to the republic.","('Sebastian', 'PERSON'), ('90', 'DATE'), ('Valens', 'PERSON')"
+"The fabric of a mighty state, which has been reared
+ by the labours of successive ages, could not be overturned
+ by the misfortune of a single day, if the fatal power of the
+ imagination did not exaggerate the real measure of the
+ calamity.","('a single day', 'DATE')"
+"The fatal oversight, as observed and
+ improved by Alatheus and Saphrax, who anxiously watched the
+ favourable moment of escaping from the pursuit of the Huns.","('Alatheus', 'PERSON'), ('Saphrax', 'PERSON'), ('Huns', 'NORP')"
+"The fate of the vanquished Huns was diversified by the
+ various influence of character and situation.(44)","('Huns', 'NORP')"
+"The first of these colonies established their dominion in
+ the fruitful and extensive plains of the Sogdiana, on the
+ eastern side of the Caspian, where they preserved the name
+ of Huns, with the epithet of Euthalites or Nepthalites.","('first', 'ORDINAL'), ('Sogdiana', 'LOC'), ('Caspian', 'LOC'), ('Huns', 'NORP'), ('Euthalites', 'NORP'), ('Nepthalites', 'NORP')"
+"The five years(63) which he spent at 
+ Antioch were employed to watch, from a secure distance, the
+ hostile designs of the Persian monarch; to check the
+ depredations of the Saracens and Isaurians;(64) to enforce, 
+ by arguments more prevalent than those of reason and
+ eloquence, the belief of the Arian theology, and to satisfy
+ his anxious suspicions by the promiscuous execution of the
+ innocent and the guilty.","('five years(63', 'DATE'), ('Antioch', 'GPE'), ('Persian', 'NORP'), ('Saracens', 'NORP'), ('Isaurians', 'NORP'), ('64', 'CARDINAL'), ('Arian', 'NORP')"
+"The flattering poet, who 
+ celebrated in the court of Honorius the glory of the father
+ and of the son, ascribes the victory to the personal prowess
+ of Theodosius; and almost insinuates that the king of the
+ Ostrogoths was slain by the hand of the emperor.(127)","('Honorius', 'PERSON'), ('Theodosius', 'PERSON'), ('Ostrogoths', 'PERSON'), ('127', 'CARDINAL')"
+"The flocks and herds, after grazing all day in
+ the adjacent pastures, retire, on the approach of night,
+ within the protection of the camp.","('all day', 'DATE'), ('night', 'TIME')"
+"The funeral of Athanaric was performed with solemn rites in the capital of the East; a stately monument was erected to his memory; and his whole army, won by the liberal courtesy and decent grief of Theodosius, enlisted under the standard of the Roman
+ empire. (122)","('Athanaric', 'PERSON'), ('East', 'LOC'), ('Theodosius', 'PERSON'), ('Roman', 'NORP'), ('122', 'CARDINAL')"
+"The general who commanded the military and 
+ naval powers of the Thracian frontier soon perceived that
+ his superiority would be disadvantageous to the public
+ service; and that the barbarians, awed by the presence of
+ his fleet and legions, would probably defer the passage of
+ the river till the approaching winter.","('Thracian', 'NORP')"
+"The general, or rather the final, capitulation of the Goths, may be dated four years, one month, and twenty-five days A.D. 382, October 3., after the defeat and death of the emperor Valens. (123)
+Invasion and defeat of the Gruthungi, or Ostrogoths, A.D. 386, October.","('Goths', 'NORP'), ('four years', 'DATE'), ('one month', 'DATE'), ('twenty-five days', 'DATE'), ('A.D. 382', 'DATE'), ('October 3', 'DATE'), ('Valens', 'PERSON'), ('123', 'CARDINAL'), ('Gruthungi', 'ORG'), ('Ostrogoths', 'ORG'), ('A.D. 386', 'DATE'), ('October', 'DATE')"
+"The generals of the Goths were saluted by the fierce and joyful acclamations of the camp; war was instantly resolved, and the resolution was executed without delay: the banners of the nation were displayed according to the custom of their ancestors; and the air resounded with the harsh and mournful music of the barbarian trumpet.","('Goths', 'NORP')"
+"The glory of the day was 
+ justly ascribed to the missile weapons and well-practised
+ evolutions of the Roman soldiers: the Alemanni, who long
+ maintained their ground, were slaughtered with unrelenting
+ fury: five thousand only of the barbarians escaped to the
+ woods and mountains; and the glorious death of their king on
+ the field of battle saved him from the reproaches of the
+ people, who are always disposed to accuse the justice or
+ policy of an unsuccessful war.","('the day', 'DATE'), ('Roman', 'NORP'), ('Alemanni', 'NORP'), ('five thousand', 'CARDINAL')"
+"The great Hermanric, whose dominions extended from the
+ Baltic to the Euxine, enjoyed, in the full maturity of age
+ and reputation, the fruit of his victories, when he was
+ alarmed by the formidable approach of an host of unknown
+ enemies,(56) on whom his barbarous subjects might, without 
+ injustice, bestow the epithet of barbarians.","('Hermanric', 'PERSON'), ('Baltic', 'LOC'), ('Euxine', 'NORP'), ('56', 'CARDINAL')"
+"The great Theodosius, a name celebrated in history and dear
+ to the Catholic church, (104) was summoned to the Imperial 
+ court, which had gradually retreated from the confines of
+ Thrace to the more secure station of Sirmium.","('Theodosius', 'PERSON'), ('Catholic', 'NORP'), ('104', 'CARDINAL'), ('Imperial', 'NORP'), ('Thrace', 'LOC'), ('Sirmium', 'ORG')"
+"The hardships of the
+ savage life, which destroy in their infancy the children who
+ are born with a less healthy and robust constitution,
+ introduce a remarkable disproportion between the numbers of
+ the two sexes.","('two', 'CARDINAL')"
+"The hasty
+ and imprudent attack was made by Bacurius the Iberian, who
+ commanded a body of archers and targeteers: and, as they
+ advanced with rashness, they retreated with loss and
+ disgrace.","('Bacurius the Iberian', 'PERSON')"
+"The hereditary chiefs of the tribes and families were still
+ permitted to command their followers in peace and war: but
+ the royal dignity was abolished; and the generals of the
+ Goths were appointed and removed at the pleasure of the
+ emperor.","('Goths', 'NORP')"
+"The houses of the
+ Tartars are no more than small tents, of an oval form which
+ afford a cold and dirty habitation for the promiscuous youth
+ of both sexes.","('Tartars', 'LOC')"
+"The illustrious deserter soon obtained the rank of
+ master-general, with an important command; surprised an army
+ of his countrymen, who were immersed in wine and sleep; and,
+ after a cruel slaughter of the astonished Goths, returned
+ with an immense spoil, and four thousand waggons, to the
+ Imperial camp.(120)","('Goths', 'NORP'), ('four thousand', 'CARDINAL'), ('Imperial', 'NORP'), ('120', 'CARDINAL')"
+"The immediate
+ jurisdiction of the Khan is confined within the limits of
+ his own tribe, and the exercise of his royal prerogative has
+ been moderated by the ancient institution of a national
+ council.","('Khan', 'PERSON')"
+"The important
+ pass of Succi was betrayed by the fear or the misconduct of
+ Maurus; and the barbarians, who no longer had any resistance
+ to apprehend from the scattered and vanquished troops of the
+ East, spread themselves over the face of a fertile and
+ cultivated country, as far as the confines of Italy and the
+ Hadriatic Sea.(98)","('Succi', 'PERSON'), ('Maurus', 'PERSON'), ('East', 'LOC'), ('Italy', 'GPE'), ('the\r\n Hadriatic Sea', 'LOC'), ('98', 'CARDINAL')"
+"The impression was communicated to the waters; the shores of the Mediterranean were left dry by the sudden retreat of the sea; great quantities of fish were caught with the hand; large vessels were stranded on the mud; and a curious spectator (1) amused his eye, or rather his fancy, by contemplating the various appearance of valleys and mountains which had never, since the formation of the globe, been exposed to the sun.","('Mediterranean', 'LOC'), ('1', 'CARDINAL')"
+"The imprudence of Valens and his ministers had introduced
+ into the heart of the empire a nation of enemies; but the
+ Visigoths might even yet have been reconciled by the manly
+ confession of past errors and the sincere performance of
+ former engagements.","('Valens', 'PERSON'), ('Visigoths', 'NORP')"
+"The insolence or the indignation of the Goths,
+ if they conceived themselves to be the objects either of
+ fear or of contempt, might urge them to the most desperate
+ extremities, and the fortune of the state seemed to depend
+ on the prudence, as well as the integrity, of the generals
+ of Valens.","('Goths', 'NORP'), ('Valens', 'PERSON')"
+"The intelligence that Gratian was preparing
+ to lead the military force of Gaul and of the West to the
+ assistance of his uncle Valens, pointed out to the restless
+ spirit of the Alemanni the moment and the mode of a
+ successful invasion.","('Gratian', 'PERSON'), ('Gaul', 'PERSON'), ('West', 'LOC'), ('Valens', 'PERSON'), ('Alemanni', 'NORP')"
+"The just apprehension that he himself might be surrounded
+ and overwhelmed by the arms of hostile and unknown nations,
+ compelled Saturninus to relinquish the siege of the Gothic
+ camp; and the indignant Visigoths, breaking from their
+ confinement, satiated their hunger and revenge by the
+ repeated devastation of the fruitful country which extends
+ above three hundred miles from the banks of the Danube to
+ the straits of the Hellespont. (83)","('Saturninus', 'NORP'), ('Gothic', 'NORP'), ('Visigoths', 'NORP'), ('three hundred miles', 'QUANTITY'), ('Danube', 'LOC'), ('Hellespont', 'LOC'), ('83', 'CARDINAL')"
+"The latitude of these
+ extensive deserts cannot be so easily or so accurately
+ measured; but, from the fortieth degree, which touches the
+ wall of China, we may securely advance above a thousand
+ miles to the northward, till our progress is stopped by the
+ excessive cold of Siberia.","('China', 'GPE'), ('a thousand\r\n miles', 'QUANTITY'), ('Siberia', 'LOC')"
+"The leaders of the Ostrogoths, Alatheus and
+ Saphrax, the guardians of their infant king, appeared soon
+ afterwards on the northern banks of the Danube, and
+ immediately despatched their ambassadors to the court of
+ Antioch to solicit, with the same professions of allegiance
+ and gratitude, the same favour which had been granted to the
+ suppliant Visigoths.","('Ostrogoths', 'NORP'), ('Alatheus', 'PERSON'), ('Saphrax', 'PERSON'), ('Danube', 'LOC'), ('Antioch', 'GPE'), ('Visigoths', 'NORP')"
+"The legions of
+ Armenia supported their fame in arms, but they were
+ oppressed by the irresistible weight of the hostile
+ multitude: the left wing of he Romans was thrown into
+ disorder, and the field was strewed with their mangled
+ carcasses.","('Armenia', 'GPE'), ('Romans', 'NORP')"
+"The legions which had been ordered to
+ march into Pannonia were immediately recalled or detained
+ for the defence of Gaul; the military command was divided
+ between Nanienus and Mellobaudes; and the youthful emperor,
+ though he respected the long experience and sober wisdom of
+ the former, was much more inclined to admire and to follow
+ the martial ardour of his colleague, who was allowed to
+ unite the incompatible characters of count of the domestics
+ and of king of the Franks.","('Pannonia', 'GPE'), ('Gaul', 'PERSON'), ('Nanienus', 'NORP'), ('Mellobaudes', 'NORP'), ('Franks', 'PERSON')"
+"The liberality of
+ the emperor was accompanied, however, with two harsh and
+ rigorous conditions, which prudence might justify on the
+ side of the Romans, but which distress alone could extort
+ from the indignant Goths.","('two', 'CARDINAL'), ('Romans', 'NORP'), ('Goths', 'NORP')"
+"The long and memorable quarrel of Iran and Touran is still
+ the theme of history or romance: the famous, perhaps the
+ fabulous, valour of the Persian heroes, Rustan and
+ Asfendiar, was signalised, in the defence of their country,
+ against the Afrasiabs of the North;(20) and the invincible 
+ spirit of the same barbarians resisted, on the same ground,
+ the victorious arms of Cyrus and Alexander.(21)","('Iran', 'GPE'), ('Touran', 'GPE'), ('Persian', 'NORP'), ('Rustan', 'PERSON'), ('Asfendiar', 'PERSON'), ('Afrasiabs', 'NORP'), ('North', 'LOC'), ('20', 'CARDINAL'), ('Cyrus', 'PERSON'), ('Alexander', 'PERSON'), ('21', 'CARDINAL')"
+"The loss of forty thousand Romans, who fell in the
+ plains of Hadrianople, might have been soon recruited in the
+ populous provinces of the East, which contained so many
+ millions of inhabitants.","('forty thousand', 'CARDINAL'), ('Romans', 'NORP'), ('Hadrianople', 'LOC'), ('East', 'LOC'), ('so many\r\n millions', 'CARDINAL')"
+"The manners of his subjects, accustomed, like
+ himself, to blood and rapine, might excuse in their eyes
+ such partial acts of tyranny as would excite the horror of a
+ civilised people, but the power of a despot has never been
+ acknowledged in the deserts of Scythia.","('Scythia', 'GPE')"
+"The march and the return of
+ those wandering Tartars, whose united camp consists of fifty
+ thousand tents or families, illustrate the distant
+ emigrations of the ancient Huns.(51)
+Their conquest of the Alani.","('Tartars', 'NORP'), ('fifty\r\n thousand', 'CARDINAL'), ('Huns', 'NORP'), ('51', 'CARDINAL'), ('Alani', 'PERSON')"
+"The march of the Taifalae had been intercepted
+ by the valiant Frigerid; the king of those licentious
+ barbarians was slain in battle; and the suppliant captives
+ were sent into distant exile to cultivate the lands of
+ Italy, which were assigned for their settlement in the
+ vacant territories of Modena and Parma.(89)","('Taifalae', 'NORP'), ('Frigerid', 'PERSON'), ('Italy', 'GPE'), ('Modena', 'GPE'), ('Parma', 'GPE'), ('89', 'CARDINAL')"
+"The meanest and most ignorant of the Tartars preserve
+ with conscious pride the inestimable treasure of their
+ genealogy, and whatever distinctions of rank may have been
+ introduced by the unequal distribution of pastoral wealth,
+ they mutually respect themselves and each other as the
+ descendants of the first founder of the tribe.","('Tartars', 'NORP'), ('first', 'ORDINAL')"
+"The mischievous effects of an earthquake or deluge, a 
+ hurricane or the eruption of a volcano, bear a very
+ inconsiderable proportion to the ordinary calamities of war,
+ as they are now moderated by the prudence or humanity of the
+ princes of Europe, who amuse their own leisure and exercise
+ the courage of their subjects in the practice of the
+ military art.","('Europe', 'LOC')"
+"The mixture of Sarmatic and German blood
+ had contributed to improve the features of the Alani, to
+ whiten their swarthy complexions, and to tinge their hair
+ with a yellowish cast, which is seldom found in the Tartar
+ race.","('Sarmatic', 'NORP'), ('German', 'NORP'), ('Alani', 'NORP'), ('Tartar', 'NORP')"
+"The modern Tartars are ignorant of the conquests of their
+ ancestors;(16) and our knowledge of the history of the 
+ Scythians is derived from their intercourse with the learned
+ and civilised nations of the South—the Greeks, the
+ Persians, and the Chinese.","('Tartars', 'NORP'), ('16', 'CARDINAL'), ('Scythians', 'NORP'), ('South', 'LOC'), ('Greeks', 'NORP'), ('Persians', 'NORP'), ('Chinese', 'NORP')"
+"The most
+ successful of the Tartar princes assumed the military
+ command, to which he was entitled by the superiority either
+ of merit or of power.","('Tartar', 'NORP')"
+"The most skilful evolutions, the firmest courage, are scarcely sufficient to extricate a body of foot encompassed on an open plain by superior
+numbers of horse; but the troops of Valens, oppressed by the weight of the enemy and their own fears, were crowded into a narrow space, where it was impossible for them to extend their ranks, or even to use, with effect, their swords and javelins.","('Valens', 'NORP')"
+"The numbers,
+ the strength, the rapid motions, and the implacable cruelty
+ of the Huns were felt, and dreaded, and magnified by the
+ astonished Goths, who beheld their fields and villages
+ consumed with flames and deluged with indiscriminate
+ slaughter.","('Huns', 'NORP'), ('Goths', 'NORP')"
+"The ordinary speed of the Huns was
+ checked by the weight of baggage and the encumbrance of
+ captives; but their military skill deceived and almost
+ destroyed the army of Athanaric.","('Huns', 'NORP'), ('Athanaric', 'NORP')"
+"The original principle
+ of motion was concealed in the remote countries of the
+ North, and the curious observation of the pastoral life of
+ the Scythians(4) or Tartars (5) will illustrate the latent cause of these destructive emigrations.","('North', 'LOC'), ('Scythians', 'NORP'), ('4', 'CARDINAL'), ('5', 'CARDINAL')"
+"The original treaty, which fixed the settlement of the
+ Goths, ascertained their privileges, and stipulated their
+ obligations, would illustrate the history of Theodosius and
+ his successors.","('Goths', 'NORP'), ('Theodosius', 'PERSON')"
+"The palaces of the rich consist of wooden
+ huts, of such a size that they may be conveniently fixed on
+ large waggons, and drawn by a team perhaps of twenty or
+ thirty oxen.","('twenty or\r\n thirty', 'CARDINAL')"
+"The partial and malignant historian, who
+ misrepresents every action of his reign, affirms that the
+ emperor did not appear in the field of battle till the
+ barbarians had been vanquished by the valour and conduct of
+ his lieutenant Promotus. (126)","('Promotus', 'PERSON'), ('126', 'CARDINAL')"
+"The party of reason and of delay
+ was strenuously maintained by Victor, who had corrected, by
+ the lessons of experience, the native fierceness of the
+ Sarmatian character; while Sebastian with the flexible and
+ obsequious eloquence of a courtier, represented every
+ precaution and every measure that implied a doubt of
+ immediate victory as unworthy of the courage and majesty of
+ their invincible monarch.","('Victor', 'PERSON'), ('Sarmatian', 'NORP'), ('Sebastian', 'PERSON')"
+"The pastoral life, compared with the labours of
+ agriculture and manufactures, is undoubtedly a life of
+ idleness; and as the most honourable shepherds of the Tartar
+ race devolve on their captives the domestic management of
+ the cattle, their own leisure is seldom disturbed by any
+ servile and assiduous cares.","('Tartar', 'NORP')"
+"The pastoral manners of the
+ Scythians seem to unite the different advantages of
+ simplicity and refinement.","('Scythians', 'NORP')"
+The pastoral manners of the Scythians and Tartars.,"('Scythians', 'NORP'), ('Tartars', 'PERSON')"
+"The plains
+ between the Volga and the Tanais were covered with the tents
+ of the Alani, but their name and manners were diffused over
+ the wide extent of their conquests; and the painted tribes
+ of the Agathyrsi and Geloni were confounded among their
+ vassals.","('Volga', 'LOC'), ('Tanais', 'NORP'), ('Alani', 'NORP'), ('Agathyrsi', 'NORP'), ('Geloni', 'PERSON')"
+"The plains of Tartary are filled with a strong and
+ serviceable breed of horses, which are easily trained for
+ the purposes of war and hunting.","('Tartary', 'LOC')"
+"The political society of the ancient Germans has the
+ appearance of a voluntary alliance of independent warriors.","('Germans', 'NORP')"
+"The power of the Sienpi, their implacable
+ enemies, which extended above three thousand miles from east
+ to west,(52) must have gradually oppressed them by the weight 
+ and terror of a formidable neighbourhood; and the flight of
+ the tribes of Scythia would inevitably tend to increase the
+ strength or to contract the territories of the Huns.","('Sienpi', 'NORP'), ('three thousand miles', 'QUANTITY'), ('52', 'CARDINAL'), ('Scythia', 'GPE'), ('Huns', 'NORP')"
+"The prayers of the Goths were
+ granted, and their service was accepted by the Imperial
+ court; and orders were immediately despatched by the civil
+ and military governors of the Thracian diocese to make the
+ necessary preparations or the passage and subsistence of a
+ great people, till a proper and sufficient territory could
+ be allotted for their future residence.","('Goths', 'NORP'), ('Imperial', 'ORG'), ('Thracian', 'NORP')"
+"The pride of the Goths was elated by this memorable victory;
+ but their avarice was disappointed by the mortifying
+ discovery that the richest part of the Imperial spoil had
+ been within the walls of Hadrianople.","('Goths', 'NORP'), ('Imperial', 'ORG'), ('Hadrianople', 'GPE')"
+"The progress of
+ domestic faction abated the more diffusive sentiment of
+ national animosity; and the officers of Theodosius were
+ instructed to purchase, with liberal gifts and promises, the
+ retreat or service of the discontented party.","('Theodosius', 'ORG')"
+"The progress of the Goths had been checked by the doubtful
+ event of that bloody day; and the Imperial generals, whose
+ army would have been consumed by the repetition of such a
+ contest, embraced the more rational plan of destroying the
+ barbarians by the wants and pressure of their own
+ multitudes.","('Goths', 'NORP'), ('that bloody day', 'DATE'), ('Imperial', 'NORP')"
+"The proud inscription(41) of a column, erected on a 
+ lofty mountain, announced to posterity that a Chinese army
+ had marched seven hundred miles into the heart of their
+ country.","('41', 'CARDINAL'), ('Chinese', 'NORP'), ('seven hundred miles', 'QUANTITY')"
+"The provinces of the Danube had been already relieved from
+ the oppressive weight of the Gruthungi, or Ostrogoths, by
+ the voluntary retreat of Alatheus and Saphrax, whose
+ restless spirit had prompted them to seek new scenes of
+ rapine and glory.","('Danube', 'LOC'), ('Gruthungi', 'NORP'), ('Ostrogoths', 'NORP'), ('Alatheus', 'PERSON'), ('Saphrax', 'PERSON')"
+"The real loss was more severely felt by the Romans,
+ in proportion to the smallness of their numbers; but the
+ Goths were so deeply confounded and dismayed by this
+ vigorous, and perhaps unexpected, resistance, that they
+ remained seven days within the circle of their
+ fortifications.","('Romans', 'NORP'), ('Goths', 'NORP'), ('seven days', 'DATE')"
+"The report of the Gothic victory was soon diffused over the adjacent country; and while it filled the minds of the Romans with terror and dismay, their own hasty imprudence contributed to increase the forces of Fritigern and the calamities of the province.","('Gothic', 'NORP'), ('Romans', 'NORP'), ('Fritigern', 'GPE')"
+"The republic had formerly been
+ saved by the delays of Fabius; and, while the splendid
+ trophies of Scipio, in the field of Zama, attract the eyes
+ of posterity, the camps and marches of the dictator among
+ the hills of Campania may claim a juster proportion of the
+ solid and independent fame which the general is not
+ compelled to share either with fortune or with his troops.","('Fabius', 'EVENT'), ('Scipio', 'PERSON'), ('Zama', 'PERSON'), ('Campania', 'GPE')"
+"The resemblance of their sufferings and their actions soon united this victorious detachment to the nation of the Visigoths; the troops of Colias and Suerid expected the approach of the great Fritigern, ranged themselves under his standard, and signalised their ardour in the siege of Hadrianople.","('Visigoths', 'NORP'), ('Colias', 'NORP'), ('Suerid', 'PERSON'), ('Fritigern', 'NORP'), ('Hadrianople', 'PRODUCT')"
+The respectful submission with which they yielded to the order of their march might be considered as a proof of their fidelity; and their moderate request of a sufficient allowance of provisions and of a delay of only two days was expressed in the most dutiful terms.,"('only two days', 'DATE')"
+"The revolutions of the North have
+ frequently determined the fate of the South; and in the
+ conflict of hostile nations the victor and the vanquished
+ have alternately drove, and been driven, from the confines
+ of China to those of Germany.(10) These great emigrations, 
+ which have been sometimes executed with almost incredible
+ diligence, were rendered more easy by the peculiar nature of
+ the climate.","('North', 'LOC'), ('South', 'LOC'), ('China', 'GPE'), ('Germany', 'GPE'), ('10', 'CARDINAL')"
+"The right of hereditary
+ succession was long confined to the blood of the founder of
+ the monarchy; and at this moment all the Khans who reign
+ from Crimea to the wall of China are the lineal descendants
+ of the renowned Zingis. (13)","('Khans', 'NORP'), ('Crimea', 'GPE'), ('China', 'GPE'), ('Zingis', 'NORP'), ('13', 'CARDINAL')"
+"The rising generation was not disposed to accept his advice,
+ or to imitate his example; (114) and, in the study of the 
+ reign of Theodosius, we are reduced to illustrate the
+ partial narrative of Zosimus by the obscure hints of
+ fragments and chronicles, by the figurative style of poetry
+ or panegyric, and by the precarious assistance of the
+ ecclesiastical writers, who, in the heat of religious
+ faction, are apt to despise the profane virtues of sincerity
+ and moderation.","('114', 'CARDINAL'), ('Theodosius', 'PERSON'), ('Zosimus', 'PERSON')"
+"The rudiments of a
+ feudal government may be discovered in the constitution of
+ the Scythian or Tartar nations, but the perpetual conflict
+ of those hostile nations has sometimes terminated in the
+ establishment of a powerful and despotic empire.","('Scythian', 'NORP'), ('Tartar', 'NORP')"
+"The ruin of Valens was
+ precipitated by the deceitful arts of Fritigern and the
+ prudent admonitions of the emperor of the West.","('Valens', 'PERSON'), ('Fritigern', 'LOC'), ('West', 'LOC')"
+"The sagacious Fritigern 
+ had successfully appealed to the passions as well as to the
+ interest of his barbarian allies; and the love of rapine and
+ the hatred of Rome seconded, or even prevented, the
+ eloquence of his ambassadors.","('Fritigern', 'PERSON'), ('Rome', 'GPE')"
+"The same 
+ terrors which the name of the Huns had spread among the
+ Gothic tribes were inspired, by the formidable name of the
+ Goths, among the subjects and soldiers of the Roman empire.
+ (116)","('Huns', 'NORP'), ('Gothic', 'NORP'), ('Goths', 'NORP'), ('Roman', 'NORP'), ('116', 'CARDINAL')"
+"The same province, and perhaps the same city,(107) which had given to the throne the virtues of Trajan and the talents of Hadrian,
+ was the original seat of another family of Spaniards, who,
+ in a less fortunate age, possessed, near fourscore years,
+ the declining empire of Rome. (108)","('107', 'CARDINAL'), ('Trajan', 'PERSON'), ('Hadrian', 'PERSON'), ('Spaniards', 'NORP'), ('near fourscore years', 'DATE'), ('Rome', 'GPE'), ('108', 'CARDINAL')"
+"The scene
+ of war and tumult was instantly converted into a silent
+ solitude; the multitude suddenly disappeared; the secret
+ paths of the woods and mountains were marked with the
+ footsteps of the trembling fugitives, who sought a refuge in
+ the distant cities of Illyricum and Macedonia; and the
+ faithful officers of the household and the treasury
+ cautiously proceeded in search of the emperor, of whose
+ death they were still ignorant.","('Illyricum', 'GPE'), ('Macedonia', 'GPE')"
+"The second division of their countrymen, the Huns who gradually advanced towards the northwest, were exercised by the
+ hardships of a colder climate and a more laborious march.","('second', 'ORDINAL'), ('Huns', 'NORP')"
+"The series of their history has imperfectly
+ preserved the spirit and substance of this singular
+ agreement.(128)","('128', 'CARDINAL')"
+"The simple circumstantial narrative (did such a narrative exist) of the ruin of a single town, of the misfortunes of a single family,(100) might exhibit an interesting and instructive picture of human manners; but the tedious repetition of vague and declamatory complaints would fatigue the attention of the most patient reader.","('100', 'CARDINAL')"
+"The situation of these unhappy
+ victims is described in the verses of a Chinese princess,
+ who laments that she had been condemned by her parents to a
+ distant exile, under a barbarian husband; who complains that
+ sour milk was her only drink, raw flesh her only food, a
+ tent her only palace; and who expresses, in a strain of
+ pathetic simplicity, the natural wish that she were
+ transformed into a bird, to fly back to her dear country,
+ the object of her tender and perpetual regret.(37)
+Decline and fall of the Hun.","('Chinese', 'NORP'), ('Hun', 'NORP')"
+"The soldiers, the citizens, the provincials, the
+ domestics of the palace, were united in the danger and in
+ the defence; the furious assault of the Goths was repulsed;
+ their secret arts of treachery and treason were discovered;
+ and after an obstinate conflict of many hours they retired
+ to their tents, convinced by experience that it would be far
+ more advisable to observe the treaty which their sagacious
+ leader had tacitly stipulated with the fortifications of
+ great and populous cities.","('Goths', 'NORP'), ('many hours', 'TIME')"
+"The son of that general, who likewise
+ bore the name of Theodosius, was educated, by skilful
+ preceptors, in the liberal studies of youth; but he was
+ instructed in the art of war by the tender care and severe
+ discipline of his father. (109)","('Theodosius', 'PERSON'), ('109', 'CARDINAL')"
+"The stream of the Danube, which in those parts is above a
+ mile broad,(66) had been swelled by incessant rains, and in 
+ this tumultuous passage many were swept away and drowned by
+ the rapid violence of the current.","('Danube', 'LOC'), ('a\r\n mile', 'QUANTITY'), ('66', 'CARDINAL')"
+"The subjects
+ of the empire, who had so often experienced that the
+ Alemanni could neither be subdued by arms nor restrained by
+ treaties, might not promise themselves any solid or lasting
+ tranquillity; but they discovered, in the virtues of their
+ young sovereign, the prospect of a long and auspicious
+ reign.","('Alemanni', 'PERSON')"
+"The submission of so great a body of the Visigoths was productive of the most salutary consequences; and the mixed influence of force, of reason, and of corruption, became every day more powerful and more extensive.","('Visigoths', 'NORP')"
+"The submission of so many distant nations might
+ flatter the pride of the Tanjou; but the valour of the Huns
+ could be rewarded only by the enjoyment of the wealth and
+ luxury of the empire of the South.","('Tanjou', 'NORP'), ('Huns', 'NORP'), ('South', 'LOC')"
+"The successors of Kaoti,
+ whose lives were dedicated to the arts of peace, or the
+ luxury of the palace, submitted to a more permanent
+ disgrace.","('Kaoti', 'PERSON')"
+"The supply is
+ multiplied and prolonged by the undistinguishing appetite
+ and patient abstinence of the Tartan.","('Tartan', 'NORP')"
+"The tale, so full of horror 
+ and absurdity, was greedily embraced by the credulous hatred
+ of the Goths; but while it gratified their hatred it
+ increased their fear, since the posterity of daemons and
+ witches might be supposed to inherit some share of the
+ preternatural powers as well as of the malignant temper of
+ their parents.","('Goths', 'NORP')"
+"The thirst of rapine, the fear or the
+ resentment of injury, the impatience of servitude, have, in
+ every age, been sufficient causes to urge the tribes of
+ Scythia boldly to advance into some unknown countries, where
+ they might hope to find a more plentiful subsistence or a
+ less formidable enemy.","('Scythia', 'GPE')"
+"The thrones of Asia have been
+ repeatedly overturned by the shepherds of the North, and
+ their arms have spread terror and devastation over the most
+ fertile and warlike countries of Europe.(6)","('Asia', 'LOC'), ('North', 'LOC'), ('Europe', 'LOC'), ('6', 'CARDINAL')"
+"The tide of the Gothic
+ inundation rolled from the walls of Hadrianople to the
+ suburbs of Constantinople.","('Gothic', 'NORP'), ('Hadrianople', 'GPE'), ('Constantinople', 'GPE')"
+"The tribes of Scythia, distinguished by the modern
+ appellation of Hords, assume the form of a numerous and
+ increasing family, which, in the course of successive
+ generations, has been propagated from the same original
+ stock.","('Scythia', 'LOC'), ('Hords', 'PERSON')"
+"The troops of the Huns and the Alani
+ would naturally upbraid the flight of the Goths, who were
+ not disposed to use with moderation the advantages of their
+ fortune: the ancient jealousy of the Ostrogoths and the
+ Visigoths could not long be suspended; and the haughty
+ chiefs still remembered the insults and injuries which they
+ had reciprocally offered or sustained while the nation was
+ seated in the countries beyond the Danube.","('Huns', 'NORP'), ('Alani', 'NORP'), ('Goths', 'NORP'), ('Ostrogoths', 'NORP'), ('Visigoths', 'NORP'), ('Danube', 'LOC')"
+"The truth of history may disclaim some parts of this panegyric, which cannot strictly be reconciled with the character of Valens or the circumstances of the battle; but the fairest commendation is due to the eloquence, and still more to the generosity, of the sophist of Antioch. (95)","('Valens', 'PERSON'), ('Antioch', 'GPE'), ('95', 'CARDINAL')"
+"The undaunted general
+ had already formed a new and judicious plan of defensive
+ war; and the strong lines which he was preparing to
+ construct between the mountains, the Pruth, and the Danube,
+ would have secured the extensive and fertile territory that
+ bears the modern name of Wallachia from the destructive
+ inroads of the Huns. (60)","('Pruth', 'LOC'), ('Danube', 'LOC'), ('Wallachia', 'GPE'), ('Huns.', 'NORP'), ('60', 'CARDINAL')"
+"The vain reproaches of an ignorant 
+ multitude hastened the downfall of the Roman empire; they
+ provoked the desperate rashness of Valens, who did not find,
+ either in his reputation or in his mind, any motives to
+ support with firmness the public contempt.","('Roman', 'NORP'), ('Valens', 'PERSON')"
+"The valour of the Goths was so ably directed by the genius of Fritigern, that they broke, by a close and vigorous attack, the ranks of the Roman legions.","('Goths', 'NORP'), ('Fritigern', 'PRODUCT'), ('Roman', 'NORP')"
+The various tribes that peopled the air or the waters are still less connected with the fate of the human species; and it is highly probable that the fish of the Danube would have felt more terror and distress from the approach of a voracious pike than from the hostile inroad of a Gothic army.,"('Danube', 'LOC'), ('Gothic', 'NORP')"
+"The vehement Jerom (101) might justly deplore the calamities inflicted by the Goths and their barbarous allies on his native country of Pannonia, and the wide extent of the provinces from the walls of Constantinople, to the foot of the Julian Alps; the rapes, the massacres, the conflagrations, and, above all, the profanation of the churches that were turned into stables, and the contemptuous treatment of the relics of holy martyrs.","('Jerom', 'PERSON'), ('101', 'CARDINAL'), ('Goths', 'NORP'), ('Pannonia', 'LOC'), ('Constantinople', 'GPE'), ('the Julian Alps', 'LOC')"
+"The veteran troops were hastily recalled from the
+ defence of Armenia, that important frontier was abandoned to
+ the discretion of Sapor; and the immediate conduct of the
+ Gothic war was intrusted, during the absence of Valens, to
+ his lieutenants, Trajan and Profuturus, two generals who
+ indulged themselves in a very false and favourable opinion
+ of their own abilities.","('Armenia', 'GPE'), ('Sapor', 'PERSON'), ('the\r\n Gothic war', 'EVENT'), ('Valens', 'PERSON'), ('Trajan', 'PERSON'), ('Profuturus', 'PERSON'), ('two', 'CARDINAL')"
+"The victor,
+ enriched by the tribute and fortified by the arms of
+ dependent kings, has spread his conquests over Europe or
+ Asia; the successful shepherds of the North have submitted
+ to the confinement of arts, of laws, and of cities; and the
+ introduction of luxury, after destroying the freedom of the
+ people, has undermined the foundations of the throne.","('Europe', 'LOC'), ('Asia', 'LOC'), ('North', 'LOC')"
+"The vigour and patience both of the men and horses
+ are continually exercised by the fatigues of the chase, and
+ the plentiful supply of game contributes to the subsistence
+ and even luxury of a Tartar camp.","('Tartar', 'NORP')"
+"The vulgar gazed with
+ admiration on the manly beauty of his face and the graceful
+ majesty of his person, which they were pleased to compare
+ with the pictures and medals of the emperor Trajan; whilst
+ intelligent observers discovered, in the qualities of his
+ heart and understanding, a more important resemblance to the best and greatest of the Roman princes.","('Trajan', 'PERSON'), ('Roman', 'NORP')"
+"The weak and guilty Lupicinus, who had dared to provoke, who had neglected to destroy, and who still presumed to despise his formidable enemy, marched against the Goths, at the head of such a military force as could be collected on this sudden emergency.","('Lupicinus', 'PERSON'), ('Goths', 'NORP')"
+"The weight and velocity of those ships of war broke,
+ and sunk, and dispersed the rude and feeble canoes of the
+ barbarians: their valour was ineffectual; and Alatheus, the
+ king or general of the Ostrogoths, perished, with his
+ bravest troops, either by the sword of the Romans or in the
+ waves of the Danube.","('Alatheus', 'PERSON'), ('Ostrogoths', 'NORP'), ('Romans', 'NORP'), ('Danube', 'LOC')"
+"The white Huns, a name which they derived from the change of their complexions, soon abandoned the pastoral life of
+ Scythia.","('Huns', 'NORP'), ('Scythia', 'PERSON')"
+"The wines of a happier climate are the most
+ grateful present or the most valuable commodity that can be
+ offered to the Tartars; and the only example of their
+ industry seems to consist in the art of extracting from
+ mare's milk a fermented liquor which possesses a very strong
+ power of intoxication.","('Tartars', 'ORG')"
+"Their
+ humble prayers were rejected with insolence and derision,
+ and as their patience was now exhausted, the townsmen, the
+ soldiers, and the Goths were soon involved in a conflict of
+ passionate altercation and angry reproaches.","('Goths', 'NORP')"
+"Their camp was surrounded by the usual 
+ fortification of wagons; (80) and the barbarians, secure 
+ within the vast circle of the enclosure, enjoyed the fruits
+ of their valour and the spoils of the province.","('80', 'CARDINAL')"
+"Their companions flew to arms; and the faithful
+ champion of Rome would have been oppressed by superior
+ numbers if he had not been protected by the seasonable
+ interposition of the Imperial guards. (135)","('Rome', 'GPE'), ('Imperial', 'ORG'), ('135', 'CARDINAL')"
+Their conquests in Scythia.,"('Scythia', 'GPE')"
+"Their destructive course was pointed
+ towards the West; but we must be satisfied with a very
+ obscure and imperfect knowledge of their various adventures.","('West', 'LOC')"
+"Their emigrations, A.D. 100, etc.","('A.D. 100', 'DATE')"
+"Their flesh was
+ greedily devoured by the birds of prey, who in that age
+ enjoyed very frequent and delicious feasts; and, several
+ years afterwards, the white and naked bones which covered
+ the wide extent of the fields presented to the eyes of
+ Ammianus a dreadful monument of the battle of Salices.(82)
+Union of the Goths with the Huns, Alani etc.","('several\r\n years afterwards', 'DATE'), ('Ammianus', 'PERSON'), ('Salices', 'PERSON'), ('82', 'CARDINAL'), ('Goths', 'NORP'), ('Huns', 'NORP'), ('Alani', 'PERSON')"
+"Their general acknowledged his error, raised the siege, declared that ""he was at peace with stone walls,"" (75) and revenged his disappointment on the adjacent country.","('75', 'CARDINAL')"
+"Their independent spirit soon rejected the
+ hereditary succession of the Tanjous; and while each horde
+ was governed by its peculiar mursa, their tumultuary council
+ directed the public measures of the whole nation.","('Tanjous', 'NORP')"
+"Their luxury was maintained by the labour of the
+ Sogdians; and the only vestige of their ancient barbarism
+ was the custom which obliged all the companions, perhaps to
+ the number of twenty, who had shared the liberality of a
+ wealthy lord, to be buried alive in the same grave.(48)","('Sogdians', 'NORP'), ('twenty', 'CARDINAL')"
+"Their manners were softened, and even their features were
+ insensibly improved, by the mildness of the climate and
+ their long residence in a flourishing province,(46) which 
+ might still retain a faint impression of the arts of Greece.
+ (47)","('Greece', 'GPE'), ('47', 'CARDINAL')"
+"Their motions were strictly
+ observed by the vigilance of the troops which were stationed
+ along the river, and their foremost detachments were
+ defeated with considerable slaughter; yet such were the
+ timid councils of the reign of Valens, that the brave
+ officers who had served their country in the execution of
+ their duty were punished by the loss of their employments,
+ and narrowly escaped the loss of their heads.","('Valens', 'PERSON')"
+"Their native courage was
+ improved by the use of arms and the knowledge of discipline;
+ and, while the republic was guarded or threatened by the
+ doubtful sword of the barbarians, the last sparks of the
+ military flame were finally extinguished in the minds of the
+ Romans.(129)","('Romans', 'NORP'), ('129', 'CARDINAL')"
+"Their place is at present occupied by the
+ forty-nine Hordes or Banners of the Mongous, a pastoral
+ nation, which consists of about two hundred thousand
+ families.(28) But the valour of the Huns had extended the 
+ narrow limits of their dominions; and their rustic chiefs, who assumed the appellation of Tanjou, gradually became the conquerors and the sovereigns of a formidable empire.","('forty-nine', 'CARDINAL'), ('about two hundred thousand', 'CARDINAL'), ('Huns', 'NORP'), ('Tanjou', 'GPE')"
+"Their rude and
+ insolent behaviour expressed their contempt of the citizens
+ and provincials, whom they insulted with impunity.(133)","('133', 'CARDINAL')"
+"Their troops were recruited with the
+ fiercest warriors of Germany and Scythia; and the soldiers,
+ or at least the historians, of the empire no longer
+ recognised the name and countenances of their former
+ enemies.(124)","('Germany', 'GPE'), ('Scythia', 'NORP'), ('124', 'CARDINAL')"
+"Their victories over the Goths, A.D. 375.","('Goths', 'NORP'), ('375', 'CARDINAL')"
+"Their wars with the Chinese, ant.","('Chinese', 'NORP')"
+"Theodosius had the address to persuade his 
+ allies that the conditions of peace, which had been extorted
+ from him by prudence and necessity, were the voluntary
+ expressions of his sincere friendship for the Gothic nation.
+ (130)","('Theodosius', 'PERSON'), ('Gothic', 'NORP'), ('130', 'CARDINAL')"
+"Theodosius was invested with the purple in the
+ thirty-third year of his age.","('Theodosius', 'PERSON'), ('the\r\n thirty-third year', 'DATE')"
+"Theodosius, who was acquainted with the merit and power of his new ally, condescended to meet him at the distance of several miles from Constantinople; and entertained him in the Imperial city, with the confidence of a friend, and the magnificence of a monarch. (121)","('Theodosius', 'PERSON'), ('several miles', 'QUANTITY'), ('Constantinople', 'GPE'), ('Imperial city', 'GPE'), ('121', 'CARDINAL')"
+"There is some reason, however, to apprehend that
+ the same force which had driven them from their native seats
+ still continued to impel their march towards the frontiers
+ of Europe.","('Europe', 'LOC')"
+"These assurances were confirmed by the ambassadors of the
+ Goths, who impatiently expected from the mouth of Valens an
+ answer that must finally determine the fate of their unhappy
+ countrymen.","('Goths', 'NORP'), ('Valens', 'PERSON')"
+"These complaints were pronounced about twenty years after the death of Valens; and the Illyrian provinces, which were constantly exposed to the invasion and passage of the barbarians, still continued, after a calamitous period of ten centuries, to supply new materials for rapine and destruction.","('about twenty years', 'DATE'), ('Valens', 'PERSON'), ('Illyrian', 'NORP'), ('ten centuries', 'DATE')"
+"These healing and temperate measures
+ seemed to concur with the timorous disposition of the
+ sovereign of the East: but on this occasion alone Valens was
+ brave; and his unseasonable bravery was fatal to himself and
+ to his subjects.","('East', 'LOC'), ('Valens', 'PERSON')"
+"These savages of Scythia were compared (and the picture had
+ some resemblance) to the animals who walk very awkwardly on
+ two legs, and to the misshapen figures, the Termini, which
+ were often placed on the bridges of antiquity.","('Scythia', 'PERSON'), ('two', 'CARDINAL'), ('Termini', 'PRODUCT')"
+They are transported over the Danube into the Roman empire.,"('Danube', 'LOC'), ('Roman', 'NORP')"
+"They celebrated, with simple
+ credulity, the virtues of the pastoral life:(17) they 
+ entertained a more rational apprehension of the strength and
+ numbers of the warlike barbarians, (18) who contemptuously 
+ baffled the immense armament of Darius, the son of
+ Hystaspes. (19)","('17', 'CARDINAL'), ('18', 'CARDINAL'), ('Darius', 'PERSON'), ('Hystaspes', 'PERSON'), ('19', 'CARDINAL')"
+"They emerged from the 
+ obscurity of municipal honours by the active spirit of the
+ elder Theodosius, a general whose exploits in Britain and
+ Africa have formed one of the most splendid parts of the
+ annals of Valentinian.","('Theodosius', 'PERSON'), ('Britain', 'GPE'), ('Africa', 'LOC'), ('one', 'CARDINAL'), ('Valentinian', 'NORP')"
+"They excel in the
+ dexterous management of the lance; the long Tartar bow is
+ drawn with a nervous arm, and the weighty arrow is directed
+ to its object with unerring aim and irresistible force.","('Tartar', 'NORP')"
+"They listened with eager attention to the complaints of their captive children, who had suffered the most cruel indignities from the lustful or angry passions of their masters, and the same cruelties, the same indignities, were severely retaliated on the sons and daughters of the Romans.(78)
+Operations of the Gothic war.","('Romans', 'NORP'), ('78', 'CARDINAL'), ('the Gothic war', 'EVENT')"
+They penetrate into Thrace.,"('Thrace', 'LOC')"
+"They prepared to confine the Visigoths in the
+ narrow angle of land between the Danube, the desert of
+ Scythia, and the mountains of Haemus, till their strength
+ and spirit should be insensibly wasted by the inevitable
+ operation of famine.","('Visigoths', 'NORP'), ('Danube', 'LOC'), ('Scythia', 'LOC'), ('Haemus', 'GPE')"
+"They ravage the Roman provinces, A.D. 378,379.","('Roman', 'NORP'), ('378,379', 'CARDINAL')"
+"They recollected the preceding earthquakes, which had subverted the cities of Palestine and Bithynia; they considered these alarming strokes as the prelude only of still more dreadful calamities; and their fearful vanity was disposed to confound the symptoms of a declining empire and a sinking world.","('Palestine', 'GPE'), ('Bithynia', 'GPE')"
+"They required and they obtained the sole
+ possession of the villages and districts assigned for their
+ residence; they still cherished and propagated their native
+ manners and language; asserted, in the bosom of despotism,
+ the freedom of their domestic government; and acknowledged
+ the sovereignty of the emperor, without submitting to the
+ inferior jurisdiction of the laws and magistrates of Rome.","('Rome', 'GPE')"
+"They spread themselves at once over the face of the country;
+ and their rapid impetuosity surprised, astonished, and
+ disconcerted the grave and elaborate tactics of a Chinese
+ army.","('Chinese', 'NORP')"
+"They were encamped under the walls of Hadrianople: but the ministers of Valens were anxious to remove them beyond the Hellespont, at a distance from the dangerous temptation which might so easily be communicated by the neighbourhood and the success of their countrymen.","('Hadrianople', 'FAC'), ('Valens', 'PERSON'), ('Hellespont', 'PRODUCT')"
+"They were less deformed in their persons, less brutish
+ in their manners, than the Huns; but they did not yield to
+ those formidable barbarians in their martial and independent
+ spirit; in the love of freedom, which rejected even the use
+ of domestic slaves; and in the love of arms, which
+ considered war and rapine as the pleasure and the glory of
+ mankind.","('Huns', 'NORP')"
+"They were persuaded that, by
+ a bold attempt, they might surprise, in the silence and
+ darkness of the night, the sleeping army of the Romans; and
+ the whole multitude was hastily embarked in a fleet of three
+ thousand canoes.(125)","('the night', 'TIME'), ('Romans', 'NORP'), ('three\r\n thousand', 'CARDINAL'), ('125', 'CARDINAL')"
+"They were to easily convinced that,
+ while the blazing signal announced on every side the
+ approach of the Huns, the Chinese troops, who slept with the
+ helmet on their head, and the cuirass on their back, were
+ destroyed by the incessant labour of ineffectual marches.(35) 
+ A regular payment of money and silk was stipulated as the
+ condition of a temporary and precarious peace; and the
+ wretched expedient of disguising a real tribute under the
+ names of a gift or subsidy was practised by the emperors of
+ China as well as by those of Rome.","('Huns', 'NORP'), ('Chinese', 'NORP'), ('35', 'CARDINAL'), ('China', 'GPE'), ('Rome', 'GPE')"
+"This calamity, the report of which was magnified from one province to another, astonished and terrified the subjects of Rome, and their affrighted imagination enlarged the real extent of a momentary evil.","('one', 'CARDINAL'), ('Rome', 'GPE')"
+"This partial defeat was balanced, however, by partial
+ success; and when the two armies, at a late hour of the
+ evening, retreated to their respective camps, neither of
+ them could claim the honours of the effects of a decisive
+ victory.","('two', 'CARDINAL'), ('a late hour of the\r\n evening', 'TIME')"
+"Those crafty
+ ministers, who substituted the cunning of temporary
+ expedients to the wise and salutary counsels of general
+ policy, attempted to remove the Goths from their dangerous
+ station on the frontiers of the empire, and to disperse
+ them, in separate quarters of cantonment, through the
+ interior provinces.","('Goths', 'NORP')"
+"To 
+ the zeal and valour of the barbarians Theodosius was
+ indebted for the success of his arms: but their assistance
+ was precarious; and they were sometimes seduced, by a
+ treacherous and inconstant disposition, to abandon his
+ standard at the moment when their service was the most
+ essential.","('Theodosius', 'PERSON')"
+"To employ against a human enemy the
+ same patience and valour, the same skill and discipline, is
+ the only alteration which is required in real war, and the
+ amusements of the chase serve as a prelude to the conquest
+ of an empire.(12)
+Government.","('12', 'CARDINAL')"
+"To illustrate this observation, I
+ shall now proceed to consider a nation of shepherds and of
+ warriors in the three important articles of,The narratives of antiquity are justified by the experience of modern times;(7) and the banks of the Borysthenes, of the Volga, or of the Selinga will indifferently present the same uniform spectacle of similar and native manners.(8)
+Diet.","('three', 'CARDINAL'), ('7', 'CARDINAL'), ('Borysthenes', 'NORP'), ('Volga', 'LOC'), ('Selinga', 'ORG'), ('8', 'CARDINAL')"
+"To obtain the valuable acquisition
+ of a pound of bread, the Goths resigned the possession of an
+ expensive though serviceable slave, and a small quantity of
+ meat was greedily purchased with ten pounds of a precious
+ but useless metal. (69)","('Goths', 'NORP'), ('ten pounds', 'QUANTITY')"
+"To these real terrors they added the surprise and
+ abhorrence which were excited by the shrill voice, the
+ uncouth gestures, and the strange deformity of the Huns.","('Huns', 'NORP')"
+"Towards the east their victorious arms were stopped only by
+ the ocean; and the tribes, which are thinly scattered
+ between the Amoor and the extreme peninsula of Corea,
+ adhered with reluctance to the standard of the Huns.","('Amoor', 'LOC'), ('Corea', 'LOC'), ('Huns', 'NORP')"
+"Towards the north they penetrated into the frozen
+ regions of Siberia, among the savages who were accustomed,
+ in their rage or hunger, to the taste of human flesh; and
+ their southern inroads were pushed as far as the confines of
+ Persia and India.","('Siberia', 'LOC'), ('Persia', 'GPE'), ('India', 'GPE')"
+"Two distinct and regular taxes are levied on the tribes to
+ support the dignity of their national monarch and of their
+ peculiar chief, and each of those contributions amounts to
+ the tithe both of their property and of their spoil.","('Two', 'CARDINAL')"
+"Two master-generals of the cavalry and infantry, two great officers of the palace, and thirty-five tribunes, were found among the slain; and the death of Sebastian might satisfy the world that he was the victim as well as the author of the public calamity.","('Two', 'CARDINAL'), ('two', 'CARDINAL'), ('thirty-five', 'CARDINAL'), ('Sebastian', 'PERSON')"
+"Under the command of Fritigern and Alavivus,(61) the 
+ body of the nation hastily advanced to the banks of the
+ great river and implored the protection of the Roman emperor
+ of the East.","('Fritigern', 'PRODUCT'), ('Alavivus', 'ORG'), ('61', 'CARDINAL'), ('Roman', 'NORP'), ('East', 'LOC')"
+"Under the name of Judges, Alavivus and Fritigern were the
+ leaders of the Visigoths in peace and war; and the authority
+ which they derived from their birth was ratified by the free
+ consent of the nation.","('Alavivus', 'PERSON'), ('Fritigern', 'PERSON'), ('Visigoths', 'NORP')"
+"Under the standard of such a 
+ leader, young Theodosius sought glory and knowledge in the
+ most distant scenes of military action; inured his
+ constitution to the difference of seasons and climates;
+ distinguished his valour by sea and land; and observed the
+ various warfare of the Scots, the Saxons, and the Moors.","('Theodosius', 'PERSON'), ('Scots', 'NORP'), ('Saxons', 'NORP'), ('Moors', 'LOC')"
+"Valens perished in the flames; and a youth, who dropped from the window, alone escaped, to attest the melancholy tale and to inform the Goths of the inestimable prize which they had lost by their own rashness.","('Valens', 'PERSON'), ('Goths', 'NORP')"
+"What confidence must
+ have been reposed in his integrity, since Gratian could
+ trust that a pious son would forgive, for the sake of the
+ republic, the murder of his father!","('Gratian', 'PERSON')"
+"What expectations must
+ have been formed of his abilities, to encourage the hope
+ that a single man could save, and restore, the empire of the
+ East!","('East', 'LOC')"
+"Whatever may have been the just measure of the calamities of
+ Europe, there was reason to fear that the same calamities
+ would soon extend to the peaceful countries of Asia.","('Europe', 'LOC'), ('Asia', 'LOC')"
+"When that important
+ proposition, so essentially connected with the public
+ safety, was referred to the ministers of Valens, they were
+ perplexed and divided; but they soon acquiesced in the
+ flattering sentiment which seemed the most favourable to the
+ pride, the indolence, and the avarice of their sovereign.","('Valens', 'PERSON')"
+"When the forage round a camp of
+ Tartars is almost consumed, they slaughter the greatest part
+ of their cattle, and preserve the flesh, either smoked or
+ dried in the sun.","('Tartars', 'LOC')"
+"When the legions climbed the mountains and scaled the
+ fortifications of the barbarians, the valour of Gratian was
+ distinguished in the foremost ranks: and the gilt and
+ variegated armour of his guards was pierced and shattered by
+ the blows which they had received in their constant
+ attachment to the person of their sovereign.","('Gratian', 'PERSON')"
+"When their property was exhausted, 
+ they continued this necessary traffic by the sale of their
+ sons and daughters; and notwithstanding the love of freedom
+ which animated every Gothic breast, they submitted to the
+ humiliating maxim that it was better for their children to
+ be maintained in a servile condition than to perish in a
+ state of wretched and helpless independence.","('Gothic', 'NORP')"
+"While Gratian deserved and enjoyed the applause of his
+ subjects, the emperor Valens, who at length had removed his
+ court and army from Antioch, was received by the people of
+ Constantinople as the author of the public calamity.","('Gratian', 'PERSON'), ('Valens', 'PERSON'), ('Antioch', 'GPE'), ('Constantinople', 'GPE')"
+"While some acknowledged themselves
+ the allies or vassals of the empire, they all became the
+ implacable enemies of the Huns: and the numbers of that
+ haughty people, as soon as they were reduced to their native
+ strength, might perhaps have been contained within the walls
+ of one of the great and populous cities of China.(39)","('Huns', 'NORP'), ('one', 'CARDINAL'), ('China', 'GPE'), ('39', 'CARDINAL')"
+"While the Judge of the
+ Visigoths defended the banks of the Dniester he was
+ encompassed and attacked by a numerous detachment of
+ cavalry, who, by the light of the moon, had passed the river
+ in a fordable place; and it was not without the utmost
+ efforts of courage and conduct that he was able to effect
+ his retreat towards the hilly country.","('Visigoths', 'PERSON'), ('Dniester', 'PERSON')"
+"While the trumpets sounded to arms, the undaunted
+ courage of the Goths was confirmed by the mutual obligation
+ of a solemn oath; and, as they advanced to meet the enemy,
+ the rude songs which celebrated the glory of their
+ forefathers were mingled with their fierce and dissonant
+ outcries, and opposed to the artificial harmony of the Roman
+ shout.","('Goths', 'NORP'), ('Roman', 'NORP')"
+"While they gazed with
+ hopeless desire on the inaccessible beauties of
+ Constantinople, a sally was made from one of the gates by a
+ party of Saracens, (96) who had been fortunately engaged in 
+ the service of Valens.","('Constantinople', 'GPE'), ('one', 'CARDINAL'), ('Saracens', 'NORP'), ('96', 'CARDINAL'), ('Valens', 'PERSON')"
+"With outstretched arms
+ and pathetic lamentations they loudly deplored their past
+ misfortunes and their present danger; acknowledged that
+ their only hope of safety was in the clemency of the Roman
+ government; and most solemnly protested that, if the
+ gracious liberality of the emperor would permit them to
+ cultivate the waste lands of Thrace, they should ever hold
+ themselves bound, by the strongest obligations of duty and
+ gratitude, to obey the laws and to guard the limits of the
+ republic.","('Roman', 'NORP'), ('Thrace', 'LOC')"
+"Without
+ enemies to resist their progress, or witnesses to contradict
+ their vanity, they might securely achieve a real, or
+ imaginary, conquest of the frozen regions of Siberia.","('Siberia', 'LOC')"
+"Yet I may boldly pronounce that the
+ battle of Hadrianople was never revenged by any signal or
+ decisive victory of Theodosius over the barbarians; and the
+ expressive silence of his venal orators may be confirmed by
+ the observation of the condition and circumstances of the
+ times.","('Hadrianople', 'PERSON'), ('Theodosius', 'PERSON')"
+"Yet this signal
+ victory, which was preceded and followed by many bloody
+ engagements, contributed much less to the destruction of the
+ power of the Huns, Ant. Christ 70.","('Huns', 'NORP'), ('70.', 'CARDINAL')"
+"Yet, if it be 
+ true that the sentiment of compassion is imperceptibly
+ weakened by the sight and practice of domestic cruelty, we
+ may observe that the horrid objects which are disguised by
+ the arts of European refinement are exhibited in their naked
+ and most disgusting simplicity in the tent of a Tartarian
+ shepherd.","('European', 'NORP'), ('Tartarian', 'NORP')"
+"whose death happened towards the end of the preceding year; and as the
+ distressful situation of the Goths required an instant and
+ peremptory decision, he was deprived of the favourite
+ resource of feeble and timid minds, who consider the use of
+ the dilatory and ambiguous measures as the most admirable
+ efforts of consummate prudence.","('the end of the preceding year', 'DATE'), ('Goths', 'NORP')"

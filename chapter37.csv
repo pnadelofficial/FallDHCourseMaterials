@@ -1,0 +1,1096 @@
+Sentence,Entities
+(110),"('110', 'CARDINAL')"
+(116),"('116', 'CARDINAL')"
+(118),"('118', 'CARDINAL')"
+(13),"('13', 'CARDINAL')"
+(14),"('14', 'CARDINAL')"
+(31),"('31', 'CARDINAL')"
+(35),"('35', 'CARDINAL')"
+(38),"('38', 'CARDINAL')"
+(42),"('42', 'CARDINAL')"
+(43),"('43', 'CARDINAL')"
+(44),"('44', 'CARDINAL')"
+(51),"('51', 'CARDINAL')"
+(55),"('55', 'CARDINAL')"
+(6),"('6', 'CARDINAL')"
+"A blind submission to 
+ the commands of the abbot, however absurd, or even criminal,
+ they might seem, was the ruling principle, the first virtue
+ of the Egyptian monks; and their patience was frequently
+ exercised by the most extravagant trials.","('first', 'ORDINAL'), ('Egyptian', 'NORP')"
+"A cruel, unfeeling
+ temper has distinguished the monks of every age and country:
+ their stern indifference, which is seldom mollified by
+ personal friendship, is inflamed by religious hatred; and
+ their merciless zeal has strenuously administered the holy
+ office of the Inquisition.","('Inquisition', 'ORG')"
+A general view of the persecution in Africa.,"('Africa', 'LOC')"
+"A great number of Roman provincials had been led
+ away into captivity by the Gothic bands who ravaged Asia in
+ the time of Gallienus; and of these captives many were
+ Christians, and several belonged to the ecclesiastical
+ order.","('Roman', 'NORP'), ('Gothic', 'NORP'), ('Asia', 'LOC'), ('Gallienus', 'GPE'), ('Christians', 'NORP')"
+"A military count was
+ despatched from Carthage to Tipasa: he collected the
+ catholics in the Forum, and, in the presence of the whole
+ province, deprived the guilty of their right hands and their
+ tongues.","('Carthage', 'GPE'), ('Tipasa', 'GPE'), ('Forum', 'ORG')"
+"A more ample latitude of sea and river fish was 
+ gradually allowed or assumed; but the use of flesh was long
+ confined to the sick or travellers: and when it gradually
+ prevailed in the less rigid monasteries of Europe, a
+ singular distinction was introduced; as if birds, whether
+ wild or domestic, had been less profane than the grosser
+ animals of the field.","('Europe', 'LOC')"
+"A nation, the secret or professed
+ enemies of Christianity, still multiplied in servitude and
+ distress; and the intrigues of the Jews promoted the rapid
+ success of the Arabian conquerors. (140)
+Conclusion.","('Christianity', 'NORP'), ('Jews', 'NORP'), ('Arabian', 'NORP'), ('140', 'CARDINAL')"
+"A new mode of conversion, which might subdue the feeble and alarm the timorous, was employed by the Arian ministers.","('Arian', 'NORP')"
+"A patriarch (107) might seat himself on the throne of Carthage; some bishops, in the principal cities, might usurp the place of their rivals; but the smallness of their numbers, and their ignorance of the Latin language, (108) disqualified the barbarians for the ecclesiastical ministry of a great church; and the Africans, after the loss of their orthodox pastors, were deprived of the public exercise of Christianity.","('107', 'DATE'), ('Carthage', 'GPE'), ('Latin', 'LANGUAGE'), ('108', 'CARDINAL'), ('Africans', 'NORP'), ('Christianity', 'NORP')"
+"A superstitious age was
+ prepared to reverence, as the testimony of Heaven, the
+ preternatural cures which were performed by the skill or
+ virtue of the catholic clergy; the baptismal fonts of Osset
+ in Baetica (130) which were spontaneously replenished each 
+ year on the vigil of Easter; (131) and the miraculous shrine 
+ of St. Martin of Tours, which had already converted the
+ Suevic prince and people of Gallicia. (132)","('Osset\r\n in Baetica', 'WORK_OF_ART'), ('130', 'CARDINAL'), ('Easter', 'DATE'), ('131', 'CARDINAL'), ('St. Martin of Tours', 'FAC'), ('Suevic', 'NORP'), ('Gallicia', 'NORP'), ('132', 'CARDINAL')"
+"A venerable train of bishops, presbyters, and deacons, with a faithful crowd of four thousand and ninety-six persons, whose guilt is not precisely ascertained, were torn from their native homes by the command of Hunneric.","('four thousand and ninety-six', 'CARDINAL'), ('Hunneric', 'ORG')"
+"A waggon, bearing aloft the shapeless image of
+ Thor, perhaps, or of Woden, was conducted in solemn
+ procession through the streets of the camp, and the rebels
+ who refused to worship the god of their fathers were
+ immediately burnt with their tents and families.","('Thor', 'PERSON'), ('Woden', 'PERSON')"
+A.D. 251-356.,"('251-356', 'CARDINAL')"
+"According to their faith and zeal, they might employ the
+ day, which they passed in their cells, either in vocal or
+ mental prayer: they assembled in the evening, and they were
+ awakened in the night, for the public worship of the
+ monastery.","('the\r\n day', 'DATE')"
+"Aeneas of Gaza, a Platonic philosopher, has accurately described his own observations on these African sufferers.","('Aeneas', 'PERSON'), ('Gaza', 'GPE'), ('Platonic', 'NORP'), ('African', 'NORP')"
+"After a long and
+ painful novitiate, in which Simeon was repeatedly saved from
+ pious suicide, he established his residence on a mountain,
+ about thirty or forty miles to the east of Antioch.","('Simeon', 'PERSON'), ('about thirty or forty miles', 'QUANTITY'), ('Antioch', 'GPE')"
+"After a long and painful novitiate among the
+ tombs and in a ruined tower, he boldly advanced into the
+ desert three days' journey to the eastward of the Nile;
+ discovered a lonely spot, which possessed the advantages of
+ shade and water; and fixed his last residence on Mount
+ Colzim, near the Red Sea, where an ancient monastery still
+ preserves the name and memory of the saint. (10)","(""three days'"", 'DATE'), ('Nile', 'LOC'), ('Mount\r\n Colzim', 'LOC'), ('the Red Sea', 'LOC')"
+"After the 
+ invention of printing, (119) the editors of the Greek 
+ Testament yielded to their own prejudices, or those of the
+ times; (120) and the pious fraud, which was embraced with 
+ equal zeal at Rome and at Geneva, has been infinitely
+ multiplied in every country and every language of modern
+ Europe.","('119', 'CARDINAL'), ('the Greek \r\n Testament', 'ORG'), ('120', 'CARDINAL'), ('Rome', 'GPE'), ('Geneva', 'GPE'), ('Europe', 'LOC')"
+"Among these heroes of the monastic life, the name and genius
+ of Simeon Stylites (70) have been immortalised by the singular 
+ invention of an aerial penance.","('Simeon Stylites', 'PERSON'), ('70', 'CARDINAL')"
+"An allegorical 
+ interpretation, in the form perhaps of a marginal note,
+ invaded the text of the Latin Bibles which were renewed and
+ corrected in a dark period of ten centuries.","('Latin', 'LANGUAGE'), ('ten centuries', 'DATE')"
+"An easy and perpetual intercourse by sea and land connected the provinces of the Roman world; and the life of Hilarion displays the facility with which an indigent hermit of Palestine might traverse Egypt, embark for Sicily, escape to Epirus, and finally settle in the island of Cyprus. (20)","('Roman', 'NORP'), ('Hilarion', 'GPE'), ('Palestine', 'GPE'), ('Egypt', 'GPE'), ('Sicily', 'GPE'), ('Epirus', 'GPE'), ('Cyprus', 'GPE'), ('20', 'CARDINAL')"
+"An oath was required from the bishops who were assembled at Carthage, that they would support the succession of his son Hilderic, and that they would renounce all foreign or transmarine correspondence.","('Carthage', 'GPE'), ('Hilderic', 'PERSON')"
+"Anthony and the monks of Egypt, A.D. 305.","('Anthony', 'PERSON'), ('Egypt', 'GPE'), ('A.D. 305', 'DATE')"
+"Antony, (7) an illiterate 
+ (8) youth of the lower parts of Thebais, distributed his 
+ patrimony, (9) deserted his family and native home, and 
+ executed his monastic penance with original and intrepid
+ fanaticism.","('Antony', 'PERSON'), ('7', 'CARDINAL'), ('8', 'CARDINAL'), ('Thebais', 'GPE')"
+Arian persecution of the Vandals.,"('Arian', 'NORP'), ('Vandals', 'PRODUCT')"
+"As soon as the barbarians withdrew their powerful support,
+ the unpopular heresy of Arius sunk into contempt and
+ oblivion.","('Arius', 'PERSON')"
+"At Constantinople we are astonished to find a cool, a learned, and unexceptionable witness, without interest, and without passion.","('Constantinople', 'GPE')"
+"At the age of thirteen the
+ young Syrian deserted the profession of a shepherd, and
+ threw himself into an austere monastery.","('the age of thirteen', 'DATE'), ('Syrian', 'NORP')"
+"At the command of Hunneric, four hundred and sixty-six orthodox bishops assembled at Carthage; but when they were admitted into the hall of audience, they had the mortification of beholding the Arian Cyrila, exalted on the patriarchal throne.","('Hunneric', 'GPE'), ('four hundred and sixty-six', 'CARDINAL'), ('Carthage', 'ORG'), ('the Arian Cyrila', 'PERSON')"
+"Athanasius introduced into Rome the knowledge and practice
+ of the monastic life; and a school of this new philosophy
+ was opened by the disciples of Antony, who accompanied their
+ primate to the holy threshold of the Vatican.","('Athanasius', 'PERSON'), ('Rome', 'GPE'), ('Antony', 'PERSON'), ('Vatican', 'FAC')"
+"Basil in Pontus, A.D. 360.","('Basil', 'PERSON'), ('Pontus', 'GPE'), ('360', 'CARDINAL')"
+"Before the age of Charlemagne, the Christian nations of Europe might exult in the exclusive possession of the temperate climates, of the fertile lands which produced corn, wine, and oil; while the savage idolaters and their helpless idols were confined to the extremities of the earth, the dark and frozen regions of the North. (82)","('Charlemagne', 'PERSON'), ('Christian', 'NORP'), ('Europe', 'LOC'), ('North', 'LOC')"
+Bigotry was his last sentiment in the hour of death; and he exacted from his successor a solemn oath that he would never tolerate the sectaries of Athanasius.,"('the hour', 'TIME'), ('Athanasius', 'PERSON')"
+"But Hunneric, his inglorious son, who seemed to inherit only his vices, tormented the Catholics with the
+ same unrelenting fury which had been fatal to his brother,
+ his nephews, and the friends and favourites of his father;
+ and even to the Arian patriarch, who was inhumanly burnt
+ alive in the midst of Carthage.","('Hunneric', 'PERSON'), ('Catholics', 'NORP'), ('Arian', 'NORP'), ('Carthage', 'GPE')"
+"But Recared disarmed the conspirators, defeated the rebels,
+ and executed severe justice, which the Arians, in their
+ turn, might brand with the reproach of persecution.","('Recared', 'PERSON'), ('Arians', 'NORP')"
+"But every age of the church has accused the
+ licentiousness of the degenerate monks; who no longer
+ remembered the object of their institution, embraced the
+ vain and sensual pleasures of the world which they had
+ renounced, (56) and scandalously abused the riches which had 
+ been acquired by the austere virtues of their founders. (57)","('57', 'CARDINAL')"
+"But his successor, Hilderic, the gentle son of the savage Hunneric, preferred the duties of humanity and justice to the vain obligation of an impious oath; and his accession was gloriously marked by the restoration of peace
+ and universal freedom.","('Hilderic', 'PERSON'), ('Hunneric', 'PERSON')"
+"But no sooner had they 
+ established their spiritual dominion than they exhorted the
+ Christian kings to extirpate, without mercy, the remains of
+ Roman or barbaric superstition.","('Christian', 'NORP'), ('Roman', 'NORP')"
+"But the East was
+ distracted by the Nestorian and Eutychian controversies,
+ which attempted to explain the mystery of the incarnation,
+ and hastened the ruin of Christianity in her native land.","('East', 'LOC'), ('Nestorian', 'NORP'), ('Eutychian', 'NORP'), ('Christianity', 'NORP')"
+"But the Greeks still retained their subtle and
+ loquacious disposition: the establishment of an obscure
+ doctrine suggested new questions and new disputes; and it
+ was always in the power of an ambitious prelate or a fanatic
+ monk to violate the peace of the church, and perhaps of the
+ empire.","('Greeks', 'NORP')"
+"But the cause of
+ Arianism was gradually suppressed by the weight of truth, of
+ interest, and of example; and the controversy, which Egypt
+ had derived from the Platonic school, was terminated, after
+ a war of three hundred years, by the final conversion of the
+ Lombards of Italy. (135)
+Persecution of the Jews in Spain, A.D. 612-712..","('Arianism', 'NORP'), ('Egypt', 'GPE'), ('Platonic', 'NORP'), ('three hundred years', 'DATE'), ('Lombards', 'NORP'), ('Italy', 'GPE'), ('135', 'CARDINAL'), ('Jews', 'NORP'), ('Spain', 'GPE'), ('A.D. 612-712', 'DATE')"
+"But the cruel and 
+ absurd enterprise of subduing the minds of a whole people
+ was undertaken by the Vandals alone.","('Vandals', 'ORG')"
+"But the direct authority of religion was less
+ effectual than the holy communion, which united them with
+ their Christian brethren in spiritual friendship.","('Christian', 'NORP')"
+"But the golden legend of their lives (73) was 
+ embellished by the artful credulity of their interested
+ brethren; and a believing age was easily persuaded that the
+ slightest caprice of an Egyptian or a Syrian monk had been
+ sufficient to interrupt the eternal laws of the universe.","('73', 'DATE'), ('Egyptian', 'NORP'), ('Syrian', 'NORP')"
+"But the holy confessors continued to speak without
+ tongues; and this miracle is attested by Victor, an African
+ bishop, who published an history of the persecution within
+ two years after the event. (123)","('Victor', 'PERSON'), ('African', 'NORP'), ('two years', 'DATE'), ('123', 'CARDINAL')"
+"But the hopes of the catholics were crushed by the active
+ diligence of a monarch who commanded the troops and
+ treasures of Spain; and the guilty Hermenegild after his
+ vain attempts to resist or to escape, was compelled to
+ surrender himself into the hands of an incensed father.","('Spain', 'GPE'), ('Hermenegild', 'PERSON')"
+"But the more humble industry of the 
+ monks, especially in Egypt, was contented with the silent,
+ sedentary occupation of making wooden sandals, or of
+ twisting the leaves of the palm-tree into mats and baskets.","('Egypt', 'GPE')"
+"But the prosperous state of the Gothic 
+ church was soon afflicted by war and intestine discord, and
+ the chieftains were divided by religion as well as by
+ interest.","('Gothic', 'NORP')"
+"But the punishment 
+ and the crime were gradually abolished among a Christian
+ people; the theological disputes of the schools were
+ suspended by propitious ignorance; and the intolerant spirit
+ which could find neither idolaters nor heretics, was reduced
+ to the persecution of the Jews.","('Christian', 'NORP'), ('Jews', 'NORP')"
+"But the rational and
+ ingenious mode of persuasion which a Saxon bishop (81) 
+ suggested to a popular saint might sometimes be employed by
+ the missionaries who laboured for the conversion of
+ infidels.","('Saxon', 'NORP'), ('81', 'CARDINAL')"
+"But the stubborn mind of an infidel is guarded by secret, incurable suspicion; and the Arian, or Socinian, who has seriously rejected the doctrine of the Trinity, will not be shaken by the most plausible evidence of an Athanasian miracle.","('Arian', 'NORP'), ('Socinian', 'NORP'), ('Trinity', 'ORG'), ('Athanasian', 'NORP')"
+"But the votaries of
+ this Divine Philosophy aspired to imitate a purer and more
+ perfect model.","('this Divine Philosophy', 'ORG')"
+But this decent regard was of short duration; and the haughty tyrant displayed his contempt for the religion of the empire by studiously arranging the bloody images of persecution in all the principal streets through which the Roman ambassador must pass in his way to the palace.,"('Roman', 'NORP')"
+"By the
+ advice, and in the company, of her spiritual guide, Paula
+ abandoned Rome and her infant son; retired to the holy
+ village of Bethlem; founded an hospital and four monasteries
+ and acquired, by her alms and penance, an eminent and
+ conspicuous station in the Catholic church.","('Paula', 'PERSON'), ('Rome', 'GPE'), ('Bethlem', 'GPE'), ('four', 'CARDINAL'), ('Catholic', 'NORP')"
+"By these arts the faith of the barbarians was preserved, and their zeal was inflamed: they discharged with devout fury the office of spies, informers, or executioners and whenever their cavalry took the field, it was the favourite amusement of the march to defile the churches and to insult the clergy of the adverse faction.(100) IV.","('100', 'CARDINAL')"
+Catholic frauds.,"('Catholic', 'NORP')"
+"Christianity, which opened the gates of Heaven to the
+ barbarians, introduced an important change in their moral
+ and political condition.","('Christianity', 'NORP')"
+"Conversion of Recared and the Visigoths of Spain, A.D. 586-589.","('Spain', 'GPE'), ('586-589', 'CARDINAL')"
+Conversion of the Barbarians to Christianity and Arianism.—,"('Barbarians', 'NORP'), ('Christianity', 'NORP'), ('Arianism', 'NORP')"
+"During an interval of peace and friendship Homeric restored the cathedral of Carthage, at the intercession of Zeno, who reigned in the East, and of Placidia, the daughter and relict of emperors and the sister of the queen of the Vandals. (109)","('Homeric', 'PERSON'), ('Carthage', 'GPE'), ('Zeno', 'PERSON'), ('East', 'LOC'), ('Placidia', 'LOC'), ('Vandals', 'NORP'), ('109', 'CARDINAL')"
+"During the night they were confined, like a herd of cattle, amidst their own ordure: during the day they pursued their march over the burning sands; and if they fainted under the heat and fatigue, they were goaded or dragged along till they expired in the hands of their tormentors. (101)","('the night', 'TIME'), ('101', 'CARDINAL')"
+"During the same period Christianity was 
+ embraced by almost all the barbarians who established their
+ kingdoms on the ruins of the Western empire; the Burgundians
+ in Gaul, the Suevi in Spain, the Vandals in Africa, the
+ Ostrogoths in Pannonia, and the various bands of mercenaries
+ that raised Odoacer to the throne of Italy.","('Christianity', 'NORP'), ('Western', 'NORP'), ('Burgundians', 'NORP'), ('Gaul', 'LOC'), ('Suevi', 'LOC'), ('Spain', 'GPE'), ('Vandals', 'NORP'), ('Africa', 'LOC'), ('Ostrogoths', 'NORP'), ('Pannonia', 'GPE'), ('Odoacer', 'PERSON'), ('Italy', 'GPE')"
+"Egypt, the fruitful parent of superstition, afforded the
+ first example of the monastic life.","('Egypt', 'GPE'), ('first', 'ORDINAL')"
+"Eight
+ bishops, whose names betray their barbaric origin, abjured
+ their errors; and all the books of Arian theology were
+ reduced to ashes, with the house in which they had been
+ purposely collected.","('Eight', 'CARDINAL'), ('Arian', 'NORP')"
+"England produced the
+ apostle of Germany; and the evangelic light was gradually
+ diffused from the neighbourhood of the Rhine to the nations
+ of the Elbe, the Vistula, and the Baltic. (79)","('England', 'GPE'), ('Germany', 'GPE'), ('Rhine', 'LOC'), ('Elbe', 'LOC'), ('Vistula', 'FAC'), ('Baltic', 'LOC')"
+"Even sleep, 
+ the last refuge of the unhappy, was rigorously measured: the
+ vacant hours of the monk heavily rolled along, without
+ business or pleasure; and, before the close of each day, he
+ had repeatedly accused the tedious progress of the sun. (61)","('61', 'CARDINAL')"
+"Even the Scriptures themselves were profaned by 
+ their rash and sacrilegious hands.","('Scriptures', 'WORK_OF_ART')"
+"Every province, and, at last, every city, of the empire was filled with their increasing multitudes; and the bleak and barren isles, from Lerins to Lipari, that arise out of the Tuscan Sea, were chosen by the anachorets for the place of their voluntary exile.","('Lerins', 'GPE'), ('Lipari', 'GPE'), ('the Tuscan Sea', 'LOC')"
+Extinction of Arianism among the Barbarians.,"('Barbarians', 'NORP')"
+"Fritigern, the friend of the Romans, became the
+ proselyte of Ulphilas; while the haughty soul of Athanaric
+ disdained the yoke of the empire and of the Gospel.","('Fritigern', 'PERSON'), ('Romans', 'NORP'), ('Ulphilas', 'LOC'), ('Athanaric', 'PERSON')"
+"From the painful struggles of disease and
+ despair, these unhappy victims were sometimes relieved by
+ madness or death; and, in the sixth century, a hospital was
+ founded at Jerusalem for a small portion of the austere
+ penitents who were deprived of their senses. (63)","('the sixth century', 'DATE'), ('Jerusalem', 'GPE')"
+"Gelimer, A.D. 530.","('Gelimer', 'PERSON'), ('A.D. 530', 'DATE')"
+"Genseric himself, in his early youth, had renounced the orthodox communion; and the apostate could neither grant nor expect a sincere forgiveness.","('Genseric', 'PERSON')"
+"Genseric, A.D. 429-477.","('Genseric', 'ORG'), ('429-477', 'CARDINAL')"
+"Gundamund appeared to emulate, or even to surpass,
+ the cruelty of his uncle; and if at length he relented, if
+ he recalled the bishops, and restored the freedom of
+ Athanasian worship, a premature death intercepted the
+ benefits of his tardy clemency.","('Gundamund', 'PERSON'), ('Athanasian', 'NORP')"
+"He enjoyed the friendship of Athanasius, whose doctrine he
+ approved; and the Egyptian peasant respectfully declined a
+ respectful invitation from the emperor Constantine.","('Athanasius', 'PERSON'), ('Egyptian', 'NORP'), ('Constantine', 'PERSON')"
+"He executed the arduous task of
+ translating the Scriptures into their native tongue, a
+ dialect of the German or Teutonic language; but he prudently
+ suppressed the four books of Kings, as they might tend to
+ irritate the fierce and sanguinary spirit of the barbarians.","('Scriptures', 'WORK_OF_ART'), ('German', 'LANGUAGE'), ('Teutonic', 'NORP'), ('four', 'CARDINAL'), ('Kings', 'WORK_OF_ART')"
+"He invited the orthodox
+ barbarians, the Suevi, and the Franks, to the destruction of
+ his native land: he solicited the dangerous aid of the
+ Romans, who possessed Africa and a part of the Spanish
+ coast; and his holy ambassador, the archbishop Leander,
+ effectually negotiated in person with the Byzantine court.","('Suevi', 'NORP'), ('Franks', 'NORP'), ('Romans', 'NORP'), ('Africa', 'LOC'), ('Spanish', 'NORP'), ('Leander', 'PERSON'), ('Byzantine', 'NORP')"
+"He sometimes prayed in an
+ erect attitude, with his outstretched arms in the figure of
+ a cross; but his most familiar practice was that of bending
+ his meagre skeleton from the forehead to the feet; and a
+ curious spectator, after numbering twelve hundred and
+ forty-four repetitions, at length desisted from the endless
+ account.","('twelve hundred and\r\n forty-four', 'CARDINAL')"
+"He was exasperated to find that the Africans, who had fled before him in the field, still presumed to dispute his will in synods and churches; and his ferocious mind was incapable of fear or of compassion.","('Africans', 'NORP')"
+"Her devout labours still left room for the industry and
+ success of future missionaries, and many cities of Italy
+ were still disputed by hostile bishops.","('Italy', 'GPE')"
+"Her tender
+ complaints, and the weighty arguments of Leander, archbishop
+ of Seville, accomplished his conversion; and the heir of the
+ Gothic monarchy was initiated in the Nicene faith by the
+ solemn rites of confirmation. (129)","('Leander', 'PERSON'), ('Seville', 'GPE'), ('Gothic', 'NORP'), ('Nicene', 'NORP'), ('129', 'CARDINAL')"
+"Hilderic, A.D. 523.","('Hilderic', 'ORG'), ('A.D. 523', 'DATE')"
+"His brother, Thrasimund, was
+ the greatest and most accomplished of the Vandal kings, whom
+ he excelled in beauty, prudence, and magnanimity of soul.","('Thrasimund', 'PERSON'), ('Vandal', 'PERSON')"
+"His eldest son Hermenegild, who was invested by his
+ father with the royal diadem and the fair principality of
+ Baetica, contracted an honourable and orthodox alliance with
+ a Merovingian princess, the daughter of Sigebert, king of
+ Austrasia, and of the famous Brunechild.","('Hermenegild', 'PERSON'), ('Baetica', 'GPE'), ('Merovingian', 'NORP'), ('Sigebert', 'PERSON'), ('Austrasia', 'NORP'), ('Brunechild', 'PERSON')"
+"His remains were transported from the
+ mountain of Telenissa, by a solemn procession of the
+ patriarch, the master-general of the East, six bishops,
+ twenty-one counts or tribunes, and six thousand soldiers;
+ and Antioch revered his bones as her glorious ornament and
+ impregnable defence.","('Telenissa', 'GPE'), ('East', 'LOC'), ('six', 'CARDINAL'), ('twenty-one', 'CARDINAL'), ('six thousand', 'CARDINAL'), ('Antioch', 'PERSON')"
+"His repeated and unsuccessful treasons at length
+ provoked the indignation of the Gothic king; and the
+ sentence of death, which he pronounced with apparent
+ reluctance, was privately executed in the tower of Seville.","('Gothic', 'NORP'), ('Seville', 'GPE')"
+"His son and successor, Recared, the first catholic king of
+ Spain, had imbibed the faith of his unfortunate brother,
+ which he supported with more prudence and success.","('Recared', 'PERSON'), ('first', 'ORDINAL'), ('Spain', 'GPE')"
+"His wife and infant son were detained by the
+ Romans in ignominious captivity; and this domestic
+ misfortune tarnished the glories of Leovigild, and
+ embittered the last moments of his life.","('Romans', 'NORP'), ('Leovigild', 'PERSON')"
+"Hunneric, A.D. 477.","('Hunneric', 'PERSON'), ('A.D. 477', 'DATE')"
+I The Monastic Life.,"('The Monastic Life', 'WORK_OF_ART')"
+"I have purposely delayed the consideration of
+ two religious events interesting in the study of human
+ nature, and important in the decline and fall of the Roman
+ empire.","('two', 'CARDINAL'), ('Roman', 'NORP')"
+"I. Prosperity and peace introduced the distinction of the
+ vulgar and the Ascetic Christians. (2)","('Ascetic', 'NORP'), ('Christians', 'NORP'), ('2', 'CARDINAL')"
+I. The institution of the monastic life; (1) and II.,"('1', 'CARDINAL')"
+"If it be
+ possible to measure the interval between the philosophic
+ writings of Cicero and the sacred legend of Theodoret,
+ between the character of Cato and that of Simeon, we may
+ appreciate the memorable revolution which was accomplished
+ in the Roman empire within a period of five hundred years.","('Cicero', 'PERSON'), ('Theodoret', 'PERSON'), ('Cato', 'PERSON'), ('Simeon', 'PERSON'), ('Roman', 'NORP'), ('five hundred years', 'DATE')"
+"In
+ the days of Paganism the priests of Gaul and Germany reigned
+ over the people, and controlled the jurisdiction of the
+ magistrates; and the zealous proselytes transferred an
+ equal, or more ample, measure of devout obedience to the
+ pontiffs of the Christian faith.","('the days', 'DATE'), ('Paganism', 'NORP'), ('Gaul', 'PERSON'), ('Germany', 'GPE'), ('Christian', 'NORP')"
+"In the Upper 
+ Thebais, the vacant island of Tabenne, (12) was occupied by 
+ Pachomius and fourteen hundred of his brethren.","('the Upper \r\n Thebais', 'FAC'), ('Tabenne', 'GPE'), ('12', 'CARDINAL'), ('Pachomius', 'PERSON'), ('fourteen hundred', 'CARDINAL')"
+"In the West, Martin of Tours, (19) a soldier, a hermit, a bishop, and a saint, established the monasteries of Gaul; two thousand of his disciples followed him to the grave; and his eloquent historian challenges the deserts of Thebais to produce, in a more favourable climate, a champion of equal virtue.","('West', 'LOC'), ('Martin of Tours', 'PERSON'), ('19', 'CARDINAL'), ('Gaul', 'PERSON'), ('two thousand', 'CARDINAL'), ('Thebais', 'NORP')"
+"In the districts which had been peculiarly allotted to the Vandals, the exercise of the catholic worship was more strictly prohibited; and severe penalties were denounced against the guilt both of the missionary and the proselyte.","('Vandals', 'NORP')"
+"In the most
+ corrupt state of Christianity the barbarians might learn
+ justice from the law, and mercy from the gospel; and if the
+ knowledge of their duty was insufficient to guide their
+ actions or to regulate their passions, they were sometimes
+ restrained by conscience, and frequently punished by
+ remorse.","('Christianity', 'NORP')"
+"In the original law which is still extant, (91) Hunneric expressly declares, and the declaration appears to be correct, that he had faithfully transcribed the regulations and penalties of the Imperial edicts against the heretical congregations, the clergy, and the people, who dissented from the established religion.","('91', 'CARDINAL'), ('Hunneric', 'PERSON'), ('Imperial', 'NORP')"
+"In the reign of Constantine the Ascetics fled
+ from a profane and degenerate world to perpetual solitude or
+ religious society.","('Constantine the Ascetics', 'PERSON')"
+"In their long and victorious
+ march from the Danube to the Atlantic Ocean they converted
+ their allies; they educated the rising generation; and the
+ devotion which reigned in the camp of Alaric, or the court
+ of Toulouse might edify or disgrace the palaces of Rome and
+ Constantinople. (78)","('Danube', 'LOC'), ('the Atlantic Ocean', 'LOC'), ('Alaric', 'PERSON'), ('Toulouse', 'GPE'), ('Rome', 'GPE'), ('Constantinople', 'GPE')"
+"In this last and 
+ lofty station, the Syrian Anachoret resisted the heat of
+ thirty summers, and the cold of as many winters.","('the Syrian Anachoret', 'ORG'), ('thirty summers', 'DATE')"
+"Incensed by her resistance, Goisvintha seized 
+ the catholic princess by her long hair, inhumanly dashed her
+ against the ground, kicked her till she was covered with
+ blood, and at last gave orders that she should be stripped
+ and thrown into a basin or fish-pond. (128)","('Goisvintha', 'PERSON')"
+"Inflamed by the example of Antony,  Hilarion in Palestine, A.D. 328.","('Antony', 'PERSON'), ('Hilarion', 'PERSON'), ('Palestine', 'GPE'), ('A.D. 328', 'DATE')"
+"Instead
+ of revolting against his father, Recared patiently expected
+ the hour of his death.","('Recared', 'PERSON'), ('the hour', 'TIME')"
+"Instead of condemning his memory, he
+ piously supposed that the dying monarch had abjured the
+ errors of Arianism, and recommended to his son the
+ conversion of the Gothic nation.","('Arianism', 'NORP'), ('Gothic', 'NORP')"
+"Instead of the smooth applause
+ which Christian kings are accustomed to expect, from their
+ loyal prelates, the orthodox bishops and their clergy were
+ in a state of opposition to the Arian courts; and their
+ indiscreet opposition frequently became criminal, and might
+ sometimes be dangerous. (87)","('Christian', 'NORP'), ('Arian', 'NORP')"
+"It 
+ was first alleged by the catholic bishops whom Hunneric
+ summoned to the conference of Carthage. (117)","('first', 'ORDINAL'), ('Hunneric', 'PERSON'), ('Carthage', 'GPE'), ('117', 'CARDINAL')"
+"It 
+ was the practice of the monks either to cut or shave their
+ hair; they wrapped their heads in a cowl, to escape the
+ sight of profane objects; their legs and feet were naked,
+ except in the extreme cold of winter; and their slow and
+ feeble steps were supported by a long staff.","('winter', 'DATE')"
+"It was esteemed a merit,
+ and almost a duty, to abstain from the boiled vegetables
+ which were provided for the refectory; but the extraordinary
+ bounty of the abbot sometimes indulged them with the luxury
+ of cheese, fruit, salad, and the small dried fish of the
+ Nile. (48)","('Nile', 'LOC')"
+"It was naturally supposed that the pious and humble monks,
+ who had renounced the world to accomplish the work of their
+ salvation, were the best qualified for the spiritual
+ government of the Christians.","('Christians', 'NORP')"
+"Leovigild was still mindful of that sacred character; and
+ the rebel, despoiled of the regal ornaments, was still
+ permitted, in a decent exile, to profess the catholic
+ religion.","('Leovigild', 'PERSON')"
+"Leovigild, the Gothic monarch of Spain,
+ deserved the respect of his enemies and the love of his
+ subjects: the catholics enjoyed a free toleration, and his
+ Arian synods attempted, without much success, to reconcile
+ their scruples by abolishing the unpopular rite of a second
+ baptism.","('Leovigild', 'PERSON'), ('Gothic', 'NORP'), ('Spain', 'GPE'), ('Arian', 'NORP'), ('second', 'ORDINAL')"
+"Like the first Christians of Jerusalem, (3) 
+ they resigned the use or the property of their temporal
+ possessions; established regular communities of the same sex
+ and a similar disposition; and assumed the names of
+ Hermits,Monks, and Anachorets, expressive of their
+ lonely retreat in a natural or artificial desert.","('first', 'ORDINAL'), ('Christians', 'NORP'), ('Jerusalem', 'GPE'), ('3', 'CARDINAL'), ('Hermits', 'NORP'), ('Anachorets', 'NORP')"
+"Love and honour 
+ might excite Hermenegild to resent this injurious treatment
+ of his bride; and he was gradually persuaded that Ingundis
+ suffered for the cause of divine truth.","('Hermenegild', 'PERSON'), ('Ingundis', 'PERSON')"
+"Mezanla contributed 
+ her plate, three hundred pounds' weight of silver, and Paula
+ contracted an immense debt for the relief of their favourite
+ monks, who kindly imparted the merits of their prayers and
+ penance to a rich and liberal sinner. (54)","('Mezanla', 'PERSON'), (""three hundred pounds'"", 'QUANTITY'), ('Paula', 'PERSON')"
+"Ninety thousand Jews were compelled to 
+ receive the sacrament of baptism; the fortunes of the
+ obstinate infidels were confiscated, their bodies were
+ tortured, and it seems doubtful whether they were permitted
+ to abandon their native country.","('Ninety thousand', 'CARDINAL'), ('Jews', 'NORP')"
+"Notwithstanding these provocations, the
+ Catholics of Gaul, Spain, and Italy enjoyed, under the reign
+ of the Arians, the free and peaceful exercise of their
+ religion.","('Catholics', 'NORP'), ('Gaul', 'GPE'), ('Spain', 'GPE'), ('Italy', 'GPE'), ('Arians', 'NORP')"
+"One martyr and one confessor were selected among the catholic bishops; twenty-eight escaped by flight, and eighty-eight by conformity; forty-six were sent into Corsica to cut timber for the royal navy; and three hundred and two were banished to the different parts of Africa, exposed to the insults of their enemies, and carefully deprived of all the temporal and spiritual comforts of life.","('One', 'CARDINAL'), ('one', 'CARDINAL'), ('twenty-eight', 'CARDINAL'), ('eighty-eight', 'CARDINAL'), ('forty-six', 'CARDINAL'), ('Corsica', 'GPE'), ('three hundred and two', 'CARDINAL'), ('Africa', 'LOC')"
+"Origin, Progress, and Effects of the Monastic Life.—","('Effects of the Monastic Life', 'WORK_OF_ART')"
+"Paula yielded to the persuasive
+ eloquence of Jerom; (28) and the profane title of 
+ mother-in-law of God (29) tempted that illustrious widow to 
+ consecrate the virginity of her daughter Eustochium.","('Paula', 'PERSON'), ('Jerom', 'PERSON'), ('28', 'CARDINAL'), ('29', 'DATE'), ('Eustochium', 'PERSON')"
+Persecution of the Vandals in Africa.—,"('Africa', 'LOC')"
+"Propagation of the monastic life at Rome, A.D. 341.","('Rome', 'GPE'), ('341', 'CARDINAL')"
+Revolt and martyrdom of Hermenegild.,"('Hermenegild', 'PERSON')"
+"Seneca, from his own experience, has deplored and exaggerated the miserable state of Corsica, (97) and the plenty of Sardinia was overbalanced by the unwholesome quality of the air.(98)III.","('Seneca', 'PERSON'), ('Corsica', 'GPE'), ('97', 'CARDINAL'), ('Sardinia', 'GPE'), ('98', 'CARDINAL')"
+"Seventy bishops, assembled in the council of Toledo,
+ received the submission of their conquerors; and the zeal of
+ the Spaniards improved the Nicene creed, by declaring the
+ procession of the Holy Ghost from the Son, as well as from
+ the Father; a weighty point of doctrine, which produced,
+ long afterwards, the schism of the Greek and Latin churches.
+ (133)","('Seventy', 'CARDINAL'), ('Toledo', 'GPE'), ('Spaniards', 'NORP'), ('Nicene', 'NORP'), ('the Holy Ghost', 'PERSON'), ('Greek', 'NORP'), ('Latin', 'NORP'), ('133', 'CARDINAL')"
+"Simeon Stylites, A.D. 395-451.","('Simeon Stylites', 'PERSON'), ('A.D. 395-451', 'DATE')"
+"Sisebut, a Gothic king who reigned in the beginning of the
+ seventh century, proceeded at once to the last extremes of
+ persecution. (139)","('Sisebut', 'PERSON'), ('Gothic', 'NORP'), ('the beginning of the\r\n seventh century', 'DATE'), ('139', 'CARDINAL')"
+"Successive crowds of pilgrims from Gaul
+ and India saluted the divine pillar of Simeon; the tribes of
+ Saracens disputed in arms the honour of his benediction, the
+ queens of Arabia and Persia gratefully confessed his
+ supernatural virtue; and the angelic Hermit was consulted by
+ the younger Theodosius in the most important concerns of the
+ church and state.","('Gaul', 'GPE'), ('India', 'GPE'), ('Simeon', 'PERSON'), ('Saracens', 'NORP'), ('Arabia', 'GPE'), ('Persia', 'GPE'), ('Hermit', 'PERSON'), ('Theodosius', 'PERSON')"
+"Such an allowance might be easily supplied by 
+ the vineyard of Italy; and his victorious disciples, who
+ passed the Alps, the Rhine, and the Baltic, required, in the
+ place of wine, an adequate compensation of strong beer or
+ cider.","('Italy', 'GPE'), ('Alps', 'LOC'), ('Rhine', 'LOC'), ('Baltic', 'LOC')"
+"Such rare and
+ illustrious penitents were celebrated as the glory and
+ example of their age; but the monasteries were filled by a
+ crowd of obscure and abject plebeians, (30) who gained in the 
+ cloister much more than they had sacrificed in the world.","('30', 'CARDINAL')"
+"Superstition has often framed and consecrated the fantastic
+ garments of the monks: (40) but their apparent singularity 
+ sometimes proceeds from their uniform attachment to a simple
+ and primitive model, which the revolutions of fashion have
+ made ridiculous in the eyes of mankind.","('40', 'CARDINAL')"
+"THE indissoluble connection of civil and ecclesiastical
+ affairs has compelled and encouraged me to relate the
+ progress, the persecutions, the establishment, the
+ divisions, the final triumph, and the gradual corruption of
+ Christianity.","('Christianity', 'NORP')"
+"That exiled nation had
+ founded some synagogues in the cities of Gaul; but Spain,
+ since the time of Hadrian, was filled with their numerous
+ colonies. (138)","('Gaul', 'LOC'), ('Spain', 'GPE'), ('Hadrian', 'PERSON'), ('138', 'CARDINAL')"
+"That holy
+ abbot successively founded nine monasteries of men, and one
+ of women; and the festival of Easter sometimes collected
+ fifty thousand religious persons, who followed his angelic
+ rule of discipline.","('nine', 'CARDINAL'), ('one', 'CARDINAL'), ('Easter', 'EVENT'), ('fifty thousand', 'CARDINAL')"
+"The
+ Gothic kings and bishops at length discovered that injuries
+ will produce hatred, and that hatred will find the
+ opportunity of revenge.","('Gothic', 'NORP')"
+"The
+ apostle of the Goths subscribed the creed of Rimini;
+ professed with freedom, and perhaps with sincerity, that the
+ Son was not equal or consubstantial to the FATHER,(83) 
+ communicated these errors to the clergy and people; and
+ infected the barbaric world with an heresy (84) which the 
+ great Theodosius proscribed and extinguished among the
+ Romans.","('Goths', 'NORP'), ('Rimini', 'GPE'), ('Son', 'PERSON'), ('83', 'CARDINAL'), ('84', 'CARDINAL'), ('Theodosius', 'PERSON'), ('Romans', 'NORP')"
+"The
+ catholics were indiscreet, the barbarians were impatient;
+ and the partial acts of severity or injustice, which had
+ been recommended by the Arian clergy, were exaggerated by
+ the orthodox writers.","('Arian', 'NORP')"
+"The
+ character of Ulphilas recommended him to the esteem of the
+ Eastern court, where he twice appeared as the minister of
+ peace, he pleaded the cause of the distressed Goths, who
+ implored the protection of Valens; and the name of 'Moses'
+ was applied to this spiritual guide, who conducted his
+ people through the deep waters of the Danube to the Land of
+ Promise. (76)","('Ulphilas', 'PERSON'), ('Eastern', 'NORP'), ('Goths', 'NORP'), ('Valens', 'PERSON'), ('Moses', 'PERSON'), ('Danube', 'LOC'), ('76', 'CARDINAL')"
+"The
+ conquerors evaded, however, the disgraceful reproach, or
+ confession, of fear, by attributing their toleration to the
+ liberal motives of reason and humanity; and while they
+ affected the language, they imperceptibly imbibed the
+ spirit, of genuine Christianity.","('Christianity', 'NORP')"
+"The
+ immortal productions of Virgil, Cicero, and Livy, which were
+ accessible to the Christian barbarians, maintained a silent
+ intercourse between the reign of Augustus and the times of
+ Clovis and Charlemagne.","('Virgil, Cicero', 'WORK_OF_ART'), ('Livy', 'PERSON'), ('Christian', 'NORP'), ('Augustus', 'PERSON'), ('Clovis', 'GPE'), ('Charlemagne', 'PERSON')"
+"The
+ influence of these sentiments contributed to secure their
+ fidelity in the service or the alliance of the Romans, to
+ alleviate the horrors of war, to moderate the insolence of
+ conquest, and to preserve, in the downfall of the empire, a
+ permanent respect for the name and institutions of Rome.","('Romans', 'NORP'), ('Rome', 'GPE')"
+"The
+ metaphysical chain of argument, the contests of
+ ecclesiastical ambition, and their political influence on
+ the decline of the Byzantine empire, may afford an
+ interesting and instructive series of history, from the
+ general councils of Ephesus and Chalcedon to the conquest of
+ the East by the successors of Mahomet.","('Byzantine', 'NORP'), ('Ephesus', 'GPE'), ('Chalcedon', 'GPE'), ('East', 'LOC'), ('Mahomet', 'PERSON')"
+"The 
+ Egyptians, who gloried in this marvellous revolution, were
+ disposed to hope, and to believe, that the number of the
+ monks was equal to the remainder of the people; (15) and 
+ posterity might repeat the saying which had formerly been
+ applied to the sacred animals of the same country, that in
+ Egypt it was less difficult to find a god than a man.","('Egyptians', 'NORP'), ('15', 'CARDINAL'), ('Egypt', 'GPE')"
+"The 
+ disciples of Antony and Pachomius were satisfied with their
+ daily pittance (46) of twelve ounces of bread, or rather 
+ biscuit, (47) which they divided into two frugal repasts, of 
+ the afternoon and of the evening.","('Antony', 'PERSON'), ('Pachomius', 'PERSON'), ('46', 'CARDINAL'), ('twelve ounces', 'QUANTITY'), ('two', 'CARDINAL'), ('the afternoon and of the evening', 'TIME')"
+"The 
+ subjects of Rome, whose persons and fortunes were made
+ responsible for unequal and exorbitant tributes, retired
+ from the oppression of the Imperial government; and the
+ pusillanimous youth preferred the penance of a monastic, to
+ the dangers of a military, life.","('Rome', 'GPE'), ('Imperial', 'NORP')"
+The Arian clergy surpassed in religious cruelty the king and his Vandals but they were incapable of cultivating the spiritual vineyard which they were so desirous to possess.,"('Arian', 'NORP'), ('Vandals', 'NORP')"
+The Caenobites and Anachorets.,"('Caenobites', 'PERSON'), ('Anachorets', 'PRODUCT')"
+"The Earth had
+ submitted to the Nicene synod: the Romans, the barbarians,
+ and the inhabitants of Spain unanimously professed the same
+ orthodox creed; and the Visigoths resisted, almost alone,
+ the consent of the Christian world.","('Earth', 'LOC'), ('Nicene', 'NORP'), ('Romans', 'NORP'), ('Spain', 'GPE'), ('Visigoths', 'NORP'), ('Christian', 'NORP')"
+"The Franks and
+ the Saxons still persevered in the errors of Paganism, but
+ the Franks obtained the monarchy of Gaul by their submission
+ to the example of Clovis; and the Saxon conquerors of
+ Britain were reclaimed from their savage superstition by the
+ missionaries of Rome.","('Franks', 'PERSON'), ('Saxons', 'NORP'), ('Paganism', 'NORP'), ('Franks', 'PERSON'), ('Gaul', 'PERSON'), ('Clovis', 'PERSON'), ('Saxon', 'NORP'), ('Britain', 'GPE'), ('Rome', 'GPE')"
+"The Goths were the
+ foremost of these savage proselytes; and the nation was
+ indebted for its conversion to a countryman, or at least to
+ a subject, worthy to be ranked among the inventors of useful
+ arts who have deserved the remembrance and gratitude of
+ posterity.","('Goths', 'NORP')"
+"The Goths, Vandals, Burgundians, etc, embrace Christianity, A.D. 400, etc.","('Goths', 'NORP'), ('Vandals', 'NORP'), ('Burgundians', 'NORP'), ('Christianity', 'NORP'), ('400', 'CARDINAL')"
+"The Jews still
+ continued in Spain, under the weight of the civil and
+ ecclesiastical laws, which in the same country have been
+ faithfully transcribed in the Code of the Inquisition","('Jews', 'NORP'), ('Spain', 'GPE'), ('the Code of the Inquisition', 'WORK_OF_ART')"
+The Latin Christians embraced the religious institutions of Rome.,"('The Latin Christians', 'NORP'), ('Rome', 'GPE')"
+"The Manichceans, who laboured to reconcile the
+ religions of Christ and of Zoroaster, had secretly
+ introduced themselves into the provinces: but these foreign
+ sectaries were involved in the common disgrace of the
+ Gnostics, and the Imperial laws were executed by the public
+ hatred.","('Manichceans', 'NORP'), ('Christ', 'PERSON'), ('Zoroaster', 'PERSON'), ('Gnostics', 'NORP'), ('Imperial', 'NORP')"
+"The Merovingian kings and their successors,
+ Charlemagne and the Othos, extended by their laws and
+ victories the dominion of the cross.","('Merovingian', 'NORP'), ('Charlemagne', 'PERSON'), ('Othos', 'PERSON')"
+"The Ostrogoths, the Burgundians, the Suevi, and the Vandals,
+ who had listened to the eloquence of the Latin clergy, (85) 
+ preferred the more intelligible lessons of their domestic
+ teachers; and Arianism was adopted as the national faith of
+ the warlike converts who were seated on the ruins of the
+ Western empire.","('Ostrogoths', 'NORP'), ('Burgundians', 'NORP'), ('Suevi', 'NORP'), ('Vandals', 'NORP'), ('Latin', 'NORP'), ('85', 'DATE'), ('Arianism', 'PERSON'), ('Western', 'NORP')"
+"The Romans themselves, the most powerful and enlightened nation of the globe, had renounced their ancient superstition; and if the ruin of their empire seemed to accuse the efficacy of the new faith, the disgrace was already retrieved by the conversion of the victorious Goths.","('Romans', 'NORP'), ('Goths', 'NORP')"
+"The Vandals and the Ostrogoths persevered in the profession
+ of Arianism till the final ruin of the kingdoms which they
+ had founded in Africa and Italy.","('Vandals', 'NORP'), ('Ostrogoths', 'NORP'), ('Arianism', 'NORP'), ('Africa', 'LOC'), ('Italy', 'GPE')"
+"The advantage of
+ preaching and expounding the Scriptures in the Teutonic
+ language promoted the apostolic labours of Ulphilas and his
+ successors; and they ordained a competent number of bishops
+ and presbyters for the instruction of the kindred tribes.","('Scriptures', 'WORK_OF_ART'), ('Teutonic', 'LANGUAGE'), ('Ulphilas', 'PERSON')"
+The advantage of temporal prosperity had deserted the Pagan cause and passed over to the service of Christianity.,"('Pagan', 'NORP'), ('Christianity', 'NORP')"
+"The ambassadors of Recared respectfully
+ offered on the threshold of the Vatican his rich presents of
+ gold and gems; they accepted, as a lucrative exchange, the
+ hairs of St. John the Baptist; a cross which enclosed a
+ small piece of the true wood; and a key that contained some
+ particles of iron which had been scraped from the chains of
+ St. Peter. (134)
+Conversion of the Lombards of Italy, A.D. 600 etc.","('Recared', 'PERSON'), ('Vatican', 'FAC'), ('St. John the Baptist', 'ORG'), ('St. Peter.', 'PRODUCT'), ('134', 'CARDINAL'), ('Italy', 'GPE'), ('600', 'CARDINAL')"
+"The amputation of the ears, the nose, the tongue, and the right hand was inflicted by the Arians; and although the precise number cannot be defined, it is evident that many persons, among whom a bishop, (103) and a roconsul, (104) may be named, were entitled to the crown of martyrdom.","('Arians', 'NORP'), ('103', 'CARDINAL'), ('104', 'CARDINAL')"
+"The aspect of a
+ genuine anachoret was horrid and disgusting: every sensation
+ that is offensive to man was thought acceptable to God; and
+ the angelic rule of Tabenne condemned the salutary custom of
+ bathing the limbs in water and of anointing them with oil.","('Tabenne', 'PERSON')"
+"The austere monks slept on the ground, on a hard mat or a 
+ rough blanket; and the same bundle of palm-leaves served
+ them as a seat in the day and a pillow in the night.","('the day', 'DATE')"
+"The austere penance, in which he persisted forty-eight years, diffused a similar enthusiasm; and the holy man was followed by a train of two or three thousand anachorets, whenever he visited the innumerable monasteries of Palestine.","('forty-eight years', 'DATE'), ('two', 'CARDINAL'), ('three thousand', 'CARDINAL'), ('Palestine', 'GPE')"
+"The barbarians of Gaul
+ submitted to the orthodox dominion of the Franks and Spain
+ was restored to the catholic church by the voluntary
+ conversion of the Visigoths.","('Gaul', 'PERSON'), ('Franks', 'NORP'), ('Spain', 'GPE'), ('Visigoths', 'PRODUCT')"
+"The beauteous
+ Ingundis, who was no more than thirteen years of age, was
+ received, beloved, and persecuted in the Arian court of
+ Toledo; and her religious constancy was alternately
+ assaulted with blandishments and violence by Goisvintha, the
+ Gothic queen, who abused the double claim of maternal
+ authority. (127)","('Ingundis', 'PERSON'), ('Arian', 'NORP'), ('Toledo', 'GPE'), ('Goisvintha', 'PERSON'), ('Gothic', 'NORP')"
+"The candidate who aspired to the virtue of evangelical
+ poverty, abjured, at his first entrance to a regular
+ community, the idea, and even the name, of all separate or
+ exclusive possession. (50)","('first', 'ORDINAL')"
+"The catholics, oppressed by royal and military force, were
+ far superior to their adversaries in numbers and learning
+ With the same weapons which the Greek (112) and Latin fathers 
+ had already provided for the Arian controversy, they
+ repeatedly silenced or vanquished the fierce and illiterate
+ successors of Ulphilas.","('Greek', 'NORP'), ('Latin', 'NORP'), ('Arian', 'NORP'), ('Ulphilas', 'PERSON')"
+"The citizens who had been educated in the luxury of the Roman province were delivered, with exquisite cruelty, to the Moors of the desert.","('the Roman province', 'LOC'), ('Moors', 'NORP')"
+"The civil
+ war was protracted by the long and obstinate sieges of
+ Merida, Cordova, and Seville, which had strenuously espoused
+ the party of Hermenegild.","('Merida', 'GPE'), ('Cordova', 'GPE'), ('Seville', 'GPE'), ('Hermenegild', 'ORG')"
+"The curious 
+ devotion of the Christians pursued him to the desert; and
+ when he was obliged to appear at Alexandria, in the face of
+ mankind, he supported his fame with discretion and dignity.","('Christians', 'NORP'), ('Alexandria', 'GPE')"
+"The devout shepherds, who were attached to his 
+ person and tractable to his voice, acquiesced in their
+ settlement at the foot of the Maesian mountains, in a
+ country of woodlands and pastures, which supported their
+ flocks, and herds, and enabled them to purchase the corn and
+ wine of the more plentiful provinces.","('the Maesian mountains', 'LOC')"
+"The disciples of Antony spread themselves beyond the tropic, over the Christian empire of Ethiopia. (21)","('Antony', 'PERSON'), ('Christian', 'NORP'), ('Ethiopia', 'GPE'), ('21', 'CARDINAL')"
+"The early prejudices of education were 
+ insensibly erased by the habits of frequent and familiar
+ society; the moral precepts of the Gospel were protected by
+ the extravagant virtues of the monks; and a spiritual
+ theology was supported by the visible power of relics, and
+ the pomp of religious worship.","('Gospel', 'WORK_OF_ART')"
+"The emperors were the natural protectors of the Homoousian doctrine; and the faithful people of Africa, both as Romans, and as Catholics, preferred their lawful sovereignty to the usurpation of the barbarous heretics.","('Homoousian', 'NORP'), ('Africa', 'LOC'), ('Romans', 'NORP'), ('Catholics', 'NORP')"
+"The emulation of mankind was
+ encouraged by the remembrance of a more perfect state; and
+ the flame of science was secretly kept alive, to warm and
+ enlighten the mature age of the Western world.","('Western', 'NORP')"
+"The example of fraud must excite suspicion: and the specious
+ miracles by which the African catholics have defended the
+ truth and justice of their cause may described, with more
+ reason, to their own industry than to the visible protection
+ of Heaven.","('African', 'NORP')"
+"The excessive zeal of the
+ catholic king was moderated even by the clergy of Spain, who
+ solemnly pronounced an inconsistent sentence: that the
+ sacraments should not be forcibly imposed; but that the Jews
+ who had been baptised should be constrained, for the honour
+ of the church, to persevere in the external practice of a
+ religion which they disbelieved and detested.","('Spain', 'GPE'), ('Jews', 'NORP')"
+The fame of Basil (18) is immortal in the monastic history of the East.,"('Basil', 'PERSON'), ('18', 'DATE'), ('East', 'LOC')"
+"The fame of the apostles and martyrs
+ was gradually eclipsed by these recent and popular
+ Anachorets; the Christian world fell prostrate before their
+ shrines; and the miracles ascribed to their relics exceeded,
+ at least in number and duration, the spiritual exploits on
+ their lives.","('Anachorets', 'NORP'), ('Christian', 'NORP')"
+"The father of the
+ Benedictines expressly disclaims all idea of choice or
+ merit; and soberly exhorts his disciples to adopt the coarse
+ and convenient dress of the countries which they may
+ inhabit. (41)","('Benedictines', 'PERSON')"
+"The fervent monasteries of Egypt,
+ Palestine, and Syria were surrounded by a Laura, (66) a 
+ distant circle of solitary cells; and the extravagant
+ penance of the Hermits was stimulated by applause and
+ emulation. (67)","('Egypt', 'GPE'), ('Palestine', 'GPE'), ('Syria', 'GPE'), ('Laura', 'PERSON'), ('66', 'CARDINAL'), ('Hermits', 'ORG')"
+"The first missionaries who preached the Gospel to the
+ barbarians appealed to the evidence of reason, and claimed
+ the benefit of toleration. (136)","('first', 'ORDINAL'), ('Gospel', 'WORK_OF_ART'), ('136', 'CARDINAL')"
+"The guilt of persecution may be
+ imputed to Euric, king of the Visigoths who suspended the
+ exercise of ecclesiastical, or, at least, of episcopal
+ functions, and punished the popular bishops of Aquitain with
+ imprisonment, exile, and confiscation. (89)","('Euric', 'PERSON'), ('Visigoths', 'NORP'), ('Aquitain', 'PERSON')"
+"The hardships of ten years' exile must have reduced their numbers; and if they had complied with the law of Thrasimund, which prohibited any episcopal consecrations, the orthodox church of Africa must have expired with the lives of its actual members.","(""ten years'"", 'DATE'), ('Thrasimund', 'LAW'), ('Africa', 'LOC')"
+"The heroes of the North, who had
+ submitted with some reluctance to believe that all their
+ ancestors were in hell, (86) were astonished and exasperated 
+ to learn that they themselves had only changed the mode of
+ their eternal condemnation.","('North', 'LOC'), ('86', 'DATE')"
+"The hostile sects had formerly allowed the validity of each other's baptism; and the innovation, so fiercely maintained by the Vandals, can be imputed only to the example and advice of the Donatists.","('Vandals', 'NORP'), ('Donatists', 'ORG')"
+"The indignant father bewailed
+ the loss, perhaps, of an only son; (27) the credulous maid was 
+ betrayed by vanity to violate the laws of nature; and the
+ matron aspired to imaginary perfection by renouncing the
+ virtues of domestic life.","('27', 'CARDINAL')"
+"The inflexible constancy with which he refused to accept the
+ Arian communion, as the price of his safety, may excuse the
+ honours that have been paid to the memory of St.
+ Hermenegild.","('Arian', 'NORP'), ('St.\r\n Hermenegild', 'LOC')"
+"The laborious
+ interpretation of doubtful texts, or the curious pursuit of
+ metaphysical arguments, would have excited an endless
+ controversy; and the monarch discreetly proposed to his
+ illiterate audience two substantial and visible arguments -
+ the testimony of Earth and of Heaven.","('two', 'CARDINAL'), ('Earth', 'LOC')"
+The language of Genseric was furious and formidable; the knowledge of his intentions might justify the most unfavourable interpretation of his actions; and the Arians were reproached with the frequent executions which stained the palace and the dominions of the tyrant.,"('Genseric', 'PERSON'), ('Arians', 'NORP')"
+"The memorable text which
+ asserts the unity of the THREE who bear witness in heaven
+ (115) is condemned by the universal silence of the orthodox 
+ fathers, ancient versions, and authentic manuscripts.","('THREE', 'CARDINAL'), ('115', 'CARDINAL')"
+"The monastery of Banchors (22) in Flintshire, which contained above two thousand brethren, dispersed a numerous colony among the barbarians of Ireland; (23) and Iona, one of the Hebrides, which was planted by the Irish monks, diffused over the northern regions a doubtful ray of science and superstition. (24)","('Banchors', 'PRODUCT'), ('22', 'CARDINAL'), ('Flintshire', 'GPE'), ('two thousand', 'CARDINAL'), ('Ireland', 'GPE'), ('23', 'CARDINAL'), ('Iona', 'LOC'), ('one', 'CARDINAL'), ('Hebrides', 'LOC'), ('Irish', 'NORP'), ('24', 'CARDINAL')"
+"The monastic habits of the ancients varied with 
+ the climate and their mode of life; and they assumed, with
+ the same indifference, the sheepskin of the Egyptian
+ peasants or the cloak of the Grecian philosophers.","('Egyptian', 'NORP'), ('Grecian', 'NORP')"
+"The monastic profession of the ancients (33) was an act of 
+ voluntary devotion.","('33', 'CARDINAL')"
+"The monks might
+ indeed contend with the Stoics in the contempt of fortune,
+ of pain, and of death: the Pythagorean silence and
+ submission were revived in their servile discipline; and
+ they disdained as firmly as the Cynics themselves all the
+ forms and decencies of civil society.","('Stoics', 'PERSON'), ('Pythagorean', 'NORP'), ('Cynics', 'NORP')"
+"The monks were divided into two classes: the Coenobites, who
+ lived under a common and regular discipline, and the
+ Anachorets, who indulged their unsocial, independent
+ fanaticism. (65)","('two', 'CARDINAL'), ('Coenobites', 'NORP'), ('Anachorets', 'NORP'), ('65', 'CARDINAL')"
+"The most perfect Hermits are supposed to have 
+ passed many days without food, many nights without sleep,
+ and many years without speaking; and glorious was the man (I
+ abuse that name) who contrived any cell, or seat, of a
+ peculiar construction, which might expose him, in the most
+ inconvenient posture, to the inclemency of the seasons.","('Hermits', 'PERSON'), ('many days', 'DATE')"
+"The palatine officers, who refused to profess the religion of their prince, were ignominiously stripped of their honours and employments; banished to Sardinia and Sicily; or condemned to the servile labours of slaves and peasants in the fields of Utica.","('Sardinia', 'GPE'), ('Sicily', 'GPE'), ('Utica', 'GPE')"
+"The peace
+ of the Eastern church was invaded by a swarm of fanatics,
+ incapable of fear, or reason, or humanity; and the Imperial
+ troops acknowledged, without shame, that they were much less
+ apprehensive of an encounter with the fiercest barbarians.
+ (39)","('Eastern', 'NORP'), ('Imperial', 'NORP'), ('39', 'CARDINAL')"
+"The perpetual correspondence of
+ the Latin clergy, the frequent pilgrimages to Rome and
+ Jerusalem, and the growing authority of the popes, cemented
+ the union of the Christian republic, and gradually produced
+ the similar manners and common jurisprudence which have
+ distinguished from the rest of mankind the independent, and
+ even hostile, nations of modern Europe.","('Latin', 'NORP'), ('Rome', 'GPE'), ('Jerusalem', 'GPE'), ('Christian', 'NORP'), ('Europe', 'LOC')"
+"The philosophic eye of
+ Pliny had surveyed with astonishment a solitary people, who
+ dwelt among the palm-trees near the Dead Sea; who subsisted
+ without money; who were propagated without women; and who
+ derived from the disgust and repentance of mankind a
+ perpetual supply of voluntary associates.","('Pliny', 'PERSON'), ('the Dead Sea', 'LOC')"
+"The pilgrims who visited Jerusalem eagerly copied, in the most distant climates of the earth, the faithful model of the monastic life.","('Jerusalem', 'GPE')"
+"The practice of a conference, which the Catholics had so frequently used to insult and punish their obstinate antagonists, was retorted against themselves. (94)","('Catholics', 'NORP')"
+"The precise moment was determined by the stars,
+ which are seldom clouded in the serene sky of Egypt; and a
+ rustic horn, or trumpet, the signal of devotion, twice
+ interrupted the vast silence of the desert. (60)","('Egypt', 'GPE'), ('60', 'CARDINAL')"
+"The prince or magistrate, the soldier or
+ merchant, reconciled their fervent zeal and implicit faith
+ with the exercise of their profession, the pursuit of their
+ interest, and the indulgence of their passions but the
+ Ascetics, who obeyed and abused the rigid precepts of the
+ Gospel, were inspired by the savage enthusiasm which
+ represents man as a criminal, and God as a tyrant.","('Ascetics', 'NORP'), ('Gospel', 'PERSON')"
+"The progress of Christianity has been marked by two
+ glorious and decisive victories: over the learned and
+ luxurious citizens of the Roman empire; and over the warlike
+ barbarians of Scythia and Germany, who subverted the empire
+ and embraced the religion of the Romans.","('Christianity', 'NORP'), ('two', 'CARDINAL'), ('Roman', 'NORP'), ('Scythia', 'NORP'), ('Germany', 'GPE'), ('Romans', 'NORP')"
+"The progress of an ulcer in his thigh (72) might 
+ shorten, but it could not disturb, this celestial life; and
+ the patient Hermit expired without descending from his
+ column.","('72', 'CARDINAL'), ('Hermit', 'PERSON')"
+The progress of the monks was not less rapid or universal than that of Christianity itself.,"('Christianity', 'NORP')"
+"The prolific
+ colonies of monks multiplied with rapid increase on the
+ sands of Libya, upon the rocks of Thebais, and in the cities
+ of the Nile.","('Libya', 'GPE'), ('Thebais', 'GPE'), ('Nile', 'LOC')"
+"The pulpit, that safe and sacred 
+ organ of sedition, resounded with the names of Pharaoh and
+ Holofernes; (88) the public discontent was inflamed by the 
+ hope or promise of a glorious deliverance; and the seditious
+ saints were tempted to promote the accomplishment of their
+ own predictions.","('Pharaoh', 'PERSON'), ('Holofernes', 'PERSON'), ('88', 'CARDINAL')"
+"The rash youth, inflamed 
+ by zeal, and perhaps by ambition, was tempted to violate the
+ duties of a son and a subject; and the catholics of Spain,
+ although they could not complain of persecution, applauded
+ his pious rebellion against an heretical father.","('Spain', 'GPE')"
+"The rational opinions of the Pelagians were
+ propagated from Britain to Rome, Africa, and Palestine, and
+ silently expired in a superstitious age.","('Pelagians', 'NORP'), ('Britain', 'GPE'), ('Rome', 'GPE'), ('Africa', 'LOC'), ('Palestine', 'GPE')"
+"The religious war was
+ preceded and prepared by an insidious truce; persecution was
+ made the serious and important business of the Vandal court;
+ and the loathsome disease which hastened the death of
+ Hunneric revenged the injuries, without contributing to the
+ deliverance, of the church.","('Vandal', 'LOC'), ('Hunneric', 'PERSON')"
+"The reluctant hermit was torn
+ from his cell, and seated amidst the acclamations of the
+ people, on the episcopal throne: the monasteries of Egypt,
+ of Gaul, and of the East, supplied a regular succession of
+ saints and bishops; and ambition soon discovered the secret
+ road which led to the possession of wealth and honours. (26)","('Egypt', 'GPE'), ('Gaul', 'PERSON'), ('East', 'LOC'), ('26', 'CARDINAL')"
+"The royal proselyte immediately saluted and consulted 
+ pope Gregory, surnamed the Great, a learned and holy prelate
+ whose reign was distinguished by the conversion of heretics
+ and infidels.","('Gregory', 'PERSON')"
+"The rude, imperfect idiom of soldiers and shepherds, so ill
+ qualified to communicate any spiritual ideas, was improved
+ and modulated by his genius; and Ulphilas, before he could
+ frame his version, was obliged to compose a new alphabet of
+ twenty-four letters; four of which he invented to express
+ the peculiar sounds that were unknown to the Greek and Latin
+ pronunciation. (75)","('Ulphilas', 'PERSON'), ('twenty-four', 'CARDINAL'), ('four', 'CARDINAL'), ('Greek', 'NORP'), ('Latin', 'LANGUAGE')"
+"The ruin of Arianism among the Barbarians, A.D. 500-700.","('Arianism', 'NORP'), ('Barbarians', 'NORP'), ('500-700', 'CARDINAL')"
+"The rules of abstinence which they imposed, or practised,
+ were not uniform or perpetual: the cheerful festival of the
+ Pentecost was balanced by the extraordinary mortification of
+ Lent; the fervour of new monasteries was insensibly relaxed;
+ and the voracious appetite of the Gauls could not imitate
+ the patient and temperate virtue of the Egyptians. (45)","('Pentecost', 'EVENT'), ('Lent', 'EVENT'), ('Gauls', 'NORP'), ('Egyptians', 'NORP'), ('45', 'CARDINAL')"
+"The same Gregory, the spiritual conqueror of Britain,
+ encouraged the pious Theodelinda, queen of the Lombards, to
+ propagate the Nicene faith among the victorious savages,
+ whose recent Christianity was polluted by the Arian heresy.","('Gregory', 'PERSON'), ('Britain', 'GPE'), ('Theodelinda', 'PERSON'), ('Lombards', 'NORP'), ('Nicene', 'NORP'), ('Christianity', 'NORP'), ('Arian', 'NORP')"
+"The same honour has been ascribed to the memory of Count Sebastian, who professed the Nicene creed with unshaken constancy; and Genseric might detest as an heretic the brave and ambitious fugitive whom he dreaded as a rival.(105) VI.","('Sebastian', 'PERSON'), ('Nicene', 'NORP'), ('Genseric', 'PERSON'), ('105', 'CARDINAL')"
+"The seeds which they planted of
+ the evangelic doctrine were gradually propagated; and before
+ the end of a century the pious work was achieved by the
+ labours of Ulphilas, whose ancestors had been transported
+ beyond the Danube from a small town of Cappadocia.","('the end of a century', 'DATE'), ('Ulphilas', 'PERSON'), ('Danube', 'LOC'), ('Cappadocia', 'GPE')"
+"The senators, and more especially the matrons, transformed their palaces and villas into religious houses; and the narrow institution of six Vestals was eclipsed by the frequent monasteries, which were seated on the ruins of ancient temples and in the midst of the Roman Forum. (16)","('six', 'CARDINAL'), ('Vestals', 'NORP'), ('the Roman Forum', 'ORG'), ('16', 'CARDINAL')"
+"The stately and populous city of 
+ Oxyrinchus, the seat of Christian orthodoxy, had devoted the
+ temples, the public edifices, and even the ramparts, to
+ pious and charitable uses; and the bishop, who might preach
+ in twelve churches, computed ten thousand females, and
+ twenty thousand males, of the monastic profession.","('Oxyrinchus', 'GPE'), ('Christian', 'NORP'), ('twelve', 'CARDINAL'), ('ten thousand', 'CARDINAL'), ('twenty thousand', 'CARDINAL')"
+"The strange and savage appearance of these Egyptians excited, at first, horror and contempt, and, at length, applause and zealous imitation.","('Egyptians', 'NORP'), ('first', 'ORDINAL')"
+"The successors of Clovis
+ inflicted one hundred lashes on the peasants who refused to
+ destroy their idols; the crime of sacrificing to the demons
+ was punished by the Anglo-Saxon laws with the heavier
+ penalties of imprisonment and confiscation; and even the
+ wise Alfred adopted, as an indispensable duty, the extreme
+ rigour of the Mosaic institutions. (137)","('Clovis', 'PERSON'), ('one hundred', 'CARDINAL'), ('Anglo', 'NORP'), ('Alfred', 'PERSON'), ('Mosaic', 'NORP'), ('137', 'CARDINAL')"
+"The superfluous stock, which was not consumed in domestic
+ use, supplied, by trade, the wants of the community: the
+ boats of Tabenne, and the other monasteries of Thebais,
+ descended the Nile as far as Alexandria; and, in a Christian
+ market, the sanctity of the workmen might enhance the
+ intrinsic value of the work.","('Tabenne', 'GPE'), ('Thebais', 'GPE'), ('Nile', 'LOC'), ('Alexandria', 'GPE'), ('Christian', 'NORP')"
+"The temper and understanding of the new proselytes
+ were not adapted to metaphysical subtleties; but they
+ strenuously maintained what they had piously received as the
+ pure and genuine doctrines of Christianity.","('Christianity', 'NORP')"
+"The testimony of Aeneas of Gaza might be confirmed by the superfluous evidence of the emperor Justinian, in a perpetual edict; of Count Marcellinus, in his Chronicle of the times; and of pope Gregory the First, who had resided at Constantinople as the minister of the Roman pontiff. (125)","('Aeneas', 'PERSON'), ('Gaza', 'GPE'), ('Justinian', 'PERSON'), ('Marcellinus', 'PERSON'), ('Chronicle of the times', 'WORK_OF_ART'), ('Gregory', 'PERSON'), ('First', 'ORDINAL'), ('Constantinople', 'GPE'), ('Roman', 'NORP'), ('125', 'CARDINAL')"
+"The throne of Africa was
+ successively filled by the two nephews of Hunneric;Gundamund, A.D. 484.","('Africa', 'LOC'), ('two', 'CARDINAL'), ('Hunneric', 'PRODUCT'), ('Gundamund', 'PERSON'), ('484', 'CARDINAL')"
+"The throne of that virtuous, though feeble, monarch was usurped by his cousin Gelimer, a zealous Arian: but the Vandal kingdom, before he could enjoy or
+ abuse his power, was subverted by the arms of Belisarius; and the orthodox party retaliated the injuries which they had endured. (90)","('Gelimer', 'PERSON'), ('Arian', 'NORP'), ('Vandal', 'NORP'), ('Belisarius', 'PERSON')"
+"The town
+ was deserted on the approach of an heretical bishop; most of
+ the inhabitants who could procure ships passed over to the
+ coast of Spain; and the unhappy remnant, refusing all
+ communion with the usurper, still presumed to hold their
+ pious, but illegal, assemblies.","('Spain', 'GPE')"
+The two islands were judiciously chosen by the malice of their Arian tyrants.,"('two', 'CARDINAL'), ('Arian', 'NORP')"
+The valiant and fortunate barbarians who subdued the provinces of the West successively received and reflected the same edifying example.,"('West', 'LOC')"
+"The venerable patriarch (for Antony attained the age of one
+ hundred and five years) beheld the numerous progeny which
+ had been formed by his example and his lessons.","('Antony', 'PERSON'), ('one\r\n hundred and five years', 'DATE')"
+"The version of the Sciptures into
+ their native tongue which had facilitated their conversion,
+ must excite, among their clergy, some curiosity to read he
+ original text, to understand the sacred liturgy of the
+ church, and to examine, in the writings of the fathers, the
+ chain of ecclesiastical tradition.","('Sciptures', 'WORK_OF_ART')"
+"The whole body of the Visigoths and
+ Suevi, were allured or driven into the pale of the catholic
+ communion; the faith, at least of the rising generation, was
+ fervent and sincere; and the devout liberality of the
+ barbarians enriched the churches and monasteries of Spain.","('Visigoths', 'NORP'), ('Suevi', 'NORP'), ('Spain', 'GPE')"
+The zeal of Genseric and his successors for the conversion of the Catholics must have rendered them still more jealous to guard the purity of the Vandal faith.,"('Genseric', 'PERSON'), ('Catholics', 'NORP'), ('Vandal', 'PERSON')"
+"Their disobedience
+ exasperated the cruelty of Hunneric.","('Hunneric', 'PERSON')"
+"Their fiercer brethren, the formidable Visigoths,
+ universally adopted the religion of the Romans, with whom
+ they maintained a perpetual intercourse of war, of
+ friendship, or of conquest.","('Visigoths', 'NORP'), ('Romans', 'NORP')"
+"Their frequent
+ relapses provoked one of the successors of Sisebut to banish
+ the whole nation from his dominions; and a council of Toledo
+ published a decree that every Gothic king should swear to
+ maintain this salutary edict.","('one', 'CARDINAL'), ('Sisebut', 'GPE'), ('Toledo', 'GPE'), ('Gothic', 'NORP')"
+"Their mutual
+ resolution was supported by the example of millions, of
+ either sex, of every age, and of every rank; and each
+ proselyte who entered the gates of a monastery was persuaded
+ that he trod the steep and thorny path of eternal happiness.
+ (25)","('millions', 'CARDINAL'), ('25', 'CARDINAL')"
+"Their refusal, faintly coloured by the pretence that it is unlawful for a Christian to swear, must provoke the suspicions of a jealous tyrant.","('Christian', 'NORP')"
+"These controversies were first agitated under the reign of
+ the younger Theodosius: but their important consequences
+ extend far beyond the limits of the present volume.","('first', 'ORDINAL'), ('Theodosius', 'PERSON')"
+"These extravagant tales, which display the fiction, without
+ the genius, of poetry, have seriously affected the reason,
+ the faith, and the morals of the Christians.","('Christians', 'NORP')"
+"These harmless
+ barbarians multiplied in obscure peace and the profession of
+ Christianity. (77)","('Christianity', 'NORP'), ('77', 'CARDINAL')"
+"These spiritual gifts
+ were preserved in the Greek and Latin languages, which
+ concealed the inestimable monuments of ancient learning.","('Greek', 'LANGUAGE'), ('Latin', 'LANGUAGE')"
+"These unhappy exiles, when they reached the Moorish huts, might excite the compassion of a people whose native humanity was neither improved by reason nor corrupted by fanaticism: but if they escaped the dangers, they were condemned to share the distress, of a savage life.","('Moorish', 'NORP')"
+"They
+ allowed themselves the use of linen in Egypt, where it was a
+ cheap and domestic manufacture; but in the West they
+ rejected such an expensive article of foreign luxury.","('Egypt', 'GPE'), ('West', 'LOC')"
+"They
+ ascribed their own polemical works to the most venerable
+ names of Christian antiquity; the characters of Athanasius
+ and Augustin were awkwardly personated by Vigilius and his
+ disciples; (113) and the famous creed, which so clearly 
+ expounds the mysteries of the Trinity and the Incarnation,
+ is deduced, with strong probability, from this African
+ school. (114)","('Christian', 'NORP'), ('Athanasius', 'PERSON'), ('Augustin', 'PERSON'), ('Vigilius', 'PERSON'), ('113', 'CARDINAL'), ('Trinity', 'LOC'), ('African', 'NORP'), ('114', 'CARDINAL')"
+They are involved in the Arian heresy.,"('Arian', 'NORP')"
+"They aspired to reduce
+ themselves to the rude and miserable state in which the
+ human brute is scarcely distinguished above his kindred
+ animals; and the numerous sect of Anachorets derived their
+ name from their humble practice of grazing in the fields of
+ Mesopotamia with the common herd. (68)","('Anachorets', 'NORP'), ('Mesopotamia', 'LOC')"
+"They disobeyed; and their disobedience was punished by a second exile of two hundred and twenty bishops into Sardinia, where they languished fifteen years, till the accession of the gracious Hilderic. (96)","('second', 'ORDINAL'), ('two hundred and twenty', 'CARDINAL'), ('Sardinia', 'GPE'), ('fifteen years', 'DATE'), ('Hilderic', 'PERSON'), ('96', 'CARDINAL')"
+"They familiarly accosted, or
+ imperiously commanded, the lions and serpents of the desert;
+ infused vegetation into a sapless trunk; suspended iron on
+ the surface of the water; passed the Nile on the back of a
+ crocodile; and refreshed themselves in a fiery furnace.","('Nile', 'LOC')"
+"They had braved the fury of the Donatists; (122) 
+ they resisted or eluded the tyranny of the Arians.","('Donatists', 'NORP'), ('122', 'CARDINAL'), ('Arians', 'NORP')"
+"They imposed, by fraud or violence, the rites of baptism and punished the apostasy of the Catholics, if they disclaimed this odious and profane ceremony, which scandalously violated the freedom of the will and the unity of the sacrament. (106)","('Catholics', 'NORP'), ('106', 'CARDINAL')"
+"They often usurped the den of some wild beast whom they affected to resemble; they
+ buried themselves in some gloomy cavern, which art or nature
+ had scooped out of the rock; and the marble quarries of
+ Thebais are still inscribed with the monuments of their
+ penance. (69)","('Thebais', 'GPE')"
+"They soon
+ acquired the respect of the world, which they despised; and
+ the loudest applause was bestowed on this DIVINE PHILOSOPHY,
+ (4) which surpassed, without the aid of science or reason, the 
+ laborious virtues of the Grecian schools.","('4', 'CARDINAL'), ('Grecian', 'NORP')"
+"They trod in the footsteps of the prophets,
+ who had retired to the desert ; (5) and they restored the 
+ devout and contemplative life, which had been instituted by
+ the Essenians in Palestine and Egypt.","('5', 'CARDINAL'), ('Essenians', 'NORP'), ('Palestine', 'GPE'), ('Egypt', 'GPE')"
+"They were directed
+ to remove an enormous rock; assiduously to water a barren
+ staff that was planted in the ground, till, at the end of
+ three years, it should vegetate and blossom like a tree; to
+ walk into a fiery furnace; or to cast their infant into a
+ deep pond: and several saints, or madmen, have been
+ immortalised in monastic story by their thoughtless and
+ fearless obedience.","('the end of\r\n three years', 'DATE')"
+"They were often capricious and accidental; a
+ dream, an omen, the report of a miracle, the example of some
+ priest or hero, the charms of a believing wife, and, above
+ all, the fortunate event of a prayer or vow which, in a
+ moment of danger, they had addressed to the God of the
+ Christians. (80)","('Christians', 'NORP'), ('80', 'CARDINAL')"
+"Thirty or forty brethren composed a family of
+ separate discipline and diet; and the great monasteries of
+ Egypt consisted of thirty or forty families.","('Thirty or forty', 'CARDINAL'), ('Egypt', 'GPE'), ('thirty or forty', 'CARDINAL')"
+"This engagement, consistent, as it should seem, with their moral and religious duties, was refused by the more
+sagacious members (111) of the assembly.","('111', 'CARDINAL')"
+"This irreconcilable difference of religion
+ was a perpetual source of jealousy and hatred; and the
+ reproach of Barbarian was embittered by the more odious
+ epithet of Heretic.","('Barbarian', 'PERSON'), ('Heretic', 'PERSON')"
+"This metaphysical reasoning, too refined perhaps for the barbarians of Germany, was fortified by the grosser weight of authority and popular consent.","('Germany', 'GPE')"
+"This salutary revolution (126) was hastened by the example of 
+ a royal martyr, whom our calmer reason may style an
+ ungrateful rebel.","('126', 'CARDINAL')"
+"This supernatural gift of the African confessors, who spoke without tongues, will command the assent of those, and of those only, who already believe that their language was pure and orthodox.","('African', 'NORP')"
+"Those involuntary missionaries, dispersed as slaves
+ in the villages of Dacia, successively laboured for the
+ salvation of their masters.","('Dacia', 'GPE')"
+"Those monks whose conscience was fortified by reason or
+ passion were at liberty to resume the character of men and
+ citizens; and even the spouses of Christ might accept the
+ legal embraces of an earthly lover. (34)","('Christ', 'PERSON')"
+"Thrasimund, A.D. 496.","('496', 'CARDINAL')"
+"Through the veil of fiction and declamation we may clearly perceive that the Catholics, more especially under the reign of Hunneric, endured the most cruel and ignominious treatment. (102)","('Catholics', 'NORP'), ('Hunneric', 'PERSON'), ('102', 'CARDINAL')"
+"Time continually 
+ increased, and accidents could seldom diminish, the estates
+ of the popular monasteries, which spread over the adjacent
+ country and cities: and, in the first century of their
+ institution, the infidel Zosimus has maliciously observed,
+ that, for the benefit of the poor, the Christian monks had
+ reduced a great part of mankind to a state of beggary.","('the first century', 'DATE'), ('Zosimus', 'PERSON'), ('Christian', 'NORP')"
+"Tipasa, (121) a maritime colony of 
+ Mauritania, sixteen miles to the east of Caearea, had been
+ distinguished in every age by the orthodox zeal of its
+ inhabitants.","('Tipasa', 'GPE'), ('121', 'CARDINAL'), ('Mauritania', 'GPE'), ('sixteen miles', 'QUANTITY'), ('Caearea', 'GPE')"
+"To accomplish that salutary
+ end, Recared convened an assembly of the Arian clergy and
+ nobles, declared himself a catholic, and exhorted them to
+ imitate the example of their prince.","('Recared', 'PERSON'), ('Arian', 'NORP')"
+"To the south of Alexandria, the mountain, and
+ adjacent desert, of Nitria was peopled by five thousand
+ anachorets; and the traveller may still investigate the
+ ruins of fifty monasteries, which were planted in that
+ barren soil by the disciples of Antony. (11)","('Alexandria', 'GPE'), ('Nitria', 'GPE'), ('five thousand', 'CARDINAL'), ('fifty', 'CARDINAL'), ('Antony', 'PERSON'), ('11', 'CARDINAL')"
+"Ulphilas, apostle of the Goths, A.D. 360 etc.","('Ulphilas', 'PERSON'), ('Goths', 'NORP'), ('A.D. 360', 'DATE')"
+"Ulphilas, the bishop and apostle of the Goths, (74) acquired 
+ their love and reverence by his blameless life and
+ indefatigable zeal, and they received with implicit
+ confidence the doctrines of truth and virtue which he
+ preached and practised.","('Ulphilas', 'PERSON'), ('Goths', 'NORP'), ('74', 'DATE')"
+"Water was the pure and innocent
+ beverage of the primitive monks; and the founder of the
+ Benedictines regrets the daily portion of half a pint of
+ wine which had been extorted from him by the intemperance of
+ the age. (49)","('Benedictines', 'PERSON'), ('half', 'CARDINAL')"
+"Wealth, dignity, and the royal favour
+ were the liberal rewards of apostacy; the catholics who had
+ violated the laws might purchase their pardon by the renunciation of their faith; and whenever Thrasimund mediated any rigorous measure, he patiently waited till the indiscretion of his adversaries furnished him with a specious opportunity.","('Thrasimund', 'PERSON')"
+"Whatever might be the early
+ sentiments of Ulphilas, his connections with the empire and
+ the church were formed during the reign of Arianism.","('Ulphilas', 'PERSON'), ('Arianism', 'NORP')"
+"Whenever they were permitted to
+ step beyond the precincts of the monastery, two jealous
+ companions were the mutual guards and spies of each other's
+ actions; and, after their return, they were condemned to
+ forget, or, at least, to suppress, whatever they had seen or
+ heard in the world.","('two', 'CARDINAL')"
+"While they trembled under the lash of persecution, they praised the laudable severity of Hunneric himself, who burnt or banished great numbers of Manicheans; (92) and they rejected with horror the ignominious compromise that the disciples of Arius and of Athanasius should enjoy a reciprocal and similar toleration in the territories of the Romans and in those of the Vandals.(93) II.","('Hunneric', 'PERSON'), ('Manicheans', 'NORP'), ('92', 'CARDINAL'), ('Arius', 'PERSON'), ('Athanasius', 'PERSON'), ('Romans', 'NORP'), ('Vandals', 'NORP'), ('93', 'CARDINAL')"
+"With a mind that had tasted the learning and eloquence of Athens; with an ambition scarcely to be satisfied by the archbishopric of Casarea, Basil retired to a savage solitude in Pontus; and deigned, for a while, to give laws to the spiritual colonies which he profusely scattered along the coast of the Black Sea. Martin in Gaul, A.D. 370.","('Athens', 'GPE'), ('Casarea', 'PERSON'), ('Basil', 'PERSON'), ('Pontus', 'LOC'), ('the Black Sea', 'LOC'), ('Martin', 'PERSON'), ('Gaul', 'LOC'), ('370', 'CARDINAL')"
+"Within
+ the space of a mandra, or circle of stones to which he had
+ attached himself by a ponderous chain, he ascended a column,
+ which was successively raised from the height of nine, to
+ that of sixty, feet from the ground.","('nine', 'CARDINAL'), ('sixty, feet', 'QUANTITY')"
+"Yet the curiosity
+ or zeal of some learned solitaries has cultivated the
+ ecclesiastical and even the profane sciences: and posterity
+ must gratefully acknowledge that the monuments of Greek and
+ Roman literature have been preserved and multiplied by their
+ indefatigable pens. (52)","('Greek', 'NORP'), ('Roman', 'NORP')"
+"Yet the historian who views his religious
+ conflict with an impartial eye may condescend to mention one
+ preternatural event, which will edify the devout and
+ surprise the incredulous.","('one', 'CARDINAL')"
+"a Syrian youth, whose name was Hilarion, (17) fixed his dreary abode on a sandy beach between the sea and a morass about seven miles from Gaza.","('Syrian', 'NORP'), ('Hilarion', 'PERSON'), ('17', 'CARDINAL'), ('about seven miles', 'QUANTITY'), ('Gaza', 'GPE')"
+"by
+ Gundamund, who reigned about twelve, and by Thrasimund, who
+ governed the nation above twenty-seven, years.","('Gundamund', 'PERSON'), ('about twelve', 'CARDINAL'), ('Thrasimund', 'PERSON'), ('twenty-seven, years', 'DATE')"
+"by an inflexible rule (36) or a capricious 
+ superior: the slightest offences were corrected by disgrace
+ or confinement, extraordinary fasts, or bloody flagellation;
+ and disobedience, murmur, or delay were ranked in the
+ catalogue of the most heinous sins. (37)","('37', 'CARDINAL')"
+"in Spain, A.D. 577-584","('Spain', 'GPE'), ('A.D. 577-584', 'DATE')"
+"was formed against his life; and two
+ counts excited a dangerous revolt in the Narbonnese Gaul.","('two', 'CARDINAL'), ('the Narbonnese Gaul', 'LOC')"

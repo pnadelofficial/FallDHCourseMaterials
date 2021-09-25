@@ -1,0 +1,781 @@
+Sentence,Entities
+(10),"('10', 'CARDINAL')"
+(18),"('18', 'CARDINAL')"
+(31),"('31', 'CARDINAL')"
+(44),"('44', 'CARDINAL')"
+"A Byzantine vessel, which had presumed to fish at the
+ mouth of the harbour, was sunk by these audacious strangers;
+ the fishermen were murdered.","('Byzantine', 'NORP')"
+"A base majority bowed and retired; and his trusty
+ band was diminished to two thousand, and at last to five
+ hundred, volunteers.","('two thousand', 'CARDINAL'), ('five\r\n hundred', 'CARDINAL')"
+"A beautiful female, a matron in rank, a
+ prostitute in manners, had instructed the younger Andronicus
+ in the rudiments of love; but he had reason to suspect the
+ nocturnal visits of a rival; and a stranger passing through
+ the street was pierced by the arrows of his guards, who were
+ placed in ambush at her door.","('Andronicus', 'PERSON')"
+"A crowd of nobles or plebeians, whom he feared or
+ hated, had been seized by his orders in the capital and the
+ provinces; and the old palace of Constantine was assigned as
+ the place of their confinement.","('Constantine', 'PERSON')"
+"A guard of five
+ hundred soldiers watched over his person and the palace; the
+ funeral of the late emperor was decently performed; the
+ capital was silent and submissive; and five hundred letters,
+ which Cantacuzene despatched in the first month, informed
+ the provinces of their loss and their duty.","('five\r\n hundred', 'CARDINAL'), ('five hundred', 'CARDINAL'), ('Cantacuzene', 'PERSON'), ('the first month', 'DATE')"
+"A long contest of one hundred and thirty years was determined by the triumph of Venice; and the factions of the Genoese compelled them to seek for domestic peace under the protection of a foreign lord, the duke of Milan, or the French king.","('one hundred and thirty years', 'DATE'), ('Venice', 'GPE'), ('Genoese', 'NORP'), ('Milan', 'GPE'), ('French', 'NORP')"
+"A noble Genoese espoused the cause of Palaeologus, obtained a
+ promise of his sister, and achieved the revolution with two galleys and two thousand five hundred auxiliaries.","('Genoese', 'PERSON'), ('Palaeologus', 'PERSON'), ('two', 'CARDINAL'), ('two thousand five hundred', 'CARDINAL')"
+"A numerous and loyal party yet adhered to the standard of Cantacuzene: but he asserts in his history (does he hope for belief?) that his tender conscience rejected the assurance of conquest; that, in free obedience to the voice of religion and philosophy, he descended from the throne and embraced with pleasure the monastic habit and profession. (36)","('Cantacuzene', 'PERSON')"
+"A private treaty with the cral or
+ despot of Servia was soon followed by an open revolt; and
+ Cantacuzene, on the throne of the elder Andronicus, defended
+ the cause of age and prerogative, which in his youth he had
+ so vigorously attacked.","('Servia', 'PERSON'), ('Cantacuzene', 'PERSON'), ('Andronicus', 'PERSON')"
+"A sailor threatened that they
+ should soon be masters of Constantinople, and slew the Greek
+ who resented this national affront; and an armed vessel,
+ after refusing to salute the palace, was guilty of some acts
+ of piracy in the Black Sea.","('Constantinople', 'GPE'), ('Greek', 'NORP'), ('the Black Sea', 'LOC')"
+"After he had been declared a public enemy, it was his fervent wish to throw himself at the feet of the young emperor, and to receive without a murmur the stroke of the executioner: it was not without reluctance that he
+ listened to the voice of reason, which inculcated the sacred duty of saving his family and friends, and proved that he could only save them by drawing the sword and assuming the Imperial title.","('Imperial', 'ORG')"
+"After the conclusion of
+ the peace, Palaeologus was left at Thessalonica, a royal
+ residence, and a frontier station, to secure by his absence
+ the peace of Constantinople, and to withdraw his youth from
+ the temptations of a luxurious capital.","('Palaeologus', 'PERSON'), ('Thessalonica', 'GPE'), ('Constantinople', 'GPE')"
+"After the death of this childish
+ princess, Andronicus sought in marriage Jane, the sister of
+ the count of Savoy; (19) and his suit was preferred to that
+ of the French king. (20)","('Andronicus', 'PERSON'), ('Jane', 'PERSON'), ('Savoy', 'PERSON'), ('19', 'CARDINAL'), ('French', 'NORP'), ('20', 'CARDINAL')"
+"After the example of the first of the Palaeologi, the elder
+ Andronicus associated his son Michael to the honours of the
+ purple; and from the age of eighteen to his premature death,
+ that prince was acknowledged, above twenty- five years, as
+ the second emperor of the Greeks. (6)","('first', 'ORDINAL'), ('Palaeologi', 'NORP'), ('Andronicus', 'PERSON'), ('Michael', 'PERSON'), ('the age of eighteen', 'DATE'), ('twenty- five years', 'DATE'), ('second', 'ORDINAL'), ('Greeks', 'NORP'), ('6', 'CARDINAL')"
+"After this loss, the rebel emperor (he
+ fluctuated between the two characters) took the road of
+ Thessalonica with a chosen remnant; but he failed in his
+ enterprise on that important place; and he was closely
+ pursued by the great duke, his enemy Apocaucus, at the head
+ of a superior power by sea and land.","('two', 'CARDINAL'), ('Thessalonica', 'GPE'), ('Apocaucus', 'PERSON')"
+"An Italian, of the name of
+ Facciolati, (32) had succeeded to the office of great duke:
+ the ships, the guards, and the golden gate, were subject to
+ his command; but his humble ambition was bribed to become
+ the instrument of treachery; and the revolution was
+ accomplished without danger or bloodshed.","('Italian', 'NORP'), ('Facciolati', 'PERSON'), ('32', 'CARDINAL')"
+"Andronicus started from his bed, and spent the night in prayer, till he felt, or thought
+ that he felt, a slight motion of the earth.","('Andronicus', 'PERSON')"
+"Andronicus the younger was touched with remorse, or fatigued with business, or deceived by negotiation: pleasure rather than power was his aim; and the license of maintaining a thousand hounds, a thousand hawks, and a thousand huntsmen, was sufficient to sully his fame and disarm his ambition.","('Andronicus', 'PERSON'), ('a thousand', 'CARDINAL'), ('a thousand', 'CARDINAL'), ('a thousand', 'CARDINAL')"
+"Andronicus was old
+ before his time; the intemperance of youth had accelerated
+ the infirmities of age; and after being rescued from a
+ dangerous malady by nature, or physic, or the Virgin, he was
+ snatched away before he had accomplished his forty-fifth
+ year.","('Andronicus', 'PERSON'), ('Virgin', 'PERSON'), ('forty-fifth\r\n year', 'DATE')"
+"Anne of Savoy might rejoice in the fall of a
+ haughty and ambitious minister, but while she delayed to
+ resolve or to act, the populace, more especially the
+ mariners, were excited by the widow of the great duke to a
+ sedition, an assault, and a massacre.","('Anne of Savoy', 'PERSON')"
+"As the son of Andronicus advanced in the years
+ of manhood, he began to feel and to act for himself; and his
+ rising ambition was rather stimulated than checked by the
+ imitation of his father's vices.","('Andronicus', 'PERSON')"
+"At his request the empress-mother
+ undertook the voyage of Thessalonica, and the office of
+ mediation: she returned without success; and unless Anne of
+ Savoy was instructed by adversity, we may doubt the
+ sincerity, or at least the fervour, of her zeal.","('Thessalonica', 'GPE'), ('Anne of\r\n Savoy', 'PERSON')"
+"At the dead of night, a monk rudely knocked at the door of the royal bed-chamber, announcing a revelation of plague and famine,
+ of inundations and earthquakes.","('the dead of night', 'TIME')"
+"At the end of four years, some youths, climbing by a ladder in search of pigeons' nests, detected the fatal secret; and, as Andronicus felt himself touched and bound by the excommunication, he trembled on the brink of the abyss which had been so treacherously dug under his feet.","('the end of four years', 'DATE'), ('Andronicus', 'PERSON')"
+"At the same time,
+ they attacked and burnt two Byzantine galleys; while the
+ three others, the remainder of the Imperial navy, escaped
+ from their hands: the habitations without the gates, or
+ along the shore, were pillaged and destroyed; and the care
+ of the regent, of the empress Irene, was confined to the
+ preservation of the city.","('two', 'CARDINAL'), ('Byzantine', 'NORP'), ('three', 'CARDINAL'), ('Imperial', 'NORP'), ('Irene', 'PERSON')"
+"Between three persons so different in their situation and character, a private league was concluded: a
+ shadow of authority was restored to the senate; and the people was tempted by the name of freedom.","('three', 'CARDINAL')"
+"But Anne soon learned to hate
+ without a teacher: she beheld the misfortunes of the empire
+ with the indifference of a stranger: her jealousy was
+ exasperated by the competition of a rival empress; and on
+ the first symptoms of a more yielding temper, she threatened
+ the patriarch to convene a synod, and degrade him from his
+ office.","('Anne', 'PERSON'), ('first', 'ORDINAL')"
+But Constantinople was still attached to the blood of her ancient princes; and this last injury accelerated the restoration of the rightful heir.,"('Constantinople', 'GPE')"
+"But even in this act of revolt, he was still studious of loyalty; and the titles of John Palaeologus and Anne of Savoy were proclaimed before his own name and that of his wife Irene.","('John Palaeologus', 'PERSON'), ('Anne of Savoy', 'PERSON'), ('Irene', 'PERSON')"
+"But his impotence was soon exposed to contempt and oblivion;
+ the vast silence of the palace was disturbed only by the
+ cattle and poultry of the neighbourhood,  which roved with
+ impunity through the solitary courts; and a reduced
+ allowance of ten thousand pieces of gold (11) was all that he
+ could ask, and more than he could hope.","('ten thousand', 'CARDINAL'), ('11', 'CARDINAL')"
+"But in the reign of the younger Andronicus, these monasteries were visited by Barlaam, (41) a Calabrian monk, who was equally skilled in philosophy and theology; who possessed the language of the Greeks and Latins; and whose versatile genius could maintain their opposite creeds, according to the interest of the moment.","('Andronicus', 'PERSON'), ('Barlaam', 'PERSON'), ('41', 'DATE'), ('Calabrian', 'NORP'), ('Greeks', 'NORP'), ('Latins', 'NORP')"
+"But the Greeks were soon admonished, that the public disorders could not be healed by a civil war; and that their young favourite was not destined to be the saviour of a falling empire.","('Greeks', 'NORP')"
+"But the distance
+ weakened the powers of control, and the son of Andronicus
+ was surrounded with artful or unthinking companions, who
+ taught him to hate his guardian, to deplore his exile, and
+ to vindicate his rights.","('Andronicus', 'PERSON')"
+"But the emperor was soon solicited to violate the treaty,
+ and to join his arms with the Venetians, the perpetual
+ enemies of Genoa and her colonies.","('Venetians', 'NORP'), ('Genoa', 'GPE')"
+"But the younger
+ Andronicus was speedily corrupted by his infant greatness,
+ while he beheld with puerile impatience the double obstacle
+ that hung, and might long hang, over his rising ambition.","('Andronicus', 'PERSON')"
+"By his intemperate discipline, the patriarch Athanasius (2) excited the hatred of the clergy and people: he was heard to declare, that the sinner should swallow the last dregs of the cup of penance; and the foolish tale was propagated of his punishing a sacrilegious ass that had tasted the lettuce of a convent garden.","('Athanasius', 'PERSON')"
+"By the arms of the Turks, who now struck
+ a deep and everlasting root in Europe, Cantacuzene prevailed
+ in the third contest in which he had been involved; and the
+ young emperor, driven from the sea and land, was compelled
+ to take shelter among the Latins of the Isle of Tenedos.","('Turks', 'NORP'), ('Europe', 'LOC'), ('Cantacuzene', 'PERSON'), ('third', 'ORDINAL'), ('Latins', 'NORP'), ('the Isle of Tenedos', 'GPE')"
+"By the second  treaty, he stipulated the payment of his troops, his immediate coronation, and an adequate share of the power and revenue of the state.","('second', 'ORDINAL')"
+"By these melancholy events, and the increase of his
+ disorders, the mind of the elder emperor was gradually
+ alienated; and, after many fruitless reproofs, he
+ transferred on another grandson (8) his hopes and affection.","('8', 'CARDINAL')"
+"By this powerful confederacy, the great domestic was assaulted at first with clandestine, at length with open, arms.","('first', 'ORDINAL')"
+"Cantacuzene assumes the Purple, A.D. 1341, October 26.","('Cantacuzene', 'ORG'), ('1341', 'CARDINAL'), ('October 26', 'DATE')"
+"Cantacuzene instantly signed his treaty with the Venetians;
+ but the weight of the Roman empire was scarcely felt in the
+ balance of these opulent and powerful republics. (51)","('Cantacuzene', 'PERSON'), ('Venetians', 'NORP'), ('Roman', 'NORP'), ('51', 'CARDINAL')"
+"Civil Wars, and Ruin of the Greek empire.","('Civil Wars', 'EVENT'), ('Greek', 'NORP')"
+"Constantinople adhered to the young emperor; the king of Bulgaria was invited to the relief of Adrianople: the principal cities of Thrace and Macedonia, after some hesitation, renounced their
+ obedience to the great domestic; and the leaders of the troops and provinces were induced, by their private interest, to prefer the loose dominion of a woman and a priest.","('Constantinople', 'GPE'), ('Bulgaria', 'GPE'), ('Adrianople', 'GPE'), ('Thrace', 'GPE'), ('Macedonia', 'GPE')"
+"Coronation of the younger Andronicus, A.D. 1325, February 2.","('Andronicus', 'PERSON'), ('A.D. 1325', 'DATE'), ('February 2', 'DATE')"
+"Deserted by their friends, the Greeks were incapable of resistance; and three months after the battle, the emperor Cantacuzene solicited and subscribed a treaty, which forever banished the Venetians and Catalans, and granted to the Genoese a monopoly of trade, and almost a right of dominion.","('Greeks', 'NORP'), ('three months', 'DATE'), ('Cantacuzene', 'PERSON'), ('Venetians', 'NORP'), ('Catalans', 'NORP'), ('Genoese', 'NORP')"
+"Destitute
+ of a navy, the Greeks were oppressed by these haughty
+ merchants, who fed, or famished, Constantinople, according
+ to their interest.","('Greeks', 'NORP'), ('Constantinople', 'GPE')"
+"Destitute of the
+ powers of resistance, or the hope of relief, the inflexible
+ Anne would have still defended the palace, and have smiled
+ to behold the capital in flames, rather than in the
+ possession of a rival.","('Anne', 'PERSON')"
+"Destruction of his fleet, A.D. 1349.","('A.D. 1349', 'DATE')"
+"Dispute concerning the light of mount Thabor, A.D. 1341 - 1351.","('A.D. 1341 - 1351', 'DATE')"
+"Driven from the coast,
+ in his march, or rather flight, into the mountains of
+ Servia, Cantacuzene assembled his troops to scrutinize those
+ who were worthy and willing to accompany his broken
+ fortunes.","('Servia', 'GPE'), ('Cantacuzene', 'PERSON')"
+"Driven from the throne by the universal clamour, Athanasius composed before his retreat two papers of a very opposite cast.","('Athanasius', 'PERSON'), ('two', 'CARDINAL')"
+"During the
+ late troubles, the treasures of the state, and even the
+ furniture of the palace, had been alienated or embezzled;
+ the royal banquet was served in pewter or earthenware; and
+ such was the proud poverty of the times, that the absence of
+ gold and jewels was supplied by the paltry artifices of
+ glass and gilt-leather. (33)
+Reign of John Cantacuzene, A.D. 1347, January 8 -1355, January.","('John Cantacuzene', 'PERSON'), ('A.D. 1347', 'DATE'), ('January 8 -1355', 'DATE'), ('January', 'DATE')"
+Establishment of a Genoese Colony at Pera or Galata.,"('a Genoese Colony', 'ORG'), ('Pera', 'GPE'), ('Galata', 'GPE')"
+"Establishment of the Genoese at Pera or Galata, A.D. 1261 - 1347.","('Genoese', 'GPE'), ('Pera', 'GPE'), ('Galata', 'GPE'), ('A.D. 1261 - 1347', 'DATE')"
+"First disputes between the elder and the younger Andronicus, A.D. 1320.","('First', 'ORDINAL'), ('Andronicus', 'PERSON'), ('A.D. 1320', 'DATE')"
+"For the conclusion of this chapter, I have reserved the
+ Genoese war, which shook the throne of Cantacuzene, and
+ betrayed the debility of the Greek empire.","('the\r\n Genoese war', 'EVENT'), ('Cantacuzene', 'NORP'), ('Greek', 'NORP')"
+Fortune of John Cantacuzene.,"('John Cantacuzene', 'PERSON')"
+"Four years after his
+ abdication, Andronicus or Antony expired in a cell, in the
+ seventy-fourth year of his age: and the last strain of
+ adulation could only promise a more splendid crown of glory
+ in heaven than he had enjoyed upon earth. (12)
+Reign of Andronicus the younger, A.D. 1328, May 24 - A.D. 1341, June 15.","('Four years', 'DATE'), ('Andronicus', 'PERSON'), ('Antony', 'PERSON'), ('the\r\n seventy-fourth year', 'DATE'), ('A.D. 1328', 'DATE'), ('May 24 - A.D. 1341', 'DATE'), ('June 15', 'DATE')"
+"From
+ the Straits of Gibraltar to the mouth of the Tanais, their
+ fleets encountered each other with various success; and a
+ memorable battle was fought in the narrow sea, under the
+ walls of Constantinople.","('the Straits of Gibraltar', 'LOC'), ('Tanais', 'NORP'), ('Constantinople', 'GPE')"
+"From the colony of Pera, the Genoese engaged
+ with superior advantage in the lucrative trade of the Black
+ Sea; and their industry supplied the Greeks with fish and
+ corn; two articles of food almost equally important to a
+ superstitious people.","('Pera', 'GPE'), ('Genoese', 'GPE'), ('the Black\r\n Sea', 'LOC'), ('Greeks', 'NORP'), ('two', 'CARDINAL')"
+"From the rage of the monks of Mount
+ Athos, who threatened his life, the Calabrian retired to
+ Constantinople, where his smooth and specious manners
+ introduced him to the favour of the great domestic and the
+ emperor.","('Mount\r\n Athos', 'LOC'), ('Calabrian', 'NORP'), ('Constantinople', 'GPE')"
+"From the review of his preceding conduct, Cantacuzene appears to have been guiltless of any treasonable designs; and the only suspicion of his innocence must arise from the vehemence of his
+ protestations, and the sublime purity which he ascribes to his own virtue.","('Cantacuzene', 'PERSON')"
+"Genoa sealed a firm alliance with the Greeks;
+ and, in case of a defensive war, a supply of fifty empty
+ galleys and a succour of fifty galleys, completely armed and
+ manned, was promised by the republic to the empire.","('Genoa', 'GPE'), ('Greeks', 'NORP'), ('fifty', 'CARDINAL'), ('fifty', 'CARDINAL')"
+"He does not indeed specify the value
+ of his money, plate, and jewels; yet, after a voluntary gift
+ of two hundred vases of silver, after much had been secreted
+ by his friends and plundered by his foes, his forfeit
+ treasures were sufficient for the equipment of a fleet of
+ seventy galleys.","('two hundred', 'CARDINAL'), ('seventy', 'CARDINAL')"
+"He does not measure the size and number of
+ his estates; but his granaries were heaped with an
+ incredible store of wheat and barley; and the labor of a
+ thousand yoke of oxen might cultivate, according to the
+ practice of antiquity, about sixty-two thousand five hundred
+ acres of arable land. (23)","('thousand', 'CARDINAL'), ('about sixty-two thousand five hundred\r\n acres', 'QUANTITY'), ('23', 'CARDINAL')"
+"He is celebrated as the most learned and virtuous prince of the age; but such virtue, and such learning, contributed neither to the perfection of the individual, nor to the happiness of society A slave of the most abject superstition, he was surrounded on all sides by visible and invisible enemies; nor were the flames of hell less dreadful to his fancy, than those of a Catalan or Turkish war.","('Catalan', 'NORP'), ('Turkish', 'NORP')"
+"He produced an obsolete epistle of Andronicus, which bequeathed the
+ prince and people to his pious care: the fate of his predecessor Arsenius prompted him to prevent, rather than punish, the crimes of a usurper; and Apocaucus smiled at the success of his own flattery, when he beheld the Byzantine priest assuming the state and temporal claims of the Roman
+ pontiff. (26)","('Andronicus', 'PERSON'), ('Arsenius', 'PERSON'), ('Apocaucus', 'PERSON'), ('Byzantine', 'NORP'), ('Roman', 'NORP'), ('26', 'CARDINAL')"
+"He re-enters Constantinople, A.D. 1347, January 8.","('Constantinople', 'GPE'), ('A.D. 1347', 'DATE'), ('January 8', 'DATE')"
+"He sharpened a controversial
+ pen against the Jews and Mahometans; (38) and in every state
+ he defended with equal zeal the divine light of Mount
+ Thabor, a memorable question which consummates the religious
+ follies of the Greeks.","('Jews', 'NORP'), ('Mahometans', 'NORP'), ('38', 'CARDINAL'), ('Mount\r\n Thabor', 'LOC'), ('Greeks', 'NORP')"
+"He successively recovered the provinces and
+ cities; and the realm of his pupil was measured by the walls
+ of Constantinople; but the metropolis alone counterbalanced
+ the rest of the empire; nor could he attempt that important
+ conquest till he had secured in his favour the public voice
+ and a private correspondence.","('Constantinople', 'GPE')"
+"He was twice married; and, as the progress of the Latins in arms and arts had softened the prejudices of the
+ Byzantine court, his two wives were chosen in the princely
+ houses of Germany and Italy.","('Latins', 'NORP'), ('Byzantine', 'NORP'), ('two', 'CARDINAL'), ('Germany', 'GPE'), ('Italy', 'GPE')"
+"Her
+ father (14) was a petty lord (15) in the poor and savage regions of the north of Germany: (16) yet he derived some revenue from his silver mines; (17) and his family is
+ celebrated by the Greeks as the most ancient and noble of
+ the Teutonic name.","('14', 'DATE'), ('15', 'CARDINAL'), ('Germany', 'GPE'), ('16', 'CARDINAL'), ('17', 'CARDINAL'), ('Greeks', 'NORP'), ('Teutonic', 'NORP')"
+His attack compelled the more learned to renounce or dissemble the simple devotion of their brethren; and Gregory Palamas introduced a scholastic distinction between the essence and operation of God.,"('Gregory Palamas', 'PERSON')"
+"His death, A.D. 1332, February 13.","('A.D. 1332', 'DATE'), ('February 13', 'DATE')"
+"His enemies confess,
+ that, among the public robbers, Cantacuzene alone was
+ moderate and abstemious; and the free and voluntary account
+ which he produces of his own wealth (22) may sustain the
+ presumption that he was devolved by inheritance, and not
+ accumulated by rapine.","('Cantacuzene', 'PERSON'), ('22', 'CARDINAL')"
+"His followers might style the general
+ amnesty an act of pardon for his enemies, and of oblivion
+ for his friends: (35) in his cause their estates had been
+ forfeited or plundered; and as they wandered naked and
+ hungry through the streets, they cursed the selfish
+ generosity of a leader, who, on the throne of the empire,
+ might relinquish without merit his private inheritance.","('35', 'CARDINAL')"
+"His guards watched at the gate, and as
+ he stood in the inner court to overlook the architects,
+ without fear or suspicion, he was assaulted and laid
+ breathless on the ground, by two  resolute prisoners of the Palaeologian race, (30) who were armed with sticks, and animated by despair.","('two', 'CARDINAL'), ('Palaeologian', 'NORP'), ('30', 'CARDINAL')"
+"His inaccessible essence dwells in the midst of an uncreated and eternal light; and this beatific vision of the saints had been manifested to the disciples on Mount Thabor, in the transfiguration of Christ.","('Mount Thabor', 'LOC'), ('Christ', 'PERSON')"
+"His insolence and obstinacy provoked the victor to a step
+ which must render the quarrel irreconcilable; and the
+ association of his son Matthew, whom he invested with the
+ purple, established the succession in the family of the
+ Cantacuzeni.","('Matthew', 'PERSON'), ('Cantacuzeni', 'NORP')"
+"His memorials of forty years extend from the
+ revolt of the younger Andronicus to his own abdication of
+ the empire; and it is observed, that, like Moses and Caesar,
+ he was the principal actor in the scenes which he describes.","('forty years', 'DATE'), ('Andronicus', 'PERSON'), ('Moses', 'PERSON'), ('Caesar', 'PERSON')"
+"His pastures were stocked with two
+ thousand five hundred brood mares, two hundred camels, three
+ hundred mules, five hundred asses, five thousand horned
+ cattle, fifty thousand hogs, and seventy thousand sheep: (24)
+ a precious record of rural opulence, in the last period of the empire, and in a land, most probably in Thrace, so repeatedly wasted by foreign and domestic hostility.","('two\r\n thousand five hundred', 'CARDINAL'), ('two hundred', 'CARDINAL'), ('three\r\n hundred', 'CARDINAL'), ('five hundred', 'CARDINAL'), ('five thousand', 'CARDINAL'), ('fifty thousand', 'CARDINAL'), ('seventy thousand', 'CARDINAL'), ('24', 'CARDINAL'), ('Thrace', 'LOC')"
+"His principal commander scorned the repeated
+ warnings of danger; and retiring to rest in the vain
+ security of ignorance, abandoned the feeble monarch, with
+ some priests and pages, to the terrors of a sleepless night.","('a sleepless night', 'TIME')"
+"His regency is attacked, A.D. 1341,
+ Had the regent found a suitable return of obedience and gratitude, perhaps he would have acted with pure and zealous fidelity in the service of his pupil. (25)","('A.D. 1341', 'DATE'), ('25', 'CARDINAL')"
+His two wives.,"('two', 'CARDINAL')"
+"However guiltless in his
+ intention, the younger Andronicus might impute a brother's
+ and a father's death to the consequence of his own vices;
+ and deep was the sigh of thinking and feeling men, when they
+ perceived, instead of sorrow and repentance, his
+ ill-dissembled joy on the removal of two odious competitors.","('Andronicus', 'PERSON'), ('two', 'CARDINAL')"
+"I hasten to conclude the personal history of John
+ Cantacuzene. (34)","('John\r\n Cantacuzene', 'PERSON'), ('34', 'CARDINAL')"
+"If this transaction be one of the most curious and important
+ of a reign of fifty years, I cannot at least accuse the
+ brevity of my materials, since I reduce into some few pages
+ the enormous folios of Pachymer, (3) Cantacuzene, (4) and
+ Nicephorus Gregoras, (5) who have composed the prolix and
+ languid story of the times.","('fifty years', 'DATE'), ('Pachymer', 'PERSON'), ('3', 'CARDINAL'), ('Cantacuzene', 'PERSON'), ('4', 'CARDINAL'), ('Nicephorus Gregoras', 'PERSON'), ('5', 'CARDINAL')"
+"If we may trust his own
+ professions, Cantacuzene labored with honest industry to
+ correct these sordid and sensual appetites, and to raise the
+ mind of the young prince to a level with his fortune.","('Cantacuzene', 'PERSON')"
+"In
+ the Servian expedition, the two emperors showed themselves
+ in cordial harmony to the troops and provinces; and the
+ younger colleague was initiated by the elder in the
+ mysteries of war and government.","('Servian', 'NORP'), ('two', 'CARDINAL')"
+"In a
+ public epistle, (54) addressed to the doge and senate,
+ Petrarch employs his eloquence to reconcile the maritime powers, the two luminaries of Italy.","('54', 'DATE'), ('Petrarch', 'PERSON'), ('two', 'CARDINAL'), ('Italy', 'GPE')"
+"In the
+ revival of a naval force, it was the aim of Michael
+ Palaeologus to deliver himself from a foreign aid; and his
+ vigorous government contained the Genoese of Galata within
+ those limits which the insolence of wealth and freedom
+ provoked them to exceed.","('Michael\r\n Palaeologus', 'PERSON'), ('Genoese', 'NORP'), ('Galata', 'GPE')"
+"In the beginning of the dispute,
+ the empress felt, and complained, that she was deceived by
+ the enemies of Cantacuzene: the patriarch was employed to
+ preach against the forgiveness of injuries; and her promise
+ of immortal hatred was sealed by an oath, under the penalty
+ of excommunication.","('Cantacuzene', 'PERSON')"
+"In the character of emperor
+ and theologian, Cantacuzene presided in the synod of the
+ Greek church, which established, as an article of faith, the
+ uncreated light of Mount Thabor; and, after so many insults,
+ the reason of mankind was slightly wounded by the addition
+ of a single absurdity.","('Cantacuzene', 'PERSON'), ('Greek', 'NORP'), ('Mount Thabor', 'LOC')"
+"In the first treaty, the relics of the Greek empire were divided: Constantinople,
+ Thessalonica, and the islands, were left to the elder, while the younger acquired the sovereignty of the greatest part of Thrace, from Philippi to the Byzantine limit.","('first', 'ORDINAL'), ('Greek', 'NORP'), ('Constantinople', 'GPE'), ('Thessalonica', 'GPE'), ('Thrace', 'LOC'), ('Philippi', 'GPE'), ('Byzantine', 'NORP')"
+"In the moments of familiarity, in the hour of sickness, the emperor was desirous to level the distance between them and pressed his friend to accept the diadem and purple.","('the hour', 'TIME')"
+"In the night, they
+ stole away the footstool or foot-cloth of his throne, which
+ they secretly replaced with the decoration of a satirical
+ picture.","('the night', 'TIME')"
+"In the reign of
+ Michael Palaeologus, their prerogative was acknowledged by
+ the sultan of Egypt, who solicited and obtained the liberty
+ of sending an annual ship for the purchase of slaves in
+ Circassia and the Lesser Tartary:","('Michael Palaeologus', 'PERSON'), ('Egypt', 'GPE'), ('Circassia', 'GPE'), ('the Lesser Tartary', 'GPE')"
+"In the spring, the Byzantine fleet, seven
+ galleys and a train of smaller vessels, issued from the
+ mouth of the harbour, and steered in a single line along the
+ shore of Pera; unskilfully presenting their sides to the
+ beaks of the adverse squadron.","('the spring', 'DATE'), ('Byzantine', 'NORP'), ('seven', 'CARDINAL'), ('Pera', 'GPE')"
+"In the strong city of Demotica, his peculiar domain, the emperor John Cantacuzenus was invested with the purple buskins: his right leg was clothed by his noble kinsmen, the left by the Latin chiefs, on whom he conferred the order of knighthood.","('Demotica', 'GPE'), ('John Cantacuzenus', 'PERSON'), ('Latin', 'NORP')"
+"Instead of suing for pardon,
+ the Genoese demanded satisfaction; required, in a haughty
+ strain, that the Greeks should renounce the exercise of
+ navigation; and encountered with regular arms the first
+ sallies of the popular indignation.","('Genoese', 'PERSON'), ('Greeks', 'NORP'), ('first', 'ORDINAL')"
+"It
+ was not without difficulty that the late emperor could
+ procure three or four pieces to satisfy these simple wants;
+ and if he bestowed the gold to relieve the more painful
+ distress of a friend, the sacrifice is of some weight in the
+ scale of humanity and religion.","('three', 'CARDINAL'), ('four', 'CARDINAL')"
+"It had been formed
+ amidst the pleasures of their youth: their families were
+ almost equally noble; (21) and the recent lustre of the
+ purple was amply compensated by the energy of a private
+ education.","('21', 'CARDINAL')"
+"It is the practice of both sides to accuse their
+ enemies of the guilt of the first alliances; and those who
+ fail in their negotiations are loudest in their censure of
+ the example which they envy and would gladly imitate.","('first', 'ORDINAL')"
+"It was not to acquire fame, or to diffuse happiness, that he
+ so eagerly aspired: wealth and impunity were in his eyes the
+ most precious attributes of a monarch; and his first
+ indiscreet demand was the sovereignty of some rich and
+ fertile island, where he might lead a life of independence
+ and pleasure.","('first', 'ORDINAL')"
+"It would not be an easy task to
+ reconcile the accounts of the Greeks, the Venetians, and the
+ Genoese; (52) and while I depend on the narrative of an
+ impartial historian, (53) I shall borrow from each nation the
+ facts that redound to their own disgrace, and the honour of
+ their foes.","('Greeks', 'NORP'), ('Venetians', 'NORP'), ('Genoese', 'NORP'), ('52', 'CARDINAL'), ('53', 'DATE')"
+"John Palaeologus takes up arms against him, A.D. 1353.","('John Palaeologus', 'PERSON'), ('A.D. 1353', 'DATE')"
+"Many rolls of paper or parchment
+ have been blotted; and the impenitent sectaries, who refused
+ to subscribe the orthodox creed, were deprived of the honours
+ of Christian burial; but in the next age the question was
+ forgotten; nor can I learn that the axe or the faggot were
+ employed for the extirpation of the Barlaamite heresy. (42)","('Christian', 'NORP'), ('the next age', 'DATE'), ('Barlaamite', 'NORP'), ('42', 'CARDINAL')"
+"Near six years the flame of discord burnt with various
+ success and unabated rage: the cities were distracted by the
+ faction of the nobles and the plebeians; the Cantacuzeni and
+ Palaeologi: and the Bulgarians, the Servians, and the Turks,
+ were invoked on both sides as the instruments of private
+ ambition and the common ruin.","('six years', 'DATE'), ('Cantacuzeni', 'NORP'), ('Palaeologi', 'NORP'), ('Bulgarians', 'NORP'), ('Servians', 'NORP'), ('Turks', 'NORP')"
+"Nor was the reign of the younger, more glorious or fortunate
+ than that of the elder, Andronicus. (13)","('Andronicus', 'PERSON'), ('13', 'CARDINAL')"
+"On his just complaint, they coldly blamed
+ the imprudence of their engineer; but the next day the
+ insult was repeated; and they exulted in a second proof that
+ the royal city was not beyond the reach of their artillery.","('the next day', 'DATE'), ('second', 'ORDINAL')"
+"On the approach of their fleets, the Genoese, with their
+ families and effects, retired into the city: their empty
+ habitations were reduced to ashes; and the feeble prince,
+ who had viewed the destruction of his suburb, expressed his
+ resentment, not by arms, but by ambassadors.","('Genoese', 'NORP')"
+"On the first repulse, his party was broken by his own levity, their intestine discord, and the intrigues of the ancient court, which tempted each malcontent to desert or betray the cause of the rebellion.","('first', 'ORDINAL')"
+"On the separation
+ of the fleets, the event might appear doubtful; but the
+ thirteen Genoese galleys, that had been sunk or taken, were
+ compensated by a double loss of the allies; of fourteen
+ Venetians, ten Catalans, and two Greeks;  and even the
+ grief of the conquerors expressed the assurance and habit of
+ more decisive victories.","('thirteen', 'CARDINAL'), ('Genoese', 'NORP'), ('fourteen', 'CARDINAL'), ('Venetians', 'NORP'), ('ten', 'CARDINAL'), ('Catalans', 'NORP'), ('two', 'CARDINAL'), ('Greeks', 'NORP')"
+"Palaeologus alone was
+ responsible for his future government; and whatever might be
+ his vices, they were surely less formidable than the
+ calamities of a civil war, in which the Barbarians and
+ infidels were again invited to assist the Greeks in their
+ mutual destruction.","('Palaeologus', 'PERSON'), ('Barbarians', 'NORP'), ('Greeks', 'NORP')"
+"Pisani confessed his defeat, by
+ retiring into a fortified harbour, from whence, under the
+ pretext of the orders of the senate, he steered with a
+ broken and flying squadron for the Isle of Candia, and
+ abandoned to his rivals the sovereignty of the sea.","('Pisani', 'PERSON'), ('the Isle of Candia', 'GPE')"
+"Reign of John Palaeologus, A.D. 1341, June 15- A.D. 1391.","('John Palaeologus', 'PERSON'), ('A.D. 1341', 'DATE'), ('June 15- A.D. 1391', 'DATE')"
+"Reigns of Andronicus, the Elder and Younger, and John Palaeologus
+ Regency, Revolt, Reign, and Abdication of John Cantacuzene.","('Andronicus', 'PERSON'), ('Younger', 'PERSON'), ('John Palaeologus\r\n Regency', 'PERSON'), ('Abdication', 'ORG'), ('John Cantacuzene', 'PERSON')"
+"So soon as he ceased to be a prince, his successor was not unwilling that he should be a saint: the remainder of his life was devoted to piety and learning; Abdication of Cantacuzene,A.D. 1335,January.  in the cells of Constantinople and Mount Athos, the monk Joasaph was respected as the temporal and spiritual father of the emperor; and if he issued from his retreat, it was as the minister of peace, to subdue the obstinacy, and solicit the pardon, of his rebellious son.
+ (37)","('Abdication of Cantacuzene', 'WORK_OF_ART'), ('A.D. 1335', 'DATE'), ('January', 'DATE'), ('Constantinople', 'GPE'), ('Mount Athos', 'LOC'), ('Joasaph', 'PERSON')"
+"Some faint testimonies of repentance and pardon were extorted from the author of the mischief; but the conscience of the emperor was still wounded, and he desired, with no less ardour than Athanasius himself, the restoration of a patriarch, by whom alone he could be healed.","('Athanasius', 'PERSON')"
+"Summoning the
+ chiefs of the colony, Cantacuzene affected to despise the
+ trivial object of the debate; and, after a mild reproof,
+ most liberally granted the lands, which had been previously
+ resigned to the seeming custody of his officers. (50)","('Cantacuzene', 'PERSON'), ('50', 'CARDINAL')"
+"That prince escaped from the
+ capital under the pretence of hunting; erected his standard
+ at Adrianople; and, in a few days, assembled fifty thousand
+ horse and foot, whom neither honour nor duty could have armed
+ against the Barbarians.","('Adrianople', 'GPE'), ('a few days', 'DATE'), ('fifty thousand', 'CARDINAL'), ('Barbarians', 'NORP')"
+"That stranger was his brother,
+ Prince Manuel, who languished and died of his wound; and the
+ emperor Michael, their common father, whose health was in a
+ declining state, expired on the eighth day, lamenting the
+ loss of both his children.","('Prince Manuel', 'PERSON'), ('Michael', 'PERSON'), ('the eighth day', 'DATE')"
+"The
+ Turks of Asia were less barbarous perhaps than the shepherds
+ of Bulgaria and Servia; but their religion rendered them
+ implacable foes of Rome and Christianity.","('Turks', 'NORP'), ('Asia', 'LOC'), ('Bulgaria', 'GPE'), ('Servia', 'NORP'), ('Rome', 'GPE'), ('Christianity', 'NORP')"
+"The
+ abuses of the civil government attained their full maturity
+ and perfection: his neglect of forms, and the confusion of
+ national dresses, are deplored by the Greeks as the fatal
+ symptoms of the decay of the empire.","('Greeks', 'NORP')"
+"The
+ inclining scale was decided in his favour by the death of
+ Apocaucus, the just though singular retribution of his
+ crimes.","('Apocaucus', 'PERSON')"
+"The
+ merchants of Pera were offended by his refusal of some
+ contiguous land, some commanding heights, which they
+ proposed to cover with new fortifications; and in the
+ absence of the emperor, who was detained at Demotica by
+ sickness, they ventured to brave the debility of a female
+ reign.","('Pera', 'PERSON'), ('Demotica', 'PERSON')"
+"The
+ navigation and trade of the Euxine was the patrimony of the
+ Greek emperors, who commanded the narrow entrance, the
+ gates, as it were, of that inland sea.","('Euxine', 'PRODUCT'), ('Greek', 'NORP')"
+"The Genoese,
+ who, after the recovery of Constantinople, were seated in
+ the suburb of Pera or Galata, received that honourable fief
+ from the bounty of the emperor.","('Genoese', 'PERSON'), ('Constantinople', 'GPE'), ('Pera', 'GPE'), ('Galata', 'GPE')"
+"The Roman empire (I smile in transcribing the name) might soon have sunk into a province of Genoa, if the ambition of the republic had not been checked by the ruin of her freedom and naval power.","('Roman', 'NORP'), ('Genoa', 'GPE')"
+"The Venetians, with their allies the Catalans,
+ had the advantage of number; and their fleet, with the poor
+ addition of eight Byzantine galleys, amounted to
+ seventy-five sail: the Genoese did not exceed sixty-four;
+ but in those times their ships of war were distinguished by
+ the superiority of their size and strength.","('Venetians', 'NORP'), ('Catalans', 'NORP'), ('eight', 'CARDINAL'), ('Byzantine', 'NORP'), ('seventy-five', 'CARDINAL'), ('Genoese', 'PRODUCT'), ('sixty-four', 'CARDINAL')"
+"The age of
+ Andronicus was consumed in civil discord; and, amidst the
+ events of war and treaty, his power and reputation
+ continually decayed, till the fatal night in which the gates
+ of the city and palace were opened without resistance to his
+ grandson.","('Andronicus', 'PERSON'), ('night', 'TIME')"
+"The answer of his grandson was decent and
+ pious; at the prayer of his friends, the younger Andronicus
+ assumed the sole administration; but the elder still enjoyed
+ the name and preeminence of the first emperor, the use of
+ the great palace, and a pension of twenty-four thousand
+ pieces of gold, one half of which was assigned on the royal
+ treasury, and the other on the fishery of Constantinople.","('Andronicus', 'PERSON'), ('first', 'ORDINAL'), ('twenty-four thousand', 'CARDINAL'), ('one', 'CARDINAL'), ('half', 'CARDINAL'), ('Constantinople', 'GPE')"
+"The army of Cantacuzene, in sixteen divisions, was stationed on the banks of the Melas to tempt or to
+ intimidate the capital: it was dispersed by treachery or
+ fear; and the officers, more especially the mercenary
+ Latins, accepted the bribes, and embraced the service, of
+ the Byzantine court.","('Cantacuzene', 'GPE'), ('sixteen', 'CARDINAL'), ('Melas', 'LOC'), ('Latins', 'NORP'), ('Byzantine', 'NORP')"
+"The authors of the libel were detected and punished;
+ but as their lives had been spared, the Christian priest in
+ sullen indignation retired to his cell; and the eyes of
+ Andronicus, which had been opened for a moment, were again
+ closed by his successor.","('Christian', 'NORP'), ('Andronicus', 'PERSON')"
+"The blossoms of wit and beauty
+ increased the fondness of the elder Andronicus; and, with
+ the common vanity of age, he expected to realize in the
+ second, the hope which had been disappointed in the first,
+ generation.","('Andronicus', 'PERSON'), ('second', 'ORDINAL'), ('first', 'ORDINAL')"
+"The civil war, A.D. 1341-1347.","('The civil war', 'EVENT'), ('A.D. 1341-1347', 'DATE')"
+"The colony of Pera or Galata
+ acted, in peace and war, as an independent state; and, as it
+ will happen in distant settlements, the Genoese podesta too
+ often forgot that he was the servant of his own masters.","('Pera', 'GPE'), ('Galata', 'GPE'), ('Genoese', 'NORP')"
+"The count respected in his sister
+ the superior majesty of a Roman empress: her retinue was
+ composed of knights and ladies; she was regenerated and
+ crowned in St. Sophia, under the more orthodox appellation
+ of Anne; and, at the nuptial feast, the Greeks and Italians
+ vied with each other in the martial exercises of tilts and
+ tournaments.","('Roman', 'NORP'), ('St. Sophia', 'GPE'), ('Anne', 'PERSON'), ('Greeks', 'NORP'), ('Italians', 'NORP')"
+"The court and the city were involved in this
+ theological dispute, which flamed amidst the civil war; but
+ the doctrine of Barlaam was disgraced by his flight and
+ apostasy: the Palamites triumphed; and their adversary, the
+ patriarch John of Apri, was deposed by the consent of the
+ adverse factions of the state.","('Barlaam', 'PERSON'), ('Palamites', 'NORP'), ('John of Apri', 'PERSON')"
+"The cral, (28) or despot of the Servians received him with general hospitality; but the ally
+ was insensibly degraded to a suppliant, a hostage, a
+ captive; and in this miserable dependence, he waited at the
+ door of the Barbarian, who could dispose of the life and
+ liberty of a Roman emperor.","('28', 'CARDINAL'), ('Servians', 'NORP'), ('Barbarian', 'NORP'), ('Roman', 'NORP')"
+"The crews were composed of
+ peasants and mechanics; nor was their ignorance compensated
+ by the native courage of Barbarians: the wind was strong,
+ the waves were rough; and no sooner did the Greeks perceive
+ a distant and inactive enemy, than they leaped headlong into
+ the sea, from a doubtful, to an inevitable peril.","('Barbarians', 'NORP'), ('Greeks', 'NORP')"
+"The defenceless situation
+ which secured their obedience exposed them to the attack of
+ their Venetian rivals, who, in the reign of the elder
+ Andronicus, presumed to violate the majesty of the throne.","('Venetian', 'NORP'), ('Andronicus', 'PERSON')"
+"The elder Andronicus abdicates the government, A.D. 1328, May 24.","('Andronicus', 'PERSON'), ('A.D. 1328', 'DATE'), ('May 24', 'DATE')"
+"The emperor on
+ foot led the bishops and monks to the cell of Athanasius;
+ and, after a proper resistance, the saint, from whom this
+ message had been sent, consented to absolve the prince, and
+ govern the church of Constantinople.","('Athanasius', 'PERSON'), ('Constantinople', 'GPE')"
+"The emperor was offended by the loud and
+ frequent intemperance which disturbed his capital; the sums
+ which his parsimony denied were supplied by the Genoese
+ usurers of Pera; and the oppressive debt, which consolidated
+ the interest of a faction, could be discharged only by a
+ revolution.","('Genoese', 'NORP'), ('Pera', 'ORG')"
+"The emperor was painted with a bridle in his mouth,
+ and Athanasius leading the tractable beast to the feet of
+ Christ.","('Athanasius', 'PERSON'), ('Christ', 'PERSON')"
+"The empress Anne of Savoy survived her husband: heir son,
+ John Palaeologus, was left an orphan and an emperor in the
+ ninth year of his age; and his weakness was protected by the
+ first and most deserving of the Greeks.","('Anne of Savoy', 'PERSON'), ('John Palaeologus', 'PERSON'), ('the\r\n ninth year', 'DATE'), ('first', 'ORDINAL'), ('Greeks', 'NORP')"
+"The enemies of the Genoese applaud
+ their prowess; the friends of the Venetians are dissatisfied
+ with their behaviour; but all parties agree in praising the
+ skill and boldness of the Catalans,  who, with many
+ wounds, sustained the brunt of the action.","('Genoese', 'NORP'), ('Venetians', 'NORP'), ('Catalans', 'NORP')"
+"The fakirs of India, (39) and the
+ monks of the Oriental church, were alike persuaded, that in
+ the total abstraction of the faculties of the mind and body,
+ the purer spirit may ascend to the enjoyment and vision of
+ the Deity.","('India', 'GPE'), ('39', 'DATE'), ('Oriental', 'NORP')"
+The favour of Cantacuzene was above his fortune.,"('Cantacuzene', 'PERSON')"
+"The female court of the empress was
+ bribed and directed; he encouraged Anne of Savoy to assert,
+ by the law of nature, the tutelage of her son; the love of
+ power was disguised by the anxiety of maternal tenderness:
+ and the founder of the Palaeologi had instructed his
+ posterity to dread the example of a perfidious guardian.","('Anne of Savoy', 'PERSON'), ('Palaeologi', 'PERSON')"
+"The first, Agnes at home,
+ Irene in Greece, was daughter of the duke of Brunswick.","('first', 'ORDINAL'), ('Agnes', 'PERSON'), ('Irene', 'PERSON'), ('Greece', 'GPE'), ('Brunswick', 'GPE')"
+"The grievances of forty years were mingled in his revolt; and the rising generation was fatigued by the endless prospect of a reign, whose favourites and maxims were of other times.","('forty years', 'DATE')"
+"The indiscretion of an ascetic revealed to the curious traveller the secrets of mental prayer and Barlaam embraced the opportunity of ridiculing the Quietists, who placed the soul in the navel; of accusing the monks of Mount Athos of heresy and blasphemy.","('Barlaam', 'PERSON'), ('Quietists', 'NORP'), ('Mount Athos', 'LOC')"
+"The long and cordial friendship of his father for John Cantacuzene is alike
+ honourable to the prince and the subject.","('John Cantacuzene', 'PERSON')"
+"The long reign of Andronicus (1) the elder is chiefly memorable by the disputes of the Greek church, the invasion of the Catalans, and the rise of the Ottoman power.","('Andronicus', 'PERSON'), ('1', 'CARDINAL'), ('Greek', 'NORP'), ('Catalans', 'NORP'), ('Ottoman', 'NORP')"
+"The marriage of his daughter
+ with John Palaeologus was at length consummated: the
+ hereditary right of the pupil was acknowledged; but the sole
+ administration during ten years was vested in the guardian.","('John Palaeologus', 'PERSON'), ('ten years', 'DATE')"
+"The merchants of the colony, who
+ had believed that a few days would terminate the war,
+ already murmured at their losses: the succours from their
+ mother-country were delayed by the factions of Genoa; and
+ the most cautious embraced the opportunity of a Rhodian
+ vessel to remove their families and effects from the scene
+ of hostility.","('a few days', 'DATE'), ('Genoa', 'GPE'), ('Rhodian', 'NORP')"
+"The monk Antony had renounced the pomp of the world; yet he
+ had occasion for a coarse fur in the winter season, and as
+ wine was forbidden by his confessor, and water by his
+ physician, the sherbet of Egypt was his common drink.","('Antony', 'PERSON'), ('the winter season', 'DATE'), ('Egypt', 'GPE')"
+"The name and situation of the
+ emperor John Cantacuzene might inspire the most lively
+ curiosity.","('John Cantacuzene', 'PERSON')"
+"The names and
+ families of their naval commanders, Pisani and Doria, are
+ illustrious in the annals of their country; but the personal
+ merit of the former was eclipsed by the fame and abilities
+ of his rival.","('Pisani', 'PERSON'), ('Doria', 'PERSON')"
+"The opinion and practice of the monasteries of
+ Mount Athos (40) will be best represented in the words of an
+ abbot, who flourished in the eleventh century.","('Mount Athos', 'LOC'), ('40', 'CARDINAL'), ('the eleventh century', 'DATE')"
+"The orator celebrates the valour and victory of the Genoese, the first of men in the exercise of naval war: he drops a tear on the misfortunes of their Venetian brethren; but he exhorts them to pursue with fire and sword the base and perfidious Greeks; to purge the metropolis of the East from the heresy with which it was infected.","('Genoese', 'NORP'), ('first', 'ORDINAL'), ('Venetian', 'NORP'), ('Greeks', 'NORP'), ('East', 'LOC')"
+"The patriarch John of Apri was a proud and feeble old man, encompassed by a numerous and hungry kindred.","('John of Apri', 'PERSON')"
+"The prospect of
+ a tranquil minority was blasted by the great duke or admiral
+ Apocaucus, and to exaggerate his perfidy, the Imperial
+ historian is pleased to magnify his own imprudence, in
+ raising him to that office against the advice of his more
+ sagacious sovereign.","('Apocaucus', 'PERSON'), ('Imperial', 'NORP')"
+"The public reproach urged
+ him to march in person against the Turks; nor did his
+ courage fail in the hour of trial; but a defeat and a wound
+ were the only trophies of his expedition in Asia, which
+ confirmed the establishment of the Ottoman monarchy.","('Turks', 'NORP'), ('the hour', 'TIME'), ('Asia', 'LOC'), ('Ottoman', 'NORP')"
+"The quarrel of the two Andronici was protracted, and suspended, and renewed, during a ruinous period of seven years.","('two', 'CARDINAL'), ('Andronici', 'GPE'), ('seven years', 'DATE')"
+"The return of Cantacuzene
+ dispelled the public consternation: the emperor inclined to
+ peaceful counsels; but he yielded to the obstinacy of his
+ enemies, who rejected all reasonable terms, and to the ardour
+ of his subjects, who threatened, in the style of Scripture,
+ to break them in pieces like a potter's vessel.","('Cantacuzene', 'PERSON'), ('Scripture', 'WORK_OF_ART')"
+"The son of Michael was named Andronicus
+ from his grandfather, to whose early favour he was introduced
+ by that nominal resemblance.","('Michael', 'PERSON'), ('Andronicus', 'PERSON')"
+"The soul of
+ the enterprise was the great domestic John Cantacuzene; the
+ sally from Constantinople is the first date of his actions
+ and memorials; and if his own pen be most descriptive of his
+ patriotism, an unfriendly historian has not refused to
+ celebrate the zeal and ability which he displayed in the
+ service of the young emperor.","('John Cantacuzene', 'PERSON'), ('Constantinople', 'GPE'), ('first', 'ORDINAL')"
+"The spontaneous bounty of nature
+ appears to have bestowed the harvests of Ukraine, the
+ produce of a rude and savage husbandry; and the endless
+ exportation of salt fish and caviare is annually renewed by
+ the enormous sturgeons that are caught at the mouth of the
+ Don or Tanais, in their last station of the rich mud and
+ shallow water of the Maeotis. (46)","('Ukraine', 'GPE'), ('Don', 'FAC'), ('Tanais', 'FAC'), ('46', 'CARDINAL')"
+"The talents of
+ Cantacuzene were employed to the ruin, rather than the
+ restoration, of the empire; and after his domestic victory,
+ he was condemned to an ignominious trial, whether the Greeks
+ or the Genoese should reign in Constantinople.","('Cantacuzene', 'PERSON'), ('Greeks', 'NORP'), ('Genoese', 'NORP'), ('Constantinople', 'GPE')"
+"The third civil war was terminated by the surprise of Constantinople, the final retreat of the old emperor, and the sole reign of his victorious grandson.","('third', 'ORDINAL'), ('Constantinople', 'GPE')"
+"The troops
+ that marched to the attack of the lines of Pera were struck
+ at the same moment with a similar panic; and the Genoese
+ were astonished, and almost ashamed, at their double
+ victory.","('Pera', 'PERSON'), ('Genoese', 'NORP')"
+"The virtue of the great domestic, which is attested by his own pen, resisted the dangerous proposal; but the last testament of Andronicus the younger named him the guardian of his son, and the regent of the empire.","('Andronicus', 'PERSON')"
+"The waters of the Oxus,
+ the Caspian, the Volga, and the Don, opened a rare and
+ laborious passage for the gems and spices of India; and
+ after three months' march the caravans of Carizme met the
+ Italian vessels in the harbours of Crimaea. (47)","('Oxus', 'LOC'), ('Caspian', 'LOC'), ('Volga', 'LOC'), ('Don', 'FAC'), ('India', 'GPE'), (""three months' march"", 'DATE'), ('Carizme', 'ORG'), ('Italian', 'NORP'), ('Crimaea', 'LOC'), ('47', 'CARDINAL')"
+"The youth of Andronicus had been without spirit, his age was without reverence: his taxes produced an unusual revenue of five hundred thousand pounds; yet the richest of the sovereigns of Christendom was incapable of maintaining three thousand horse and twenty galleys, to resist the destructive progress of the Turks. (9)","('Andronicus', 'PERSON'), ('five hundred thousand pounds', 'QUANTITY'), ('Christendom', 'ORG'), ('three thousand', 'CARDINAL'), ('twenty', 'CARDINAL'), ('Turks', 'NORP'), ('9', 'CARDINAL')"
+"Their Wars with the Empire and City of Constantinople
+Superstition of Andronicus and the times, A.D. 1282-1320","('Andronicus', 'GPE'), ('A.D. 1282-1320', 'DATE')"
+"Their countrymen threatened to
+ support their cause; but the long and open village of Galata
+ was instantly surrounded by the Imperial troops; till, in
+ the moment of the assault, the prostrate Genoese implored
+ the clemency of their sovereign.","('Galata', 'GPE'), ('Imperial', 'NORP'), ('Genoese', 'PERSON')"
+"Their incapacity and discord would have afforded the
+ most decisive advantage; but the civil war was protracted by
+ the weakness of both parties; and the moderation of
+ Cantacuzene has not escaped the reproach of timidity and
+ indolence.","('Cantacuzene', 'GPE')"
+"Their rivals of Venice and Pisa were
+ forcibly expelled; the natives were awed by the castles and
+ cities, which arose on the foundations of their humble
+ factories; and their principal establishment of Caffa (48)
+ was besieged without effect by the Tartar powers.","('Venice', 'GPE'), ('Pisa', 'GPE'), ('Caffa', 'ORG'), ('48', 'CARDINAL'), ('Tartar', 'NORP')"
+"Their treaty with the empire, May 6.","('May 6', 'DATE')"
+"Their war with the emperor Cantacuzene, A.D. 1348.","('Cantacuzene', 'PERSON'), ('A.D. 1348', 'DATE')"
+"These terrors were quickly realized by the hostile shouts,
+ which proclaimed the titles and victory of Andronicus the
+ younger; and the aged emperor, falling prostrate before an
+ image of the Virgin, despatched a suppliant message to
+ resign the sceptre, and to obtain his life at the hands of
+ the conqueror.","('Andronicus', 'PERSON'), ('Virgin', 'PERSON')"
+"These usurpations were encouraged by the weakness of the
+ elder Andronicus, and by the civil wars that afflicted his
+ age and the minority of his grandson.","('Andronicus', 'PERSON')"
+"These various
+ branches of trade were monopolized by the diligence and
+ power of the Genoese.","('Genoese', 'GPE')"
+"They proceeded to usurp the customs, the
+ fishery, and even the toll, of the Bosphorus; and while they
+ derived from these objects a revenue of two hundred thousand
+ pieces of gold, a remnant of thirty thousand was reluctantly
+ allowed to the emperor. (49)","('Bosphorus', 'LOC'), ('two hundred thousand', 'CARDINAL'), ('thirty thousand', 'CARDINAL')"
+"They were
+ justly alarmed by a petition of the friends of Cantacuzene,
+ that they might be released from their oath of allegiance to
+ the Palaeologi, and entrusted with the defence of some
+ cautionary towns; a measure supported with argument and
+ eloquence; and which was rejected (says the Imperial
+ historian) ""by my sublime, and almost incredible virtue.""","('Cantacuzene', 'PERSON'), ('Palaeologi', 'NORP'), ('Imperial', 'NORP')"
+"They were indulged in the
+ use of their laws and magistrates; but they submitted to the
+ duties of vassals and subjects; the forcible word of
+ liegemen (43) was borrowed from the Latin jurisprudence; and their podesta, or chief, before he entered on his office,
+ saluted the emperor with loyal acclamations and vows of
+ fidelity.","('43', 'DATE'), ('Latin', 'NORP')"
+"This
+ misfortune, however, was advantageous to the Genoese, who
+ obtained, and imperceptibly abused, the dangerous license of
+ surrounding Galata with a strong wall; of introducing into
+ the ditch the waters of the sea; of erecting lofty turrets;
+ and of mounting a train of military engines on the rampart.","('Genoese', 'NORP'), ('Galata', 'GPE')"
+"This last paper he enclosed in an earthen pot, which was placed, by his order, on the top of one of the pillars, in the dome of St. Sophia, in the distant hope of discovery and revenge.","('one', 'CARDINAL'), ('St. Sophia', 'LOC')"
+"This light, the production of a distempered fancy, the creature of an empty stomach and an empty brain, was adored by the Quietists as the pure and perfect essence of God himself; and as long as the folly was confined to Mount Athos, the simple solitaries were not inquisitive how the divine essence could be a material substance, or how an immaterial substance could be perceived by the eyes of the body.","('Quietists', 'NORP'), ('Mount Athos', 'LOC')"
+"Three civil wars between the two emperors, A.D. 1321, April 20-A.D. 1328, May 24..","('Three', 'CARDINAL'), ('two', 'CARDINAL'), ('A.D. 1321', 'DATE'), ('April 20-A.D. 1328', 'DATE'), ('May 24', 'DATE')"
+"To acquire the
+ friendship of their emirs, the two factions vied with each
+ other in baseness and profusion: the dexterity of
+ Cantacuzene obtained the preference: but the succour and
+ victory were dearly purchased by the marriage of his
+ daughter with an infidel, the captivity of many thousand
+ Christians, and the passage of the Ottomans into Europe, the
+ last and fatal stroke in the fall of the Roman empire.","('two', 'CARDINAL'), ('Cantacuzene', 'PERSON'), ('many thousand', 'CARDINAL'), ('Christians', 'NORP'), ('Ottomans', 'NORP'), ('Europe', 'LOC'), ('Roman', 'NORP')"
+"Two emperors and three empresses were seated on the
+ Byzantine throne; and a general amnesty quieted the
+ apprehensions, and confirmed the property, of the most
+ guilty subjects.","('Two', 'CARDINAL'), ('three', 'CARDINAL'), ('Byzantine', 'NORP')"
+"Under the pretence of distress, they were admitted into the lesser port; a gate was opened, and the Latin shout of, ""Long life and victory to the emperor, John Palaeologus!""   was answered by a general rising in his favour.","('Latin', 'NORP'), ('John Palaeologus', 'PERSON')"
+"Under the reign
+ of Andronicus the younger, the great domestic ruled the
+ emperor and the empire; and it was by his valour and conduct
+ that the Isle of Lesbos and the principality of Aetolia were
+ restored to their ancient allegiance.","('Andronicus', 'PERSON'), ('the Isle of Lesbos', 'GPE'), ('Aetolia', 'GPE')"
+"Under the reign of the Palaeologi, the choice of the patriarch was the most important business of the state; the heads of the Greek church were ambitious and fanatic monks; and their vices or virtues, their learning or ignorance, were equally mischievous or contemptible.","('Palaeologi', 'PERSON'), ('Greek', 'NORP')"
+"Victory of the Genoese over the Venetians and Greeks, A.D. 1352, February 13.","('Victory of the Genoese', 'PERSON'), ('Venetians', 'NORP'), ('Greeks', 'NORP'), ('1352', 'CARDINAL'), ('February 13', 'DATE')"
+"We have seen that the young emperor was saved by
+ Cantacuzene from the power of his grandfather; and, after
+ six years of civil war, the same favourite brought him back
+ in triumph to the palace of Constantinople.","('Cantacuzene', 'PERSON'), ('six years', 'DATE'), ('Constantinople', 'GPE')"
+"When the heir of the monarchy first pleaded his wrongs and his apprehensions, he was heard with pity and applause: and his adherents repeated on all sides the inconsistent promise, that he would increase the pay of the soldiers and alleviate the burdens of the people.","('first', 'ORDINAL')"
+"While he compared the
+ reasons of peace and war, his moderation was provoked by a
+ wanton insult of the inhabitants of Pera, who discharged
+ from their rampart a large stone that fell in the midst of
+ Constantinople.","('Pera', 'GPE'), ('Constantinople', 'GPE')"
+"While the
+ regent grasped the sceptre with a firm and vigorous hand,
+ she had been instructed to declare, that the ten years of
+ his legal administration would soon elapse; and that, after
+ a full trial of the vanity of the world, the emperor
+ Cantacuzene sighed for the repose of a cloister, and was
+ ambitious only of a heavenly crown.","('the ten years', 'DATE'), ('Cantacuzene', 'PERSON')"
+"Yet in the cloister, the mind of Cantacuzene was still
+ exercised by theological war.","('Cantacuzene', 'GPE')"
+"Yet the spirit of commerce survived that of conquest; and the colony of Pera still awed the capital and navigated the Euxine, till it was involved by the Turks in the final servitude of Constantinople itself.","('Pera', 'GPE'), ('Euxine', 'NORP'), ('Turks', 'NORP'), ('Constantinople', 'GPE')"
+"Yet they
+ reluctantly paid the taxes, that he imposed for the
+ construction of ships, and the expenses of the war; and as
+ the two nations were masters, the one of the land, the other
+ of the sea, Constantinople and Pera were pressed by the
+ evils of a mutual siege.","('two', 'CARDINAL'), ('one', 'CARDINAL'), ('Constantinople', 'GPE'), ('Pera', 'PERSON')"
+"Yet this distinction could not
+ escape the reproach of polytheism; the eternity of the light
+ of Thabor was fiercely denied; and Barlaam still charged the
+ Palamites with holding two eternal substances, a visible and
+ an invisible God.","('Thabor', 'PERSON'), ('Barlaam', 'PERSON'), ('Palamites', 'NORP'), ('two', 'CARDINAL')"
+"a liberty pregnant with mischief to the Christian cause; since these youths were transformed by education and discipline into the formidable
+ Mamalukes. (45)","('Christian', 'NORP'), ('Mamalukes', 'NORP'), ('45', 'CARDINAL')"
+"by Apocaucus;  Bold and subtle, rapacious and profuse, the avarice and ambition of Apocaucus were by turns subservient to each other; and his talents were applied to
+ the ruin of his country.","('Apocaucus', 'PERSON'), ('Apocaucus', 'PERSON')"
+by the empress Anne of Savoy;,"('Anne of Savoy', 'PERSON')"

@@ -1,0 +1,2129 @@
+Sentence,Entities
+(11),"('11', 'CARDINAL')"
+(112),"('112', 'CARDINAL')"
+(113),"('113', 'CARDINAL')"
+(118),"('118', 'CARDINAL')"
+(12),"('12', 'CARDINAL')"
+(131),"('131', 'CARDINAL')"
+(133),"('133', 'CARDINAL')"
+(141),"('141', 'CARDINAL')"
+(143),"('143', 'CARDINAL')"
+(162),"('162', 'CARDINAL')"
+(163),"('163', 'CARDINAL')"
+(175),"('175', 'CARDINAL')"
+(18),"('18', 'CARDINAL')"
+(188),"('188', 'CARDINAL')"
+(19),"('19', 'CARDINAL')"
+(191),"('191', 'CARDINAL')"
+(196),"('196', 'CARDINAL')"
+(3),"('3', 'CARDINAL')"
+(4),"('4', 'CARDINAL')"
+(40),"('40', 'CARDINAL')"
+(41),"('41', 'CARDINAL')"
+(43),"('43', 'CARDINAL')"
+(5),"('5', 'CARDINAL')"
+(55),"('55', 'CARDINAL')"
+(75),"('75', 'CARDINAL')"
+1,"('1', 'CARDINAL')"
+2,"('2', 'CARDINAL')"
+"A
+ regular series was prepared of all the moral and physical
+ evils which can afflict a flourishing nation; intestine
+ discord, and the invasion of the fiercest barbarians from
+ the unknown regions of the North; pestilence and famine,
+ comets and eclipses, earthquakes and inundations. (68)","('North', 'LOC')"
+"A 
+ generous intercourse of charity united the most distant
+ provinces, and the smaller congregations were cheerfully
+ assisted by the alms of their more opulent brethren. (142)","('142', 'CARDINAL')"
+"A charitable hope might perhaps be indulged
+ in favour of Socrates, or some other sages of antiquity, who
+ had consulted the light of reason before that of the Gospel
+ had arisen. (71)","('Socrates', 'PERSON'), ('Gospel', 'ORG')"
+"A distinct chapter of Pliny
+ (198) is designed for eclipses of an extraordinary nature and 
+ unusual duration; but he contents himself with describing
+ the singular defect of light which followed the murder of
+ Caesar, when, during the greatest part of a year, the orb of
+ the sun appeared pale and without splendour.","('Pliny', 'PERSON'), ('198', 'CARDINAL'), ('Caesar', 'PERSON'), ('a year', 'DATE')"
+"A few of these, among 
+ whom we may reckon the learned Origen, judged it the most
+ prudent to disarm the tempter. (96)","('Origen', 'PERSON')"
+"A garden of Eden, with the
+ amusements of the pastoral life, was no longer suited to the
+ advanced state of society which prevailed under the Roman
+ empire.","('Eden', 'LOC'), ('Roman', 'NORP')"
+"A larger acquaintance with mankind
+ extended their knowledge without correcting their
+ prejudices; and whenever the God of Israel acquired any new
+ votaries, he was much more indebted to the inconstant humour
+ of polytheism than to the active zeal of his own
+ missionaries.","('Israel', 'GPE')"
+"A milder sentiment was 
+ embraced, in practice as well as in theory, by the purest
+ and most respectable of the Christian churches. (146)","('Christian', 'NORP'), ('146', 'CARDINAL')"
+"A more careful inquiry soon demonstrated that the offenders did not exceed seven thousand; a number indeed sufficiently
+ alarming when considered as the object of public justice.
+ (168)","('seven thousand', 'CARDINAL')"
+"A mysterious prophecy, which still forms a 
+ part of the sacred canon, but which was thought to favour
+ the exploded sentiment, has very narrowly escaped the
+ proscription of the church. (67)
+Conflagration of Rome and of the world 
+ Whilst the happiness and glory of a temporal reign were
+ promised to the disciples of Christ, the most dreadful
+ calamities were denounced against an unbelieving world.","('Rome', 'GPE'), ('Christ', 'PERSON')"
+"A noble Grecian
+ had rested on this important ground the whole controversy,
+ and promised Theophilus, bishop of Antioch, that, if he
+ could be gratified with the sight of a single person who had
+ been actually raised from the dead, he would immediately
+ embrace the Christian religion.","('Grecian', 'NORP'), ('Theophilus', 'PERSON'), ('Antioch', 'GPE'), ('Christian', 'NORP')"
+"A perpetual stream of strangers and provincials flowed into
+ the capacious bosom of Rome.","('Rome', 'GPE')"
+"A regard for the public tranquillity, which
+ would so frequently have been interrupted by annual or by
+ occasional elections, induced the primitive Christians to
+ constitute an honourable and perpetual magistracy, and to
+ choose one of the wisest and most holy among their
+ presbyters to execute, during his life, the duties of their
+ ecclesiastical governor.","('annual', 'DATE'), ('Christians', 'NORP'), ('one', 'CARDINAL')"
+"A regular correspondence was
+ established between the provincial councils, which mutually
+ communicated and approved their respective proceedings; and
+ the catholic church soon assumed the form, and acquired the
+ strength, of a great foederative republic. (116)","('116', 'CARDINAL')"
+"A separate society, which attacked the established
+ religion of the empire, was obliged to adopt some form of
+ internal policy, and to appoint a sufficient number of
+ ministers, intrusted not only with the spiritual functions,
+ but even with the temporal direction of the Christian
+ commonwealth.","('Christian', 'NORP')"
+"A transaction, however, is related under
+ the reign of Alexander Severus, which discovers that the
+ restraint was sometimes eluded or suspended, and that the
+ Christians were permitted to claim and to possess lands
+ within the limits of Rome itself. (138)","('Alexander Severus', 'PERSON'), ('Christians', 'NORP'), ('Rome', 'GPE'), ('138', 'CARDINAL')"
+Abhorrence of the Christians for idoltary,"('Christians', 'NORP')"
+"About an 
+ hundred years before the reign of Decius the Roman church
+ had received, in a single donation, the sum of two hundred
+ thousand sesterces from a stranger of Pontus, who proposed
+ to fix his residence in the capital. (136)","('About an \r\n hundred years', 'DATE'), ('Decius the Roman church', 'ORG'), ('two hundred\r\n thousand', 'CARDINAL'), ('Pontus', 'PERSON'), ('136', 'CARDINAL')"
+"According to 
+ the maxims of universal toleration, the Romans protected a
+ superstition which they despised.","('Romans', 'NORP')"
+"According to the circumstances or the number of
+ the guilty, the exercise of the Christian discipline was
+ varied by the discretion of the bishops.","('Christian', 'NORP')"
+"According to the irreproachable testimony of Origen, (183) the proportion of the faithful was very inconsiderable, when compared with the multitude of an unbelieving world; but, as we are left without any distinct information, it is impossible to determine, and it is difficult even to conjecture, the real numbers of the primitive Christians.","('Origen', 'PERSON'), ('183', 'CARDINAL'), ('Christians', 'NORP')"
+"Acknowledging that the literal sense is repugnant to every
+ principle of faith as well as reason, they deem themselves
+ secure and invulnerable behind the ample veil of allegory,
+ which they carefully spread over every tender part of the
+ Mosaic dispensation. (30)","('Mosaic', 'NORP'), ('30', 'CARDINAL')"
+"After Cyrus had permitted the exiled nation to 
+ return into the promised land, and after Ezra had restored
+ the ancient records of their religion, two celebrated sects,
+ the Sadducees and the Pharisees, insensibly arose at
+ Jerusalem. (59)","('Cyrus', 'PERSON'), ('Ezra', 'PERSON'), ('two', 'CARDINAL'), ('Sadducees', 'NORP'), ('Pharisees', 'NORP'), ('Jerusalem', 'GPE'), ('59', 'CARDINAL')"
+"After a
+ revolution of thirteen or fourteen centuries, that religion
+ is still professed by the nations of Europe, the most
+ distinguished portion of human kind in arts and learning as
+ well as in arms.","('thirteen or fourteen centuries', 'DATE'), ('Europe', 'LOC')"
+"After the Bacchanals had awakened the
+ severity of the senate, it was likewise apprehended that a
+ very great multitude, as it were another people, had been
+ initiated into those abhorred mysteries.","('Bacchanals', 'PERSON')"
+"After the example of their
+ Divine Master, the missionaries of the Gospel disdained not
+ the society of men, and especially of women, oppressed by
+ the consciousness, and very often by the effects, of their
+ vices.","('Gospel', 'WORK_OF_ART')"
+"All 
+ these were only so many preparatory and alarming signs of
+ the great catastrophe of Rome, when the country of the
+ Scipios and Caesars should be consumed by a flame from
+ Heaven, and the city of the seven hills, with her palaces,
+ her temples, and her triumphal arches, should be buried in a
+ vast lake of fire and brimstone.","('Rome', 'GPE'), ('Scipios', 'NORP'), ('Caesars', 'ORG'), ('seven', 'CARDINAL')"
+"Almost at the same period the bishop of
+ Carthage, from a society less opulent than that of Rome,
+ collected an hundred thousand sesterces (above eight hundred
+ and fifty pounds sterling), on a sudden call of charity to
+ redeem the brethren of Numidia, who had been carried away
+ captives by the barbarians of the desert. (135)","('Carthage', 'GPE'), ('Rome', 'GPE'), ('an hundred thousand', 'CARDINAL'), ('eight hundred\r\n and fifty pounds', 'QUANTITY'), ('Numidia', 'GPE'), ('135', 'CARDINAL')"
+Ambition of the Roman pontiff,"('Roman', 'NORP')"
+"Among
+ the societies which were instituted in Syria, none were more
+ ancient or more illustrious than those of Damascus, of
+ Beroea or Aleppo, and of Antioch.","('Syria', 'GPE'), ('Damascus', 'GPE'), ('Beroea', 'GPE'), ('Aleppo', 'GPE'), ('Antioch', 'GPE')"
+"Among the Christian ascetics, 
+ however (a name which they soon acquired from their painful
+ exercise), many, as they were less presumptuous, were
+ probably more successful.","('Christian', 'NORP')"
+"An exclusive zeal
+ for the truth of religion and the unity of God was as
+ carefully inculcated in the new as in the ancient system:
+ and whatever was now revealed to mankind concerning the
+ nature and designs of the Supreme Being was fitted to
+ increase their reverence for that mysterious doctrine.","('the Supreme Being', 'ORG')"
+"And yet these exceptions are either too few in number, or
+ too recent in time, entirely to remove the imputation of
+ ignorance and obscurity which has been so arrogantly cast on
+ the first proselytes of Christianity.","('first', 'ORDINAL'), ('Christianity', 'NORP')"
+"And yet, since every friend to revelation is persuaded of the reality, and every reasonable man is convinced of the cessation, of miraculous powers, it is evident that there must have been some period in which they were either suddenly or gradually withdrawn from the Christian church.","('Christian', 'NORP')"
+"Arguments like these appear to have been used in the defence
+ of the expiring cause of the Mosaic law; but the industry of
+ our learned divines has abundantly explained the ambiguous
+ language of the Old Testament, and the ambiguous conduct of
+ the apostolic teachers.","('Mosaic', 'NORP')"
+"Aristides, who presented an
+ eloquent apology to the emperor Hadrian, was an Athenian
+ philosopher. (185) Justin Martyr had sought divine knowledge 
+ in the schools of Zeno, of Aristotle, of Pythagoras and of
+ Plato, before he fortunately was accosted by the old man, or
+ rather the angel, who turned his attention to the study of
+ the Jewish prophets. (186) Clemens of Alexandria had acquired 
+ much various reading in the Greek, and Tertullian in the
+ Latin, language.","('Aristides', 'PERSON'), ('Hadrian', 'PERSON'), ('Athenian', 'NORP'), ('185', 'CARDINAL'), ('Justin Martyr', 'PERSON'), ('Zeno', 'PERSON'), ('Aristotle', 'PERSON'), ('Pythagoras', 'LOC'), ('Plato', 'PERSON'), ('Jewish', 'NORP'), ('186', 'CARDINAL'), ('Clemens', 'PERSON'), ('Alexandria', 'GPE'), ('Greek', 'LANGUAGE'), ('Tertullian', 'PERSON'), ('Latin', 'LANGUAGE')"
+"As
+ often as in the spring and autumn they met in provincial
+ synod, the difference of personal merit and reputation was
+ very sensibly felt among the members of the assembly, and
+ the multitude was governed by the wisdom and eloquence of
+ the few.","('the spring and autumn', 'DATE')"
+"As
+ the works of the creation had been finished in six days,
+ their duration in their present state, according to a
+ tradition which was attributed to the prophet Elijah, was
+ fixed to six thousand years. (61)","('six days', 'DATE'), ('Elijah', 'PERSON'), ('six thousand years', 'DATE'), ('61', 'CARDINAL')"
+"As it is my intention to remark only such human causes as were permitted to second the influence of revelation, I shall lightly mention two motives which might naturally render the lives of the
+ primitive Christians much purer and more austere than those of their Pagan contemporaries or their degenerate successors — repentance for their past sins, and the laudable desire of supporting the reputation of the society in which they were engaged.","('second', 'ORDINAL'), ('two', 'CARDINAL'), ('Christians', 'NORP'), ('Pagan', 'NORP')"
+"As soon as they launched out into 
+ that vast abyss, they delivered themselves to the guidance
+ of a disordered imagination; and as the paths of error are
+ various and infinite, the Gnostics were imperceptibly
+ divided into more than fifty particular sects, (33) of whom 
+ the most celebrated appear to have been the Basilidians, the
+ Valentinians, the Marcionites, and, in a still later period,
+ the Manichaeans.","('Gnostics', 'NORP'), ('more than fifty', 'CARDINAL'), ('33', 'CARDINAL'), ('Basilidians', 'NORP'), ('Valentinians', 'NORP'), ('Marcionites', 'NORP'), ('Manichaeans', 'NORP')"
+"As soon as those histories were translated 
+ into the Latin tongue they were perfectly intelligible to
+ all the subjects of Rome, excepting only to the peasants of
+ Syria and Egypt, for whose benefit particular versions were
+ afterwards made.","('Latin', 'LANGUAGE'), ('Rome', 'GPE'), ('Syria', 'GPE'), ('Egypt', 'GPE')"
+"As soon, indeed, as Christianity ascended the 
+ throne, the zeal of those barbarians obeyed the prevailing
+ impulsion; the cities of Egypt were filled with bishops, and
+ the deserts of Thebais swarmed with hermits.","('Christianity', 'NORP'), ('Egypt', 'GPE'), ('Thebais', 'GPE')"
+"As the humble faith of
+ Christ diffused it self through the world, it was embraced
+ by several persons who derived some consequence from the
+ advantages of nature or fortune.","('Christ', 'PERSON')"
+"As those heretics were, 
+ for the most part, averse to the pleasures of sense, they
+ morosely arraigned the polygamy of the patriarchs, the
+ gallantries of David, and the seraglio of Solomon.","('David', 'PERSON'), ('Solomon', 'PERSON')"
+As well as the peace and union of the Roman empire.,"('Roman', 'NORP')"
+"At his persuasion the most
+ considerable part of the congregation renounced the Mosaic
+ law, in the practice of which they had persevered above a
+ century.","('Mosaic', 'NORP'), ('a\r\n century', 'DATE')"
+"At the bar and in the senate of Rome the ablest orators were
+ not apprehensive of giving offence to their hearers by
+ exposing that doctrine as an idle and extravagant opinion,
+ which was rejected with contempt by every man of a liberal
+ education and understanding. (53)
+among the Pagans of Greece and Rome;","('Rome', 'GPE'), ('Pagans', 'NORP'), ('Greece', 'GPE'), ('Rome', 'GPE')"
+"Before that time the various accidents of war and commerce might indeed diffuse an imperfect knowledge of the Gospel among the tribes of Caledonia, (179) and among the 
+ borderers of the Rhine, the Danube, and the Euphrates. (180)","('Caledonia', 'GPE'), ('179', 'CARDINAL'), ('Rhine', 'LOC'), ('Danube', 'LOC'), ('Euphrates', 'LOC'), ('180', 'CARDINAL')"
+"Besides the occasional
+ prodigies, which might sometimes be effected by the
+ immediate interposition of the Deity when he suspended the
+ laws of Nature for the service of religion, the Christian
+ church, from the time of the apostles and their first
+ disciples, (73) has claimed an uninterrupted succession of miraculous powers, the gift of tongues, of vision, and of prophecy, the power of expelling daemons, of healing the
+ sick, and of raising the dead.","('Christian', 'NORP'), ('first', 'ORDINAL'), ('73', 'CARDINAL')"
+"Beyond the last-mentioned river, Edessa was distinguished by a firm and early adherence to the faith. (181) From Edessa the principles of Christianity were easily introduced into the Greek and Syrian cities which obeyed the successors of Artaxerxes; but they do not appear to have made any deep impression on the minds of the Persians, whose religious system, by the labours of a well-disciplined order of priests, had been constructed with much more art and solidity than the uncertain mythology of Greece and Rome. (182)
+General proportion of Christians and Pagans.","('Edessa', 'PERSON'), ('181', 'CARDINAL'), ('Edessa', 'PERSON'), ('Christianity', 'NORP'), ('Greek', 'NORP'), ('Syrian', 'NORP'), ('Artaxerxes', 'NORP'), ('Persians', 'NORP'), ('Greece', 'GPE'), ('Rome', 'GPE'), ('182', 'CARDINAL'), ('Christians', 'NORP'), ('Pagans', 'NORP')"
+Beyond the limits of the Roman empire.,"('Roman', 'NORP')"
+"But
+ the sages of Greece and Rome turned aside from the awful
+ spectacle, and, pursuing the ordinary occupations of life
+ and study, appeared unconscious of any alterations in the
+ moral or physical government of the world.","('Greece', 'GPE'), ('Rome', 'GPE')"
+"But
+ the scandal of the pious Christian, and the fallacious
+ triumph of the Infidel, should cease as soon as they
+ recollect not only by whom, but likewise to whom, the Divine
+ Revelation was given.","('Christian', 'NORP'), ('Infidel', 'NORP'), ('the Divine\r\n Revelation', 'WORK_OF_ART')"
+"But almost all those who had reluctantly yielded
+ to the power of vice or idolatry were sensible of their
+ fallen condition, and anxiously desirous of being restored
+ to the benefits of the Christian communion.","('Christian', 'NORP')"
+"But as long as the contributions of the Christian 
+ people were free and unconstrained, the abuse of their
+ confidence could not be very frequent, and the general uses
+ to which their liberality was applied reflected honour on
+ the religious society.","('Christian', 'NORP')"
+"But as often
+ as they occurred, they afforded the Christians an
+ opportunity of declaring and confirming their zealous
+ opposition.","('Christians', 'NORP')"
+"But as truth and reason seldom find so
+ favourable a reception in the world, and as the wisdom of
+ Providence frequently condescends to use the passions of the
+ human heart, and the general circumstances of mankind, as
+ instruments to execute its purpose, we may still be
+ permitted, though with becoming submission, to ask, not
+ indeed what were the first, but what were the secondary
+ causes of the rapid growth of the Christian church?","('Providence', 'GPE'), ('first', 'ORDINAL'), ('secondary', 'ORDINAL'), ('Christian', 'NORP')"
+"But at length, under the reign of Hadrian, the
+ desperate fanaticism of the Jews filled up the measure of
+ their calamities; and the Romans, exasperated by their
+ repeated rebellions, exercised the rights of victory with
+ unusual rigour.","('Hadrian', 'PERSON'), ('Jews', 'NORP'), ('Romans', 'NORP')"
+"But how shall we excuse the supine inattention of the Pagan
+ and philosophic world to those evidences which were
+ presented by the hand of Omnipotence, not to their reason,
+ but to their senses?","('Pagan', 'NORP'), ('Omnipotence', 'PERSON')"
+"But if, on the
+ contrary, we turn our eyes towards Gaul, we must content
+ ourselves with discovering, in the time of Marcus Antoninus,
+ the feeble and united congregations of Lyons and Vienne; and
+ even as late as the reign of Decius we are assured that in a
+ few cities only - Arles, Narbonne, Toulouse, Limoges,
+ Clermont, Tours, and Paris - some scattered churches were
+ supported by the devotion of a small number of Christians.
+ (173)","('Gaul', 'PERSON'), ('Marcus Antoninus', 'PERSON'), ('Lyons', 'GPE'), ('Vienne', 'GPE'), ('Decius', 'GPE'), ('Arles', 'GPE'), ('Narbonne', 'GPE'), ('Toulouse', 'GPE'), ('Limoges', 'GPE'), ('Clermont', 'GPE'), ('Tours', 'FAC'), ('Paris', 'GPE'), ('Christians', 'NORP'), ('173', 'CARDINAL')"
+But in the first ages of Christianity the situation of mankind was extremely different.,"('first', 'ORDINAL'), ('Christianity', 'NORP')"
+"But insulted Nature sometimes vindicated her rights, and
+ this new species of martyrdom served only to introduce a new
+ scandal into the church.","('Nature', 'PERSON')"
+"But it most
+ unluckily happened that the doors were under the protection
+ of the household gods, that the laurel was sacred to the
+ lover of Daphne, and that garlands of flowers, though
+ frequently worn as a symbol either of joy or mourning, had
+ been dedicated in their first origin to the service of
+ superstition.","('Daphne', 'PERSON'), ('first', 'ORDINAL')"
+"But it was
+ not in this world that the primitive Christians were
+ desirous of making themselves either agreeable or useful.","('Christians', 'NORP')"
+"But it was unanimously affirmed that those 
+ who, since the birth or the death of Christ, had obstinately
+ persisted in the worship of the daemons, neither deserved
+ nor could expect a pardon from the irritated justice of the
+ Deity.","('Christ', 'PERSON')"
+"But the 
+ miraculous cure of diseases of the most inveterate or even
+ preternatural kind can no longer occasion any surprise, when
+ we recollect that in the days of Irenaeus, about the end of
+ the second century, the resurrection of the dead was very
+ far from being esteemed an uncommon event; that the miracle
+ was frequently performed on necessary occasions, by great
+ fasting and the joint supplication of the church of the
+ place, and that the persons thus restored to their prayers
+ had lived afterwards among them many years. (77)","('Irenaeus', 'PERSON'), ('the end of\r\n the second century', 'DATE')"
+But the belief of the Christian was accompanied with horror.,"('Christian', 'NORP')"
+"But the devout and
+ even scrupulous attachment to the Mosaic religion, so
+ conspicuous among the Jews who lived under the second
+ temple, becomes still more surprising if it is compared with
+ the stubborn incredulity of their forefathers.","('Mosaic', 'NORP'), ('Jews', 'NORP'), ('second', 'ORDINAL')"
+"But the established religions of
+ Paganism were seen by the primitive Christians in a much
+ more odious and formidable light.","('Paganism', 'NORP'), ('Christians', 'NORP')"
+"But the humanity of the reader will permit me to draw a veil over the rest of this infernal description, which the zealous African pursues in a long variety of affected and unfeeling witticisms. (72)","('African', 'NORP')"
+"But the moderation of the conquerors was
+ insufficient to appease the jealous prejudices of their
+ subjects, who were alarmed and scandalised at the ensigns of
+ paganism, which necessarily introduced themselves into a
+ Roman province. (7)","('Roman', 'NORP')"
+"But the obscure and imperfect 
+ origin of the western churches of Europe had been so
+ negligently recorded, that, if we would relate the time and
+ manner of their foundation, we must supply the silence of
+ antiquity by those legends which avarice or superstition
+ long afterwards dictated to the monks in the lazy gloom of
+ their convents.","('Europe', 'LOC')"
+"But the order of public proceedings required a more
+ regular and less invidious distinction; the office of
+ perpetual presidents in the councils of each province was
+ conferred on the bishops of the principal city; and these
+ aspiring prelates, who soon acquired the lofty titles of
+ Metropolitans and Primates, secretly prepared themselves to
+ usurp over their episcopal brethren the same authority which
+ the bishops had so lately assumed above the college of
+ presbyters. (120)","('Metropolitans', 'NORP'), ('Primates', 'ORG'), ('120', 'CARDINAL')"
+"But the power of a monarch was rejected 
+ with abhorrence, and the aspiring genius of Rome experienced
+ from the nations of Asia and Africa a more vigorous
+ resistance to her spiritual than she had formerly done to
+ her temporal dominions.","('Rome', 'GPE'), ('Asia', 'LOC'), ('Africa', 'LOC')"
+"But the primitive Christian demonstrated his faith by his virtues; and it was very justly supposed that the Divine persuasion, which enlightened or subdued the understanding, must at the same time purify the heart and direct the actions of the believer.","('Christian', 'NORP')"
+"But the progress of Christianity was 
+ for a long time confined within the limits of a single city,
+ which was itself a foreign colony, and till the close of the
+ second century the predecessors of Demetrius were the only
+ prelates of the Egyptian church.","('Christianity', 'NORP'), ('the\r\n second century', 'DATE'), ('Demetrius', 'PERSON'), ('Egyptian', 'NORP')"
+"But the unhappy Spaniard who had committed the same
+ offence was deprived of the hope of reconciliation even in
+ the article of death; and his idolatry was placed at the
+ head of a list of seventeen other crimes, against which a
+ sentence no less terrible was pronounced.","('Spaniard', 'NORP'), ('seventeen', 'CARDINAL')"
+"But their patriotism
+ received the ignominious epithets of faction and schism, and
+ the episcopal cause was indebted for its rapid progress to
+ the labours of many active prelates, who like Cyprian of
+ Carthage, could reconcile the arts of the most ambitious
+ statesman with the Christian virtues which seem adapted to
+ the character of a saint and martyr. (119)","('Cyprian of\r\n Carthage', 'PERSON'), ('Christian', 'NORP'), ('119', 'CARDINAL')"
+"But this
+ mode of persuasion loses much of its weight and influence
+ when it is addressed to those who neither understand nor
+ respect the Mosaic dispensation and the prophetic style. (192)","('Mosaic', 'NORP'), ('192', 'CARDINAL')"
+"But this inquiry, however useful or entertaining, is
+ attended with two peculiar difficulties.","('two', 'CARDINAL')"
+But we may perceive several defects inherent to the popular religions of Greece and Rome which rendered them very unequal to so arduous a task.,"('Greece', 'GPE'), ('Rome', 'GPE')"
+"But when
+ they recollected the sanguinary list of murders, of
+ executions, and of massacres, which stain almost every page
+ of the Jewish annals, they acknowledged that the barbarians
+ of Palestine had exercised as much compassion towards their
+ idolatrous enemies as they had ever shown to their friends
+ or countrymen. (27)","('Jewish', 'NORP'), ('Palestine', 'GPE'), ('27', 'CARDINAL')"
+"But when
+ they would demonstrate the divine origin of Christianity,
+ they insist much more strongly on the predictions which
+ announced, than on the miracles which accompanied, the
+ appearance of the Messiah.","('Christianity', 'NORP'), ('Messiah', 'PERSON')"
+"But when Justin was pressed to declare the
+ sentiment of the church, he confessed that there were very
+ many among the orthodox Christians who not only excluded
+ their Judaising brethren from the hope of salvation, but who
+ declined any intercourse with them in the common offices of
+ friendship, hospitality, and social life. (24)","('Justin', 'PERSON'), ('Christians', 'NORP'), ('Judaising', 'NORP'), ('24', 'CARDINAL')"
+"But when numerous and opulent
+ societies were established in the great cities of the
+ empire, in Antioch, Alexandria, Ephesus, Corinth, and Rome,
+ the reverence which Jerusalem had inspired to all the
+ Christian colonies insensibly diminished.","('Antioch', 'GPE'), ('Alexandria', 'GPE'), ('Ephesus', 'GPE'), ('Corinth', 'GPE'), ('Rome', 'GPE'), ('Jerusalem', 'GPE'), ('Christian', 'NORP')"
+"By some of these unfaithful
+ stewards the riches of the church were lavished in sensual
+ pleasures; by others they were perverted to the purposes of
+ private gain, of fraudulent purchases, and of rapacious
+ usury. (140)","('140', 'CARDINAL')"
+"By the industry and zeal of the Europeans
+ it has been widely diffused to the most distant shores of
+ Asia and Africa; and by the means of their colonies has been
+ firmly established from Canada to Chili, in a world unknown
+ to the ancients.","('Europeans', 'NORP'), ('Asia', 'LOC'), ('Africa', 'LOC'), ('Canada', 'GPE'), ('Chili', 'GPE')"
+"By the same analogy it was 
+ inferred that this long period of labour and contention,
+ which was now almost elapsed, (62) would be succeeded by a 
+ joyful Sabbath of a thousand years; and that Christ, with
+ the triumphant band of the saints and the elect who had
+ escaped death, or who had been miraculously revived, would
+ reign upon earth till the time appointed for the last and
+ general resurrection.","('62', 'DATE'), ('a \r\n joyful Sabbath of a thousand years', 'DATE'), ('Christ', 'PERSON')"
+"By this sacrifice of their habits and prejudices
+ they purchased a free admission into the colony of Hadrian,
+ and more firmly cemented their union with the Catholic
+ church. (21)","('Hadrian', 'PERSON'), ('Catholic', 'NORP'), ('21', 'CARDINAL')"
+Christianity most favourably received by the poor and simple.,"('Christianity', 'NORP')"
+"Cyprian had renounced those temporal honours which it is probable he would never have obtained; but the acquisition of such absolute command over the consciences and understanding of a congregation, however obscure or despised by the world, is more truly grateful to the pride of the human heart than the possession of the most despotic power imposed by arms and conquest on a reluctant people.","('Cyprian', 'PERSON')"
+"Disdaining an ignominious flight, the virgins of the warm
+ climate of Africa encountered the enemy in the closest
+ engagement they permitted priests and deacons to share their
+ bed and gloried amidst the flames in their unsullied purity.","('Africa', 'LOC')"
+Doctrine of the Millenium.,"('Millenium', 'PRODUCT')"
+"Doubtless there were many among the primitive Christians of
+ a temper more suitable to the meekness and charity of their
+ profession.","('Christians', 'NORP')"
+"During the age of Christ, of his
+ apostles, and of their first disciples, the doctrine which
+ they preached was confirmed by innumerable prodigies.","('Christ', 'PERSON'), ('first', 'ORDINAL')"
+"Each of these
+ philosophers, in a laborious work, has recorded all the
+ great phenomena of Nature, earthquakes, meteors, comets, and
+ eclipses, which his indefatigable curiosity could collect.
+ (197)","('197', 'CARDINAL')"
+"Each of these sects could boast of its
+ bishops and congregations, of its doctors and martyrs; (34) 
+ and, instead of the Four Gospels adopted by the church the
+ heretics produced a multitude of histories in which the
+ actions and discourses of Christ and of his apostles were
+ adapted to their respective tenets. (35)","('Four', 'CARDINAL'), ('Christ', 'PERSON'), ('35', 'CARDINAL')"
+"Even the
+ multitude of Pagans were inclined to estimate the merit of
+ the sacrifice by its apparent difficulty; and it was in the
+ praise of these chaste spouses of Christ that the fathers
+ have poured forth the troubled stream of their eloquence. (98)","('Pagans', 'NORP'), ('Christ', 'PERSON')"
+"Even the common language
+ of Greece and Rome abounded with familiar but impious
+ expressions, which the imprudent Christian might too
+ carelessly utter, or too patiently hear. (48)","('Greece', 'GPE'), ('Rome', 'GPE'), ('Christian', 'NORP')"
+"Even the study of
+ philosophy was at length introduced among the Christians,
+ but it was not always productive of the most salutary
+ effects; knowledge was as often the parent of heresy as of
+ devotion, and the description which was designed for the
+ followers of Artemon may, with equal propriety, be applied
+ to the various sects that resisted the successors of the
+ apostles.","('Christians', 'NORP'), ('Artemon', 'WORK_OF_ART')"
+"Every age bears testimony to the wonderful events by which it was distinguished, and its
+ testimony appears no less weighty and respectable than that of the preceding generation, till we are insensibly led on to accuse our own inconsistency if, in the eighth or in the twelfth century, we deny to the venerable Bede, or to the holy Bernard, the same degree of confidence which, in the second century, we had so liberally granted to Justin or to Irenaeus. (81)","('the eighth or in the twelfth century', 'DATE'), ('Bede', 'PERSON'), ('Bernard', 'PERSON'), ('the second century', 'DATE'), ('Justin', 'PERSON'), ('Irenaeus', 'PERSON'), ('81', 'CARDINAL')"
+"Every art and every trade that was in the least concerned in the framing or adorning of idols was polluted
+ by the stain of idolatry; (46) a severe sentence, since it devoted to eternal misery the far greater part of the community which is employed in the exercise of liberal or mechanic professions.","('46', 'CARDINAL')"
+"Every privilege that could raise the proselyte
+ from earth to heaven, that could exalt his devotion, secure
+ his happiness, or even gratify that secret pride which,
+ under the semblance of devotion, insinuates itself into the
+ human heart, was still reserved for the members of the
+ Christian church; but at the same time all mankind was
+ permitted, and even solicited, to accept the glorious
+ distinction, which was not only proffered as a favour, but
+ imposed as an obligation.","('Christian', 'NORP')"
+"Every society formed within
+ itself a separate and independent republic; and although the
+ most distant of these little states maintained a mutual as
+ well as friendly intercourse of letters and deputations, the
+ Christian world was not yet connected by any supreme
+ authority or legislative assembly.","('Christian', 'NORP')"
+"Five causes of the growth of Christianity
+ Our curiosity is naturally prompted to inquire by
+ what means the Christian faith obtained so remarkable a
+ victory over the established religions of the earth.","('Five', 'CARDINAL'), ('Christianity', 'NORP'), ('Christian', 'NORP')"
+"For the most part
+ they arose in the second century, flourished during the
+ third, and were suppressed in the fourth or fifth, by the
+ prevalence of more fashionable controversies, and by the
+ superior ascendant of the reigning power.","('the second century', 'DATE'), ('third', 'ORDINAL'), ('fourth', 'ORDINAL'), ('fifth', 'ORDINAL')"
+"From
+ the beginning of the world an uninterrupted series of
+ predictions had announced and prepared the long expected
+ coming of the Messiah, who, in compliance with the gross
+ apprehensions of the Jews, had been more frequently
+ represented under the character of a King and Conqueror,
+ than under that of a Prophet, a Martyr, and the Son of God.","('Messiah', 'PERSON'), ('Jews', 'NORP'), ('Conqueror', 'PERSON'), ('Prophet', 'PERSON'), ('the Son of God', 'PERSON')"
+"From Gaul, which claimed a
+ just pre-eminence of learning and authority over all the
+ countries on this side of the Alps, the light of the Gospel
+ was more faintly reflected on the remote provinces of Spain
+ and Britain; and if we may credit the vehement assertions of
+ Tertullian, they had already received the first rays of the
+ faith when he addressed his Apology to the magistrates of
+ the emperor Severus. (174)","('Gaul', 'PERSON'), ('Alps', 'LOC'), ('Gospel', 'LOC'), ('Spain', 'GPE'), ('Britain', 'GPE'), ('Tertullian', 'PERSON'), ('first', 'ORDINAL'), ('Severus', 'PERSON'), ('174', 'CARDINAL')"
+"From a peaceful fisherman of the
+ lake of Gennesareth, he was transformed into a valorous
+ knight, who charged at the head of the Spanish chivalry in
+ their battles against the Moors.","('Gennesareth', 'GPE'), ('Spanish', 'NORP'), ('Moors', 'NORP')"
+"From every 
+ cause, either of a civil or of an ecclesiastical nature, it
+ was easy to foresee that Rome must enjoy the respect, and
+ would soon claim the obedience, of the provinces.","('Rome', 'GPE')"
+"From its supposed
+ imperfections, the Gnostics as hastily inferred that it
+ never was instituted by the wisdom of the Deity.","('Gnostics', 'WORK_OF_ART')"
+"From reason, as 
+ well as from the analogy of Antioch, we may venture to
+ estimate the Christians of Rome at about fifty thousand.","('Antioch', 'GPE'), ('Christians', 'NORP'), ('Rome', 'GPE'), ('about fifty thousand', 'CARDINAL')"
+"From the acknowledged
+ truth of the Jewish religion, the Ebionites had concluded
+ that it could never be abolished.","('Jewish', 'NORP'), ('Ebionites', 'PERSON')"
+"From the first of the fathers to the last of the popes, a succession of bishops, of saints, of martyrs, and of miracles, is continued without interruption; and the progress of superstition was so gradual and almost imperceptible, that we know not in what particular link we should break the chain of tradition.","('first', 'ORDINAL')"
+"From the imperious declamations of Cyprian we should
+ naturally conclude that the doctrines of ex-communication
+ and penance formed the most essential part of religion; and
+ that it was much less dangerous for the disciples of Christ
+ to neglect the observance of the moral duties than to
+ despise the censures and authority of their bishops.","('Cyprian', 'NORP'), ('Christ', 'PERSON')"
+"From the writings of Lucian, a philosopher who
+ had studied mankind, and who describes their manners in the
+ most lively colours, we may learn that, under the reign of
+ Commodus, his native country of Pontus was filled with
+ Epicureans and Christians. (156)","('Lucian', 'PERSON'), ('Commodus', 'EVENT'), ('Pontus', 'GPE'), ('Epicureans', 'NORP'), ('Christians', 'NORP'), ('156', 'CARDINAL')"
+"From these specious and noble principles
+ the philosophers who trod in the footsteps of Plato deduced
+ a very unjustifiable conclusion, since they asserted, not
+ only the future immortality, but the past eternity of the
+ human soul, which they were too apt to consider as a portion
+ of the infinite and self-existing spirit which pervades and
+ sustains the universe. (52)","('Plato', 'PERSON')"
+"From this impartial though imperfect survey of the progress of Christianity, it may perhaps seem probable that the number of its proselytes has been excessively magnified by fear on the one side, and by devotion on the other.","('Christianity', 'NORP'), ('one', 'CARDINAL')"
+"Gay apparel,
+ magnificent houses, and elegant furniture were supposed to
+ unite the double guilt of pride and of sensuality: a simple
+ and mortified appearance was more suitable to the Christian
+ who was certain of his sins and doubtful of his salvation.","('Christian', 'NORP')"
+"His fears might assist the
+ progress of his faith and reason; and if he could once
+ persuade himself to suspect that the Christian religion
+ might possibly be true, it became an easy task to convince
+ him that it was the safest and most prudent party that he
+ could possibly embrace.","('Christian', 'NORP')"
+"His unsuspected testimony may, in this instance, obtain more
+ credit than the bold challenge of Tertullian, when he
+ addresses himself to the fears as well as to the humanity of
+ the proconsul of Africa, by assuring him that if he persists
+ in his cruel intentions he must decimate Carthage, and that
+ he will find among the guilty many persons of his own rank,
+ senators and matrons of noblest extraction, and the friends
+ or relations of his most intimate friends. (189)","('Tertullian', 'PERSON'), ('Africa', 'LOC'), ('Carthage', 'GPE'), ('189', 'CARDINAL')"
+Historical views of the progress of Christianity,"('Christianity', 'NORP')"
+"How different a proportion must we adopt when we
+ compare the persecuted with the triumphant church, the West
+ with the East, remote villages with populous towns, and
+ countries recently converted to the faith with the place
+ where the believers first received the appellation of
+ Christians!","('West', 'LOC'), ('East', 'LOC'), ('first', 'ORDINAL'), ('Christians', 'NORP')"
+"Human reason, which by its unassisted strength is
+ incapable of perceiving the mysteries of faith, had already
+ obtained an easy triumph over the folly of Paganism; and
+ when Tertullian or Lactantius employ their labours in
+ exposing its falsehood and extravagance, they are obliged to
+ transcribe the eloquence of Cicero or the wit of Lucian.","('Paganism', 'NORP'), ('Tertullian', 'PERSON'), ('Lactantius', 'PERSON'), ('Cicero', 'PERSON'), ('Lucian', 'PERSON')"
+"I. THE FIRST CAUSE
+ Zeal of the Jews","('Jews', 'NORP')"
+"I. The community of goods, which had so agreeably amused the
+ imagination of Plato, (128) and which subsisted in some degree 
+ among the austere sect of the Essenians, (129) was adopted for 
+ short time in the primitive church.","('Plato', 'PERSON'), ('128', 'CARDINAL'), ('Essenians', 'NORP'), ('129', 'CARDINAL')"
+"If this Punic war was carried on 
+ without any effusion of blood, it was owing much less to the
+ moderation than to the weakness of the contending prelates.","('this Punic war', 'EVENT')"
+"If we cast our eyes over the numerous remains of antiquity we shall perceive that, besides the immediate representations of the gods and the holy instruments of their worship, the elegant forms and agreeable fictions consecrated by the imagination of the Greeks were introduced as the richest ornaments of the houses, the dress, and the furniture of the Pagans. (47)","('Greeks', 'NORP'), ('Pagans', 'NORP'), ('47', 'CARDINAL')"
+"If we may give credit to the vehement 
+ declamations of Cyprian, there were too many among his
+ African brethren who, in the execution of their charge,
+ violated every precept, not only of evangelic perfection,
+ but even of moral virtue.","('Cyprian', 'PERSON'), ('African', 'NORP')"
+"Importance of the inquiry
+ A CANDID but rational inquiry into the progress and
+ establishment of Christianity may be considered as a very
+ essential part of the history of the Roman empire.","('CANDID', 'ORG'), ('Christianity', 'NORP'), ('Roman', 'NORP')"
+In Africa and the western provinces.,"('Africa', 'LOC')"
+In Egypt.,"('Egypt', 'GPE')"
+In Rome.,"('Rome', 'GPE')"
+"In a few years after 
+ the return of the church of Jerusalem, it became a matter of
+ doubt and controversy whether a man who sincerely
+ acknowledged Jesus as the Messiah, but who still continued
+ to observe the law of Moses, could possibly hope for
+ salvation.","('a few years', 'DATE'), ('Jerusalem', 'GPE'), ('Jesus', 'PERSON'), ('Messiah', 'PERSON'), ('Moses', 'PERSON')"
+"In a very early
+ period, the islands of Cyprus and Crete, the provinces of
+ Thrace and Macedonia, gave a favourable reception to the new
+ religion; and Christian republics were soon founded in the
+ cities of Corinth, of Sparta, and of Athens. (155)","('Cyprus', 'GPE'), ('Crete', 'GPE'), ('Thrace', 'GPE'), ('Macedonia', 'GPE'), ('Christian', 'NORP'), ('Corinth', 'GPE'), ('Sparta', 'GPE'), ('Athens', 'GPE'), ('155', 'CARDINAL')"
+"In consequence of this opinion, it was the first but arduous
+ duty of a Christian to preserve himself pure and undefiled
+ by the practice of idolatry.","('first', 'ORDINAL'), ('Christian', 'NORP')"
+"In his very curious epistle to the emperor Trajan
+ he affirms that the temples were almost deserted, that the
+ sacred victims scarcely found any purchasers, and that the
+ superstition had not only infected the cities, but had even
+ spread itself into the villages and the open country of
+ Pontus and Bithynia. (158)","('Trajan', 'PERSON'), ('Pontus', 'LOC'), ('Bithynia', 'LOC'), ('158', 'CARDINAL')"
+"In such a
+ character they could discover none of the features of the
+ wise and omnipotent Father of the universe. (29)","('29', 'CARDINAL')"
+"In the
+ various religions of Polytheism some wandering fanatics of
+ Egypt and Syria, who addressed themselves to the credulous
+ superstition of the populace, were perhaps the only order of
+ priests (150) that derived their whole support and credit from 
+ their sacerdotal profession, and were very deeply affected
+ by a personal concern for the safety or prosperity of their
+ tutelar deities.","('Polytheism', 'NORP'), ('Egypt', 'GPE'), ('Syria', 'GPE'), ('150', 'CARDINAL')"
+In the East.,"('East', 'LOC')"
+"In the admission of new citizens that unsocial people was
+ actuated by the selfish vanity of the Greeks rather than by
+ the generous policy of Rome.","('Greeks', 'NORP'), ('Rome', 'GPE')"
+"In the course of this important, though perhaps tedious,
+ inquiry, I have attempted to display the secondary causes
+ which so efficaciously assisted the truth of the Christian
+ religion.","('Christian', 'NORP')"
+"In the exercise of this
+ power the censures of the Christian church were chiefly
+ directed against scandalous sinners, and particularly those
+ who were guilty of murder, of fraud, or of incontinence;
+ against the authors or the followers, of any heretical
+ opinions which had been condemned by the judgment of the
+ episcopal order; and against those unhappy persons who,
+ whether from choice or from compulsion, had polluted
+ themselves after their baptism by any act of idolatrous
+ worship.","('Christian', 'NORP')"
+"In the opinion of a general conflagration
+ the faith of the Christian very happily coincided with the
+ tradition of the East, the philosophy of the Stoics, and the
+ analogy of Nature; and even the country which, from
+ religious motives, had been chosen for the origin and
+ principal scene of the conflagration, was the best adapted
+ for that purpose by natural and physical causes by its deep
+ caverns, beds of sulphur, and numerous volcanoes, of which
+ those of Etna, of Vesuvius, and of Lipari exhibit a very
+ imperfect representation.","('Christian', 'NORP'), ('East', 'LOC'), ('Stoics', 'NORP'), ('Etna', 'LOC'), ('Vesuvius', 'LOC'), ('Lipari', 'GPE')"
+"In the second chapter of this work we have
+ attempted to explain in what manner the most civilised
+ provinces of Europe, Asia, and Africa were united under the
+ dominion of one sovereign, and gradually connected by the
+ most intimate ties of laws, of manners, and of language.","('second', 'ORDINAL'), ('Europe', 'LOC'), ('Asia', 'LOC'), ('Africa', 'LOC'), ('one', 'CARDINAL')"
+"In the style of the
+ fathers, Apollo and the Muses were the organs of the
+ infernal spirit; Homer and Virgil were the most eminent of
+ his servants; and the beautiful mythology which pervades and
+ animates the compositions of their genius is destined to
+ celebrate the glory of the daemons.","('Apollo', 'PERSON'), ('Homer', 'PERSON'), ('Virgil', 'PERSON')"
+"In the time of the emperor Decius it
+ was the opinion of the magistrates that the Christians of
+ Rome were possessed of very considerable wealth, that
+ vessels of gold and silver were used in their religious
+ worship and that many among their proselytes had sold their
+ lands and houses to increase the public riches of the sect,
+ at the expense, indeed, of their unfortunate children, who
+ found themselves beggars because their parents had been
+ saints. (134)","('Decius', 'PERSON'), ('Christians', 'NORP'), ('Rome', 'GPE')"
+"In the unskilful hands of Justin and of the succeeding
+ apologists, the sublime meaning of the Hebrew oracles
+ evaporates in distant types, affected conceits, and cold
+ allegories; and even their authenticity was rendered
+ suspicious to an unenlightened Gentile, by the mixture of
+ pious forgeries which, under the names of Orpheus, Hermes,
+ and the Sibyls, (193) were obtruded on him as of equal value 
+ with the genuine inspirations of Heaven.","('Justin', 'PERSON'), ('Hebrew', 'LANGUAGE'), ('Gentile', 'NORP'), ('Orpheus', 'PERSON'), ('Hermes', 'PERSON'), ('Sibyls', 'PERSON'), ('193', 'CARDINAL')"
+"In their censures of luxury the fathers are extremely minute
+ and circumstantial; (89) and among the various articles which 
+ excite their pious indignation, we may enumerate false hair,
+ garments of any colour except white, instruments of music,
+ vases of gold or silver, downy pillows (as Jacob reposed his
+ head on a stone), white bread, foreign wines, public
+ salutations, the use of warm baths, and the practice of
+ shaving the beard, which, according to the expression of
+ Tertullian, is a lie against our own faces, and an impious
+ attempt to improve the works of the Creator. (90)","('Jacob', 'PERSON'), ('Tertullian', 'PERSON'), ('90', 'CARDINAL')"
+"In this more important circumstance Africa,
+ as well as Gaul, was gradually fashioned to the imitation of
+ the capital.","('Africa', 'LOC'), ('Gaul', 'PERSON')"
+"Instead of an absolute sacrifice, a moderate
+ proportion was accepted by the ministers of the Gospel; and
+ in their weekly or monthly assemblies every believer,
+ according to the exigency of the occasion, and the measure
+ of his wealth and piety, presented his voluntary offering
+ for the use of the common fund.","('Gospel', 'ORG'), ('weekly', 'DATE'), ('monthly', 'DATE')"
+"Instead of one apostolic founder, the
+ utmost boast of Antioch, of Ephesus, or of Corinth, the
+ banks of the Tiber were supposed to have been honoured with
+ the preaching and martyrdom of the two most eminent among
+ the apostles; (122) and the bishop of Rome very prudently 
+ claimed the inheritance of whatsoever prerogatives were
+ attributed either to the person or to the office of St.
+ Peter. (123)","('one', 'CARDINAL'), ('Antioch', 'GPE'), ('Ephesus', 'GPE'), ('Corinth', 'GPE'), ('Tiber', 'LOC'), ('two', 'CARDINAL'), ('122', 'CARDINAL'), ('Rome', 'GPE'), ('St.\r\n Peter.', 'GPE'), ('123', 'CARDINAL')"
+"It
+ may be observed that, in this instance likewise, the
+ situation of the first Christians coincided very happily
+ with their religious scruples, and that their aversion to an
+ active life contributed rather to excuse them from the
+ service than to exclude them from the honours of the state
+ and army.","('first', 'ORDINAL'), ('Christians', 'NORP')"
+"It appears, 
+ however, that about forty years afterwards the emperor
+ Valerian was persuaded of the truth of this assertion, since
+ in one of his rescripts he evidently supposes that senators,
+ Roman knights, and ladies of quality, were engaged in the
+ Christian sect. (190)","('about forty years', 'DATE'), ('Valerian', 'PERSON'), ('one', 'CARDINAL'), ('Roman', 'NORP'), ('Christian', 'NORP'), ('190', 'CARDINAL')"
+"It became the most sacred duty of
+ a new convert to diffuse among his friends and relations the
+ inestimable blessing which he had received, and to warn them
+ against a refusal that would be severely punished as a
+ criminal disobedience to the will of a benevolent but all
+ powerful Deity.","('Deity', 'PERSON')"
+"It had been provided by several laws, which were enacted
+ with the same design as our statutes of mortmain, that no
+ real estates should be given or bequeathed to any corporate
+ body without either a special privilege or a particular
+ dispensation from the emperor or from the senate; (137) who 
+ were seldom disposed to grant them in favour of a sect, at
+ first the object of their contempt, and at last of their
+ fears and jealousy.","('137', 'CARDINAL'), ('first', 'ORDINAL')"
+"It happened 
+ during the lifetime of Seneca and the elder Pliny, who must
+ have experienced the immediate effects, or received the
+ earliest intelligence, of the prodigy.","('Seneca', 'PERSON'), ('Pliny', 'PERSON')"
+"It has been observed, with truth as well as propriety, that
+ the conquests of Rome prepared and facilitated those of
+ Christianity.","('Rome', 'GPE'), ('Christianity', 'NORP')"
+"It has been remarked with more ingenuity than truth that the
+ virgin purity of the church was never violated by schism or
+ heresy before the reign of Trajan or Hadrian, about one
+ hundred years after the death of Christ. (31)","('Trajan', 'PERSON'), ('Hadrian', 'PERSON'), ('about one\r\n hundred years', 'DATE'), ('Christ', 'PERSON'), ('31', 'CARDINAL')"
+"It is a very ancient reproach, suggested by the ignorance or
+ the malice of infidelity, that the Christians allured into
+ their party the most atrocious criminals, who, as soon as
+ they were touched by a sense of remorse, were easily
+ persuaded to wash away, in the water of baptism, the guilt
+ of their past conduct, for which the temples of the gods
+ refused to grant them any expiation.","('Christians', 'NORP')"
+"It is a very honourable circumstance for the morals of the
+ primitive Christians, that even their faults, or rather
+ errors, were derived from an excess of virtue.","('Christians', 'NORP')"
+"It is at least doubtful whether any of these philosophers
+ perused the apologies which the primitive Christians
+ repeatedly published in behalf of themselves and of their
+ religion; but it is much to be lamented that such a cause
+ was not defended by abler advocates.","('Christians', 'NORP')"
+"It is incumbent on us to adore the mysterious dispensations
+ of Providence, (57) when we discover that the doctrine of the 
+ immortality of the soul is omitted in the law of Moses; it
+ is darkly insinuated by the prophets; and during the long
+ period which elapsed between the Egyptian and the Babylonian
+ servitudes, the hopes as well as fears of the Jews appear to
+ have been confined within the narrow compass of the present
+ life.","('Providence', 'GPE'), ('57', 'CARDINAL'), ('Moses', 'PERSON'), ('Egyptian', 'NORP'), ('Babylonian', 'NORP'), ('Jews', 'NORP')"
+"It is needless to observe that the pious and humble
+ presbyters who were first dignified with the episcopal title
+ could not possess and would probably have rejected, the
+ power and pomp which now encircles the tiara of the Roman
+ pontiff, or the mitre of a German prelate.","('first', 'ORDINAL'), ('Roman', 'NORP'), ('German', 'NORP')"
+"It is somewhat remarkable
+ that the prelate of the first eastern church, however
+ anxious for the conversion of his friend, thought proper to
+ decline this fair and reasonable challenge. (78)","('first', 'ORDINAL')"
+"It is this deep impression of supernatural truths which has been so much celebrated under the name of faith; a state of mind described as the surest pledge of the Divine favour and of future felicity, and recommended as the first or perhaps the only merit of a Christian.","('first', 'ORDINAL'), ('Christian', 'NORP')"
+"It is with the same candid allowance that we should 
+ interpret the vague expressions of Tacitus, and in a former
+ instance of Pliny, when they exaggerate the crowds of
+ deluded fanatics who had forsaken the established worship of
+ the gods.","('Tacitus', 'PERSON'), ('Pliny', 'PERSON')"
+"It might, however, afford
+ some consolation to Roman vanity, that the period of their
+ empire would be that of the world itself; which as it had
+ once perished by the element of water, was destined to
+ experience a second and a speedy destruction from the
+ element of fire.","('Roman', 'NORP'), ('second', 'ORDINAL')"
+"It must not, however, be dissembled that, in
+ another passage, Chrysostom, to whom we are indebted for
+ this useful information, computes the multitude of the
+ faithful as even superior to that of the Jews and Pagans.
+ (161)","('Chrysostom', 'PERSON'), ('Jews', 'NORP'), ('Pagans', 'NORP'), ('161', 'CARDINAL')"
+"It was
+ at first embraced by great numbers of the Therapeutae, or
+ Essenians, of the lake Mareotis, a Jewish sect which had
+ abated much of its reverence for the Mosaic ceremonies.","('first', 'ORDINAL'), ('Therapeutae', 'NORP'), ('Essenians', 'NORP'), ('Mareotis', 'NORP'), ('Jewish', 'NORP'), ('Mosaic', 'NORP')"
+"It was
+ their favourite opinion, that if Adam had preserved his
+ obedience to the Creator, he would have lived for ever in a
+ state of virgin purity, and that some harmless mode of
+ vegetation might have peopled paradise with a race of
+ innocent and immortal beings.","('Adam', 'PERSON')"
+"It was acknowledged that, under a less 
+ perfect law, the powers of the Jewish constitution had been
+ exercised, with the approbation of Heaven, by inspired
+ prophets and by anointed kings.","('Jewish', 'NORP')"
+"It was by
+ the aid of these causes - exclusive zeal, the immediate
+ expectation of another world, the claim of miracles, the
+ practice of rigid virtue, and the constitution of the
+ primitive church - that Christianity spread itself with so
+ much success in the Roman empire.","('Christianity', 'NORP'), ('Roman', 'NORP')"
+"It was confessed, or at least it was imagined, that
+ they had distributed among themselves the most important
+ characters of polytheism, one daemon assuming the name and
+ attributes of Jupiter, another of Aesculapius, a third of
+ Venus, and a fourth perhaps of Apollo; (39) and that, by the 
+ advantage of their long experience and aerial nature, they
+ were enabled to execute, with sufficient skill and dignity,
+ the parts which they had undertaken.","('one', 'CARDINAL'), ('Jupiter', 'LOC'), ('Aesculapius', 'NORP'), ('third', 'ORDINAL'), ('Venus', 'LOC'), ('fourth', 'ORDINAL'), ('Apollo', 'LOC'), ('39', 'CARDINAL')"
+"It was in the school 
+ of Alexandria that the Christian theology appears to have
+ assumed a regular and scientific form; and when Hadrian
+ visited Egypt, he found a church composed of Jews and of
+ Greeks, sufficiently important to attract the notice of that
+ inquisitive prince.","('Alexandria', 'GPE'), ('Christian', 'NORP'), ('Hadrian', 'PERSON'), ('Egypt', 'GPE'), ('Jews', 'NORP'), ('Greeks', 'NORP')"
+"It was natural that the primitive tradition of a 
+ church which was founded only forty days after the death of
+ Christ, and was governed almost as many years under the
+ immediate inspection of his apostle, should be received as
+ the standard of orthodoxy.","('forty days', 'DATE'), ('Christ', 'PERSON'), ('almost as many years', 'DATE')"
+"It was proper gradually to unfold
+ the system of the Gospel, and to pronounce with the utmost
+ caution and tenderness a sentence of condemnation so
+ repugnant to the inclination and prejudices of the believing
+ Jews.","('Jews', 'NORP')"
+"It was the universal
+ sentiment both of the church and of heretics, that the
+ daemons were the authors, the patrons, and the objects of
+ idolatry. (38)","('38', 'CARDINAL')"
+"It was their
+ unanimous sentiment that a first marriage was adequate to
+ all the purposes of nature and of society.","('first', 'ORDINAL')"
+"It was under these circumstances
+ that the lofty title of Bishop began to raise itself above
+ the humble appellation of Presbyter; and while the latter
+ remained the most natural distinction for the members of
+ every Christian senate, the former was appropriated to the
+ dignity of its new president. (109)","('Bishop', 'PERSON'), ('Presbyter', 'PERSON'), ('Christian', 'NORP'), ('109', 'CARDINAL')"
+"It was with the utmost difficulty that
+ ancient Rome could support the institution of six vestals ;
+ (94) but the primitive church was filled with a great number 
+ of persons of either sex who had devoted themselves to the
+ profession of perpetual chastity.","('Rome', 'GPE'), ('six', 'CARDINAL'), ('94', 'CARDINAL')"
+"It will still remain an undoubted fact that the barbarians of Scythia and Germany, who afterwards subverted the Roman monarchy, were involved in the darkness of paganism; and that even the conversion of Iberia, of Armenia, or of Ethiopia, was not attempted with any degree of success until the sceptre was in the hands of an orthodox emperor (178)","('Scythia', 'GPE'), ('Germany', 'GPE'), ('Roman', 'NORP'), ('Iberia', 'LOC'), ('Armenia', 'GPE'), ('Ethiopia', 'GPE'), ('178', 'CARDINAL')"
+"It will,
+ perhaps, appear that it was most effectually favoured and
+ assisted by the five following causes:","('five', 'CARDINAL')"
+"Julius Africanus and Origen possessed a
+ very considerable share of the learning of their times; and
+ although the style of Cyprian is very different from that of
+ Lactantius, we might almost discover that both those writers
+ had been public teachers of rhetoric.","('Julius Africanus', 'PERSON'), ('Origen', 'PERSON'), ('Cyprian', 'PERSON'), ('Lactantius', 'PERSON')"
+"More liberal zeal of Christianity 
+ Under these circumstances, Christianity offered itself to
+ the world, armed with the strength of the Mosaic law, and
+ delivered from the weight of its fetters.","('Christianity', 'NORP'), ('Christianity', 'NORP'), ('Mosaic', 'NORP')"
+"Near a century afterwards, 
+ Tertullian with an honest pride could boast that very few
+ Christians had suffered by the hand of the executioner,
+ except on account of their religion.","('Tertullian', 'PERSON'), ('Christians', 'NORP')"
+"Neither the violence of Antiochus, nor the arts of Herod, 
+ nor the example of the circumjacent nations, could ever
+ persuade the Jews to associate with the institutions of
+ Moses the elegant mythology of the Greeks.","('Antiochus', 'PERSON'), ('Herod', 'PERSON'), ('Jews', 'NORP'), ('Moses', 'PERSON'), ('Greeks', 'NORP')"
+"Nor can it be affirmed with truth that the 
+ advantages of birth and fortune were always separated from
+ the profession of Christianity.","('Christianity', 'NORP')"
+"Nor was it long before an emulation of 
+ pre-eminence and power prevailed among the Metropolitans
+ themselves, each of them affecting to display, in the most
+ pompous terms, the temporal honours and advantages of the
+ city over which he presided; the numbers and opulence of the
+ Christians who were subject to their pastoral care; the
+ saints and martyrs who had arisen among them; and the purity
+ with which they preserved the tradition of the faith as it
+ had been transmitted through a series of orthodox bishops
+ from the apostle or the apostolic disciple to whom the
+ foundation of their church was ascribed. (121)","('Metropolitans', 'NORP'), ('Christians', 'NORP'), ('121', 'CARDINAL')"
+"Nor was the influence of Christianity confined
+ to the period or to the limits of the Roman empire.","('Christianity', 'NORP'), ('Roman', 'NORP')"
+"Nothing, however 
+ inconsiderable, was refused but it was diligently inculcated
+ that, in the article of tithes, the Mosaic law was still of
+ divine obligation; and that, since the Jews, under a less
+ perfect discipline, had been commanded to pay a tenth part
+ of all that they possessed, it would become the disciples of
+ Christ to distinguish themselves by a superior degree of
+ liberality, (132) and to acquire some merit by resigning a superfluous treasure, which must so soon be annihilated with the world itself.","('Mosaic', 'NORP'), ('Jews', 'NORP'), ('tenth', 'ORDINAL'), ('132', 'CARDINAL')"
+Obstinancy and reasons of the believing Jews,"('Jews', 'NORP')"
+"Of these holy romances, that of the 
+ apostle St. James can alone, by its singular extravagance,
+ deserve to be mentioned.","('St. James', 'PERSON')"
+"On days of general festivity it was the custom of
+ the ancients to adorn their doors with lamps and with
+ branches of laurel, and to crown their heads with a garland
+ of flowers.","('days of general festivity', 'DATE')"
+"One
+ circumstance, however, has been fortunately preserved, which
+ seems to cast a more distinct light on this obscure but
+ interesting subject.","('One', 'CARDINAL')"
+"Our serious thoughts will suggest to us that
+ the apostles themselves were chosen by Providence among the
+ fishermen of Galilee, and that, the lower we depress the
+ temporal condition of the first Christians, the more reason
+ we shall find to admire their merit and success.","('Providence', 'GPE'), ('Galilee', 'GPE'), ('first', 'ORDINAL'), ('Christians', 'NORP')"
+"Public pennance Humbled by a public
+ confession, emaciated by fasting, and clothed in sackcloth,
+ the penitent lay prostrate at the door of the assembly,
+ imploring with tears the pardon of his offences, and
+ soliciting the prayers of the faithful. (147)","('147', 'CARDINAL')"
+Recapitulation of the five causes.,"('five', 'CARDINAL')"
+Rejected by some emminent men of the first and second centuries.,"('the first and second centuries', 'DATE')"
+Scepticism of the Pagan world proved favourable to the new religion.,"('Pagan', 'NORP')"
+"Several Roman citizens were
+ brought before the tribunal of Pliny, and he soon discovered
+ that a great number of persons of every order of men in
+ Bithynia had deserted the religion of their ancestors.","('Roman', 'NORP'), ('Pliny', 'PERSON'), ('Bithynia', 'GPE')"
+"Should the most skilful
+ painter of modern Italy presume to decorate his feeble imitations with the name of Raphael or of Correggio, the insolent fraud would be soon discovered and indignantly rejected.","('Italy', 'GPE'), ('Raphael', 'PERSON'), ('Correggio', 'PERSON')"
+"Silence is indeed very consistent with devotion; but as 
+ it is seldom compatible with zeal we may perceive and lament
+ the languid state of Christianity in those provinces which
+ had exchanged the Celtic for the Latin tongue, since they
+ did not, during the three first centuries, give birth to a
+ single ecclesiastical writer.","('Christianity', 'NORP'), ('Celtic', 'NORP'), ('Latin', 'NORP'), ('the three first centuries', 'DATE')"
+"So
+ artfully were they framed and disposed throughout the year,
+ that superstition always wore the appearance of pleasure,
+ and often of virtue. (49)","('the year', 'DATE')"
+"So pleasing was this hope to the mind
+ of believers, that the new Jerusalem, the seat of this
+ blissful kingdom, was quickly adorned with all the gayest
+ colours of the imagination.","('Jerusalem', 'GPE')"
+"Some
+ deities of a more recent and fashionable cast might soon
+ have occupied the deserted temples of Jupiter and Apollo,
+ if, in the decisive moment, the wisdom of Providence had not
+ interposed a genuine revelation fitted to inspire the most
+ rational esteem and conviction, whilst, at the same time, it
+ was adorned with all that could attract the curiosity, the
+ wonder, and the veneration of the people.","('Jupiter', 'LOC'), ('Apollo', 'LOC'), ('Providence', 'GPE')"
+"Some idea may be conceived of the abhorrence of the
+ Christians for such impious ceremonies, by the scrupulous
+ delicacy which they displayed on a much less alarming
+ occasion.","('Christians', 'NORP')"
+"Some indulgence might
+ perhaps be allowed to those persons who, before their
+ conversion, were already engaged in such violent and
+ sanguinary occupations; (101) but it was impossible that the 
+ Christians, without renouncing a more sacred duty, could
+ assume the character of soldiers, of magistrates, or of
+ princes. (102)","('101', 'CARDINAL'), ('Christians', 'NORP'), ('102', 'CARDINAL')"
+"Some of the most sacred festivals in 
+ the Roman ritual were destined to salute the new calends of
+ January with vows of public and private felicity; to indulge
+ the pious remembrance of the dead and living to ascertain
+ the inviolable bounds of property; to hail, on the return of
+ spring, the genial powers of fecundity; to perpetuate the
+ two memorable eras of Rome, the foundation of the city, and
+ that of the republic; and to restore, during the humane
+ licence of the Saturnalia, the primitive equality of
+ mankind.","('Roman', 'NORP'), ('January', 'DATE'), ('spring', 'DATE'), ('two', 'CARDINAL'), ('Rome', 'GPE'), ('Saturnalia', 'NORP')"
+"Sometimes we might imagine that we were listening to the voice of Moses, when he commanded the earth to open, and to swallow up, in consuming flames, the rebellious race which refused obedience to the priesthood of Aaron; and we should sometimes suppose that we heard a Roman consul asserting the majesty of the republic, and declaring his inflexible resolution to enforce the rigour of the laws.","('Moses', 'PERSON'), ('Aaron', 'PERSON'), ('Roman', 'NORP')"
+"Such an institution, which paid less regard to the merit
+ than to the distress of the object, very materially conduced
+ to the progress of Christianity.","('Christianity', 'NORP')"
+"Such are the early traces of monastic principles and
+ institutions, which, in a subsequent age, have
+ counterbalanced all the temporal advantages of Christianity.
+ (99)","('Christianity', 'NORP'), ('99', 'CARDINAL')"
+"Such imperfect circumstances, however, as have
+ reached our knowledge concerning the increase of the
+ Christian name in Asia and Greece, in Egypt, in Italy, and
+ in the West, we shall now proceed to relate, without
+ neglecting the real or imaginary acquisitions which lay
+ beyond the frontiers of the Roman empire.","('Christian', 'NORP'), ('Asia', 'LOC'), ('Greece', 'GPE'), ('Egypt', 'GPE'), ('Italy', 'GPE'), ('West', 'LOC'), ('Roman', 'NORP')"
+"THE FOURTH CAUSE
+Virtues of the first Christians.","('first', 'ORDINAL'), ('Christians', 'NORP')"
+"That 
+ obstacle was indeed removed by the destruction of the temple
+ of Jerusalem; but the most considerable part of the Jewish
+ religion was involved in its destruction; and the Pagans,
+ who had long wondered at the strange report of an empty
+ sanctuary, (13) were at a loss to discover what could be the 
+ object, or what could be the instruments, of a worship which
+ was destitute of temples and of altars, of priests and of
+ sacrifices.","('Jerusalem', 'GPE'), ('Jewish', 'NORP'), ('Pagans', 'NORP'), ('13', 'CARDINAL')"
+"The
+ Jews of Palestine who had fondly expected a temporal
+ deliverer, gave so cold a reception to the miracles of the
+ divine prophet, that it was found unnecessary to publish, or
+ at least to preserve, any Hebrew gospel. (152)","('Jews', 'NORP'), ('Palestine', 'GPE'), ('Hebrew', 'NORP'), ('152', 'CARDINAL')"
+"The
+ Jews, who, under the Assyrian and Persian monarchies, had
+ languished for many ages the most despised portion of their
+ slaves, (1) emerged from obscurity under the successors of 
+ Alexander; and as they multiplied to a surprising degree in
+ the East, and afterwards in the West, they soon excited the
+ curiosity and wonder of other nations. (2)","('Jews', 'NORP'), ('Assyrian', 'NORP'), ('Persian', 'NORP'), ('1', 'CARDINAL'), ('Alexander', 'PERSON'), ('East', 'LOC'), ('West', 'LOC'), ('2', 'CARDINAL')"
+"The
+ Mosaic account of the creation and fall of man was treated
+ with profane derision by the Gnostics, who would not listen
+ with patience to the repose of the Deity after six days
+ labour, to the rib of Adam, the garden of Eden, the trees of
+ life and of knowledge, the speaking serpent, the forbidden
+ fruit, and the condemnation pronounced against human kind
+ for the venial offence of their first progenitors. (28)","('Mosaic', 'ORG'), ('Gnostics', 'NORP'), ('six days', 'DATE'), ('Adam', 'PERSON'), ('Eden', 'LOC'), ('first', 'ORDINAL'), ('28', 'CARDINAL')"
+"The
+ Nazarenes had only one way left to escape the common
+ proscription, and the force of truth was on this occasion
+ assisted by the influence of temporal advantages.","('Nazarenes', 'PERSON'), ('only one', 'CARDINAL')"
+"The
+ austere life of the Essenians, their fasts and
+ ex-communications, the community of goods, the love of
+ celibacy, their zeal for martyrdom, and the warmth though
+ not the purity of their faith, already offered a very lively
+ image of the primitive discipline.","('Essenians', 'NORP')"
+"The
+ conquest of the land of Canaan, and the extirpation of the
+ unsuspecting natives, they were at a loss how to reconcile
+ with the common notions of humanity and justice.","('Canaan', 'GPE')"
+"The
+ divine authority of Moses and the prophets was admitted, and
+ even established, as the firmest basis of Christianity.","('Moses', 'PERSON'), ('Christianity', 'NORP')"
+"The
+ ecclesiastical governors of the Christians were taught to
+ unite the wisdom of the serpent with the innocence of the
+ dove; but as the former was refined, so the latter was
+ insensibly corrupted, by the habits of government.","('Christians', 'NORP')"
+"The
+ edification of the new Jerusalem was to advance by equal
+ steps with the destruction of the mystic Babylon; and as
+ long as the emperors who reigned before Constantine
+ persisted in the profession of idolatry, the epithet of
+ Babylon was applied to the city and to the empire of Rome.","('Jerusalem', 'GPE'), ('Babylon', 'GPE'), ('Constantine', 'PERSON'), ('Babylon', 'GPE'), ('Rome', 'GPE')"
+"The
+ first sensation of pleasure was marked as the first moment
+ of their abuse.","('first', 'ORDINAL'), ('first', 'ORDINAL')"
+"The
+ hard necessity of censuring either a pope or a saint and
+ martyr distresses the modern Catholics whenever they are
+ obliged to relate the particulars of a dispute in which the
+ champions of religion indulged such passions as seem much
+ more adapted to the senate or to the camp. (126)","('Catholics', 'NORP'), ('126', 'CARDINAL')"
+"The
+ heretics, indeed, who might be supported by the
+ consciousness of their intentions, and by the flattering
+ hope that they alone had discovered the true path of
+ salvation, endeavoured to regain in their separate
+ assemblies those comforts, temporal as well as spiritual,
+ which they no longer derived from the great society of
+ Christians.","('Christians', 'NORP')"
+"The
+ names of Seneca, of the elder and the younger Pliny, of
+ Tacitus, of Plutarch, of Galen, of the slave Epictetus, and
+ of the emperor Marcus Antoninus, adorn the age in which they
+ flourished, and exalt the dignity of human nature.","('Seneca', 'PERSON'), ('Pliny', 'PERSON'), ('Tacitus', 'NORP'), ('Plutarch', 'PERSON'), ('Galen', 'PERSON'), ('Epictetus', 'LOC'), ('Marcus Antoninus', 'PERSON')"
+"The
+ populousness of that great capital cannot perhaps be exactly
+ ascertained; but the most modest calculation will not surely
+ reduce it lower than a million of inhabitants, of whom the
+ Christians might constitute at the most a twentieth part.
+ (170)","('lower than a million', 'CARDINAL'), ('Christians', 'NORP'), ('twentieth', 'ORDINAL'), ('170', 'CARDINAL')"
+"The
+ pure and austere morals of the Christians.","('Christians', 'NORP')"
+"The
+ society of the faithful bore a just proportion to the
+ capital of the empire; and the Roman church was the
+ greatest, the most numerous, and, in regard to the West, the
+ most ancient of all the Christian establishments, many of
+ which had received their religion from the pious labours of
+ her missionaries.","('Roman', 'NORP'), ('West', 'LOC'), ('Christian', 'NORP')"
+"The
+ unfortunate Ebionites, rejected from one religion as
+ apostates, and from the other as heretics, found themselves
+ compelled to assume a more decided character; and although
+ some traces of that obsolete sect may be discovered as late
+ as the fourth century, they insensibly melted away either
+ into the church or the synagogue. (25)","('Ebionites', 'NORP'), ('one', 'CARDINAL'), ('as late\r\n as the fourth century', 'DATE'), ('25', 'CARDINAL')"
+"The 
+ God of Israel was impiously represented by the Gnostics as a
+ being liable to passion and to error, capricious in his
+ favour, implacable in his resentment, meanly jealous of his
+ superstitious worship, and confining his partial providence
+ to a single people, and to this transitory life.","('The \r\n God of Israel', 'PERSON'), ('Gnostics', 'NORP')"
+"The 
+ antiquity of the Greek and Asiatic churches allowed a
+ sufficient space of time for their increase and
+ multiplication; and even the swarms of Gnostics and other
+ heretics serve to display the flourishing condition of the
+ orthodox church, since the appellation of heretics has
+ always been applied to the less numerous party.","('Greek', 'NORP'), ('Asiatic', 'NORP'), ('Gnostics', 'NORP')"
+"The 
+ friends of Christianity may acknowledge without a blush that
+ many of the most eminent saints had been before their
+ baptism the most abandoned sinners.","('Christianity', 'NORP')"
+"The 
+ progress of the Christian religion relaxed, and gradually
+ abolished, this generous institution, which, in hands less
+ pure than those of the apostles, would too soon have been
+ corrupted and abused by the returning selfishness of human
+ nature; and the converts who embraced the new religion were
+ permitted to retain the possession of their patrimony, to
+ receive legacies and inheritances, and to increase their
+ separate property by all the lawful means of trade and
+ industry.","('Christian', 'NORP')"
+"The African Christians soon formed one of
+ the principal members of the primitive church.","('African', 'NORP'), ('Christians', 'NORP'), ('one', 'CARDINAL')"
+"The Christian
+ against whom it was pronounced was deprived of any part in
+ the oblations of the faithful.","('Christian', 'NORP')"
+"The Christian religion, which
+ addressed itself to the whole human race, must consequently
+ collect a far greater number of proselytes from the lower
+ than from the superior ranks of life.","('Christian', 'NORP')"
+"The Christian, who founded his belief
+ much less on the fallacious arguments of reason than on the
+ authority of tradition and the interpretation of Scripture,
+ expected it with terror and confidence as a certain and
+ approaching event; and as his mind was perpetually filled
+ with the solemn idea, he considered every disaster that
+ happened to the empire as an infallible symptom of an
+ expiring world. (69)","('Christian', 'NORP'), ('Scripture', 'WORK_OF_ART')"
+"The Christian, who with pious horror avoided the abomination of the circus or the theatre, found himself encompassed with infernal snares in every convivial entertainment, as often as his friends, invoking the hospitable deities, poured out libations to each others happiness.","('Christian', 'NORP')"
+"The Christians
+ of Rome, at the time of the accidental persecution of Nero,
+ are represented by Tacitus as already amounting to a very
+ great multitude, (167) and the language of that great 
+ historian is almost similar to the style employed by Livy,
+ when he relates the introduction and the suppression of the
+ rites of Bacchus.","('Christians', 'NORP'), ('Rome', 'GPE'), ('Nero', 'PERSON'), ('Tacitus', 'PERSON'), ('Livy', 'PERSON'), ('Bacchus', 'PERSON')"
+"The Christians active in the government of the church  
+ But the human character, however it may be exalted or
+ depressed by a temporary enthusiasm, will return by degrees
+ to its proper and natural level, and will resume those
+ passions that seem the most adapted to its present
+ condition.","('Christians', 'NORP')"
+"The Christians felt and
+ confessed that such institutions might be necessary for the
+ present system of the world, and they cheerfully submitted
+ to the authority of their Pagan governors.","('Christians', 'NORP'), ('Pagan', 'NORP')"
+"The Christians were not less adverse to the business than to
+ the pleasures of this world.","('Christians', 'NORP')"
+"The Christians, who, by the interposition
+ of evil spirits, could so readily explain every
+ preternatural appearance, were disposed and even desirous to
+ admit the most extravagant fictions of the Pagan mythology.","('Christians', 'NORP'), ('Pagan', 'NORP')"
+The Ebionites,"('The Ebionites', 'PERSON')"
+"The Galatian, who after his baptism had repeatedly
+ sacrificed to idols, might obtain his pardon by a penance of
+ seven years; and if he had seduced others to imitate his
+ example, only three years more were added to the term of his
+ exile.","('Galatian', 'PERSON'), ('seven years', 'DATE'), ('only three years', 'DATE')"
+"The Gentile converts,
+ whose strongest objections and prejudices were directed
+ against the law of Moses, could find admission into many
+ Christian societies, which required not from their untutored
+ mind any belief of an antecedent revelation.","('Gentile', 'NORP'), ('Moses', 'PERSON'), ('Christian', 'NORP')"
+"The Gnostics blended with the faith
+ of Christ many sublime but obscure tenets, which they
+ derived from oriental philosophy, and even from the religion
+ of Zoroaster, concerning the eternity of matter, the
+ existence of two principles, and the mysterious hierarchy of
+ the invisible world. (32)","('Zoroaster', 'NORP'), ('two', 'CARDINAL'), ('32', 'CARDINAL')"
+"The Gnostics were distinguished as the most
+ polite, the most learned, and the most wealthy of the
+ Christian name; and that general appellation, which
+ expressed a superiority of knowledge, was either assumed by
+ their own pride, or ironically bestowed by the envy of their
+ adversaries.","('Gnostics', 'PERSON'), ('Christian', 'NORP')"
+"The Jewish
+ converts, or, as they were afterwards called, the Nazarenes,
+ who had laid the foundations of the church, soon found
+ themselves overwhelmed by the increasing multitudes that
+ from all the various religions of polytheism enlisted under
+ the banner of Christ: and the Gentiles, who, with the
+ approbation of their peculiar apostle, had rejected the
+ intolerable weight of Mosaic ceremonies, at length refused
+ to their more scrupulous brethren the same toleration which
+ at first they had humbly solicited for their own practice.","('Jewish', 'NORP'), ('Nazarenes', 'NORP'), ('Gentiles', 'NORP'), ('Mosaic', 'NORP'), ('first', 'ORDINAL')"
+"The Jewish converts, who acknowledged Jesus in
+ the character of the Messiah foretold by their ancient
+ oracles, respected him as a prophetic teacher of virtue and
+ religion; but they obstinately adhered to the ceremonies of
+ their ancestors, and were desirous of imposing them on the
+ Gentiles, who continually augmented the number of believers.","('Jewish', 'NORP'), ('Jesus', 'PERSON'), ('Messiah', 'PERSON'), ('Gentiles', 'NORP')"
+"The Jewish religion was admirably fitted for defence, but it
+ was never designed for conquest; and it seems probable that
+ the number of proselytes was never much superior to that of
+ apostates.","('Jewish', 'NORP')"
+The Nazarene church of Jerusalem,"('Nazarene', 'NORP'), ('Jerusalem', 'GPE')"
+"The Nazarenes retired from the
+ ruins of Jerusalem to the little town of Pella beyond the
+ Jordan, where that ancient church languished above sixty
+ years in solitude and obscurity.","('Nazarenes', 'PERSON'), ('Jerusalem', 'GPE'), ('Pella', 'GPE'), ('Jordan', 'GPE'), ('sixty\r\n years', 'DATE')"
+The Pagans devoted to eternal punishment.,"('Pagans', 'NORP')"
+"The accidental
+ circumstances of their life and situation determined the
+ object as well as the degree of their devotion; and as long
+ as their adoration was successively prostituted to a
+ thousand deities, it was scarcely possible that their hearts
+ could be susceptible of a very sincere or lively passion for
+ any of them.","('a\r\n thousand', 'CARDINAL')"
+"The advantages of this 
+ espiscopal form of government, which appears to have been
+ introduced before the end of the first century, (110) were so 
+ obvious, and so important for the future greatness, as well
+ as the present peace, of Christianity, that it was adopted
+ without delay by all the societies which were already
+ scattered over the empire, had acquired in a very early
+ period the sanction of antiquity, (111) and is still revered 
+ by the most powerful churches, both of the East and of the
+ West, as a primitive and even as a divine establishment.","('the end of the first century', 'DATE'), ('110', 'CARDINAL'), ('Christianity', 'NORP'), ('111', 'CARDINAL'), ('East', 'LOC'), ('West', 'LOC')"
+"The ancient Christians were
+ animated by a contempt for their present existence, and by a
+ just confidence of immortality, of which the doubtful and
+ imperfect faith of modern ages cannot give us any adequate
+ notion.","('Christians', 'NORP')"
+"The ancient and popular doctrine of the Millennium was
+ intimately connected with the second coming of Christ.","('Millennium', 'FAC'), ('second', 'ORDINAL'), ('Christ', 'PERSON')"
+"The assurance of such a Millennium 
+ was carefully inculcated by a succession of fathers from
+ Justin Martyr (64) and Irenaeus, who conversed with the 
+ immediate disciples of the apostles, down to Lactantius, who
+ was preceptor to the son of Constantine. (65)","('Millennium', 'WORK_OF_ART'), ('Justin Martyr', 'PERSON'), ('64', 'DATE'), ('Irenaeus', 'PERSON'), ('Lactantius', 'PERSON'), ('Constantine', 'PERSON'), ('65', 'DATE')"
+"The authentic 
+ histories of the actions of Christ were composed in the
+ Greek languages at a considerable distance from Jerusalem
+ and after the Gentile converts were grown extremely
+ numerous. (153)","('Greek', 'LANGUAGE'), ('Jerusalem', 'GPE'), ('Gentile', 'NORP'), ('153', 'CARDINAL')"
+"The awful ceremony was usually performed in a
+ public manner, and in the presence of a great number of
+ spectators; the patient was relieved by the power or skill
+ of the exorcist, and the vanquished daemon was heard to
+ confess that he was one of the fabled gods of antiquity, who
+ had impiously usurped the adoration of mankind. (76)","('one', 'CARDINAL')"
+"The benefits of the Christian
+ communion were those of eternal life; nor could they erase
+ from their minds the awful opinion that to those
+ ecclesiastical governors by whom they were condemned the
+ Deity had committed the keys of Hell and of Paradise.","('Christian', 'NORP')"
+"The bishop was the natural steward of the church; the public
+ stock was intrusted to his care without account or control;
+ the presbyters were confined to their spiritual functions,
+ and the more dependent order of deacons was solely employed
+ in the management and distribution of the ecclesiastical
+ revenue. (139)","('139', 'CARDINAL')"
+"The bishops
+ and doctors of the church, whose evidence attests, and whose
+ authority might influence, the professions, the principles,
+ and even the practice of their contemporaries, had studied
+ the Scriptures with less skill than devotion; and they often
+ received in the most literal sense those rigid precepts of
+ Christ and the apostles to which the prudence of succeeding
+ commentators has applied a looser and more figurative mode
+ of interpretation.","('Scriptures', 'WORK_OF_ART'), ('Christ', 'PERSON')"
+"The bishops of Italy and of the provinces were 
+ disposed to allow them a primacy of order and association
+ (such was their very accurate expression) in the Christian
+ aristocracy. (124)","('Italy', 'GPE'), ('Christian', 'NORP'), ('124', 'CARDINAL')"
+"The bishops were the vicegerents of
+ Christ, the successors of the apostles, and the mystic
+ substitutes of the high priest of the Mosaic law.","('Christ', 'PERSON'), ('Mosaic', 'NORP')"
+"The bishops, whose paternal
+ care extended itself to the government of both worlds, were
+ sensible of the importance of these prerogatives; and,
+ covering their ambition with the fair pretence of the love
+ of order, they were jealous of any rival in the exercise of
+ a discipline so necessary to prevent the desertion of those
+ troops which had enlisted themselves under the banner of the
+ Cross, and whose numbers every day became more considerable.","('every day', 'DATE')"
+"The body 
+ of the natives, a people distinguished by a sullen
+ inflexibility of temper, (165) entertained the new doctrine 
+ with coldness and reluctance; and even in the time of Origen
+ it was rare to meet with an Egyptian who had surmounted his
+ early prejudices in favour of the sacred animals of his
+ country. (166)","('165', 'CARDINAL'), ('Origen', 'PERSON'), ('Egyptian', 'NORP'), ('166', 'CARDINAL')"
+"The careless Polytheist, assailed by
+ new and unexpected terrors, against which neither his
+ priests nor his philosophers could afford him any certain
+ protection, was very frequently terrified and subdued by the
+ menace of eternal tortures.","('Polytheist', 'PERSON')"
+"The chaste severity of the fathers in whatever related to
+ the commerce of the two sexes flowed from the same principle
+ - their abhorrence of every enjoyment which might gratify
+ the sensual and degrade the spiritual nature of man.","('two', 'CARDINAL')"
+The church of Antioch.,"('Antioch', 'GPE')"
+"The church of Rome was undoubtedly the first and
+ most populous of the empire; and we are possessed of an
+ authentic record which attests the state of religion in that
+ city about the middle of the third century, and after a
+ peace of thirty-eight years.","('Rome', 'GPE'), ('first', 'ORDINAL'), ('about the middle of the third century', 'DATE'), ('thirty-eight years', 'DATE')"
+"The church still continued to increase 
+ its outward splendour as it lost its internal purity; and,
+ in the reign of Diocletian, the palace, the courts of
+ justice, and even the army, concealed a multitude of
+ Christians, who endeavoured to reconcile the interests of
+ the present with those of a future life.","('Diocletian', 'PERSON'), ('Christians', 'NORP')"
+"The clergy, at that time,
+ consisted of a bishop, forty-six presbyters, seven deacons,
+ as many subdeacons, forty-two acolythes, and fifty readers,
+ exorcists, and porters.","('forty-six', 'CARDINAL'), ('seven', 'CARDINAL'), ('forty-two', 'CARDINAL'), ('fifty', 'CARDINAL')"
+"The condemnation of the wisest and most virtuous of the
+ Pagans, on account of their ignorance or disbelief of the
+ divine truth, seems to offend the reason and the humanity of
+ the present age. (70)","('Pagans', 'NORP'), ('70', 'CARDINAL')"
+"The conquest of the land of Canaan
+ was accompanied with so many wonderful and with so many
+ bloody circumstances, that the victorious Jews were left in
+ a state of irreconcilable hostility with all their
+ neighbours.","('Canaan', 'GPE'), ('Jews', 'NORP')"
+"The contemporaries of Moses and
+ Joshua had beheld with careless indifference the most
+ amazing miracles.","('Moses', 'PERSON'), ('Joshua', 'PERSON')"
+"The councils of
+ Ancyra and Illiberis were held about the same time, the one
+ in Galatia, the other in Spain; but their respective canons,
+ which are still extant, seem to breathe a very different
+ spirit.","('Ancyra', 'FAC'), ('Illiberis', 'ORG'), ('Galatia', 'GPE'), ('Spain', 'GPE')"
+"The daemons
+ soon discovered and abused the natural propensity of the
+ human heart towards devotion and, artfully withdrawing the
+ adoration of mankind from their Creator, they usurped the
+ place and honours of the Supreme Deity.","('the Supreme Deity', 'WORK_OF_ART')"
+"The daemons considered as the gods of antiquity 
+ But whatever difference of opinion might subsist between the
+ Orthodox, the Ebionites, and the Gnostics, concerning the
+ divinity or the obligation of the Mosaic law, they were all
+ equally animated by the same exclusive zeal, and by the same
+ abhorrence for idolatry, which had distinguished the Jews
+ from the other nations of the ancient world.","('Orthodox', 'NORP'), ('Ebionites', 'NORP'), ('Gnostics', 'NORP'), ('Mosaic', 'NORP'), ('Jews', 'NORP')"
+"The dangerous temptations which on every side lurked in
+ ambush to surprise the unguarded believer assailed him with
+ redoubled violence on the days of solemn festivals.","('the days', 'DATE')"
+"The descendants of Abraham were
+ flattered by the opinion that they alone were the heirs of
+ the covenant, and they were apprehensive of diminishing the
+ value of their inheritance by sharing it too easily with the
+ strangers of the earth.","('Abraham', 'PERSON')"
+"The description of the infernal regions had been abandoned to the fancy of painters and of poets, who peopled them with so many phantoms and monsters who dispensed their rewards and punishments with so little equity, that a solemn truth, the most congenial to the human heart, was oppressed and disgraced by the absurd mixture of the wildest fictions. (54) 3","('54', 'CARDINAL'), ('3', 'CARDINAL')"
+"The doctrine of Christ's reign upon earth
+ was at first treated as a profound allegory, was considered
+ by degrees as a doubtful and useless opinion, and was at
+ length rejected as the absurd invention of heresy and
+ fanaticism. (66)","('Christ', 'PERSON'), ('first', 'ORDINAL')"
+The doctrine of a  future state was scarcely considered among the devout polytheists of Greece and Rome as a fundamental article of faith.,"('Greece', 'GPE'), ('Rome', 'GPE')"
+"The doctrines of fate or predestination, of angels
+ and spirits, and of a future state of rewards and
+ punishments, were in the number of these new articles of
+ belief; and as the Pharisees, by the austerity of their
+ manners, had drawn into their party the body of the Jewish
+ people, the immortality of the soul became the prevailing
+ sentiment of the synagogue under the reign of the Asmonaean
+ princes and pontiffs.","('Pharisees', 'NORP'), ('Jewish', 'NORP'), ('Asmonaean', 'NORP')"
+"The eloquent preacher draws a parallel between the
+ civil and the ecclesiastical constitution of Antioch;
+ between the list of Christians who had acquired heaven by
+ baptism, and the list of citizens who had a right to share
+ the public liberality.","('Antioch', 'GPE'), ('Christians', 'NORP')"
+"The emperor founded, under the name of Alia
+ Capitolina, a new city on Mount Sion, (20) to which he gave 
+ the privileges of a colony; and denouncing the severest
+ penalties against any of the Jewish people who should dare
+ to approach its precincts, he fixed a vigilant garrison of a
+ Roman cohort to enforce the execution of his orders.","('Alia\r\n Capitolina', 'PERSON'), ('Mount Sion', 'GPE'), ('20', 'CARDINAL'), ('Jewish', 'NORP'), ('Roman', 'NORP')"
+"The expulsion of the daemons from the bodies of
+ those unhappy persons whom they had been permitted to
+ torment was considered as a signal though ordinary triumph
+ of religion, and is repeatedly alleged by the ancient
+ apologists as the most convincing evidence of the truth of
+ Christianity.","('Christianity', 'NORP')"
+"The extensive commerce of Alexandria, and its proximity to
+ Palestine, gave an easy entrance to the new religion.","('Alexandria', 'GPE'), ('Palestine', 'GPE')"
+"The fervour of the first
+ proselytes prompted them to sell those worldly possessions
+ which they despised, to lay the price of them at the feet of
+ the apostles, and to content themselves with receiving an
+ equal share out of the general distribution. (130)","('first', 'ORDINAL'), ('130', 'CARDINAL')"
+"The few 
+ who have pursued this inquiry with more candour and
+ impartiality are of opinion (105) that the apostles declined 
+ the office of legislation, and rather chose to endure some
+ partial scandals and divisions, than to exclude the
+ Christians of a future age from the liberty of varying their
+ forms of ecclesiastical government according to the changes
+ of times and circumstances.","('105', 'CARDINAL'), ('Christians', 'NORP')"
+"The first apologists of Christianity who justify the innocence of their brethren, and the writers of a later period who celebrate the sanctity of their ancestors, display, in the most lively colours, the reformation of manners which was introduced into the world by the preaching of the Gospel.","('first', 'ORDINAL'), ('Christianity', 'NORP')"
+"The first fifteen bishops of Jerusalem
+ were all circumcised Jews; and the congregation over which
+ they presided united the law of Moses with the doctrine of
+ Christ. (17)","('first', 'ORDINAL'), ('fifteen', 'CARDINAL'), ('Jerusalem', 'GPE'), ('Jews', 'NORP'), ('Moses', 'PERSON'), ('17', 'CARDINAL')"
+"The former of these appellations comprehended the body of the
+ Christian people; the latter, according to the signification
+ of the word, was appropriated to the chosen portion that had
+ been set apart for the service of religion; a celebrated
+ order of men which has furnished the most important, though
+ not always the most edifying, subjects for modern history.","('Christian', 'NORP')"
+"The former, selected from the more opulent and 
+ distinguished ranks of society, were strictly attached to
+ the literal sense of the Mosaic law, and they piously
+ rejected the immortality of the soul as an opinion that
+ received no countenance from the divine book, which they
+ revered as the only rule of their faith.","('Mosaic', 'NORP')"
+The general system of their mythology was unsupported by any solid proofs; and the wisest among the Pagans had already disclaimed its usurped authority.,"('Pagans', 'NORP')"
+"The gravest historians have
+ celebrated his exploits; the miraculous shrine of
+ Compostella displayed his power and the sword of a military
+ order, assisted by the terrors of the Inquisition, was
+ sufficient to remove every objection of profane criticism.
+ (176)","('Compostella', 'PERSON'), ('Inquisition', 'ORG'), ('176', 'CARDINAL')"
+"The history of the church of Jerusalem affords a lively
+ proof of the necessity of those precautions, and of the deep
+ impression which the Jewish religion had made on the minds
+ of its sectaries.","('Jerusalem', 'GPE'), ('Jewish', 'NORP')"
+"The hostile
+ disputants of Rome, of Paris, of Oxford, and of Geneva, have
+ alike struggled to reduce the primitive and apostolic model
+ (104) to the respective standards of their own policy.","('Rome', 'GPE'), ('Paris', 'GPE'), ('Oxford', 'GPE'), ('Geneva', 'GPE'), ('104', 'CARDINAL')"
+"The humane temper of Justin Martyr inclined him
+ to answer this question in the affirmative; and though he
+ expressed himself with the most guarded diffidence, he
+ ventured to determine in favour of such an imperfect
+ Christian, if he were content to practise the Mosaic
+ ceremonies without pretending to assert their general use or
+ necessity.","('Justin Martyr', 'PERSON'), ('Christian', 'NORP'), ('Mosaic', 'NORP')"
+"The important truth of the immortality of the soul was inculcated with more diligence as well as success in India, in Assyria, in Egypt, and in Gaul; among the barbarians; and since we cannot attribute such a difference to the superior knowledge of the barbarians, we must ascribe it to the influence of an established priesthood, which employed the motives of virtue as the instrument of ambition. (56)
+among the Jews;","('India', 'GPE'), ('Assyria', 'GPE'), ('Egypt', 'GPE'), ('Gaul', 'PERSON'), ('56', 'CARDINAL'), ('Jews', 'NORP')"
+"The inflexible,
+ and, if we may use the expression, the intolerant zeal of
+ the Christians, derived, it is true, from the Jewish
+ religion, but purified from the narrow and unsocial spirit
+ which, instead of inviting, had deterred the Gentiles from
+ embracing the law of Moses.","('Christians', 'NORP'), ('Jewish', 'NORP'), ('Gentiles', 'NORP'), ('Moses', 'PERSON')"
+"The institution of synods
+ was so well suited to private ambition and to public
+ interest, that in the space of a few years it was received
+ throughout the whole empire.","('the space of a few years', 'DATE')"
+"The knowledge of foreign
+ languages was frequently communicated to the contemporaries
+ of Irenaeus, though Irenecus himself was left to struggle
+ with the difficulties of a barbarous dialect whilst he
+ preached the Gospel to the natives of Gaul. (74)","('Irenaeus', 'PERSON'), ('Irenecus', 'PERSON'), ('Gospel', 'WORK_OF_ART'), ('Gaul', 'PERSON'), ('74', 'CARDINAL')"
+"The mad attempt of Caligula to place his 
+ own statue in the temple of Jerusalem was defeated by the
+ unanimous resolution of a people who dreaded death much less
+ than such an idolatrous profanation. (8)","('Caligula', 'PERSON'), ('Jerusalem', 'GPE')"
+"The ministers of Polytheism, both in Rome
+ and in the provinces, were, for the most part, men of a
+ noble birth and of an affluent fortune, who received, as an
+ honourable distinction, the care of a celebrated temple or
+ of a public sacrifice, exhibited, very frequently at their
+ own expense, the sacred games, (151) and with cold 
+ indifference performed the ancient rites, according to the
+ laws and fashion of their country.","('Polytheism', 'ORG'), ('Rome', 'GPE'), ('151', 'CARDINAL')"
+"The miracles of the primitive church, after obtaining the
+ sanction of ages, have been lately attacked in a very free
+ and ingenious inquiry (79) which, though it has met with the 
+ most favourable reception from the public, appears to have
+ excited a general scandal among the divines of our own as
+ well as of the other Protestant churches of Europe. (80)","('79', 'CARDINAL'), ('Protestant', 'NORP'), ('Europe', 'LOC'), ('80', 'CARDINAL')"
+"The more 
+ rigorous opinion prevailed, as it was natural to expect,
+ over the milder; and an eternal bar of separation was fixed
+ between the disciples of Moses and those of Christ.","('Moses', 'PERSON'), ('Christ', 'PERSON')"
+"The more rigid and inflexible
+ casuists refused them for ever, and without exception, the
+ meanest place in the holy community which they had disgraced
+ or deserted; and leaving them to the remorse of a guilty
+ conscience, indulged them only with a faint ray of hope that
+ the contrition of their life and death might possibly be
+ accepted by the Supreme Being. (145)","('the Supreme Being', 'ORG'), ('145', 'CARDINAL')"
+"The most
+ learned of the fathers, by a very singular condescension,
+ have imprudently admitted the sophistry of the Gnostics.","('Gnostics', 'ORG')"
+"The most curious, or the most credulous, among the Pagans were often persuaded to enter into a society which asserted an actual claim of miraculous powers.","('Pagans', 'NORP')"
+"The most favourable calculation, however, that can be
+ deduced from the examples of Antioch and of Rome will not permit us to imagine that more than a twentieth part of the subjects of the empire had enlisted themselves under the banner of the Cross before the important conversion of Constantine.","('Antioch', 'GPE'), ('Rome', 'GPE'), ('twentieth', 'ORDINAL'), ('Constantine', 'PERSON')"
+"The name of 
+ Nazarenes was deemed too honourable for those Christian
+ Jews, and they soon received, from the supposed poverty of
+ their understanding, as well as of their condition, the
+ contemptuous epithet of Ebionites. (23)","('Nazarenes', 'PERSON'), ('Christian\r\n Jews', 'NORP'), ('Ebionites', 'PERSON'), ('23', 'CARDINAL')"
+"The name of Presbyter was expressive of
+ their age, or rather of their gravity and wisdom.","('Presbyter', 'PERSON')"
+"The near approach of this wonderful
+ event had been predicted by the apostles; the tradition of
+ it was preserved by their earliest disciples, and those who
+ understood in their literal sense the discourses of Christ
+ himself were obliged to expect the second and glorious
+ coming of the Son of Man in the clouds, before that
+ generation was totally extinguished which had beheld his
+ humble condition upon earth, and which might still be
+ witness of the calamities of the Jews under Vespasian or
+ Hadrian.","('Christ', 'PERSON'), ('second', 'ORDINAL'), ('the Son of Man', 'PERSON'), ('Jews', 'NORP'), ('Vespasian', 'NORP'), ('Hadrian', 'PERSON')"
+"The number of widows, of the infirm,
+ and of the poor, who were maintained by the oblations of the
+ faithful, amounted to fifteen hundred. (169)","('fifteen hundred', 'CARDINAL')"
+"The obligation of
+ preaching to the Gentiles the faith of Moses had never been
+ inculcated as a precept of the law, nor were the Jews
+ inclined to impose it on themselves as a voluntary duty.","('Gentiles', 'NORP'), ('Moses', 'PERSON'), ('Jews', 'NORP')"
+"The painful
+ and even dangerous rite of circumcision was alone capable of
+ repelling a willing proselyte from the door of the
+ synagogue. (14)","('14', 'CARDINAL')"
+"The patriotic Cyprian, who ruled with the most absolute sway
+ the church of Carthage and the provincial synods, opposed
+ with resolution and success the ambition of the Roman
+ pontiff, artfully connected his own cause with that of the
+ eastern bishops, and, like Hannibal, sought out new allies
+ in the heart of Asia. (125)","('Cyprian', 'NORP'), ('Carthage', 'GPE'), ('Roman', 'NORP'), ('Hannibal', 'PERSON'), ('Asia', 'LOC'), ('125', 'CARDINAL')"
+"The petitions which were offered on the altars of Jupiter or Apollo expressed the anxiety of their worshippers for temporal happiness, and their ignorance or indifference concerning a future life.","('Jupiter', 'LOC'), ('Apollo', 'LOC')"
+"The polite Augustus 
+ condescended to give orders that sacrifices should be
+ offered for his prosperity in the temple of Jerusalem; (6) 
+ while the meanest of the posterity of Abraham, who should
+ have paid the same homage to the Jupiter of the Capitol,
+ would have been an object of abhorrence to himself and to
+ his brethren.","('Augustus', 'PERSON'), ('Jerusalem', 'GPE'), ('6', 'CARDINAL'), ('Abraham', 'PERSON'), ('Jupiter', 'LOC')"
+"The practice
+ introduced into that province of appointing bishops to the
+ most inconsiderable towns, and very frequently to the most
+ obscure villages, contributed to multiply the splendour and
+ importance of their religious societies, which during the
+ course of the third century were animated by the zeal of
+ Tertullian, directed by the abilities of Cyprian, and
+ adorned by the eloquence of Lactantius.","('the third century', 'DATE'), ('Tertullian', 'PERSON'), ('Cyprian', 'NORP'), ('Lactantius', 'PERSON')"
+"The practice of
+ second nuptials was branded with the name of a legal
+ adultery; and the persons who were guilty of so scandalous
+ an offence against Christian purity were soon excluded from
+ the honours, and even from the arms, of the church.","('second', 'ORDINAL'), ('Christian', 'NORP')"
+"The prelates of the third century imperceptibly
+ changed the language of exhortation into that of command,
+ scattered the seeds of future usurpations, and supplied, by
+ scripture allegories and declamatory rhetoric, their
+ deficiency of force and of reason.","('the third century', 'DATE')"
+The primitive Christians condemn pleasure and luxury,"('Christians', 'NORP')"
+"The primitive Christians perpetually trod on mystic ground, and their minds were exercised by the habits of believing the most extraordinary events.","('Christians', 'NORP')"
+"The primitive Christians were dead to the
+ business and pleasures of the world; but their love of
+ action, which could never be entirely extinguished, soon
+ revived, and found a new occupation in the government of the
+ church.","('Christians', 'NORP')"
+"The primitive bishops were
+ considered only as the first of their equals, and the
+ honourable servants of a free people.","('first', 'ORDINAL')"
+"The progress of 
+ Christianity, and the civil confusion of the empire,
+ contributed to relax the severity of the laws; and, before
+ the close of the third century, many considerable estates
+ were bestowed on the opulent churches of Rome, Milan,
+ Carthage, Antioch, Alexandria, and the other great cities of
+ Italy and the provinces.","('Christianity', 'NORP'), ('the close of the third century', 'DATE'), ('Rome', 'GPE'), ('Milan', 'GPE'), ('Carthage', 'GPE'), ('Antioch', 'GPE'), ('Alexandria', 'GPE'), ('Italy', 'GPE')"
+"The progress of Christianity was not confined to the Roman
+ empire; and, according to the primitive fathers, who
+ interpret facts by prophecy, the new religion, within a
+ century after the death of its Divine Author, had already
+ visited every part of the globe.","('Christianity', 'NORP'), ('Roman', 'NORP'), ('a\r\n century', 'DATE')"
+"The progress of the Christian religion, and the sentiments, manners, numbers, and condition of the primitive Christians","('Christian', 'NORP'), ('Christians', 'NORP')"
+"The progress of the ecclesiastical authority gave birth to
+ the memorable distinction of the laity and of the clergy,
+ which had been unknown to the Greeks and Romans. (127)","('Greeks', 'NORP'), ('Romans', 'NORP'), ('127', 'CARDINAL')"
+"The promise of divine
+ favour, instead of being partially confined to the posterity
+ of Abraham, was universally proposed to the freeman and the
+ slave, to the Greek and to the barbarian, to the Jew and to
+ the Gentile.","('Abraham', 'PERSON'), ('Greek', 'NORP'), ('Jew', 'NORP'), ('Gentile', 'NORP')"
+"The prophetic introduction
+ of the Apocalypse had described and immortalised the seven
+ churches of Asia - Ephesus, Smyrna, Pergamus, Thyatira, (154) 
+ Sardes, Laodicea, and Philadelphia; and their colonies were
+ soon diffused over that populous country.","('Apocalypse', 'WORK_OF_ART'), ('seven', 'CARDINAL'), ('Asia - Ephesus', 'LOC'), ('Smyrna', 'GPE'), ('Pergamus', 'NORP'), ('Thyatira', 'NORP'), ('154', 'CARDINAL'), ('Sardes', 'NORP'), ('Laodicea', 'NORP'), ('Philadelphia', 'GPE')"
+"The public functions of religion were solely intrusted to
+ the established ministers of the church, the bishops and the
+ presbyters; two appellations which, in their first origin,
+ appear to have distinguished the same office and the same
+ order of persons.","('two', 'CARDINAL'), ('first', 'ORDINAL')"
+"The public highways, which had been
+ constructed for the use of the legions, opened an easy
+ passage for the Christian missionaries from Damascus to
+ Corinth, and from Italy to the extremity of Spain or
+ Britain; nor did those spiritual conquerors encounter any of
+ the obstacles which usually retard or prevent the
+ introduction of a foreign religion into a distant country.","('Christian', 'NORP'), ('Damascus', 'GPE'), ('Corinth', 'GPE'), ('Italy', 'GPE'), ('Spain', 'GPE'), ('Britain', 'GPE')"
+"The public spectacles were an essential part of the cheerful devotion of the Pagans, and the gods were supposed to accept, as the most grateful offering, the games that the prince and people celebrated in honour of their peculiar festivals. (42)","('Pagans', 'NORP'), ('42', 'CARDINAL')"
+"The recent experience of genuine miracles should have instructed the Christian world in the ways of Providence, and habituated their eye (if we may use a very inadequate expression) to the style of the Divine artist.","('Christian', 'NORP'), ('Providence', 'GPE')"
+"The religion of Moses seems to be 
+ instituted for a particular country as well as for a single
+ nation; and if a strict obedience had been paid to the order
+ that every male, three times in the year, should present
+ himself before the Lord Jehovah, it would have been
+ impossible that the Jews could ever have spread themselves
+ beyond the narrow limits of the promised land.","('Moses', 'PERSON'), ('three', 'CARDINAL'), ('the year', 'DATE'), ('Jehovah', 'PERSON'), ('Jews', 'NORP')"
+"The revolution of seventeen centuries has
+ instructed us not to press too closely the mysterious
+ language of prophecy and revelation; but as long as, for
+ wise purposes, this error was permitted to subsist in the
+ church, it was productive of the most salutary effects on
+ the faith and practice of Christians, who lived in the awful
+ expectation of that moment when the globe itself, and all
+ the various race of mankind, should tremble at the
+ appearance of their divine Judge. (60)","('seventeen centuries', 'DATE'), ('Christians', 'NORP')"
+"The rich provinces that extend from the Euphrates to the
+ Ionian sea were the principal theatre on which the apostle
+ of the Gentiles displayed his zeal and piety.","('Euphrates', 'LOC'), ('the\r\n Ionian sea', 'LOC'), ('Gentiles', 'NORP')"
+"The ruin of the temple, of the city, and of the public
+ religion of the Jews, was severely felt by the Nazarenes; as
+ in their manners, though not in their faith, they maintained
+ so intimate a connection with their impious countrymen,
+ whose misfortunes were attributed by the Pagans to the
+ contempt, and more justly ascribed by the Christians to the
+ wrath, of the Supreme Deity.","('Jews', 'NORP'), ('Nazarenes', 'NORP'), ('Pagans', 'NORP'), ('Christians', 'NORP'), ('the Supreme Deity', 'ORG')"
+"The safety of the society, its honour, its
+ aggrandisement, were productive, even in the most pious
+ minds, of a spirit of patriotism, such as the first of the
+ Romans had felt for the republic, and sometimes of a similar
+ indifference in the use of whatever means might probably
+ conduce to so desirable an end.","('first', 'ORDINAL'), ('Romans', 'NORP')"
+"The same causes which at first had destroyed the equality of
+ the presbyters introduced among the bishops a pre-eminence
+ of rank, and from thence a superiority of jurisdiction.","('first', 'ORDINAL')"
+"The scanty and 
+ suspicious materials of ecclesiastical history seldom
+ enable us to dispel the dark cloud that hangs over the first 
+ age of the church.","('first', 'ORDINAL')"
+"The scheme of policy which,
+ under their approbation, was adopted for the use of the
+ first century, may be discovered from the practice of
+ Jerusalem, of Ephesus, or of Corinth.","('the\r\n first century', 'DATE'), ('Jerusalem', 'GPE'), ('Ephesus', 'GPE'), ('Corinth', 'GPE')"
+"The seeds of
+ the Gospel, which he had scattered in a fertile soil, were
+ diligently cultivated by his disciples; and it should seem
+ that, during the two first centuries, the most considerable
+ body of Christians was contained within those limits.","('Gospel', 'WORK_OF_ART'), ('the two first centuries', 'DATE'), ('Christians', 'NORP')"
+"The slow progress of the Gospel in the cold 
+ climate of Gaul was extremely different from the eagerness
+ with which it seems to have been received on the burning
+ sands of Africa.","('Gaul', 'LOC'), ('Africa', 'LOC')"
+"The societies which
+ were instituted in the cities of the Roman empire were
+ united only by the ties of faith and charity.","('Roman', 'NORP')"
+"The splendour and dignity of the queen of the 
+ East, the acknowledged populousness of Caesarea, Seleucia,
+ and Alexandria, and the destruction of two hundred and fifty
+ thousand souls in the earthquake which afflicted Antioch
+ under the elder Justin, (160) are so many convincing proofs 
+ that the whole number of its inhabitants was not less than
+ half a million, and that the Christians, however multiplied
+ by zeal and power, did not exceed a fifth part of that great
+ city.","('East', 'LOC'), ('Caesarea', 'GPE'), ('Seleucia', 'GPE'), ('Alexandria', 'GPE'), ('two hundred and fifty\r\n thousand', 'CARDINAL'), ('Antioch', 'GPE'), ('Justin', 'PERSON'), ('160', 'CARDINAL'), ('less than\r\n half a million', 'CARDINAL'), ('Christians', 'NORP'), ('fifth', 'ORDINAL')"
+"The success of the 
+ Gnostics was rapid and extensive. (36)","('Gnostics', 'ORG')"
+"The supernatural gifts, which even in this life were
+ ascribed to the Christians above the rest of mankind, must
+ have conduced to their own comfort, and very frequently to
+ the conviction of infidels.","('Christians', 'NORP')"
+"The temper of the Jews was incapable
+ of contenting itself with such a cold and languid assent as
+ might satisfy the mind of a Polytheist; and as soon as they
+ admitted the idea of a future state, they embraced it with
+ the zeal which has always formed the characteristic of the
+ nation.","('Jews', 'NORP'), ('Polytheist', 'NORP')"
+"The theologian may indulge the pleasing
+ task of describing Religion as she descended from Heaven,
+ arrayed in her native purity.","('Religion', 'WORK_OF_ART')"
+"The three succeeding causes supplied
+ their valour with the most formidable arms.","('three', 'CARDINAL')"
+"The ties of blood and
+ friendship were frequently torn asunder by the difference of
+ religious faith; and the Christians, who, in this world,
+ found themselves oppressed by the power of the Pagans, were
+ sometimes seduced by resentment and spiritual pride to
+ delight in the prospect of their future triumph.","('Christians', 'NORP'), ('Pagans', 'NORP')"
+"The title
+ of Bishop denoted their inspection over the faith and
+ manners of the Christians who were committed to their
+ pastoral care.","('Bishop', 'PERSON'), ('Christians', 'NORP')"
+"The trembling Christians, who were persuaded
+ in this instance to comply with the fashion of their country
+ and the commands of the magistrate, laboured under the most
+ gloomy apprehensions, from the reproaches of their own
+ conscience, the censures of the church, and the
+ denunciations of divine vengeance. (50)","('Christians', 'NORP'), ('50', 'CARDINAL')"
+"The virtue of the primitive Christians,
+ like that of the first Romans, was very frequently guarded
+ by poverty and ignorance.","('Christians', 'NORP'), ('first', 'ORDINAL'), ('Romans', 'NORP')"
+"The want of discipline and human learning was
+ supplied by the occasional assistance of the prophets, (106)who were called to that function without distinction of age,
+ of sex, or of natural abilities, and who, as often as they
+ felt the divine impulse, poured forth the effusions of the
+ Spirit in the assembly of the faithful.","('106', 'CARDINAL')"
+"The western provincials appeared to have derived the
+ knowledge of Christianity from the same source which had
+ diffused among them the language, the sentiments, and the
+ manners of Rome.","('Christianity', 'NORP'), ('Rome', 'GPE')"
+"The writings of Cicero (51) represent in the most lively colours the ignorance, the errors, and the uncertainty of the ancient philosophers with regard to the immortality of
+ the soul.","('Cicero', 'PERSON')"
+"Their attachment to 
+ the law of Moses was equal to their detestation of foreign
+ religions.","('Moses', 'PERSON')"
+"Their decrees, which were styled Canons, regulated every
+ important controversy of faith and discipline; and it was
+ natural to believe that a liberal effusion of the Holy
+ Spirit would be poured on the united assembly of the
+ delegates of the Christian people.","('Canons', 'ORG'), ('the Holy\r\n Spirit', 'WORK_OF_ART'), ('Christian', 'NORP')"
+"Their deliberations were
+ assisted by the advice of a few distinguished presbyters,
+ and moderated by the presence of a listening multitude. (115)","('115', 'CARDINAL')"
+"Their faith was
+ insensibly fortified and enlarged, and the church was
+ ultimately benefited by the conquests of its most inveterate
+ enemies. (37)","('37', 'CARDINAL')"
+"Their favourite argument might
+ serve to edify a Christian or to convert a Jew, since both
+ the one and the other acknowledge the authority of those
+ prophecies, and both are obliged, with devout reverence, to
+ search for their sense and their accomplishment.","('Christian', 'NORP'), ('Jew', 'NORP')"
+"Their language or their
+ silence equally discover their contempt for the growing sect
+ which in their time had diffused itself over the Roman
+ empire.","('Roman', 'NORP')"
+"Their love of the marvellous and supernatural, their
+ curiosity with regard to future events, and their strong
+ propensity to extend their hopes and fears beyond the limits
+ of the visible world, were the principal causes which
+ favoured the establishment of Polytheism.","('Polytheism', 'ORG')"
+"Their mutual hostilities sometimes disturbed the peace of
+ the infant church, but their zeal and activity were united
+ in the common cause, and the love of power, which (under the
+ most artful disguises) would insinuate itself into the
+ breasts of bishops and martyrs, animated them to increase
+ the number of their subjects, and to enlarge the limits of
+ the Christian empire.","('Christian', 'NORP')"
+"Their simplicity was offended by the use of
+ oaths, by the pomp of magistracy, and by the active
+ contention of public life; nor could their humane ignorance
+ be convinced that it was lawful on any occasion to shed the
+ blood of our fellow-creatures, either by the sword of
+ justice or by that of war, even though their criminal or
+ hostile attempts should threaten the peace and safety of the
+ whole community. (100)","('100', 'CARDINAL')"
+"Their zeal, however, added nothing to its evidence,
+ or even probability; and it was still necessary that the
+ doctrine of life and immortality, which had been dictated by
+ nature, approved by reason, and received by superstition,
+ should obtain the sanction of divine truth from the
+ authority and example of Christ.","('Christ', 'PERSON')"
+"There are
+ some objections against the authority of Moses and the
+ prophets which too readily present themselves to the
+ sceptical mind; though they can only be derived from our
+ ignorance of remote antiquity, and from our incapacity to
+ form an adequate judgment of the Divine economy.","('Moses', 'PERSON')"
+"There are two very natural propensities which we may
+ distinguish in the most virtuous and liberal dispositions,
+ the love of pleasure and the love of action.","('two', 'CARDINAL')"
+"There is some reason likewise to believe that great
+ numbers of infants who, according to the inhuman practice of
+ the times, had been exposed by their parents, were
+ frequently rescued from death, baptised, educated, and
+ maintained by the piety of the Christians, and at the
+ expense of the public treasure. (144)
+Excommunication
+II.","('Christians', 'NORP'), ('144', 'CARDINAL')"
+"There is the strongest reason to believe that before the reigns of Diocletian and Constantine the faith of Christ had
+ been preached in every province, and in all the great cities
+ of the empire; but the foundation of the several
+ congregations, the numbers of the faithful who composed
+ them, and their proportion to the unbelieving multitude, are
+ now buried in obscurity or disguised by fiction and
+ declamation.","('Diocletian', 'PERSON'), ('Constantine', 'PERSON'), ('Christ', 'PERSON')"
+"These
+ objections were eagerly embraced and as petulantly urged by
+ the vain science of the Gnostics. (26)","('Gnostics', 'WORK_OF_ART'), ('26', 'CARDINAL')"
+"These Judaising Christians seem to have argued with some
+ degree of plausibility from the Divine origin of the Mosaic
+ law, and from the immutable perfections of its great Author.","('Judaising', 'NORP'), ('Christians', 'NORP'), ('Mosaic', 'NORP')"
+"These oblations, 
+ for the most part, were made in money; nor was the society
+ of Christians either desirous or capable of acquiring, to
+ any considerable degree, the incumbrance of landed property.","('Christians', 'NORP')"
+"These powers, during a short period,
+ were exercised according to the advice of the presbyteral
+ college, and with the consent and approbation of the
+ assembly of Christians.","('Christians', 'NORP')"
+"They
+ elected Marcus for their bishop, a prelate of the race of
+ the Gentiles, and most probably a native either of Italy or
+ of some of the Latin provinces.","('Marcus', 'PERSON'), ('Gentiles', 'NORP'), ('Italy', 'GPE'), ('Latin', 'NORP')"
+"They affirmed, that, if the Being who is the same through
+ all eternity had designed to abolish those sacred rites
+ which had served to distinguish his chosen people, the
+ repeal of them would have been no less clear and solemn than
+ their first promulgation: that, instead of those frequent
+ declarations which either suppose or assert the perpetuity
+ of the Mosaic religion, it would have been represented as a
+ provisionary scheme intended to last only till the coming of
+ the Messiah, who should instruct mankind in a more perfect
+ mode of faith and of worship: (15) that the Messiah himself, 
+ and his disciples who conversed with him on earth, instead
+ of authorising by their example the most minute observances
+ of the Mosaic law, (16) would have published to the world the 
+ abolition of those useless and obsolete ceremonies, without
+ suffering Christianity to remain during so many years
+ obscurely confounded among the sects of the Jewish church.","('first', 'ORDINAL'), ('Mosaic', 'NORP'), ('Messiah', 'PERSON'), ('15', 'CARDINAL'), ('Messiah', 'PERSON'), ('Mosaic', 'NORP'), ('16', 'CARDINAL'), ('Christianity', 'NORP'), ('Jewish', 'NORP')"
+"They allowed 
+ that the religion of the Jews was somewhat less criminal
+ than the idolatry of the Gentiles: but it was their
+ fundamental doctrine that the Christ whom they adored as the
+ first and brightest emanation of the Deity appeared upon
+ earth to rescue mankind from their various errors, and to
+ reveal a new system of truth and perfection.","('Jews', 'NORP'), ('Gentiles', 'NORP'), ('Christ', 'PERSON'), ('first', 'ORDINAL'), ('Deity', 'PERSON')"
+"They covered Asia and 
+ Egypt, established themselves in Rome, and sometimes
+ penetrated into the provinces of the West.","('Asia', 'LOC'), ('Egypt', 'GPE'), ('Rome', 'GPE'), ('West', 'LOC')"
+"They displayed them at an improper
+ season, presumptuously disturbed the service of the
+ assembly, and by their pride or mistaken zeal they
+ introduced, particularly into the apostolic church of
+ Corinth, a long and melancholy train of disorders. (107)","('Corinth', 'GPE'), ('107', 'CARDINAL')"
+"They exalted the unity
+ and power of the church, as it was represented in the
+ EPISCOPAL OFFICE, of which every bishop enjoyed an equal and
+ undivided portion. (117)","('the\r\n EPISCOPAL OFFICE', 'ORG'), ('117', 'CARDINAL')"
+"They still
+ preserved their former habitation of Pella, spread
+ themselves into the villages adjacent to Damascus, and
+ formed an inconsiderable church in the city of Bercea, or,
+ as it is now called, of Aleppo, in Syria. (22)","('Pella', 'GPE'), ('Damascus', 'GPE'), ('Bercea', 'GPE'), ('Aleppo', 'GPE'), ('Syria', 'GPE'), ('22', 'CARDINAL')"
+"They still enjoyed the 
+ comfort of making frequent and devout visits to the Holy
+ City, and the hope of being one day restored to those seats
+ which both nature and religion taught them to love as well
+ as to revere.","('the Holy\r\n City', 'GPE'), ('one day', 'DATE')"
+"They were almost without exception of the race
+ of the Gentiles, and their principal founders seem to have
+ been natives of Syria or Egypt, where the warmth of the
+ climate disposes both the mind and the body to indolent and
+ contemplative devotion.","('Gentiles', 'NORP'), ('Syria', 'GPE'), ('Egypt', 'GPE')"
+"They were destitute of any temporal
+ force, and they were for a long time discouraged and
+ oppressed, rather than assisted, by the civil magistrate;
+ but they had acquired, and they employed within their own
+ society, the two most efficacious instruments of government,
+ rewards and punishments; the former derived from the pious
+ liberality, the latter from the devout apprehensions of the
+ faithful.","('two', 'CARDINAL')"
+"This 
+ obedience, however, was not imposed without some efforts on
+ the one side, and some resistance on the other.","('one', 'CARDINAL')"
+"This indolent, or even criminal disregard to 
+ the public welfare, exposed them to the contempt and
+ reproaches of the Pagans, who very frequently asked, what
+ must be the fate of the empire, attacked on every side by
+ the barbarians, if all mankind should adopt the
+ pusillanimous sentiments of the new sect? (103)","('Pagans', 'NORP'), ('103', 'CARDINAL')"
+"This inflexible perseverance, which appeared so odious or so
+ ridiculous to the ancient world, assumes a more awful
+ character, since Providence has deigned to reveal to us the
+ mysterious history of the chosen people.","('Providence', 'GPE')"
+"This innocent and
+ natural circumstance has been improved into a very odious
+ imputation, which seems to be less strenuously denied by the
+ apologists than it is urged by the adversaries of the faith;
+ that the new sect of Christians was almost entirely composed
+ of the dregs of the populace, of peasants and mechanics, of
+ boys and women, of beggars and slaves, the last of whom
+ might sometimes introduce the missionaries into the rich and
+ noble families to which they belonged.","('Christians', 'NORP')"
+"This season of
+ obscurity, which cannot surely be compared with the
+ preternatural darkness of the Passion, had been already
+ celebrated by most of the poets (199) and historians of that 
+ memorable age. (200)","('199', 'CARDINAL'), ('200', 'CARDINAL')"
+"Those among them who condescend to mention the
+ Christians consider them only as obstinate and perverse
+ enthusiasts, who exacted an implicit submission to their
+ mysterious doctrines, without being able to produce a single
+ argument that could engage the attention of men of sense
+ and learning.","('Christians', 'NORP')"
+"Those who are inclined to pursue this reflection,
+ instead of viewing with astonishment the rapid progress of
+ Christianity, will perhaps be surprised that its success was
+ not still more rapid and still more universal.","('Christianity', 'NORP')"
+"Though it might 
+ not be universally received, it appears to have been the
+ reigning sentiment of the orthodox believers; and it seems
+ so well adapted to the desires and apprehensions of mankind,
+ that it must have contributed in a very considerable degree
+ to the progress of the Christian faith.","('Christian', 'NORP')"
+"Though they
+ constantly disturbed the peace, and frequently disgraced the
+ name of religion, they contributed to assist rather than to
+ retard the progress of Christianity.","('Christianity', 'NORP')"
+"Three bishops were
+ consecrated by the hands of Demetrius, and the number was
+ increased to twenty by his successor Heraclas. (164)","('Three', 'CARDINAL'), ('Demetrius', 'PERSON'), ('twenty', 'CARDINAL'), ('Heraclas', 'PERSON'), ('164', 'CARDINAL')"
+"To the authority of
+ Scripture the Pharisees added that of tradition, and they
+ accepted, under the name of traditions, several speculative
+ tenets from the philosophy or religion of the eastern
+ nations.","('Scripture', 'WORK_OF_ART'), ('Pharisees', 'NORP')"
+"To the first of these the
+ Christians were indebted for their invincible valour, which
+ disdained to capitulate with the enemy whom they were
+ resolved to vanquish.","('first', 'ORDINAL'), ('Christians', 'NORP')"
+"To these
+ domestic testimonies we may add the confession, the
+ complaints, and the apprehensions of the Gentiles
+ themselves.","('Gentiles', 'NORP')"
+"To this 
+ insulting question the Christian apologists returned obscure
+ and ambiguous answers, as they were unwilling to reveal the
+ secret cause of their security; the expectation that, before
+ the conversion of mankind was accomplished, war, government,
+ the Roman empire, and the world itself, would be no more.","('Christian', 'NORP'), ('Roman', 'NORP')"
+"Towards the end of the second century,
+ the churches of Greece and Asia adopted the useful
+ institutions of provincial synods, and they may justly be
+ supposed to have borrowed the model of a representative
+ council from the celebrated examples of their own country,
+ the Amphictyons, the Achaean league, or the assemblies of
+ the Ionian cities.","('the end of the second century', 'DATE'), ('Greece', 'GPE'), ('Asia', 'LOC'), ('Amphictyons', 'NORP'), ('Achaean', 'NORP'), ('Ionian', 'NORP')"
+"Under the pressure of every calamity, the
+ belief of those miracles has preserved the Jews of a later
+ period from the universal contagion of idolatry; and in
+ contradiction to every known principle of the human mind,
+ that singular people seems to have yielded a stronger and
+ more ready assent to the traditions of their remote
+ ancestors than to the evidence of their own senses. (10)","('Jews', 'NORP'), ('10', 'CARDINAL')"
+"Under the reign
+ of Tiberius, the whole earth, (194) or at least a celebrated 
+ province of the Roman empire, (195) was involved in a 
+ preternatural darkness of three hours.","('Tiberius', 'PERSON'), ('194', 'CARDINAL'), ('Roman', 'NORP'), ('195', 'CARDINAL'), ('three hours', 'TIME')"
+"Under the reign of Theodosius, after
+ Christianity had enjoyed, during more than sixty years, the
+ sunshine of Imperial favour, the ancient and illustrious
+ church of Antioch consisted of one hundred thousand persons,
+ three thousand of whom were supported out of the public
+ oblations. (159)","('Theodosius', 'PERSON'), ('Christianity', 'NORP'), ('more than sixty years', 'DATE'), ('Imperial', 'NORP'), ('Antioch', 'GPE'), ('one hundred thousand', 'CARDINAL'), ('three thousand', 'CARDINAL'), ('159', 'CARDINAL')"
+Union of the church,"('Union of the church', 'PERSON')"
+"V. The union and
+ discipline of the Christian republic, which gradually formed
+ an independent and increasing state in the heart of the
+ Roman empire.","('Christian', 'NORP'), ('Roman', 'NORP')"
+"We are sufficiently acquainted
+ with the eminent persons who flourished in the age of Cicero
+ and of the first Caesars, with their actions, their
+ characters, and their motives, to be assured that their
+ conduct in this life was never regulated by any serious
+ conviction of the rewards or punishments of a future state.","('Cicero', 'PERSON'), ('first', 'ORDINAL'), ('Caesars', 'ORG')"
+"We have already seen how various, how loose, and
+ how uncertain were the religious sentiments of Polytheists.","('Polytheists', 'NORP')"
+"We may observe 
+ with much more propriety that, during that period, the
+ disciples of the Messiah were indulged in a freer latitude
+ both of faith and practice than has ever been allowed in
+ succeeding ages.","('Messiah', 'PERSON')"
+"We might naturally expect that a principle so essential to religion would have been revealed in the clearest terms to the chosen people of Palestine, and that it might safely have been intrusted to the hereditary priesthood of Aaron.","('Palestine', 'GPE'), ('Aaron', 'PERSON')"
+"We should listen with distrust to the suspicions of strangers and enemies; on this occasion, however, they receive a very specious and probable colour from the two
+ following circumstances, the only ones that have reached our
+ knowledge which define any precise sums or convey any
+ distinct idea.","('two', 'CARDINAL')"
+"Whatever era is chosen for that purpose, the death of the apostles, the conversion of the Roman empire, or the extinction of the Arian heresy, (82) the insensibility of the 
+ Christians who lived at that time will equally afford a just matter of surprise.","('Roman', 'NORP'), ('Arian', 'NORP'), ('82', 'CARDINAL'), ('Christians', 'NORP')"
+"Whatever opinion may be entertained of the miracles of the primitive church since the time of the apostles, this unresisting softness of temper, so conspicuous among the believers of the second and third centuries, proved of some accidental benefit to the cause of truth and religion.","('the second and third centuries', 'DATE')"
+"When 
+ Christianity was introduced among the rich and the polite,
+ the observation of these singular laws was left, as it would
+ be at present, to the few who were ambitious of superior
+ sanctity.","('Christianity', 'NORP')"
+"When Christianity appeared in the world, even these faint
+ and imperfect impressions had lost much of their original
+ power.","('Christianity', 'NORP')"
+"When the Christians of Bithynia were brought
+ before the tribunal of the younger Pliny, they assured the
+ proconsul that, far from being engaged in any unlawful
+ conspiracy, they were bound by a solemn obligation to
+ abstain from the commission of those crimes which disturb
+ the private or public peace of society, from theft, robbery,
+ adultery, perjury, and fraud. (84)","('Christians', 'NORP'), ('Bithynia', 'PERSON'), ('Pliny', 'PERSON')"
+"When the bride, struggling with well affected reluctance, was forced in hymenal pomp over the threshold of her new habitation, (44) or when the sad procession of the dead slowly moved towards the funeral pile, (45) the Christian, on these interesting occasions, was compelled to desert the persons who were the dearest to him,
+ rather than contract the guilt inherent to those impious ceremonies.","('45', 'CARDINAL'), ('Christian', 'NORP')"
+"When the law
+ was given in thunder from Mount Sinai; when the tides of the
+ ocean and the course of the planets were suspended for the
+ convenience of the Israelites; and when temporal rewards and
+ punishments were the immediate consequences of their piety
+ or disobedience, they perpetually relapsed into rebellion
+ against the visible majesty of their Divine King, placed the
+ idols of the nations in the sanctuary of Jehovah, and
+ imitated every fantastic ceremony that was practised in the
+ tents of the Arabs, or in the cities of Phoenicia. (9)","('Mount Sinai', 'LOC'), ('Israelites', 'NORP'), ('Jehovah', 'GPE'), ('Arabs', 'NORP'), ('Phoenicia', 'GPE'), ('9', 'CARDINAL')"
+"When the name and honours of the church of Jerusalem had
+ been restored to Mount Sion, the crimes of heresy and schism
+ were imputed to the obscure remnant of the Nazarenes which
+ refused to accompany their Latin bishop.","('Jerusalem', 'GPE'), ('Mount Sion', 'GPE'), ('Nazarenes', 'NORP'), ('Latin', 'NORP')"
+"When the posterity of Abraham had multiplied
+ like the sands of the sea, the Deity, from whose mouth they
+ received a system of laws and ceremonies, declared himself
+ the proper and as it were the national God of Israel; and
+ with the most jealous care separated his favourite people
+ from the rest of mankind.","('Abraham', 'PERSON'), ('Israel', 'GPE')"
+"When the promise of eternal happiness was proposed to
+ mankind on condition of adopting the faith, and of observing
+ the precepts, of the Gospel, it is no wonder that so
+ advantageous an offer should have been accepted by great
+ numbers of every religion, of every rank, and of every
+ province in the Roman empire.","('Gospel', 'WORK_OF_ART'), ('Roman', 'NORP')"
+"When their
+ devout minds were sufficiently prepared by a course of
+ prayer, of fasting, and of vigils, to receive the
+ extraordinary impulse, they were transported out of their
+ senses, and delivered in ecstasy that was inspired, being
+ mere organs of the Holy Spirit, just as a pipe or flute is
+ of him who blows into it.","('the Holy Spirit', 'PERSON')"
+"When they viewed with complacency the extent
+ of their own mental powers, when they exercised the various
+ faculties of memory, of fancy, and of judgment, in the most
+ profound speculations or the most important labours, and
+ when they reflected on the desire of fame, which transported
+ them into future ages, far beyond the bounds of death and of
+ the grave, they were unwilling to confound themselves with
+ the beasts of the field, or to suppose that a being, for
+ whose dignity they entertained the most sincere admiration,
+ could be limited to a spot of earth, and to a few years of
+ duration.","('a few years', 'DATE')"
+"Whenever the episcopal
+ chair became vacant by death, a new president was chosen
+ among the presbyters by the suffrage of the whole
+ congregation, every member of which supposed himself
+ invested with a sacred and sacerdotal character. (114)
+Provincial councils
+ Such was the mild and equal constitution by which the
+ Christians were governed more than an hundred years after
+ the death of the apostles.","('114', 'CARDINAL'), ('Christians', 'NORP'), ('more than an hundred years', 'DATE')"
+Whether the first Christians were mean and ignorant.,"('first', 'ORDINAL'), ('Christians', 'NORP')"
+"While
+ that great body was invaded by open violence, or undermined
+ by slow decay, a pure and humble religion gently insinuated
+ itself into the minds of men, grew up in silence and
+ obscurity, derived new vigour from opposition, and finally
+ erected the triumphant banner of the Cross on the ruins of
+ the Capitol.","('Capitol', 'FAC')"
+"While the orthodox church preserved a just medium between
+ excessive veneration and improper contempt for the law of
+ Moses, the various heretics deviated into equal but opposite
+ extremes of error and extravagance.","('Moses', 'PERSON')"
+"Whilst they cautiously avoid the dangerous
+ encounter of philosophers, they mingle with the rude and
+ illiterate crowd, and insinuate themselves into those minds
+ who their age, their sex, or their education has best
+ disposed to receive the impression of superstitious terrors.
+ (184)","('184', 'CARDINAL')"
+"With
+ the other nations they were forbidden to contract any
+ marriages or alliances; and the prohibition of receiving
+ them into the congregation, which in some cases was
+ perpetual, almost always extended to the third, to the
+ seventh, or even to the tenth generation.","('third', 'ORDINAL'), ('seventh', 'DATE'), ('tenth', 'ORDINAL')"
+"With regard to the treatment of these penitents, two
+ opposite opinions, the one of justice, the other of mercy,
+ divided the primitive church.","('two', 'CARDINAL'), ('one', 'CARDINAL')"
+"Within four-score years after the death of Christ, (157) the humane Pliny laments the 
+ magnitude of the evil which he vainly attempted to
+ eradicate.","('four-score years', 'DATE'), ('Christ', 'PERSON'), ('157', 'CARDINAL'), ('Pliny', 'PERSON')"
+"Without descending into a minute scrutiny of the expressions
+ or of the motives of those writers who either celebrate or
+ lament the progress of Christianity in the East, it may in
+ general be observed that none of them have left us any
+ grounds from whence a just estimate might be formed of the
+ real numbers of the faithful in those provinces.","('a minute', 'TIME'), ('Christianity', 'NORP'), ('East', 'LOC')"
+"Yet
+ there were a few sages of Greece and Rome who had conceived
+ a more exalted, and, in some respects, a juster idea of
+ human nature, though it must be confessed that, in the
+ sublime inquiry, their reason had been often guided by their
+ imagination, and that their imagination had been prompted by
+ their vanity.","('Greece', 'GPE'), ('Rome', 'GPE')"
+"Yet all these sages (it is no less an object of
+ surprise than of concern) overlooked or rejected the
+ perfection of the Christian system.","('Christian', 'NORP')"
+"Yet even in their fallen state, the Jews, still
+ asserting their lofty and exclusive privileges, shunned,
+ instead of courting, the society of strangers.","('Jews', 'NORP')"
+"Yet notwithstanding the many favourable
+ occasions which might invite the Roman missionaries to visit
+ their Latin provinces, it was late before they passed either
+ the sea or the Alps; (171) nor can we discover in those great 
+ countries any assured traces either of faith or of
+ persecution that ascend higher than the reign of the
+ Antonines. (172)","('Roman', 'NORP'), ('Latin', 'NORP'), ('Alps', 'LOC'), ('171', 'CARDINAL'), ('172', 'CARDINAL')"
+"Zeal for Christianity 
+ Such was the anxious diligence which was required to guard
+ the chastity of the Gospel from the infectious breath of
+ idolatry.","('Christianity', 'NORP')"
+among the Christians,"('Christians', 'NORP')"

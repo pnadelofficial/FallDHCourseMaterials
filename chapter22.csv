@@ -1,0 +1,1124 @@
+Sentence,Entities
+(13),"('13', 'CARDINAL')"
+(33),"('33', 'CARDINAL')"
+(34),"('34', 'CARDINAL')"
+(55),"('55', 'CARDINAL')"
+"A
+ wise prince should have rewarded the crime of Taurus: the
+ faithful minister, when he was no longer able to oppose the
+ progress of a rebel, had taken refuge in the court of his
+ benefactor and his lawful sovereign.","('Taurus', 'PERSON')"
+"A 
+ legal fiction was introduced and gradually established, that
+ one half of the national council had migrated into the East,
+ and the despotic successors of Julian, accepting the title
+ of Senators, acknowledged themselves the members of a
+ respectable body which was permitted to represent the
+ majesty of the Roman name.","('one half', 'CARDINAL'), ('East', 'LOC'), ('Julian', 'PERSON'), ('Roman', 'NORP')"
+"A chosen detachment was 
+ despatched away in post-waggons, to secure, if it were yet
+ possible, the pass of Succi; the recruits; the horses, the
+ arms, and the magazines, which had been prepared against
+ Sapor, were appropriated to the service of the civil war;
+ and the domestic victories of Constantius inspired his
+ partisans with the most sanguine assurances of success.","('Succi', 'ORG'), ('Sapor', 'PERSON'), ('the civil war', 'EVENT'), ('Constantius', 'PERSON')"
+"A citizen of Ancyra had prepared for his
+ own use a purple garment, and this indiscreet action, which,
+ under the reign of Constantius, would have been considered
+ as a capital offence, (68) was reported to Julian by the 
+ officious importunity of a private enemy.","('Ancyra', 'PERSON'), ('Constantius', 'PERSON'), ('Julian', 'PERSON')"
+"A more dangerous conspiracy was formed by
+ ten of the domestic guards, who had resolved to assassinate
+ Julian in the field of exercise near Antioch.","('ten', 'CARDINAL'), ('Julian', 'PERSON'), ('Antioch', 'GPE')"
+"A motive of superstition prevented the
+ execution of the design which Julian had frequently
+ meditated, of relieving his head from the weight of a costly
+ diadem;(72) but he absolutely refused the title of Dominus
+ or Lord ,(73) a word which was grown so familiar to the ears of the Romans, that they no longer remembered its servile
+ and humiliating origin.","('Julian', 'PERSON'), ('Dominus', 'PERSON'), ('73', 'CARDINAL'), ('Romans', 'NORP')"
+"A part of the letter was afterwards read, in which the emperor arraigned the ingratitude of Julian, whom he had invested with the
+ honours of the purple; whom he had educated with so much care and tenderness; whom he had preserved in his infancy, when he was left a helpless orphan.","('Julian', 'PERSON')"
+"A similar
+ division of troops, under the orders of Jovius and Jovinus,
+ prepared to follow the oblique course of the highways
+ through the Alps and the northern confines of Italy.","('Jovius', 'GPE'), ('Jovinus', 'GPE'), ('Alps', 'LOC'), ('Italy', 'GPE')"
+"A slight fever, which was
+ perhaps occasioned by the agitation of his spirits, was
+ increased by the fatigues of the journey, and Constantius
+ was obliged to halt at the little town of Mopsucrene, twelve
+ miles beyond Tarsus, where he expired, after a short
+ illness, in the forty-fifth year of his age, and the
+ twenty-fourth of his reign.(42)","('Constantius', 'PERSON'), ('Mopsucrene', 'GPE'), ('twelve\r\n miles', 'QUANTITY'), ('Tarsus', 'GPE'), ('forty-fifth year', 'DATE'), ('twenty-fourth', 'CARDINAL'), ('42', 'CARDINAL')"
+"A thousand barbers, a thousand cupbearers, a thousand cooks, were distributed in the several offices of luxury; and the number of eunuchs could be compared only with the insects of a summer's day.","('A thousand', 'CARDINAL'), ('a thousand', 'CARDINAL'), ('a thousand', 'CARDINAL'), (""a summer's day"", 'DATE')"
+"A.D. 360,361.","('360,361', 'CARDINAL')"
+"Adorned with the designs of
+ military and imperial pomp, Julian showed himself in the
+ field of Mars to the soldiers, who glowed with ardent
+ enthusiasm in the cause of their pupil, their leader, and
+ their friend.","('Julian', 'PERSON'), ('Mars', 'LOC')"
+"After
+ he had given peace to the barbarians, the emperor carefully
+ visited the fortifications along the Rhine from Cleves to
+ Basel; surveyed, with peculiar attention, the territories
+ which he had recovered from the hands of the Alemanni;
+ passed through Besancon,(18) which had severely suffered from 
+ their fury; and fixed his headquarters at Vienne for the
+ ensuing winter.","('Rhine', 'LOC'), ('Cleves', 'LOC'), ('Basel', 'GPE'), ('Alemanni', 'NORP'), ('Besancon', 'PERSON'), ('18', 'CARDINAL'), ('Vienne', 'GPE'), ('winter', 'DATE')"
+"After a painful conflict, Julian was compelled to
+ acknowledge that obedience was the virtue of the most
+ eminent subject, and that the sovereign alone was entitled
+ to judge of the public welfare.","('Julian', 'PERSON')"
+"After an interval of one hundred and twenty years from the
+ death of Alexander Severus, the Romans beheld an emperor who
+ made no distinction between his duties and his pleasures,
+ who laboured to relieve the distress and to revive the
+ spirit of his subjects, and who endeavoured always to
+ connect authority with merit, and happiness with virtue.","('one hundred and twenty years', 'DATE'), ('Alexander Severus', 'PERSON'), ('Romans', 'NORP')"
+"After distinguishing the officers and soldiers who by
+ their rank or merit deserved a peculiar attention, Julian
+ addressed himself in a studied oration to the surrounding
+ multitude: he celebrated their exploits with grateful
+ applause; encouraged them to accept, with alacrity, the
+ honour of serving under the eyes of a powerful and liberal
+ monarch; and admonished them that the commands of Augustus
+ required an instant and cheerful obedience.","('Julian', 'PERSON'), ('Augustus', 'PERSON')"
+"After losing one of his hands by the stroke of a
+ sword, he embraced the knees of the prince whom he had
+ offended.","('one', 'CARDINAL')"
+"After this message, which might be considered as a signal of irreconcilable war, Julian, who some weeks before had celebrated the Christian festival of the Epiphany, (22) made a public declaration that 
+ he committed the care of his safety to the IMMORTAL GODS; and thus publicly renounced the religion as well as the friendship of Constantius. (23)","('Julian', 'PERSON'), ('some weeks before', 'DATE'), ('Christian', 'NORP'), ('the Epiphany', 'DATE'), ('22', 'DATE'), ('Constantius', 'PERSON'), ('23', 'CARDINAL')"
+"Although he was firmly resolved to maintain
+ the station which he had assumed, he was still desirous of
+ saving his country from the calamities of civil war, of
+ declining a contest with the superior forces of Constantius,
+ and of preserving his own character from the reproach of
+ perfidy and ingratitude.","('Constantius', 'ORG')"
+"An artful expression, which, according to the chance of war, might be differently explained — as a manly reproof of the ingratitude of the usurper or as a flattering confession that a single act of such benefit to the state ought to atone for all the failings of Constantius.","('Constantius', 'ORG')"
+"An assembly was summoned by
+ Tertullus, praefect of the city; the epistle of Julian was
+ read and, as he appeared to be master of Italy, his claims were admitted without a dissenting voice.","('Tertullus', 'PERSON'), ('Julian', 'PERSON'), ('Italy', 'GPE')"
+"An innumerable multitude pressed around him with eager respect, and were perhaps disappointed when they beheld the small stature and simple garb of a hero, whose inexperienced youth had vanquished the barbarians of Germany, and who had now traversed, in a successful career, the whole continent of Europe from the shores of the Atlantic to those of the Bosphorus.(43) A few days afterwards, when the remains of the deceased emperor were landed in the harbour, the subjects of Julian applauded the real or affected humanity of their sovereign.","('Germany', 'GPE'), ('Europe', 'LOC'), ('Atlantic', 'LOC'), ('Bosphorus', 'LOC'), ('43', 'CARDINAL'), ('A few days afterwards', 'DATE'), ('Julian', 'PERSON')"
+"And death of Constantius, A.D. 361, November 30.","('Constantius', 'PERSON'), ('A.D. 361', 'DATE'), ('November 30', 'DATE')"
+"Arbetio, whom the public would have seen with less surprise at the bar than on the bench, was supposed to possess the secret of the commission, the armed and angry leaders of the Jovian and Herculian bands encompassed the tribunal, and the judges were alternately swayed by the laws of justice and by the clamours of faction. (62)","('Arbetio', 'PERSON'), ('Jovian', 'NORP'), ('Herculian', 'NORP')"
+"Artemius had reigned the
+ cruel and corrupt tyrant of a great province; Gaudentius had
+ long practised the arts of calumny against the innocent, the
+ virtuous, and even the person of Julian himself.","('Artemius', 'PERSON'), ('Gaudentius', 'PERSON'), ('Julian', 'PERSON')"
+"As he entered the long suburb of Sirmium, he was received by the joyful acclamations of the army and people, who, crowned with flowers, and holding lighted tapers in their hands, conducted their acknowledged sovereign to the imperial residence.","('Sirmium', 'GPE')"
+"As long as the fame of
+ Julian was doubtful, the buffoons of the palace, who were
+ skilled in the language of satire, tried the efficacy of
+ those arts which they had so often practised with success.","('Julian', 'PERSON')"
+"As soon as the 
+ season of the year permitted Julian to take the field, he
+ appeared at the head of his legions; threw a bridge over the
+ Rhine in the neighbourhood of Cleves; and prepared to
+ chastise the perfidy of the Attuarii, a tribe of Franks, who
+ presumed that they might ravage with impunity the frontiers
+ of a divided empire.","('the \r\n season of the year', 'DATE'), ('Julian', 'PERSON'), ('Rhine', 'LOC'), ('Cleves', 'LOC'), ('Attuarii', 'NORP'), ('Franks', 'PERSON')"
+"As soon as the approach of the troops was announced, the
+ Caesar went out to meet them, and ascended his tribunal,
+ which had been erected in a plain before the gates of the
+ city.","('Caesar', 'PERSON')"
+"As soon as the legions of Aquileia were assured of the death of the emperor, they opened the gates of the city, and, by the sacrifice of their guilty leaders, obtained an easy pardon from the prudence or lenity of Julian; who, in the thirty-second year of his age, and is acknowledged by the whole empire acquired the undisputed possession of the Roman empire.(45)","('Aquileia', 'PERSON'), ('Julian', 'PERSON'), ('the thirty-second year', 'DATE'), ('Roman', 'NORP'), ('45', 'CARDINAL')"
+"As soon as the provinces were
+ exhausted of their military strength, the Germans would
+ violate a treaty which had been imposed on their fears; and
+ notwithstanding the abilities and valour of Julian, the
+ general of a nominal army, to whom the public calamities
+ would be imputed, must find himself, after a vain
+ resistance, either a prisoner in the camp of the barbarians,
+ or a criminal in the palace of Constantius.","('Germans', 'NORP'), ('Julian', 'PERSON'), ('Constantius', 'GPE')"
+"Astonished and perplexed, he 
+ addressed his prayers to the great Jupiter, who immediately
+ signified, by a clear and manifest omen, that he should
+ submit to the will of heaven and of the army.","('Jupiter', 'LOC')"
+"At the
+ dawn of day the soldiers, whose zeal was irritated by
+ opposition, forcibly entered the palace, seized, with
+ respectful violence, the object of their choice, guarded
+ Julian with drawn swords through the streets of Paris,
+ placed him on the tribunal, and with repeated shouts saluted
+ him as their emperor.","('Julian', 'PERSON'), ('Paris', 'GPE')"
+"At the hour of midnight
+ the impetuous multitude, with swords, and bows, and torches
+ in their hands, rushed into the suburbs, encompassed the
+ palace;(7) and, careless of future dangers, pronounced the 
+ fatal and irrevocable words, JULIAN AUGUSTUS!","('the hour of midnight', 'TIME')"
+"Attached, either from birth or long habit, to
+ the climate and manners of Gaul, they loved and admired
+ Julian; they despised, and perhaps hated, the emperor; they
+ dreaded the laborious march, the Persian arrows, and the
+ burning deserts of Asia.","('Gaul', 'PERSON'), ('Julian', 'PERSON'), ('Persian', 'NORP'), ('Asia', 'LOC')"
+"Before Constantius expired, he is said to have named Julian
+ for his successor; nor does it seem improbable that his
+ anxious concern for the fate of a young and tender wife,
+ whom he left with child, may have prevailed in his last
+ moments over the harsher passions of hatred and revenge.","('Constantius', 'PERSON'), ('Julian', 'PERSON')"
+"Before the
+ barbarians were recovered from their amazement, the emperor
+ appeared in arms on the banks of the Rhine, and, once more
+ crossing the river, renewed the deep impressions of terror
+ and respect which had been already made by four preceding
+ expeditions.(20)
+Fruitless treaty and declaration of war, A.D. 361.","('Rhine', 'LOC'), ('four', 'CARDINAL'), ('20', 'CARDINAL'), ('361', 'CARDINAL')"
+"Before the end of
+ the year in which they had been adorned with the ensigns of
+ the prefecture and consulship,(64) Taurus and Florentius were 
+ reduced to implore the clemency of the inexorable tribunal
+ of Chalcedon.","('the end of\r\n the year', 'DATE'), ('64', 'CARDINAL'), ('Florentius', 'PERSON'), ('Chalcedon', 'GPE')"
+"But
+ he reserves for himself the nomination of his other civil
+ and military officers, with the troops, the revenue, and the
+ sovereignty of the provinces beyond the Alps.","('Alps', 'LOC')"
+"But 
+ the behaviour of Julian was uniformly supported.","('Julian', 'PERSON')"
+"But Justice herself
+ (if we may use the pathetic expression of Ammianus(63) ) 
+ appeared to weep over the fate of Ursulus, the treasurer of
+ the empire, and his blood accused the ingratitude of Julian,
+ whose distress had been seasonably relieved by the intrepid
+ liberality of that honest minister.","('Ammianus', 'PERSON'), ('Ursulus', 'PERSON'), ('Julian', 'PERSON')"
+"But Lucilian had no sooner recovered his spirits
+ than he betrayed his want of discretion, by presuming to
+ admonish his conqueror that he had rashly ventured, with a
+ handful of men, to expose his person in the midst of his
+ enemies.","('Lucilian', 'PERSON')"
+"But as soon as they were landed,
+ he issued an absolute order, which prohibited the watermen
+ from transporting any Egyptian to Constantinople, and thus
+ detained his disappointed clients on the Asiatic shore,
+ till, their patience and money being utterly exhausted, they
+ were obliged to return with indignant murmurs to their
+ native country. (67)
+Clemency of Julian.","('Egyptian', 'NORP'), ('Constantinople', 'GPE'), ('Asiatic', 'NORP'), ('Julian', 'PERSON')"
+"But in
+ their passage through Italy and Illyricum they were detained
+ by the tedious and affected delays of the provincial
+ governors; they were conducted by slow journeys from
+ Constantinople to Caesarea in Cappadocia; and when at length
+ they were admitted to the presence of Constantius, they
+ found that he had already conceived, from the despatches of
+ his own officers, the most unfavourable opinion of the
+ conduct of Julian and of the Gallic army.","('Italy', 'GPE'), ('Illyricum', 'GPE'), ('Constantinople', 'GPE'), ('Caesarea', 'GPE'), ('Cappadocia', 'GPE'), ('Constantius', 'PERSON'), ('Julian', 'PERSON'), ('Gallic', 'NORP')"
+"But in the execution of this
+ salutary work Julian is accused of proceeding with too much
+ haste and inconsiderable severity.","('Julian', 'PERSON')"
+"But it is impossible
+ for us to calculate the respective weight and operation of
+ these sentiments; or to ascertain the principles of action
+ which might escape the observation, while they guided, or
+ rather impelled, the steps of Julian himself.","('Julian', 'PERSON')"
+"But that youth was
+ the son of Marcellus, the general of cavalry, who, in the
+ first campaign of the Gallic war, had deserted the standard
+ of the Caesar and the republic.","('Marcellus', 'PERSON'), ('first', 'ORDINAL'), ('the Gallic war', 'EVENT'), ('Caesar', 'PERSON')"
+"But the
+ soldiers, who were conscious of their guilt, chose rather to
+ depend on the gratitude of Julian than on the clemency of
+ the emperor.","('Julian', 'PERSON')"
+"But the Imperial legions were
+ still in their distant quarters of Asia; the Danube was
+ feebly guarded; and if Julian could occupy, by a sudden
+ incursion, the important provinces of Illyricum, he might
+ expect that a people of soldiers would resort to his
+ standard, and that the rich mines of gold and silver would
+ contribute to the expenses of the civil war.","('Imperial', 'NORP'), ('Asia', 'LOC'), ('Danube', 'LOC'), ('Julian', 'PERSON'), ('Illyricum', 'GPE')"
+"But the civil wisdom of two magistrates was overbalanced by the ferocious violence of four generals, Nevitta, Agilo, Jovinus, and Arbetio.","('two', 'CARDINAL'), ('four', 'CARDINAL'), ('Nevitta', 'PERSON'), ('Agilo', 'PERSON'), ('Jovinus', 'NORP'), ('Arbetio', 'PERSON')"
+"But the guilt of
+ Florentius justified the severity of the judges, and his
+ escape served to display the magnanimity of Julian, who
+ nobly checked the interested diligence of an informer, and
+ refused to learn what place concealed the wretched fugitive
+ from his just resentment.(65) Some months after the tribunal 
+ of Chalcedon had been dissolved, the praetorian vicegerent
+ of Africa, the notary Gaudentius, and Artemius,(66) duke of 
+ Egypt, were executed at Antioch.","('Florentius', 'PERSON'), ('Julian', 'PERSON'), ('Chalcedon', 'GPE'), ('Africa', 'LOC'), ('Gaudentius', 'PERSON'), ('Artemius', 'NORP'), ('66', 'CARDINAL'), ('Egypt', 'GPE'), ('Antioch', 'GPE')"
+"But the humanity of Julian was preserved from the cruel
+ alternative which he pathetically laments of destroying or
+ of being himself destroyed: and the seasonable death of
+ Constantius delivered the Roman empire from the calamities
+ of civil war.","('Julian', 'PERSON'), ('Constantius', 'PERSON'), ('Roman', 'NORP')"
+"But the legionaries, who seemed to have
+ rejected the yoke of discipline, conducted the defence of
+ the place with skill and perseverance; invited the rest of
+ Italy to imitate the example of their courage and loyalty;
+ and threatened the retreat of Julian, if he should be forced
+ to yield to the superior numbers of the armies of the East.
+ (41)","('Italy', 'GPE'), ('Julian', 'PERSON'), ('East', 'LOC'), ('41', 'CARDINAL')"
+"But the personal merit of Julian was,
+ in some measure, independent of his fortune.","('Julian', 'PERSON')"
+"But the terror of a foreign
+ invasion obliged him to suspend the punishment of a private
+ enemy; he continued his march towards the confines of
+ Persia, and thought it sufficient to signify the conditions
+ which might entitle Julian and his guilty followers to the
+ clemency of their offended sovereign.","('Persia', 'GPE'), ('Julian', 'PERSON')"
+"But the work of public reformation would have remained imperfect if Julian had only corrected the abuses, without punishing the crimes, of his predecessor's reign.","('Julian', 'PERSON')"
+"But they darkly
+ insinuated that the virtues of the Caesar might instantly be
+ converted into the most dangerous crimes, if the inconstant
+ multitude should prefer their inclinations to their duty; or
+ if the general of a victorious army should be tempted from his allegiance by the hopes of revenge and independent greatness.","('Caesar', 'PERSON')"
+"But with the
+ fopperies Julian affected to renounce the decencies of
+ dress; and seemed to value himself for his neglect of the
+ laws of cleanliness.","('Julian', 'PERSON')"
+"By a single edict he
+ reduced the palace of Constantinople to an immense desert,
+ and dismissed with ignominy the whole train of slaves and
+ dependents,(57) without providing any just, or at least  benevolent, exceptions for the age, the services, or the poverty of the faithful domestics of the Imperial family.","('Constantinople', 'GPE'), ('Imperial', 'NORP')"
+"By a well-concerted
+ stratagem he seized a fleet of light brigantines(31) as it 
+ lay at anchor; secured a supply of coarse provisions
+ sufficient to satisfy the indelicate, but voracious,
+ appetite of a Gallic army; and boldly committed himself to
+ the stream of the Danube.","('31', 'CARDINAL'), ('Gallic', 'NORP'), ('Danube', 'LOC')"
+"By his order,
+ Jovinus led back a part of the army into Italy; and the
+ siege of Aquileia was formed with diligence and prosecuted
+ with vigour.","('Jovinus', 'PERSON'), ('Italy', 'GPE'), ('Aquileia', 'GPE')"
+"By this avarice of time he seemed to protract the short 
+ duration of his reign; and, if the dates were less securely
+ ascertained, we should refuse to believe that only sixteen
+ months elapsed between the death of Constantius and the
+ departure of his successor for the Persian war.","('only sixteen\r\n months', 'DATE'), ('Constantius', 'PERSON'), ('the Persian war', 'EVENT')"
+"Conscious that success alone could justify his attempt, and that boldness only could command success, he instantly advanced, at the head of three thousand soldiers, to attack the strongest and most populous city of the Illyrian provinces.","('three thousand', 'CARDINAL'), ('Illyrian', 'NORP')"
+"Constantius signified his pleasure
+ that four entire legions—the Celtae and Petulants, the
+ Heruli and the Batavians—should be separated from the
+ standard of Julian, under which they had acquired their fame
+ and discipline; that in each of the remaining bands three
+ hundred of the bravest youths should be selected and that
+ this numerous detachment, the strength of the Gallic army,
+ should instantly begin their march, and exert their utmost
+ diligence to arrive, before the opening of the campaign, on
+ the frontiers of Persia. (4)","('Constantius', 'PERSON'), ('four', 'CARDINAL'), ('Celtae', 'NORP'), ('Petulants', 'NORP'), ('Heruli', 'NORP'), ('Batavians', 'NORP'), ('Julian', 'PERSON'), ('three\r\n hundred', 'CARDINAL'), ('Gallic', 'NORP'), ('Persia', 'GPE'), ('4', 'CARDINAL')"
+"Disguising the anguish of his soul under the semblance of
+ contempt, Constantius professed his intention of returning
+ into Europe, and of giving chase to Julian; for he never
+ spoke of this military expedition in any other light than
+ that of a hunting party. (39)","('Constantius', 'PERSON'), ('Europe', 'LOC'), ('Julian', 'PERSON')"
+"During the
+ games of the Circus, he had, imprudently or designedly,
+ performed the manumission of a slave in the presence of the
+ consul.","('Circus', 'EVENT')"
+"Eusebius and his guilty associates made a faint attempt to
+ prolong the reign of the eunuchs by the election of another
+ emperor; but their intrigues were rejected with disdain by
+ an army which now abhorred the thought of civil discord and
+ two officers of rank were instantly despatched to assure
+ Julian that every sword in the empire would be drawn for his
+ service.","('Eusebius', 'PERSON'), ('two', 'CARDINAL'), ('Julian', 'PERSON')"
+"Even faction, and religious faction, was constrained to
+ acknowledge the superiority of his genius in peace as well
+ as in war, and to con fess, with a sigh, that the apostate
+ Julian was a lover of his country, and that he deserved the
+ empire of the world.(85)","('Julian', 'PERSON'), ('85', 'CARDINAL')"
+Fears and envy of Constantius.,"('Constantius', 'ORG')"
+Florentius was a fugitive; Lupicinus a prisoner.,"('Florentius', 'PERSON'), ('Lupicinus', 'PERSON')"
+"For himself Julian had reserved a more
+ difficult and extraordinary part.","('Julian', 'PERSON')"
+"From Constantinople the attention
+ of the monarch was extended to the municipal senates of the
+ provinces.","('Constantinople', 'GPE')"
+"From his palace, or, more properly, from his
+ headquarters of Sirmium and Naissus, he distributed to the
+ principal cities of the empire a laboured apology for his
+ own conduct; published the secret despatches of Constantius;
+ and solicited the judgment of mankind between two
+ competitors, the one of whom had expelled, and the other had
+ invited, the barbarians. (36) Julian, whose mind was deeply 
+ wounded by the reproach of ingratitude, aspired to maintain,
+ by argument as well as by arms, the superior merits of his
+ cause; and to excel not only in the arts of war, but in
+ those of composition.","('Sirmium and Naissus', 'ORG'), ('Constantius', 'PERSON'), ('two', 'CARDINAL'), ('one', 'CARDINAL'), ('Julian', 'PERSON')"
+"From this principle he justly concluded that the man
+ who presumes to reign should aspire to the perfection of the
+ divine nature; that he should purify his soul from her
+ mortal and terrestrial part; that he should extinguish his
+ appetites, enlighten his understanding, regulate his
+ passions, and subdue the wild beast which, according to the
+ lively metaphor of Aristotle,(48) seldom fails to ascend the 
+ throne of a despot.","('Aristotle', 'PERSON'), ('48', 'DATE')"
+"From this tribute the cities of Elis, of Delphi, and of Argos, which had inherited from their remote ancestors the sacred office of perpetuating the Olympic, the Pythian, and the Nemean games, claimed a just exemption","('Elis', 'PERSON'), ('Delphi', 'GPE'), ('Argos', 'ORG'), ('Olympic', 'EVENT'), ('Pythian', 'NORP'), ('Nemean', 'NORP')"
+"Had Julian consulted the simple
+ dictates of reason, the first magistrate of the Romans would
+ have scorned the affectation of Diogenes, as well as that of
+ Darius.","('Julian', 'PERSON'), ('first', 'ORDINAL'), ('Romans', 'NORP'), ('Diogenes', 'PERSON'), ('Darius', 'PERSON')"
+"He
+ carefully distinguished the judge from the legislator;(84) 
+ and though he meditated a necessary reformation of the Roman
+ jurisprudence, he pronounced sentence according to the
+ strict and literal interpretation of those laws which the
+ magistrates were bound to execute and the subjects to obey.","('84', 'DATE'), ('Roman', 'NORP')"
+"He
+ possessed such flexibility of thought, and such firmness of
+ attention, that he could employ his hand to write, his ear
+ to listen, and his voice to dictate; and pursue at once
+ three several trains of ideas without hesitation, and
+ without error.","('three', 'CARDINAL')"
+"He admonishes
+ the emperor to consult the dictates of justice; to distrust
+ the arts of those venal flatterers who subsist only by the
+ discord of princes; and to embrace the offer of a fair and
+ honourable treaty, equally advantageous to the republic and
+ to the house of Constantine.","('Constantine', 'PERSON')"
+"He allows the supremacy of
+ his brother Constantius; and engages to send him an annual
+ present of Spanish horses, to recruit his army with a select
+ number of barbarian youths, and to accept from his choice a
+ Praetorian praefect of approved discretion and fidelity.","('Constantius', 'PERSON'), ('Spanish', 'NORP'), ('Praetorian', 'NORP')"
+"He alternately practised,
+ as in a school of declamation, the several modes of praise,
+ of censure, of exhortation; and his friend Libanius has
+ remarked that the study of Homer taught him to imitate the
+ simple, concise style of Menelaus, the copiousness of
+ Nestor, whose words descended like the flakes of a winter's
+ snow, or the pathetic and forcible eloquence of Ulysses.","('Libanius', 'PERSON'), ('Homer', 'PERSON'), ('Menelaus', 'NORP'), ('Nestor', 'PERSON'), ('winter', 'DATE'), ('Ulysses', 'PERSON')"
+"He gave a
+ public and military audience to the quaestor Leonas: the
+ haughty epistle of Constantius was read to the attentive
+ multitude; and Julian protested, with the most flattering
+ deference, that he was ready to resign the title of
+ Augustus, if he could obtain the consent of those whom he
+ acknowledged as the authors of his elevation.","('Leonas', 'PERSON'), ('Constantius', 'PERSON'), ('Julian', 'PERSON'), ('Augustus', 'PERSON')"
+"He had
+ taken some slow and irresolute measures for the purpose of
+ collecting his troops, when he was surprised by Dagalaiphus,
+ an active officer, whom Julian, as soon as he landed at
+ Bononia, had pushed forward with some light infantry.","('Dagalaiphus', 'PERSON'), ('Julian', 'PERSON'), ('Bononia', 'GPE')"
+"He had discovered from intercepted letters that
+ his adversary, sacrificing the interest of the state to that
+ of the monarch, had again excited the barbarians to invade
+ the provinces of the West.","('West', 'LOC')"
+"He issued the necessary
+ orders for carrying into execution the commands of
+ Constantius; a part of the troops began their march for the
+ Alps; and the detachments from the several garrisons moved
+ towards their respective places of assembly.","('Constantius', 'PRODUCT'), ('Alps', 'LOC')"
+"He might perhaps sincerely have preferred the groves
+ of the Academy and the society of Athens; but he was
+ constrained, at first by the will, and afterwards by the
+ injustice of Constantius, to expose his person and fame to
+ the dangers of Imperial greatness; and to make himself
+ accountable to the world and to posterity for the happiness
+ of millions. (46) Julian recollected with terror the 
+ observation of his master Plato,(47) that the government of 
+ our flocks and herds is always committed to beings of a
+ superior species; and that the conduct of nations requires
+ and deserves the celestial powers of the Gods or of the
+ Genii.","('Academy', 'ORG'), ('Athens', 'GPE'), ('first', 'ORDINAL'), ('Constantius', 'PERSON'), ('Imperial', 'NORP'), ('millions', 'CARDINAL'), ('Julian', 'PERSON'), ('Plato', 'PERSON'), ('47', 'CARDINAL'), ('Genii', 'NORP')"
+"He questioned the man concerning the profits of his employment, and was informed that, besides a large salary and some valuable perquisites, he enjoyed a daily allowance for twenty servants and as many horses.","('twenty', 'CARDINAL')"
+"He recapitulated their victories, lamented
+ their sufferings, applauded their resolution, animated their
+ hopes, and checked their impetuosity; nor did he dismiss the
+ assembly till he had obtained a solemn promise from the
+ troops that, if the emperor of the East would subscribe an
+ equitable treaty, they would renounce any views of conquest,
+ and satisfy themselves with the tranquil possession of the
+ Gallic provinces.","('East', 'LOC'), ('Gallic', 'NORP')"
+"He relieved the distress and
+ restored the beauty of the cities of Epirus and Peloponnesus.(78) Athens acknowledged him for her benefactor, Argos for her deliverer.","('Epirus', 'ORG'), ('Peloponnesus', 'ORG'), ('Athens', 'GPE'), ('Argos', 'PERSON')"
+"He required that the
+ presumptuous Caesar should expressly renounce the
+ appellation and rank of Augustus which he had accepted from
+ the rebels; that he should descend to his former station of
+ a limited and dependent minister; that he should vest the
+ powers of the state and army in the hands of those officers
+ who were appointed by the Imperial court; and that he should
+ trust his safety to the assurances of pardon, which were
+ announced by Epictetus, a Gallic bishop, and one of the
+ Arian favourites of Constantius.","('Caesar', 'PERSON'), ('Augustus', 'PERSON'), ('Imperial', 'ORG'), ('Epictetus', 'PERSON'), ('Gallic', 'NORP'), ('one', 'CARDINAL'), ('Arian', 'NORP'), ('Constantius', 'ORG')"
+"He selected three thousand
+ brave and active volunteers, resolved, like their leader, to
+ cast behind them every hope of a retreat; at the head of
+ this faithful band he fearlessly plunged into the recesses
+ of the Marcian, or Black Forest, which conceals the sources
+ of the Danube;(29) and, for many days, the fate of Julian was 
+ unknown to the world.","('three thousand', 'CARDINAL'), ('Marcian', 'NORP'), ('Black Forest', 'LOC'), ('Danube', 'LOC'), ('29', 'CARDINAL'), ('many days', 'DATE'), ('Julian', 'PERSON')"
+"He solemnly declares, in the presence of
+ Jupiter, of the Sun, of Mars, of Minerva, and of all the
+ other deities, that till the close of the evening which
+ preceded his elevation he was utterly ignorant of the
+ designs of the soldiers; (12) and it may seem ungenerous to 
+ distrust the honour of a hero, and the truth of a
+ philosopher.","('Jupiter', 'LOC'), ('Sun', 'LOC'), ('Mars', 'LOC'), ('Minerva', 'LOC'), ('12', 'CARDINAL')"
+"He was assisted by the eloquent Mamertinus,(61) one of the consuls elect, whose merit is loudly celebrated by the doubtful evidence of his own applause.","('Mamertinus', 'PERSON'), ('61', 'CARDINAL'), ('one', 'CARDINAL')"
+"He was exalted on a
+ shield in the presence and amidst the unanimous acclamations
+ of the troops; a rich military collar, which was offered by
+ chance, supplied the want of a diadem;(8) the ceremony was 
+ concluded by the promise of a moderate donative;(9) and the 
+ new emperor, overwhelmed with real or affected grief,
+ retired into the most secret recesses of his apartment.(10)
+His protestations of innocence .","('8', 'CARDINAL'), ('9', 'CARDINAL'), ('10', 'CARDINAL')"
+"He was soon 
+ awakened by the entrance of fresh secretaries, who had slept
+ the preceding day; and his servants were obliged to wait
+ alternately, while their indefatigable master allowed
+ himself scarcely any other refreshment than the change of
+ occupations.","('the preceding day', 'DATE')"
+"His
+ application to the senate of Rome, which was still permitted
+ to bestow the titles of imperial power, was agreeable to the
+ forms of the expiring republic.","('Rome', 'GPE')"
+"His
+ spirited discourse was received with the loudest
+ acclamations, and the same troops which had taken up arms
+ against Constantius, when he summoned them to leave Gaul,
+ now declared with alacrity that they would follow Julian to
+ the farthest extremities of Europe or Asia.","('Constantius', 'PERSON'), ('Gaul', 'PERSON'), ('Julian', 'PERSON'), ('Europe', 'LOC'), ('Asia', 'LOC')"
+"His care of the Graecian cities and by imposing an equal distribution of public duties, he restored the strength, the splendour, or, according to the glowing
+ expression of Libanius, (77) the soul of the expiring cities  of his empire.","('Graecian', 'NORP'), ('Libanius', 'PERSON'), ('77', 'CARDINAL')"
+His envoy to Constantius.,"('Constantius', 'PERSON')"
+"His epistle to the senate and people
+ of Athens(37) seems to have been dictated by an elegant 
+ enthusiasm, which prompted him to submit his actions and his
+ motives to the degenerate Athenians of his own times, with
+ the same humble deference as if he had been pleading in the
+ days of Aristides before the tribunal of the Areopagus.","('Athens', 'GPE'), ('37', 'DATE'), ('Athenians', 'NORP'), ('Aristides', 'PERSON'), ('Areopagus', 'ORG')"
+"His genius was less powerful
+ and sublime than that of Caesar, nor did he possess the
+ consummate prudence of Augustus.","('Caesar', 'PERSON'), ('Augustus', 'PERSON')"
+His march from the Rhine to Illyricum.,"('Rhine', 'LOC'), ('Illyricum', 'GPE')"
+"His oblique censure of the innovations of Constantine, and his passionate invective against the vices of Constantius, were heard with less satisfaction; and the senate, as if Julian had been present, unanimously exclaimed, ""Respect, we beseech you, the author of your own fortune."" (38)","('Constantine', 'PERSON'), ('Constantius', 'PERSON'), ('Julian', 'PERSON'), ('38', 'CARDINAL')"
+"If Julian
+ complied with the orders which he had received he subscribed
+ to his own destruction, and that of a people who deserved
+ his affection.","('Julian', 'PERSON')"
+"Impatient to visit the place of his birth and the new capital of the empire, he advanced from Naissus through the
+ mountains of Haemus and the cities of Thrace.","('Naissus', 'GPE'), ('Haemus', 'GPE'), ('Thrace', 'LOC')"
+"In a satirical performance, which was
+ designed for the public eye, the emperor descants with
+ pleasure, and even with pride, on the length of his nails
+ and the inky blackness of his hands; protests that although
+ the greatest part of his body was covered with hair, the use
+ of the razor was confined to his head alone; and celebrates
+ with visible complacency the shaggy and populous (58) beard which he fondly cherished, after the example of the
+ philosophers of Greece.","('58', 'CARDINAL'), ('Greece', 'GPE')"
+"In the
+ course of this long and rapid navigation, the mind of Julian
+ was fixed on the object of his enterprise; and though he
+ accepted the deputation of some cities, which hastened to
+ claim the merit of an early submission, he passed before the
+ hostile stations, which were placed along the river, without
+ indulging the temptation of signalising a useless and
+ ill-timed valour.","('Julian', 'PERSON')"
+"In the
+ letters crowned with laurel, which, according to ancient
+ custom, were addressed to the provinces, the name of Julian
+ was omitted.","('Julian', 'PERSON')"
+"In the camp of Hierapolis, in  Syria, he communicated this design to his army; slightly mentioned the guilt and rashness, of the Caesar; and
+ ventured to assure them that, if the mutineers of Gaul
+ presumed to meet them in the field, they would be unable to
+ sustain the fire of their eyes and the irresistible weight
+ of their shout of onset.","('Hierapolis', 'GPE'), ('Syria', 'GPE'), ('Caesar', 'PERSON'), ('Gaul', 'PERSON')"
+"In the meanwhile
+ the Caesar was oppressed by the rude and importunate
+ solicitations of the Imperial messengers, who presumed to
+ suggest that, if he expected the return of his ministers, he
+ could charge himself with the guilt of the delay, and
+ reserve for them the merit of the execution.","('Caesar', 'PERSON'), ('Imperial', 'ORG')"
+"In the neighbourhood of
+ Basel he assembled and divided his army.(28)","('Basel', 'GPE')"
+"In this negotiation Julian
+ claimed no more than he already possessed.","('Julian', 'PERSON')"
+"Julian covered the praefect with his Imperial
+ mantle, and protecting him from the zeal of his followers,
+ dismissed him to his own house, with less respect than was
+ perhaps due to the virtue of an enemy.(26)","('Julian', 'PERSON'), ('Imperial', 'NORP'), ('26', 'CARDINAL')"
+"Julian had received the submission of two legions and a
+ cohort of archers who were stationed at Sirmium, but he
+ suspected, with reason, the fidelity of those troops which
+ had been distinguished by the emperor; and it was thought
+ expedient, under the pretence of the exposed state of the
+ Gallic frontier, to dismiss them from the most important
+ scene of action.","('Julian', 'PERSON'), ('two', 'CARDINAL'), ('Sirmium', 'ORG'), ('Gallic', 'NORP')"
+Julian is declared emperor by the legions of Gaul—,"('Julian', 'PERSON'), ('Gaul', 'PERSON')"
+Julian prepares to attack Constantius.,"('Julian', 'PERSON'), ('Constantius', 'PERSON')"
+"Julian was not insensible of the advantages of freedom.(70) 
+ From his studies he had imbibed the spirit of ancient sages
+ and heroes; his life and fortunes had depended on the
+ caprice of a tyrant; and, when he ascended the throne, his
+ pride was sometimes mortified by the reflection that the
+ slaves who would not dare to censure his defects were not
+ worthy to applaud his virtues.(71) He sincerely abhorred the 
+ system of oriental despotism which Diocletian, Constantine,
+ and the patient habits of four score years, had established
+ in the empire.","('Julian', 'PERSON'), ('Diocletian', 'PERSON'), ('Constantine', 'PERSON'), ('four', 'CARDINAL')"
+"Julian was slow in his suspicions,
+ and gentle in his punishments, and his contempt of treason
+ was the result of judgment, of vanity, and of courage.","('Julian', 'PERSON')"
+"Julian was tormented by
+ the importunities of a multitude, particularly of Egyptians,
+ who loudly redemanded the gifts which they had imprudently
+ or illegally bestowed; he foresaw the endless prosecution of
+ vexatious suits, and he engaged a promise, which ought
+ always to have been sacred, that if they would repair to
+ Chalcedon, he would meet them in person, to hear and
+ determine their complaints.","('Julian', 'PERSON'), ('Egyptians', 'NORP'), ('Chalcedon', 'GPE')"
+"Lucilian, who, with the rank
+ of general of the cavalry commanded the military powers of
+ Illyricum, was alarmed and perplexed by the doubtful
+ reports, which he could neither reject nor believe.","('Lucilian', 'PERSON'), ('Illyricum', 'ORG')"
+"Most of the
+ auxiliaries, who engaged their voluntary service, had
+ stipulated that they should never be obliged to pass the
+ Alps.","('Alps', 'LOC')"
+"On foot, without his diadem, and clothed in a mourning habit, he accompanied the funeral as far as the church of the Holy Apostles, where the body was deposited: and if these marks of respect may be interpreted as a selfish tribute to the birth and dignity of his Imperial kinsman, the tears of Julian professed to the world that he had forgot the injuries, and remembered only the obligations, which he had received from Constantius.(44)","('the Holy Apostles', 'ORG'), ('Imperial', 'NORP'), ('Julian', 'PERSON'), ('Constantius', 'PERSON')"
+"On solemn festivals, Julian, who felt and
+ professed an unfashionable dislike to these frivolous
+ amusements, condescended to appear in the Circus; and, after
+ bestowing a careless glance on five or six of the races, he
+ hastily withdrew with the impatience of a philosopher, who
+ considered every moment as lost that was not devoted to the
+ advantage of the public or the improvement of his own mind.
+ (52)","('Julian', 'PERSON'), ('five', 'CARDINAL'), ('six', 'CARDINAL')"
+"On the
+ calends of January, at break of day, the new consuls,
+ Mamertinus and Nevitta, hastened to the palace to salute the
+ emperor.","('January', 'DATE'), ('Mamertinus', 'PERSON'), ('Nevitta', 'PERSON')"
+"On this foundation he composed, in his own
+ name, and in that of the army, a specious and moderate
+ epistle,(15) which was delivered to Pentadius, his master of 
+ the offices, and to his chamberlain Eutherius; two
+ ambassadors whom he appointed to receive the answer and
+ observe the dispositions of Constantius.","('Pentadius', 'PERSON'), ('Eutherius', 'PERSON'), ('two', 'CARDINAL'), ('Constantius', 'PERSON')"
+"One body, which 
+ consisted of ten thousand men, was directed, under the
+ command of Nevitta, general of the cavalry, to advance
+ through the midland parts of Rhaetia and Noricum.","('One', 'CARDINAL'), ('ten thousand', 'CARDINAL'), ('Nevitta', 'PERSON'), ('Rhaetia', 'GPE'), ('Noricum', 'GPE')"
+"One of his most intimate friends,(49) who had often shared the frugal simplicity of his table, has remarked that his
+ light and sparing diet (which was usually of the vegetable
+ kind) left his mind and body always free and active for the
+ various and important business of an author, a pontiff, a
+ magistrate, a general, and a prince.","('One', 'CARDINAL'), ('49', 'DATE')"
+"Philosophy had instructed Julian to compare the advantages
+ of action and retirement; but the elevation of his birth and
+ the accidents of his life never allowed him the freedom of
+ choice.","('Julian', 'PERSON')"
+"Prudence as well as loyalty inculcated
+ the propriety of resisting their treasonable designs, and of
+ preparing for his oppressed virtue the excuse of violence.","('Prudence', 'PERSON')"
+"Secretly conscious that the applause and favour of the
+ Romans accompanied the rising fortunes of Julian, his
+ discontented mind was prepared to receive the subtle poison
+ of those artful sycophants who coloured their mischievous
+ designs with the fairest appearances of truth and candour. (3)  Instead of depreciating the merits of Julian, they acknowledged, and even exaggerated, his popular fame,
+ superior talents, and important services.","('Romans', 'NORP'), ('Julian', 'PERSON'), ('Julian', 'PERSON')"
+"Seven years after this sentence Julian(79) allowed the cause to be referred to a superior tribunal, and his eloquence was interposed, most probably with success, in the defence of a city which had been the royal seat of
+ Agamemnon,(80) and had given to Macedonia a race of kings and conquerors.(81)
+Julian, an orator and a judge.","('Seven years', 'DATE'), ('Julian', 'PERSON'), ('79', 'DATE'), ('Agamemnon', 'PERSON'), ('80', 'CARDINAL'), ('Macedonia', 'GPE'), ('Julian', 'PERSON')"
+"Several months were
+ ineffectually consumed in a treaty which was negotiated at
+ the distance of three thousand miles between Paris and
+ Antioch; and, as soon as Julian perceived that his moderate
+ and respectful behaviour served only to irritate the pride
+ of an implacable adversary, he boldly resolved to commit his
+ life and fortune to the chance of a civil war.","('Several months', 'DATE'), ('three thousand miles', 'QUANTITY'), ('Paris', 'GPE'), ('Antioch', 'GPE'), ('Julian', 'PERSON')"
+"Solitude increased the perplexity of Julian; he could no
+ longer apply to the faithful counsels of Sallust, who had
+ been removed from his office by the judicious malice of the
+ eunuchs: he could not even enforce his representations by
+ the concurrence of the ministers, who would have been afraid
+ or ashamed to approve the ruin of Gaul.","('Julian', 'PERSON'), ('Sallust', 'PERSON'), ('Gaul', 'PERSON')"
+"Such an act of treachery and oppression would
+ destroy the confidence, and excite the resentment of the
+ independent warriors of Germany, who considered truth as the
+ noblest of their virtues, and freedom as the most valuable
+ of their possessions.","('Germany', 'GPE')"
+"Such indeed was the temper of Julian, who seldom recollected
+ the fundamental maxim of Aristotle, that true virtue is
+ placed at an equal distance between the opposite vices.","('Julian', 'PERSON'), ('Aristotle', 'PERSON')"
+"That faithful
+ minister, alone and unassisted, asserted the rights of
+ Constantius in the midst of an armed and angry multitude, to
+ whose fury he had almost fallen an honourable, but useless
+ sacrifice.","('Constantius', 'PERSON')"
+"The
+ assemblies of the senate, which Constantius had avoided,
+ were considered by Julian as the place where he could
+ exhibit with the most propriety the maxims of a republican
+ and the talents of a rhetorician.","('Constantius', 'PERSON'), ('Julian', 'PERSON'), ('republican', 'NORP')"
+"The
+ captive general, uncertain of his life or death, was hastily
+ thrown upon a horse, and conducted to the presence of
+ Julian, who kindly raised him from the ground, and dispelled
+ the terror and amazement which seemed to stupefy his
+ faculties.","('Julian', 'PERSON')"
+"The
+ functions of a judge, which are sometimes incompatible with
+ those of a prince, were exercised by Julian not only as a
+ duty, but as an amusement; and although he might have
+ trusted the integrity and discernment of his Braetorian
+ praefects, he often placed himself by their side on the seat
+ of judgment.","('Julian', 'PERSON'), ('Braetorian', 'NORP')"
+"The
+ instructions to the generals were conceived with energy and
+ precision: to hasten their march in close and compact
+ columns, which, according to the disposition of the ground,
+ might readily be changed into any order of battle; to secure
+ themselves against the surprises of the night by strong
+ posts and vigilant guards; to prevent resistance by their
+ unexpected arrival; to elude examination by their sudden
+ departure; to spread the opinion of their strength, and the
+ terror of his name; and to join their sovereign under the
+ walls of Sirmium.","('the night', 'TIME'), ('Sirmium', 'ORG')"
+"The
+ notary Gaudentius had occupied in his name the provinces of
+ Africa; the subsistence of Rome was intercepted; and the
+ distress of Julian was increased by an unexpected event,
+ which might have been productive of fatal consequences.","('Gaudentius', 'PERSON'), ('Africa', 'LOC'), ('Rome', 'GPE'), ('Julian', 'PERSON')"
+"The
+ splendid and effeminate dress of the Asiatics, the curls and
+ paint, the collars and bracelets, which had appeared so
+ ridiculous in the person of Constantine, were consistently
+ rejected by his philosophic successor.","('Asiatics', 'NORP'), ('Constantine', 'PERSON')"
+"The Caesar foresaw and lamented 
+ the consequences of this fatal mandate.","('Caesar', 'PERSON')"
+"The Misopogon, the
+ Caesars, several of his orations, and his elaborate work
+ against the Christian religion, were composed in the long
+ nights of the two winters, the former of which he passed at
+ Constantinople, and the latter at Antioch.","('Misopogon', 'PERSON'), ('Caesars', 'ORG'), ('Christian', 'NORP'), ('the two winters', 'DATE'), ('Constantinople', 'GPE'), ('Antioch', 'GPE')"
+"The actions
+ of Julian can only be preserved by the care of the
+ historian; but the portion of his voluminous writings which
+ is still extant remains as a monument of the application, as
+ well as of the genius, of the emperor.","('Julian', 'PERSON')"
+"The ambassadors of Julian had been instructed to execute
+ with the utmost diligence their important commission.","('Julian', 'PERSON')"
+"The apprehensions of
+ the Gauls were derived from the knowledge of the impending
+ and inevitable danger.","('Gauls', 'NORP')"
+"The approach of winter could not detain the
+ monarch at Antioch; and his favourites durst not oppose his
+ impatient desire of revenge.","('winter', 'DATE'), ('Antioch', 'GPE')"
+"The army, which
+ Julian held in readiness for immediate action, was recruited
+ and augmented by the disorders of the times.","('Julian', 'PERSON')"
+"The arts of persuasion, so diligently cultivated by the
+ first Caesars, were neglected by the military ignorance and
+ Asiatic pride of their successors, and, if they condescended
+ to harangue the soldiers, whom they feared, they treated
+ with silent disdain the senators, whom they despised.","('Asiatic', 'NORP')"
+"The assembly was dismissed; and Leonas, who with some difficulty had been protected from the popular fury, was sent back to his master with an epistle in which Julian expressed, in a strain of the most vehement eloquence, the sentiments of contempt, of hatred, and of resentment, which had been suppressed and embittered by the dissimulation of twenty years.","('Leonas', 'PERSON'), ('Julian', 'PERSON'), ('twenty years', 'DATE')"
+"The banks of the Danube were crowded on
+ either side with spectators, who gazed on the military pomp,
+ anticipated the importance of the event, and diffused
+ through the adjacent country the fame of a young hero, who
+ advanced with more than mortal speed at the head of the
+ innumerable forces of the West.","('Danube', 'LOC'), ('West', 'LOC')"
+"The barbarians of Germany had felt,
+ and still dreaded, the arms of the young Caesar; his
+ soldiers were the companions of his victory; the grateful
+ provincials enjoyed the blessings of his reign; but the
+ favourites, who had opposed his elevation, were offended by
+ his virtues; and they justly considered the friend of the
+ people as the enemy of the court.","('Germany', 'GPE'), ('Caesar', 'PERSON')"
+"The barrier of Gaul was improved and
+ strengthened with additional fortifications; and Julian
+ entertained some hopes that the Germans, whom he had so
+ often vanquished, might, in his absence, be restrained by
+ the terror of his name.","('Gaul', 'PERSON'), ('Julian', 'PERSON'), ('Germans', 'NORP')"
+"The chamberlain Eusebius, who had so long abused the favour
+ of Constantius, expiated, by an ignominious death, the
+ insolence, the corruption, and cruelty of his servile reign.","('Eusebius', 'PERSON'), ('Constantius', 'PERSON')"
+"The cruel
+ persecution of the faction of Magnentius had filled Gaul
+ with numerous bands of outlaws and robbers.","('Magnentius', 'ORG'), ('Gaul', 'PERSON')"
+The death of Constantius—Civil Administration of Julian,"('Constantius', 'PERSON'), ('Julian', 'PERSON')"
+"The decrees of Julian were almost always founded on
+ the principles of justice, and he had the firmness to resist
+ the two most dangerous temptations which assault the
+ tribunal of a sovereign under the specious forms of
+ compassion and equity.","('Julian', 'PERSON'), ('two', 'CARDINAL')"
+"The defence of this important post  was intrusted to the brave Nevitta, who, as well as the generals of the Italian division, successfully executed the plan of the march and junction which their master had so ably conceived.","('Nevitta', 'PERSON'), ('Italian', 'NORP')"
+"The delegated
+ authority which he had long exercised over the provinces of
+ Gaul, Spain, and Britain, was still obeyed under a name more
+ independent and august.","('Gaul', 'GPE'), ('Spain', 'GPE'), ('Britain', 'GPE')"
+"The difficulty, as well as glory, of
+ this enterprise consisted in a laborious march; and Julian
+ had conquered, as soon as he could penetrate into, a country
+ which former princes had considered as inaccessible.","('Julian', 'PERSON')"
+"The discontent
+ of the troops was produced by the malice of his enemies;
+ their tumult was the natural effect of interest and of
+ passion; and if Julian had tried to conceal a deep design
+ under the appearances of chance, he must have employed the
+ most consummate artifice without necessity, and probably
+ without success.","('Julian', 'PERSON')"
+"The domestic connection, which might
+ have reconciled the brother and the husband of Helena, was
+ recently dissolved by the death of that princess, whose
+ pregnancy had been several times fruitless, and was at last
+ fatal to herself. (21)","('Helena', 'PERSON')"
+"The empress Eusebia had preserved, to 
+ the last moment of her life, the warm, and even jealous,
+ affection which she had conceived for Julian; and her mild
+ influence might have moderated the resentment of a prince
+ who, since her death, was abandoned to his own passions, and
+ to the arts of his eunuchs.","('Eusebia', 'PERSON'), ('Julian', 'PERSON')"
+"The executions of Paul and Apodemius (the former of whom was
+ burnt alive) were accepted as an inadequate atonement by the
+ widows and orphans of so many hundred Romans whom those
+ legal tyrants had betrayed and murdered.","('Paul', 'PERSON'), ('Apodemius', 'PERSON'), ('so many hundred', 'CARDINAL'), ('Romans', 'NORP')"
+"The faint
+ proposal was impetuously silenced; and the acclamations of thundered at once from every part of the field, and terrified the pale ambassador of Constantius.","('Constantius', 'GPE')"
+"The former was banished to Vercellae in Italy,
+ and a sentence of death was pronounced against the latter.","('Vercellae', 'GPE'), ('Italy', 'GPE')"
+"The grief of Julian could proceed only from his innocence;
+ but his innocence must appear extremely doubtful(11) in the 
+ eyes of those who have learned to suspect the motives and
+ the professions of princes.","('Julian', 'PERSON')"
+"The grief of an armed
+ multitude is soon converted into rage, their licentious
+ murmurs, which every hour were communicated from tent to
+ tent with more boldness and effect, prepared their minds for
+ the most daring acts of sedition; and by the connivance of
+ their tribunes a seasonable libel was secretly dispersed,
+ which painted in lively colours the disgrace of the Caesar,
+ the oppression of the Gallic army, and the feeble vices of
+ the tyrant of Asia.","('Caesar', 'PERSON'), ('Gallic', 'NORP'), ('Asia', 'LOC')"
+"The high office of 
+ Nebridius was bestowed on Sallust; and the provinces of
+ Gaul, which were now delivered from the intolerable
+ oppression of taxes, enjoyed the mild and equitable
+ administration of the friend of Julian, who was permitted to
+ practise those virtues which he had instilled into the mind
+ of his pupil.(27)","('Nebridius', 'GPE'), ('Sallust', 'GPE'), ('Gaul', 'LOC'), ('Julian', 'PERSON')"
+"The homage which Julian obtained from the fears or the
+ inclination of the people extended far beyond the immediate
+ effect of his arms. (35)","('Julian', 'PERSON')"
+"The hopes of Julian depended much less on the number of his
+ troops than on the celerity of his motions.","('Julian', 'PERSON')"
+"The immunity of Elis and Delphi was respected by the Corinthians, but the poverty of Argos tempted the insolence of oppression, and the feeble complaints of its deputies were silenced by the decree of a provincial magistrate, who seems to have consulted only the interest of the capital in which he resided.","('Elis', 'PERSON'), ('Delphi', 'ORG'), ('Corinthians', 'PERSON'), ('Argos', 'ORG')"
+"The inexorable jealousy
+ of the emperor, the peremptory, and perhaps insidious,
+ nature of his commands, left not any room for a fair apology
+ or candid interpretation; and the dependent station of the
+ Caesar scarcely allowed him to pause or to deliberate.","('Caesar', 'PERSON')"
+"The inflexible
+ Caesar sustained, till the third hour of the day, their
+ prayers, their reproaches, and their menaces; nor did he
+ yield till he had been repeatedly assured that, if he wished
+ to live, he must consent to reign.","('Caesar', 'PERSON'), ('the third hour of the day', 'TIME')"
+"The intelligence of the march and rapid progress of Julian
+ was speedily transmitted to his rival, who, by the retreat
+ of Sapor, had obtained some respite from the Persian war.","('Julian', 'PERSON'), ('Sapor', 'PERSON'), ('the Persian war', 'EVENT')"
+The jealousy of Constantius against Julian.,"('Constantius', 'PERSON'), ('Julian', 'PERSON')"
+"The laborious administration of military and civil affairs,
+ which were multiplied in proportion to the extent of the
+ empire, exercised the abilities of Julian; but he frequently
+ assumed the two characters of Orator (82) and of Judge,(83) 
+ which are almost unknown to the modern sovereigns of Europe.","('Julian', 'PERSON'), ('two', 'CARDINAL'), ('Orator', 'PERSON'), ('82', 'CARDINAL'), ('83', 'CARDINAL'), ('Europe', 'LOC')"
+"The labours of his mariners, who
+ plied their oars with incessant diligence, and the steady
+ continuance of a favourable wind, carried his fleet above
+ seven hundred miles in eleven days;(32) and he had already 
+ disembarked his troops at Bononia, only nineteen miles from
+ Sirmium, before his enemies could receive any certain
+ intelligence that he had left the banks of the Rhine.","('seven hundred miles', 'QUANTITY'), ('eleven days', 'DATE'), ('32', 'CARDINAL'), ('Bononia', 'GPE'), ('only nineteen miles', 'QUANTITY'), ('Sirmium', 'GPE'), ('Rhine', 'LOC')"
+"The latter, a crafty and corrupt
+ statesman, declining to assume a responsible part on this
+ dangerous occasion, eluded the pressing and repeated
+ invitations of Julian, who represented to him that in every
+ important measure the presence of the praefect was
+ indispensable in the council of the prince.","('Julian', 'PERSON')"
+"The legionaries, who enjoyed the title
+ and privileges of Romans, were enlisted for the general
+ defence of the republic; but those mercenary troops heard
+ with cold indifference the antiquated names of the republic
+ and of Rome.","('Romans', 'NORP'), ('Rome', 'GPE')"
+"The legions of Gaul are ordered to march into the East. A.D. 360, April T
+he apparent tranquillity of Gaul, and the imminent danger
+ of the eastern provinces, offered a specious pretence for
+ the design which was artfully concerted by the Imperial
+ ministers.","('Gaul', 'PERSON'), ('East', 'LOC'), ('360', 'CARDINAL'), ('April T', 'DATE'), ('Gaul', 'PERSON'), ('Imperial', 'ORG')"
+"The long abuse of power
+ rendered him a considerable object in the eyes of his
+ contemporaries; but, as personal merit can alone deserve the
+ notice of posterity, the last of the sons of Constantine may
+ be dismissed from the world with the remark that he
+ inherited the defects, without the abilities, of his father.","('Constantine', 'PERSON')"
+"The luxury of
+ the palace excited the contempt and indignation of Julian,
+ who usually slept on the ground, who yielded with reluctance
+ to the indispensable calls of nature, and who placed his
+ vanity not in emulating, but in despising the pomp of
+ royalty.","('Julian', 'PERSON')"
+"The military designs of that prince, who had formed
+ three different attacks against Thrace, were prevented by
+ this fortunate event.","('three', 'CARDINAL'), ('Thrace', 'LOC')"
+"The moment had been
+ chosen when Lupicinus, (5) the general of the cavalry, was 
+ despatched into Britain, to repulse the inroads of the Scots
+ and Picts; and Florentius was occupied at Vienne by the
+ assessment of the tribute.","('Lupicinus', 'PERSON'), ('5', 'CARDINAL'), ('Britain', 'GPE'), ('Scots', 'NORP'), ('Picts', 'NORP'), ('Florentius', 'PERSON'), ('Vienne', 'PERSON')"
+"The moment he was reminded that he had trespassed on
+ the jurisdiction of another magistrate, he condemned himself
+ to pay a fine of ten pounds of gold, and embraced this
+ public occasion of declaring to the world that he was
+ subject, like the rest of his fellow-citizens, to the laws,
+ (75) and even to the forms, of the republic.","('ten pounds', 'QUANTITY'), ('75', 'CARDINAL')"
+"The monarch, after
+ making some inquiry into the rank and character of his
+ rival, despatched the informer with a present of a pair of
+ purple slippers, to complete the magnificence of his
+ Imperial habit.","('Imperial', 'ORG')"
+"The most exquisite dainties were procured to gratify their pride rather than their taste; birds of the most distant climates, fish from the most remote seas, fruits out of their natural season, winter roses, and summer snows. (56)","('summer', 'DATE'), ('56', 'DATE')"
+"The numerous army of spies, of agents, and informers,
+ enlisted by Constantius to secure the repose of one man, and
+ to interrupt that of millions, was immediately disbanded by
+ his generous successor.","('Constantius', 'PERSON'), ('one', 'CARDINAL'), ('millions', 'CARDINAL')"
+"The oath of
+ fidelity was administered; and the soldiers, clashing their
+ shields, and pointing their drawn swords to their throats,
+ devoted themselves, with horrid imprecations, to the service
+ of a leader whom they celebrated as the deliverer of Gaul
+ and the conqueror of the Germans.(25)","('Gaul', 'PERSON'), ('Germans', 'NORP'), ('25', 'CARDINAL')"
+"The office of president was exercised by the venerable praefect of the East, a second  Sallust, (60) whose virtues conciliated the esteem of Greek sophists and of Christian bishops.","('East', 'LOC'), ('second', 'ORDINAL'), ('Sallust', 'NORP'), ('60', 'CARDINAL'), ('Greek', 'NORP'), ('Christian', 'NORP')"
+"The office, or rather the name, of
+ consul was cherished by a prince who contemplated with
+ reverence the ruins of the republic; and the same behaviour
+ which had been assumed by the prudence of Augustus was
+ adopted by Julian from choice and inclination.","('Augustus', 'PERSON'), ('Julian', 'PERSON')"
+"The only instance in
+ which Julian seemed to depart from his accustomed clemency
+ was the execution of a rash youth, who, with a feeble hand,
+ had aspired to seize the reins of empire.","('Julian', 'PERSON')"
+"The personal fears of Constantius were
+ interpreted by his council as a laudable anxiety for the
+ public safety; whilst in private, and perhaps in his own
+ breast, he disguised, under the less odious appellation of
+ fear, the sentiments of hatred and envy which he had
+ secretly conceived for the inimitable virtues of Julian.","('Constantius', 'PERSON'), ('Julian', 'PERSON')"
+"The persons who were disaffected to the new government were
+ disarmed and secured; and the vacant offices were
+ distributed, according to the recommendation of merit, by a
+ prince who despised the intrigues of the palace and the
+ clamours of the soldiers.(16)
+His fourth and fifth expedition beyond the Rhine.","('16', 'CARDINAL'), ('fourth', 'ORDINAL'), ('fifth', 'ORDINAL'), ('Rhine', 'LOC')"
+"The policy of Julian
+ condescended to surprise the prince of the Alemanni by his
+ own arts: and Vadomair, who, in the character of a friend,
+ had incautiously accepted an invitation from the Roman
+ governors, was seized in the midst of the entertainment, and
+ sent away prisoner into the heart of Spain.","('Julian', 'PERSON'), ('Alemanni', 'PERSON'), ('Vadomair', 'PERSON'), ('Roman', 'NORP'), ('Spain', 'GPE')"
+"The position of two magazines,
+ one of them collected on the banks of the lake of Constance,
+ the other formed at the foot of the Cottian Alps, seemed to
+ indicate the march of two armies; and the size of those
+ magazines, each of which consisted of six hundred thousand
+ quarters of wheat, or rather flour, (24) was a threatening 
+ evidence of the strength and numbers of the enemy who
+ prepared to surround him.","('two', 'CARDINAL'), ('one', 'CARDINAL'), ('Constance', 'LOC'), ('the Cottian Alps', 'LOC'), ('two', 'CARDINAL'), ('six hundred thousand\r\n quarters', 'CARDINAL'), ('24', 'CARDINAL')"
+"The praefectures of Italy and 
+ Illyricum were administered by Taurus and Florentius, who
+ united that important office with the vain honours of the
+ consulship; and, as those magistrates had retired with
+ precipitation to the court of Asia, Julian, who could not
+ always restrain the levity of his temper, stigmatised their
+ flight by adding, in all the Acts of the Year, the epithet
+ of fugitive  to the names of the two consuls.","('Italy', 'GPE'), ('Illyricum', 'GPE'), ('Taurus', 'PERSON'), ('Florentius', 'PERSON'), ('Asia', 'LOC'), ('Julian', 'PERSON'), ('the Year', 'DATE'), ('two', 'CARDINAL')"
+"The predecessors of Julian, his uncle, his
+ brother, and his cousin, indulged their puerile taste for
+ the games of the Circus, under the specious pretence of
+ complying with the inclinations of the people; and they
+ frequently remained the greatest part of the day as idle
+ spectators, and as a part of the splendid spectacle, till
+ the ordinary round of twenty-four races(51) was completely 
+ finished.","('Julian', 'PERSON'), ('Circus', 'EVENT'), ('the day', 'DATE'), ('twenty-four', 'CARDINAL'), ('51', 'CARDINAL')"
+"The pride of Corinth, again rising
+ from her ruins with the honours of a Roman colony, exacted a tribute from the adjacent republics for the purpose of defraying the games of the Isthmus, which were celebrated in the amphitheatre with the hunting of bears and panthers.","('Corinth', 'GPE'), ('Roman', 'NORP'), ('Isthmus', 'LOC')"
+"The principal officers were entertained by the Caesar, who
+ professed, in the warmest language of friendship, his desire
+ and his inability to reward, according to their deserts, the
+ brave companions of his victories.","('Caesar', 'PERSON')"
+"The provinces
+ which had been deserted by their first magistrates
+ acknowledged the authority of an emperor who, conciliating
+ the qualities of a soldier with those of a philosopher, was
+ equally admired in the camps of the Danube and in the cities
+ of Greece.","('first', 'ORDINAL'), ('Danube', 'LOC'), ('Greece', 'GPE')"
+"The public faith of Rome, and the personal honour of
+ Julian, had been pledged for the observance of this
+ condition.","('Rome', 'GPE'), ('Julian', 'PERSON')"
+"The rage of the
+ soldiers, whom he had provoked by his indiscretion, was the
+ cause and the excuse of his death; and the emperor, deeply
+ wounded by his own reproaches and those of the public,
+ offered some consolation to the family of Ursulus by the
+ restitution of his confiscated fortunes.","('Ursulus', 'PERSON')"
+The reformation of the Imperial court was one of the first and most necessary acts of the government of Julian.(53) Soon after his entrance into the palace of Constantinople he had occasion for the service of a barber.,"('Imperial', 'ORG'), ('one', 'CARDINAL'), ('first', 'ORDINAL'), ('Julian', 'PERSON'), ('Constantinople', 'GPE')"
+"The secrecy of his march, his
+ diligence, and vigour, surmounted every obstacle; he forced
+ his way over mountains and morasses, occupied the bridges or
+ swam the rivers, pursued his direct course (30) without 
+ reflecting whether he traversed the territory of the Romans
+ or of the barbarians, and at length emerged, between
+ Ratisbon and Vienna, at the place where he designed to
+ embark his troops on the Danube.","('30', 'CARDINAL'), ('Romans', 'NORP'), ('Ratisbon', 'GPE'), ('Vienna', 'GPE'), ('Danube', 'LOC')"
+"The servants of Constantius were
+ astonished and alarmed by the progress of this dangerous
+ spirit.","('Constantius', 'PERSON')"
+"The situation of Julian required a vigorous and immediate
+ resolution.","('Julian', 'PERSON')"
+"The speech of the emperor was
+ received with military applause; and Theodotus, the
+ president of the council of Hierapolis, requested, with
+ tears of adulation, that his  city might be adorned with the
+ head of the vanquished rebel. (40)","('Theodotus', 'PERSON'), ('Hierapolis', 'GPE')"
+"The spirit of his 
+ administration, and his regard for the place of his
+ nativity, induced Julian to confer on the senate of
+ Constantinople the same honours, privileges, and authority
+ which were still enjoyed by the senate of ancient Rome.(76)","('Julian', 'PERSON'), ('the senate of\r\n Constantinople', 'ORG'), ('Rome', 'GPE'), ('76', 'CARDINAL')"
+The stately palaces erected by Constantine and his sons were decorated with many-coloured marbles and ornaments of massy gold.,"('Constantine', 'PERSON')"
+"The supper of the
+ emperor was still less substantial than the former meal; his
+ sleep was never clouded by the fumes of indigestion; and,
+ except in the short interval of a marriage which was the
+ effect of policy rather than love, the chaste Julian never
+ shared his bed with a female companion. (50)","('Julian', 'PERSON')"
+"The throne of Julian, which the death of
+ Constantius fixed on an independent basis, was the seat of
+ reason, of virtue, and perhaps of vanity.","('Julian', 'PERSON'), ('Constantius', 'PERSON')"
+"The venerable age of Greece excited the most tender compassion in the mind of Julian, which kindled into
+ rapture when he recollected the gods, the heroes, and the men superior to heroes and to gods, who had bequeathed to the latest posterity the monuments of their genius or the example of their virtues.","('Greece', 'GPE'), ('Julian', 'PERSON')"
+"The vigilance of Julian
+ perceived at once the extent of the mischief, and the
+ necessity of applying an immediate remedy.","('Julian', 'PERSON')"
+"The virtues of Trajan
+ appear more steady and natural, and the philosophy of Marcus
+ is more simple and consistent.","('Trajan', 'PERSON'), ('Marcus', 'PERSON')"
+"The voice of malicious folly was at length silenced by the shouts of victory; the conqueror of the Franks and Alemanni could no longer be painted as an object of contempt; and the
+ monarch himself was meanly ambitious of stealing from his
+ lieutenant the honourable reward of his labours.","('Franks', 'PERSON'), ('Alemanni', 'PERSON')"
+"Their
+ intemperance revealed their guilt, and they were conducted
+ in chains to the presence of their injured sovereign, who,
+ after a lively representation of the wickedness and folly of
+ their enterprise, instead of a death of torture, which they
+ deserved and expected, pronounced a sentence of exile
+ against the two principal offenders.","('two', 'CARDINAL')"
+"They advanced, with reluctance, as far as
+ the confines of Italy; but, as they dreaded the length of
+ the way and the savage fierceness of the Germans, they
+ resolved, by the instigation of one of their tribunes, to
+ halt at Aquileia, and to erect the banners of Constantius on
+ the walls of that impregnable city.","('Italy', 'GPE'), ('Germans', 'NORP'), ('one', 'CARDINAL'), ('Aquileia', 'GPE'), ('Constantius', 'GPE')"
+"They cheerfully
+ accepted the offer of a general pardon from a prince whom
+ they could trust, submitted to the restraints of military
+ discipline, and retained only their implacable hatred to the
+ person and government of Constantius. (17)","('Constantius', 'ORG'), ('17', 'CARDINAL')"
+"They easily discovered that his simplicity was not exempt
+ from affectation: the ridiculous epithets of an hairy
+ savage, of an ape invested with the purple, were applied to
+ the dress and person of the philosophic warrior; and his
+ modest despatches were stigmatised as the vain and elaborate
+ fictions of a loquacious Greek, a speculative soldier, who
+ had studied the art of war amidst the groves of the Academy.
+ (1)","('Greek', 'NORP'), ('Academy', 'ORG'), ('1', 'CARDINAL')"
+"They pressed the Caesar to hasten the departure of
+ the troops; but they imprudently rejected the honest and
+ judicious advice of Julian, who proposed that they should
+ not march through Paris, and suggested the danger and
+ temptation of a last interview.","('Caesar', 'PERSON'), ('Julian', 'PERSON'), ('Paris', 'GPE')"
+They proclaim Julian emperor.,"('Julian', 'PERSON')"
+"They resolved to disarm the Caesar; to recall
+ those faithful troops who guarded his person and dignity;
+ and to employ, in a distant war against the Persian monarch,
+ the hardy veterans who had vanquished, on the banks of the
+ Rhine, the fiercest nations of Germany.","('Caesar', 'PERSON'), ('Persian', 'NORP'), ('Rhine', 'LOC'), ('Germany', 'GPE')"
+"This epistle is
+ inscribed with the modest appellation of Caesar; but Julian
+ solicits in a peremptory, though respectful manner, the
+ confirmation of the title of Augustus.","('Caesar', 'PERSON'), ('Julian', 'PERSON'), ('Augustus', 'PERSON')"
+"This scene of general
+ distress afflicted the humanity of the Caesar; he granted a
+ sufficient number of post-waggons to transport the wives and
+ families of the soldiers, (6) endeavoured to alleviate the 
+ hardships which he was constrained to inflict, and increased
+ by the most laudable arts his own popularity and the
+ discontent of the exiled troops.","('Caesar', 'PERSON')"
+"This solemn engagement, 
+ which seemed to be dictated by affection rather than by
+ duty, was singly opposed by Nebridius, who had been admitted
+ to the office of Praetorian praefect.","('Nebridius', 'PERSON'), ('Praetorian', 'NORP')"
+"To conduct this inquiry, Julian named six judges of the highest rank in the state and army, and, as he wished to escape the reproach of condemning his personal enemies, he fixed this extraordinary tribunal at Chalcedon, on the Asiatic side of the Bosphorous, and transferred to the commissioners an absolute power to pronounce and execute their final sentence, without delay and without appeal.","('Julian', 'PERSON'), ('six', 'CARDINAL'), ('Chalcedon', 'GPE'), ('Asiatic', 'NORP'), ('Bosphorous', 'ORG')"
+"To moderate the zeal of his party, to protect the persons of
+ his enemies, (14) to defeat and to despise the secret 
+ enterprises which were formed against his life and dignity,
+ were the cares which employed the first days of the reign of
+ the new emperor.","('14', 'CARDINAL'), ('the first days', 'DATE')"
+"Two days were devoted to the public joy, which was celebrated by the games of the Circus; but, early on the morning of the third day, Julian marched to occupy the narrow pass of Succi, in the defiles of Mount Haemus; which, almost in the midway between Sirmium and Constantinople, separates the provinces of Thrace and Dacia, by an abrupt
+ descent towards the former, and a gentle declivity on the side of the latter.","('Two days', 'DATE'), ('Circus', 'EVENT'), ('the morning of the third day', 'TIME'), ('Julian', 'PERSON'), ('Succi', 'LOC'), ('Mount Haemus', 'LOC'), ('Sirmium', 'GPE'), ('Constantinople', 'GPE'), ('Thrace', 'LOC'), ('Dacia', 'GPE')"
+"Unable to
+ resist, unwilling to comply, Julian expressed in the most
+ serious terms his wish, and even his intention, of resigning
+ the purple, which he could not preserve with honour, but
+ which he could not abdicate with safety.","('Julian', 'PERSON')"
+"Vadomair(19) was the only prince of 
+ the Alemanni whom he esteemed or feared; and while the
+ subtle barbarian affected to observe the faith of treaties,
+ the progress of his arms threatened the state with an
+ unseasonable and dangerous war.","('Vadomair', 'PERSON'), ('19', 'DATE'), ('Alemanni', 'PERSON')"
+"Whatever had
+ been his choice of life, by the force of intrepid courage,
+ lively wit, and intense application, he would have obtained,
+ or at least he would have deserved, the highest honours of
+ his profession, and Julian might have raised himself to the
+ rank of minister or general of the state in which he was
+ born a private citizen.","('Julian', 'PERSON')"
+"When Julian had received the intelligence of the
+ conspiracy, he resigned himself to a short slumber; and
+ afterwards related to his friends that he had seen the
+ Genius of the empire waiting with some impatience at his
+ door, pressing for admittance, and reproaching his want of
+ spirit and ambition.","('Julian', 'PERSON')"
+"When he reached Heraclea, at the distance of sixty miles, all Constantinople was poured forth to receive him; Julian enters Constantinople, December 11.","('Heraclea', 'GPE'), ('sixty miles', 'QUANTITY'), ('Constantinople', 'GPE'), ('Julian', 'PERSON'), ('Constantinople', 'GPE'), ('December 11', 'DATE')"
+"When we
+ inspect with minute, or perhaps malevolent, attention the
+ portrait of Julian, something seems wanting to the grace and
+ perfection of the whole figure.","('Julian', 'PERSON')"
+"While Julian used
+ the laborious hours of his winter quarters at Paris in the
+ administration of power, which, in his hands, was the
+ exercise of virtue, he was surprised by the hasty arrival of
+ a tribune and a notary, with positive orders from the
+ emperor, which they  were directed to execute, and he  was
+ commanded not to oppose.","('Julian', 'PERSON'), ('the laborious hours', 'TIME'), ('winter', 'DATE'), ('Paris', 'GPE')"
+"While his ministers reposed, the prince flew
+ with agility from one labour to another; and, after a hasty
+ dinner, retired into his library till the public business
+ which he had appointed for the evening summoned him to
+ interrupt the prosecution of his studies.","('one', 'CARDINAL'), ('the evening', 'TIME')"
+"While the Romans languished under the ignominious tyranny of
+ eunuchs and bishops, the praises of Julian were repeated
+ with transport in every part of the empire, except in the
+ palace of Constantius.","('Romans', 'NORP'), ('Julian', 'PERSON'), ('Constantius', 'GPE')"
+"Without appearing to indulge
+ his personal resentment, Julian might easily confound the
+ crime of the son and of the father; but he was reconciled by
+ the distress of Marcellus, and the liberality of the emperor
+ endeavoured to heal the wound which had been inflicted by
+ the hand of justice.(69)","('Julian', 'PERSON'), ('Marcellus', 'PERSON')"
+"Yet Julian sustained
+ adversity with firmness, and prosperity with moderation.","('Julian', 'PERSON')"
+"Yet the
+ circumstances of their trial and condemnation were so
+ unskilfully managed that these wicked men obtained, in the
+ public opinion, the glory of suffering for the obstinate
+ loyalty with which they had supported the cause of
+ Constantius.","('Constantius', 'ORG')"
+"Yet the superstitious confidence that
+ Constantius was the enemy, and that he himself was the
+ favourite, of the gods, might prompt him to desire, to
+ solicit, and even to hasten the auspicious moment of his
+ reign, which was predestined to restore the ancient religion
+ of mankind.","('Constantius', 'PERSON')"
+from which he was at that time distant above forty days' journey. (2),"(""forty days'"", 'DATE'), ('2', 'CARDINAL')"
