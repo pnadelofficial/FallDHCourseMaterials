@@ -1,0 +1,1 @@
+This folder contain each chapter of Gibbon's Decline and Fall of the Roman Empire parsed through Stanza and exported as a ConLLU file. To read in these files, follow the instructions included in the DownloadParsedChapter notebook in the Files page on Canvas.
